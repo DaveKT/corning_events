@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Local Claude Code settings, machine specific
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Note: state/events.db is intentionally NOT ignored. Cross-run state drives
+# stable UIDs, SEQUENCE increments and cancellation detection, so the daily
+# workflow commits it back to the repository.
