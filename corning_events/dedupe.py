@@ -89,13 +89,44 @@ def _similar(a: Event, b: Event) -> float:
     ).ratio()
 
 
-def _contained(a: Event, b: Event) -> float:
+def _same_named_location(a: Event, b: Event) -> bool:
+    """Both sides positively name the same place, absence not counting.
+
+    Stricter than :func:`_location_compatible`, which treats a missing value
+    as unknown. Used where the other evidence is too thin to extend the
+    benefit of the doubt.
+    """
+    left_venue = normalize.normalize_venue(a.venue_name)
+    right_venue = normalize.normalize_venue(b.venue_name)
+    if left_venue and right_venue and left_venue == right_venue:
+        return True
+    left_city = (a.city_tag or "").strip().lower()
+    right_city = (b.city_tag or "").strip().lower()
+    return bool(left_city and right_city and left_city == right_city)
+
+
+def _containment_match(a: Event, b: Event) -> bool:
+    """Whether the containment rule accepts this pair.
+
+    Containment exists for a title that gained a suffix: "Wise Crackers All
+    Stars" inside "Wise Crackers All Stars Comedy Show". At four words and
+    up that is a strong signal. At the two word minimum it is barely one:
+    "Open House" sits inside half the chamber's calendar, so a same-instant
+    pair of different open houses would merge if either side happened to
+    lack location data. Titles at the minimum length therefore need both
+    sides to positively name the same place, absence not counting.
+    """
     left = normalize.title_tokens(a.title, a.venue_name)
     right = normalize.title_tokens(b.title, b.venue_name)
-    if min(len(left), len(right)) < config.MIN_TITLE_TOKENS:
-        # A one word title matches far too much to be trusted here.
-        return 0.0
-    return normalize.containment(left, right)
+    shortest = min(len(left), len(right))
+    if shortest < config.MIN_TITLE_TOKENS:
+        # A one word title matches far too much to be trusted at all.
+        return False
+    if normalize.containment(left, right) < config.TITLE_CONTAINMENT_THRESHOLD:
+        return False
+    if shortest == config.MIN_TITLE_TOKENS:
+        return _same_named_location(a, b)
+    return True
 
 
 def match_reason(a: Event, b: Event) -> str | None:
@@ -130,11 +161,7 @@ def match_reason(a: Event, b: Event) -> str | None:
     ):
         return "instant+geo+title"
 
-    if (
-        same_instant
-        and _location_compatible(a, b)
-        and _contained(a, b) >= config.TITLE_CONTAINMENT_THRESHOLD
-    ):
+    if same_instant and _location_compatible(a, b) and _containment_match(a, b):
         return "instant+venue+containment"
 
     return None

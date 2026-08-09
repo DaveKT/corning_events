@@ -39,6 +39,12 @@ _STATUS_PREFIX = re.compile(
     re.IGNORECASE,
 )
 
+# A standalone year is decoration too: "India Day 2026" and "India Day" are
+# the same event, and the date fields already carry the year. Leaving it in
+# forced that pair through the weaker containment rule instead of the exact
+# title match.
+_YEAR_TOKEN = re.compile(r"\b(?:19|20)\d\d\b")
+
 # Elements that imply a line break when HTML is flattened to text.
 _BLOCK_TAGS = (
     "address article aside blockquote br div dl dd dt figure footer h1 h2 h3 "
@@ -112,7 +118,10 @@ def normalize_title(title: str, venue: str | None = None) -> str:
         if prefix and text.startswith(prefix) and text != prefix:
             text = text[len(prefix) :].strip()
 
-    return text
+    # Unless the title is nothing but a year, in which case stripping it
+    # would make every such title equal to every other.
+    without_year = _collapse(_YEAR_TOKEN.sub(" ", text))
+    return without_year or text
 
 
 def title_tokens(title: str, venue: str | None = None) -> frozenset[str]:

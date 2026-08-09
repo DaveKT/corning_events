@@ -318,8 +318,7 @@ def render(published: list[PublishedEvent], now: datetime) -> dict[Path, bytes]:
 
     for feed in config.FEEDS:
         selected = feeds.select_for_feed(feed, published, now)
-        data = feeds.emit(feed, selected, dtstamp=now)
-        feeds.validate(data, expected_count=len(selected), min_events=feed.min_events)
+        data = feeds.emit(feed, selected, dtstamp=now, min_events=feed.min_events)
         outputs[config.DOCS_DIR / feed.filename] = data
         counts[feed.slug] = len(selected)
         print(f"  {feed.filename}: {len(selected)} events, {len(data) / 1024:.0f} KB")

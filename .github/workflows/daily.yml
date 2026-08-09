@@ -65,7 +65,9 @@ jobs:
         run: |
           set -euo pipefail
 
-          if git diff --quiet -- docs state; then
+          # git diff misses untracked files, so a newly added feed's first
+          # .ics would never trigger the commit. status --porcelain sees both.
+          if [ -z "$(git status --porcelain -- docs state)" ]; then
             echo "Nothing changed, so nothing to publish."
             exit 0
           fi

@@ -257,7 +257,7 @@ CANONICAL_CATEGORIES = frozenset(
         "Holidays", "LGBTQ+", "Literature", "Music", "Nature",
         "New to the Area", "Other", "Performing Arts", "Pets", "Running",
         "Science", "Seniors", "Sober-friendly", "Sports", "Support",
-        "Tastings", "Teen", "Tastings", "Virtual", "Volunteering", "Wine",
+        "Tastings", "Teen", "Virtual", "Volunteering", "Wine",
         "Youth Empowerment",
     }
 )

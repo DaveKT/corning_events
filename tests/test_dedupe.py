@@ -84,6 +84,30 @@ def test_containment_ignores_very_short_titles():
     assert reasons(a, b) is None
 
 
+def test_generic_short_titles_need_a_positively_matching_place():
+    # The chamber lists three different open houses on one day. A bare
+    # "Open House" elsewhere at the same instant, carrying no location, must
+    # not merge with any of them, or it would bridge them into one event.
+    bare = event("flxcalendar", title="Open House")
+    named = event("chamber", title="HORSEHEADS OPEN HOUSE!", city_tag="Horseheads")
+    assert reasons(bare, named) is None
+
+
+def test_generic_short_titles_merge_when_both_sides_name_the_place():
+    bare = event("flxcalendar", title="Open House", city_tag="Horseheads")
+    named = event("chamber", title="HORSEHEADS OPEN HOUSE!", city_tag="Horseheads")
+    assert reasons(bare, named) == "instant+venue+containment"
+
+
+def test_a_decorative_year_does_not_demote_a_title_match():
+    # The real India Day pair. Year stripping lets it match on the exact
+    # title rule, which tolerates a missing location, rather than depending
+    # on the containment rule, which no longer does.
+    a = event("chamber", title="India Day 2026")
+    b = event("flxcalendar", title="India Day @ Centerway Square, Corning", city_tag="Corning")
+    assert reasons(a, b) == "title+day+venue"
+
+
 # ---------------------------------------------------------------------------
 # What must never match
 # ---------------------------------------------------------------------------

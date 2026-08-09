@@ -122,11 +122,20 @@ def _parse_date(text: str, now: datetime, earliest: datetime, latest: datetime):
     elif meridiem == "am" and hour == 12:
         hour = 0
 
-    for year in (now.year, now.year + 1, now.year - 1):
+    candidates = []
+    for year in (now.year - 1, now.year, now.year + 1):
         try:
             candidate = normalize.to_utc(datetime(year, month, day, hour, minute))
         except ValueError:
             continue  # 29 February in a common year
         if earliest <= candidate <= latest:
-            return candidate
-    return None
+            candidates.append(candidate)
+    if not candidates:
+        return None
+
+    # Near a year boundary, two readings of the same date can both fall
+    # inside the window: a "Dec 31" card seen on 1 January is either
+    # yesterday or 364 days ahead. The listing describes what is current, so
+    # the reading nearest to now wins. Trying the current year first instead
+    # would project a just-past event a year into the future.
+    return min(candidates, key=lambda candidate: abs(candidate - now))

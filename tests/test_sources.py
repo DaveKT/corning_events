@@ -577,3 +577,22 @@ def test_gaffer_explains_why_it_cannot_run():
 
     with pytest.raises(NotImplementedError, match="client-side"):
         gaffer.fetch(http=None)
+
+
+def test_rockwell_resolves_a_year_boundary_date_to_the_nearest_reading():
+    # A "Dec 31" card seen on 1 January is either yesterday or 364 days
+    # ahead, and both readings sit inside the publication window. The
+    # listing describes what is current, so yesterday wins. Trying the
+    # current year first used to project the just-past event a year out.
+    from corning_events.sources import rockwell
+
+    card = (
+        '<div class="event-card"><a class="event-anchor" href="/events/nye"></a>'
+        '<p class="h4"><a class="event-anchor" href="/events/nye">New Year Party</a></p>'
+        '<span class="event-dates">Thursday, Dec 31 @ 8:00 pm</span></div>'
+    )
+    new_year = datetime(2027, 1, 1, 18, 0, tzinfo=UTC)
+    parsed = rockwell.parse(card, now=new_year)
+    assert parsed
+    # 8pm EST on 31 December 2026 is 01:00 UTC on 1 January 2027.
+    assert parsed[0].start == datetime(2027, 1, 1, 1, 0, tzinfo=UTC)

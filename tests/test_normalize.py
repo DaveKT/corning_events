@@ -89,6 +89,23 @@ def test_normalize_title_makes_aggregator_variants_agree():
     assert a == b == "glassblowing demo"
 
 
+def test_normalize_title_strips_a_decorative_year():
+    # "India Day 2026" and "India Day" are the same event; the date fields
+    # already carry the year. Leaving it in forced that real pair through the
+    # weaker containment rule instead of the exact title match.
+    assert normalize.normalize_title("India Day 2026") == "india day"
+    assert normalize.normalize_title("India Day") == "india day"
+
+
+def test_normalize_title_keeps_a_title_that_is_only_a_year():
+    # Stripping here would make every such title equal to every other.
+    assert normalize.normalize_title("2026") == "2026"
+
+
+def test_normalize_title_does_not_strip_year_like_digits_inside_words():
+    assert normalize.normalize_title("Route 2026K Ride") == "route 2026k ride"
+
+
 def test_normalize_venue_handles_absent_values():
     assert normalize.normalize_venue(None) == ""
     assert normalize.normalize_venue("The Rockwell Museum!") == "the rockwell museum"

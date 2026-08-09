@@ -221,10 +221,11 @@ def emit(
     feed: config.FeedConfig,
     published: Sequence[PublishedEvent],
     dtstamp: datetime,
+    min_events: int | None = None,
 ) -> bytes:
     """Render a feed and validate it before it can reach a subscriber."""
     data = build_calendar(feed, published, dtstamp).to_ical()
-    validate(data, expected_count=len(published))
+    validate(data, expected_count=len(published), min_events=min_events)
     return data
 
 
