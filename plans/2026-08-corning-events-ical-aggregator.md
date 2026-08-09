@@ -3,9 +3,12 @@ Plan: Corning Events iCal Aggregator
 
 > Status: Underway
 
-M0 through M4 are complete. The feeds are generated and valid; they are not
-reachable yet, because publishing them needs M6. Implementation continues at
-M5, the Tier B scrapers.
+M0 through M5 are complete. The feeds are generated and valid; they are not
+reachable yet, because publishing them needs M6, which is all that remains.
+
+Two sources could not be built and ship disabled: cmog is behind a bot
+challenge on every one of its domains, and gaffer renders its events
+client-side. See M5 and the owner action items in Part 4.
 
 The library source stays disabled by decision of the owner: partial coverage
 through FLXcalendar and, from M5, the Chamber of Commerce is accepted for now.
@@ -18,7 +21,7 @@ See M2 and the owner action items in Part 4.
 | M2 | Tier A sources | Complete, except ssclibrary |
 | M3 | Dedupe and persistence integration | Complete |
 | M4 | End to end feeds and publish surface | Complete |
-| M5 | Tier B scrapers | Not started |
+| M5 | Tier B scrapers | Complete, except cmog and gaffer |
 | M6 | GitHub Actions and Pages | Not started |
 
 ---
@@ -606,35 +609,71 @@ index page renders correctly in a browser with both feeds, their counts and
 working `webcal://` links. Ten events were read out of the emitted feed and
 carry sane titles, times, venues and attribution.
 
-### M5: Tier B scrapers
+### M5: Tier B scrapers (Complete, except cmog and gaffer)
 
-One module each, in the order below, which is highest yield first. Each fetches
-its listing pages, parses them, derives a stable `source_uid` from the event
-detail URL slug plus the date where the event recurs, and ships with a fixture
-and a test. Wrap every source run in try and except so one broken scraper never
-kills the pipeline; log the failure to `fetch_log` and continue.
+Three of the four planned scrapers are built, plus a fourth source the plan
+only suggested probing for. A live run now fetches 538 events from five
+sources and publishes 518, with 313 in the default feed, up from 253.
 
-- `chamber.py` against
-  `https://www.corningny.com/events?rendermode=print&from=<today>&to=<today+6mo>`.
-  Spec section 5 notes print mode is the clean parse target. This is the highest
-  single-source yield and it republishes museum, Rockwell, ARTS Council and
-  Farmers Market items, so dedupe load rises sharply here. Recheck that the M3
-  tests still hold against real data.
-- `cmog.py` against `https://whatson.cmog.org/events-programs`, following
-  pagination.
-- `rockwell.py` against
-  `https://rockwellmuseum.org/community-education/events/`, then each
-  `/events/{slug}` detail page.
-- `gaffer.py`, crawling the `/events/` subtree children listed in spec section 5,
-  covering glassfest, harvest, summer in downtown and the farmers market. Low
-  volume but it carries long-lead festivals.
-- Also run the Chemung Historical Society probe from adjustment 8d. If it returns
-  valid iCal, add it as a fourth Tribe-style source reusing the `ssclibrary.py`
-  pattern.
+**The probe in adjustment 8d paid off.** Chemung County Historical Society
+does expose a Tribe iCal endpoint, so a scraping job became a parsing job
+reusing the existing iCal code. Low volume, three events, but they are museum
+talks nothing else in the registry carries.
 
-*Verify:* a full local run with every source enabled. Inspect the dedupe stats
-printed by main, in the form `N raw to M clusters`, and spot check that a museum
-event appearing in the chamber, FLXcalendar and museum sources is emitted once.
+**`chamber` is the highest yield addition**, at 60 events. The print view
+carries schema.org `content` attributes holding ISO local timestamps, so no
+date prose is parsed. Results are paginated ten to a page whatever date range
+is requested, which the spec does not mention; pages are walked until one
+comes back empty or repeats. Only listing pages are fetched, never the sixty
+detail pages behind them, which would multiply this source's request count by
+sixty to recover a venue name.
+
+**`rockwell` needed year inference.** Its listing prints "Tuesday, Aug 11 @
+10:00 am" with no year, resolved by picking the year that lands the date
+inside the publication horizon. Its detail pages were checked and carry no
+structured event data at all, so the listing is the only useful surface.
+
+**`cmog` cannot be built.** Every cmog.org domain tried, including
+`whatson.cmog.org`, `visit.cmog.org`, `www.cmog.org`, the daily schedule, the
+seasonal page and a speculative Tribe iCal path, returns 403 behind a
+Cloudflare bot challenge. This is the same situation as ssclibrary and the
+same answer: not something to work around on someone else's infrastructure.
+It is a real loss, since spec section 5 calls the museum the highest event
+volume in the city.
+
+**`gaffer` is reclassified from Tier B to Tier C.** Its events list is
+rendered client-side into an empty container by a Simpleview plugin, and the
+endpoint it calls appears nowhere in the delivered HTML. The static festival
+pages named in spec section 5 were tried as a fallback: two of the four return
+errors, one carries no dates, and the GlassFest page gives dates only as prose
+without a year. Guessing the year would put wrong dates in a subscribed
+calendar, which is worse than publishing nothing.
+
+**Two spec claims did not hold.** Section 5 says the Chamber republishes ARTS
+Council, CMoG, Rockwell and Farmers Market items. Of those only the Farmers
+Market appears: of 60 chamber events, none mention CMoG, Rockwell, glass or
+museum. So the Chamber does not backfill the blocked museum, and the CMoG gap
+is real rather than covered. Neither does anything else cover the Gaffer
+District festivals: FLXcalendar carries no GlassFest, Harvest or similar, so
+long-lead downtown festivals are currently uncovered.
+
+**Deduplication was the real test of M3 and it held.** Merged clusters rose
+from 2 to 20 with no false merges, and a scan for same-title same-day events
+still sitting in separate clusters returns zero. Every cascade rule earned its
+place: the Farmers Market merges weekly on title and day, "India Day 2026"
+merges with "India Day @ Centerway Square" on containment, and "SOLD OUT: TRL!
+Music on the Terrace" merges with the FLXcalendar copy because the status
+prefix is stripped before comparison.
+
+That scan also caught a bug worth recording. `rockwell` originally stamped
+"The Rockwell Museum" as the venue on all its events, but the museum programs
+offsite too, and the wrong venue blocked a valid merge for an alley ribbon
+cutting. It now asserts only the city, which is safe, and lets the merge
+recover the real location from the source that knows it.
+
+*Verified:* 220 tests pass offline against fixtures. A live run fetches from
+five sources, publishes 518 events, merges 20 clusters, misses none, and two
+consecutive runs remain byte-identical apart from DTSTAMP.
 
 ### M6: GitHub Actions and Pages
 
@@ -671,7 +710,12 @@ These cannot be done by the implementing model.
    request is one GET per day; accept the partial coverage that already comes
    through FLXcalendar and, from M5, the Chamber of Commerce; or reconsider
    Burbio, dropped in Part 1 adjustment 4, which aggregates library calendars.
-3. After M6, enable Pages in repository settings if the workflow has not, and
+3. Optionally, decide what to do about the two blocked sources. The Corning
+   Museum of Glass is the bigger loss, and nothing else in the registry covers
+   it. Asking the museum for an allowlist entry or a feed URL is the honest
+   route, as with the library. The Gaffer District gap could be closed by
+   reading the events endpoint out of a browser session and pasting it in.
+4. After M6, enable Pages in repository settings if the workflow has not, and
    subscribe on both phones through the webcal links on the index page. On
    Android and Google Calendar, expect multi-hour refresh lag per spec section
    9.3.

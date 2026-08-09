@@ -15,6 +15,7 @@ from collections.abc import Callable
 
 from . import (
     chamber,
+    chemungmuseum,
     clemenscenter,
     cmog,
     flxcalendar,
@@ -27,6 +28,7 @@ from . import (
 FETCHERS: dict[str, Callable[..., list]] = {
     "flxcalendar": flxcalendar.fetch,
     "ssclibrary": ssclibrary.fetch,
+    "chemungmuseum": chemungmuseum.fetch,
     "clemenscenter": clemenscenter.fetch,
     "ticketmaster": ticketmaster.fetch,
     "chamber": chamber.fetch,

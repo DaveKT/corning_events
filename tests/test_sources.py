@@ -423,3 +423,157 @@ def test_a_single_failure_does_not_fail_the_run(tmp_path):
 
     assert main_module.critical_outage(conn, [failure]) is None
     conn.close()
+
+
+# ---------------------------------------------------------------------------
+# Tier B: Chamber of Commerce
+# ---------------------------------------------------------------------------
+
+
+@pytest.fixture(scope="module")
+def chamber_events():
+    from corning_events.sources import chamber
+
+    return chamber.parse((FIXTURES / "chamber.html").read_text(), now=CAPTURED_AT)
+
+
+@pytest.fixture(scope="module")
+def rockwell_events():
+    from corning_events.sources import rockwell
+
+    return rockwell.parse((FIXTURES / "rockwell.html").read_text(), now=CAPTURED_AT)
+
+
+@pytest.fixture(scope="module")
+def chemung_events():
+    from corning_events.sources import chemungmuseum
+
+    return chemungmuseum.parse((FIXTURES / "chemungmuseum.ics").read_bytes(), now=CAPTURED_AT)
+
+
+def test_chamber_parses_every_card(chamber_events):
+    assert len(chamber_events) == 10
+    assert all(e.source_id == "chamber" for e in chamber_events)
+
+
+def test_chamber_reads_machine_readable_timestamps(chamber_events):
+    # The print view carries ISO local times in content attributes, so no
+    # date prose has to be parsed. Noon local in August is 16:00 UTC.
+    house = by_title(chamber_events, "HORSEHEADS OPEN HOUSE")[0]
+    assert house.start == datetime(2026, 8, 9, 16, 0, tzinfo=UTC)
+    assert house.end == datetime(2026, 8, 9, 18, 0, tzinfo=UTC)
+
+
+def test_chamber_uids_come_from_the_permalink_slug(chamber_events):
+    # The slug carries the chamber's event id, and a date for recurring ones,
+    # so it is stable across runs and unique per occurrence.
+    assert all("/" not in e.source_uid and e.source_uid for e in chamber_events)
+    assert len({e.source_uid for e in chamber_events}) == len(chamber_events)
+
+
+def test_chamber_recovers_a_city_from_the_card_text(chamber_events):
+    # The cards carry no venue, so the city is the only geographic signal.
+    cities = {e.city_tag for e in chamber_events if e.city_tag}
+    assert {"Horseheads", "Big Flats", "Corning"} <= cities
+
+
+def test_chamber_events_all_classify_inside_the_default_feed(chamber_events):
+    for event in chamber_events:
+        assert normalize.classify_ring(event) in (config.RING_CORE, config.RING_NEAR)
+
+
+# ---------------------------------------------------------------------------
+# Tier B: Rockwell Museum
+# ---------------------------------------------------------------------------
+
+
+def test_rockwell_parses_every_card(rockwell_events):
+    assert len(rockwell_events) == 15
+    assert all(e.source_id == "rockwell" for e in rockwell_events)
+
+
+def test_rockwell_infers_the_missing_year(rockwell_events):
+    # The listing prints "Tuesday, Aug 11 @ 10:00 am" with no year. 10am EDT
+    # is 14:00 UTC.
+    explorers = by_title(rockwell_events, "Woven Polka Dots")[0]
+    assert explorers.start == datetime(2026, 8, 11, 14, 0, tzinfo=UTC)
+
+
+def test_rockwell_year_inference_rolls_into_the_next_year(rockwell_events):
+    # A January event listed in August belongs to the following year, not the
+    # current one, or it would be filtered out as long past.
+    from corning_events.sources import rockwell
+
+    card = (
+        '<div class="event-card"><a class="event-anchor" href="/events/x"></a>'
+        '<p class="h4"><a class="event-anchor" href="/events/x">Winter Talk</a></p>'
+        '<span class="event-dates">Monday, Jan 12 @ 2:00 pm</span></div>'
+    )
+    parsed = rockwell.parse(card, now=CAPTURED_AT)
+    assert parsed and parsed[0].start.year == 2027
+
+
+def test_rockwell_asserts_a_city_but_not_a_venue(rockwell_events):
+    # The museum programs offsite too, so claiming its building as the venue
+    # would be wrong for those and would block merging with the source that
+    # does know where they are.
+    for event in rockwell_events:
+        assert event.venue_name is None
+        assert event.city_tag == "Corning"
+        assert normalize.classify_ring(event) == config.RING_CORE
+
+
+def test_rockwell_marks_its_urls_as_canonical(rockwell_events):
+    for event in rockwell_events:
+        assert event.original_url == event.source_url
+        assert event.source_url.startswith("https://rockwellmuseum.org/events/")
+
+
+def test_rockwell_status_prefixes_do_not_block_matching(rockwell_events):
+    # One listing reads "SOLD OUT: TRL! Music on the Terrace ...". The prefix
+    # describes availability, not identity.
+    sold_out = by_title(rockwell_events, "SOLD OUT")[0]
+    assert not normalize.normalize_title(sold_out.title).startswith("sold out")
+
+
+# ---------------------------------------------------------------------------
+# Chemung County Historical Society
+# ---------------------------------------------------------------------------
+
+
+def test_chemung_feed_parses(chemung_events):
+    assert len(chemung_events) == 3
+    assert all(e.source_id == "chemungmuseum" for e in chemung_events)
+
+
+def test_chemung_splits_venue_from_street_address(chemung_events):
+    # "Chemung Valley Museum, 415 E. Water Street, Elmira, NY, 14901" has no
+    # " @ " separator, so the split falls back to the street number.
+    event = chemung_events[0]
+    assert event.venue_name == "Chemung Valley Museum"
+    assert event.address.startswith("415 E. Water Street")
+
+
+def test_chemung_classifies_as_near(chemung_events):
+    for event in chemung_events:
+        assert normalize.classify_ring(event) == config.RING_NEAR
+
+
+# ---------------------------------------------------------------------------
+# Sources that stay disabled
+# ---------------------------------------------------------------------------
+
+
+@pytest.mark.parametrize("source_id", ["ssclibrary", "cmog", "gaffer"])
+def test_blocked_sources_stay_disabled(source_id):
+    # Each is unreachable by a client that identifies itself honestly, or
+    # publishes no parseable dates. Enabling one without fixing the cause
+    # would fail the run every day.
+    assert config.SOURCES[source_id].enabled is False
+
+
+def test_gaffer_explains_why_it_cannot_run():
+    from corning_events.sources import gaffer
+
+    with pytest.raises(NotImplementedError, match="client-side"):
+        gaffer.fetch(http=None)

@@ -12,10 +12,10 @@ other client and see the events alongside their own.
 
 ## Status
 
-The pipeline runs end to end and generates both feeds: around 460 events per
-run, resolving to 458 after deduplication, with 253 inside the 25 mile default
-feed. The feeds are not reachable yet, because publishing them needs the
-GitHub Actions and Pages milestone. See
+The pipeline runs end to end across five sources and generates both feeds:
+around 538 events per run, resolving to 518 after deduplication, with 313
+inside the 25 mile default feed. The feeds are not reachable yet, because
+publishing them needs the GitHub Actions and Pages milestone. See
 [the plan](plans/2026-08-corning-events-ical-aggregator.md) for the current
 milestone state. The feed URLs below will not resolve until milestone M6 lands.
 
@@ -79,10 +79,12 @@ pytest
 `TICKETMASTER_API_KEY` enables the Ticketmaster source. Without it that one
 source skips with a warning and everything else runs normally.
 
-The Southeast Steuben County Library feed is registered but disabled: its host
-answers non-browser requests with a Cloudflare bot challenge, so the feed
-cannot be read by a client that identifies itself honestly. The parser is
-written and tested, so enabling it is a one line change if access is arranged.
+Three sources are registered but disabled. The Southeast Steuben County
+Library and the Corning Museum of Glass both answer non-browser requests with
+a Cloudflare bot challenge, so neither can be read by a client that identifies
+itself honestly. The Gaffer District renders its events client-side and
+publishes no reachable data endpoint. Each module explains its own situation,
+and the first two need only a config change if access is ever arranged.
 
 ## How it works
 

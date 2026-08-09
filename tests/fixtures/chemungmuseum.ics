@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chemung County Historical Society - ECPv6.17.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chemung County Historical Society
+X-ORIGINAL-URL:https://chemungvalleymuseum.org
+X-WR-CALDESC:Events for Chemung County Historical Society
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20250309T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20251102T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20260308T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20261101T060000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20270314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20271107T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260812T120000
+DTEND;TZID=America/New_York:20260812T130000
+DTSTAMP:20260629T164550Z
+CREATED:20260629T163745Z
+LAST-MODIFIED:20260629T164550Z
+UID:2201-1786536000-1786539600@chemungvalleymuseum.org
+SUMMARY:Out to Lunch: Faith\, Charity & Volunteerism on the Homefront
+DESCRIPTION:Connecting to our new exhibit\, “Fighting for our Nation” and using the lens of the Civil War\, this talk will look at Elmira’s contributions to the war efforts. Included will be military recruiting\, participation and civilian support activities happening during that time. \nBring your own lunch and drop by to hear a short talk on local history. Light refreshments provided.These programs are free and open to the public. Call 607-734-4167 for more information
+URL:https://chemungvalleymuseum.org/event/out-to-lunch-faith-charity-volunteerism-on-the-homefront/
+LOCATION:Chemung Valley Museum\, 415 E. Water Street\, Elmira\, NY\, 14901
+CATEGORIES:Talks
+ATTACH;FMTTYPE=image/png:https://chemungvalleymuseum.org/wp-content/uploads/2026/06/OTL-Faith-Charity.--e1782750995988.png
+ORGANIZER;CN="Chemung County Historical Society":MAILTO:cchs@chemungvalleymuseum.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260909T120000
+DTEND;TZID=America/New_York:20260909T130000
+DTSTAMP:20260629T164533Z
+CREATED:20260629T164156Z
+LAST-MODIFIED:20260629T164533Z
+UID:2210-1788955200-1788958800@chemungvalleymuseum.org
+SUMMARY:Out to Lunch: West Elmira Library Calligraphy Club
+DESCRIPTION:Artist Wynn Yarrow and members of the West Elmira Library Calligraphy Club will join us to share some of what they’ve been working on. They will be demonstrating and offering tips for calligraphy writing. \nBring your own lunch and drop by to hear a short talk on local history. Light refreshments provided.These programs are free and open to the public. Call 607-734-4167 for more information
+URL:https://chemungvalleymuseum.org/event/out-to-lunch-west-elmira-library-calligraphy-club/
+LOCATION:Chemung Valley Museum\, 415 E. Water Street\, Elmira\, NY\, 14901
+CATEGORIES:Talks
+ATTACH;FMTTYPE=image/png:https://chemungvalleymuseum.org/wp-content/uploads/2026/06/OTL-Caligraphy-e1782751289810.png
+ORGANIZER;CN="Chemung County Historical Society":MAILTO:cchs@chemungvalleymuseum.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261028T120000
+DTEND;TZID=America/New_York:20261028T130000
+DTSTAMP:20260629T164512Z
+CREATED:20260629T164512Z
+LAST-MODIFIED:20260629T164512Z
+UID:2212-1793188800-1793192400@chemungvalleymuseum.org
+SUMMARY:Out to Lunch: Ghostly Readings 2026
+DESCRIPTION:For the eighth year in a row\, staff will read and answer questions about the scripts from this year’s Ghost Walk. Not to be missed! \nBring your own lunch and drop by to hear a short talk on local history. Light refreshments provided.These programs are free and open to the public. Call 607-734-4167 for more information \n 
+URL:https://chemungvalleymuseum.org/event/out-to-lunch-ghostly-readings-2026/
+LOCATION:Chemung Valley Museum\, 415 E. Water Street\, Elmira\, NY\, 14901
+ATTACH;FMTTYPE=image/png:https://chemungvalleymuseum.org/wp-content/uploads/2026/06/OTL-Ghostly-Readings-e1782751492259.png
+ORGANIZER;CN="Chemung County Historical Society":MAILTO:cchs@chemungvalleymuseum.org
+END:VEVENT
+END:VCALENDAR

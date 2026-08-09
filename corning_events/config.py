@@ -185,9 +185,17 @@ SOURCES = {
         ),
         # Tier B, HTML scraping. Parsers land in M5.
         SourceConfig(
+            source_id="chemungmuseum",
+            name="Chemung County Historical Society",
+            enabled=True,
+            default_ring=RING_NEAR,
+            trust=TRUST_VENUE,
+            homepage="https://chemungvalleymuseum.org/events/",
+        ),
+        SourceConfig(
             source_id="chamber",
             name="Corning Area Chamber of Commerce",
-            enabled=False,
+            enabled=True,
             default_ring=RING_CORE,
             trust=TRUST_CHAMBER,
             homepage="https://www.corningny.com/events",
@@ -195,7 +203,7 @@ SOURCES = {
         SourceConfig(
             source_id="cmog",
             name="Corning Museum of Glass",
-            enabled=False,
+            enabled=False,  # every cmog.org domain 403s a non-browser client
             default_ring=RING_CORE,
             trust=TRUST_VENUE,
             homepage="https://whatson.cmog.org/events-programs",
@@ -203,7 +211,7 @@ SOURCES = {
         SourceConfig(
             source_id="rockwell",
             name="The Rockwell Museum",
-            enabled=False,
+            enabled=True,
             default_ring=RING_CORE,
             trust=TRUST_VENUE,
             homepage="https://rockwellmuseum.org/community-education/events/",
@@ -211,7 +219,7 @@ SOURCES = {
         SourceConfig(
             source_id="gaffer",
             name="Corning's Gaffer District",
-            enabled=False,
+            enabled=False,  # events list is client-side, no reachable endpoint
             default_ring=RING_CORE,
             trust=TRUST_VENUE,
             homepage="https://www.gafferdistrict.com/events/",

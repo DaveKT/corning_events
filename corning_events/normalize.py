@@ -25,6 +25,9 @@ _PUNCTUATION = re.compile(r"[^\w\s]", re.UNICODE)
 # FLXcalendar LOCATION format is "Venue Name @ Street Address" (spec 4.6).
 _LOCATION_SEPARATOR = " @ "
 
+# "Venue Name, 415 E. Water Street, Elmira, NY" and similar.
+_VENUE_THEN_STREET = re.compile(r"^(?P<venue>[^,]+),\s*(?P<address>\d+\s+.+)$")
+
 # A trailing "@ Venue" fragment that aggregators append to titles.
 _TRAILING_VENUE = re.compile(r"\s+@\s+.+$")
 
@@ -155,7 +158,32 @@ def split_location(location: str | None) -> tuple[str | None, str | None]:
     if _LOCATION_SEPARATOR in cleaned:
         venue, _, address = cleaned.partition(_LOCATION_SEPARATOR)
         return _collapse(venue) or None, _collapse(address) or None
+
+    # Feeds outside FLXcalendar write "Venue Name, 415 E. Water Street, ...".
+    # Split at the first comma followed by a street number, which is specific
+    # enough not to fire on a venue that merely has a comma in its name.
+    match = _VENUE_THEN_STREET.match(cleaned)
+    if match:
+        return _collapse(match.group("venue")) or None, _collapse(match.group("address")) or None
+
     return cleaned, None
+
+
+def detect_city(text: str | None) -> str | None:
+    """Find the first place name the registry knows in some free text.
+
+    A weak signal, used only where a source gives no location at all. It can
+    only move an event between rings, and the two nearest rings share a feed,
+    so a wrong guess is cheap. Longer names are tried first so that "Painted
+    Post" is not matched as "Post" of something else.
+    """
+    if not text:
+        return None
+    haystack = f" {_fold(text)} "
+    for city in sorted(config.CITY_RINGS, key=len, reverse=True):
+        if f" {city} " in haystack:
+            return city.title()
+    return None
 
 
 def canonical_categories(raw: object) -> tuple[str, ...]:
