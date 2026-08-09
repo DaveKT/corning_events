@@ -38,5 +38,9 @@ that's now in the codebase. Leave diagrammatic code-blocks in place.
 Once marked as "Complete", the plan can be moved into the plans/archive/
 subdirectory.
 
-The `plans/` directory holds plans only. Reference documentation, specs and
-research notes live elsewhere in the repository.
+The top level of `plans/` holds plans only. Two subdirectories support them:
+
+* `plans/spec/` for reference documentation that plans are written against,
+  such as source registries and research notes. These are long-lived, are not
+  prefixed with a date, and carry no "Status:" callout.
+* `plans/archive/` for plans marked Complete.

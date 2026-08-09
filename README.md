@@ -43,7 +43,8 @@ coordinates, or source, and anything beyond fifty miles is dropped.
 | Path | Contents |
 |---|---|
 | [`plans/`](plans/) | Development plans, prefixed by year and month. Completed plans move to `plans/archive/` |
-| [`corning-events-source-spec.md`](corning-events-source-spec.md) | Source registry: every data source, its format, quirks and known breakage |
+| [`plans/spec/`](plans/spec/) | Reference material the plans are written against |
+| [`plans/spec/corning-events-source-spec.md`](plans/spec/corning-events-source-spec.md) | Source registry: every data source, its format, quirks and known breakage |
 
 `docs/` is not documentation. It is the GitHub Pages web root, holds only
 generated `.ics` output and its index page, and must never be hand-edited. The

@@ -25,7 +25,7 @@ Corning, New York and publishes subscribable iCal feeds for two people, the
 repository owner and their partner.
 
 An earlier session produced a thorough source specification, now at
-`corning-events-source-spec.md` in the repository root. That is the authority on source
+`plans/spec/corning-events-source-spec.md`. That is the authority on source
 details: URLs, formats, record counts, and known quirks. This plan is the
 authority on architecture and sequencing. Where the two conflict, this plan
 wins, and Part 1 records every such conflict explicitly.
@@ -159,8 +159,8 @@ inside it is build output. Never hand-edit it, and never put a plan or a
 reference document there. The name is fixed because branch-based GitHub Pages
 serves only from the repository root or from `/docs`.
 
-Hand-written documentation lives in `plans/` for development plans and at the
-repository root for reference material such as the source spec.
+Hand-written documentation lives under `plans/`: development plans at its top
+level, and reference material such as the source spec in `plans/spec/`.
 
 ### Repository layout
 
@@ -171,10 +171,11 @@ corning_events/
                             beautifulsoup4, lxml
   requirements-dev.txt      pytest
   CLAUDE.md
-  corning-events-source-spec.md
   plans/
     2026-08-corning-events-ical-aggregator.md
     archive/                completed plans
+    spec/
+      corning-events-source-spec.md
   src/corning_events/
     __init__.py
     config.py               all knobs: rings, city to ring map, category map,
