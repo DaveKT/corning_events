@@ -3,12 +3,12 @@ Plan: Corning Events iCal Aggregator
 
 > Status: Underway
 
-Repository bootstrap and M0 are complete. Implementation continues at M1.
+M0 and M1 are complete. Implementation continues at M2, the Tier A parsers.
 
 | Milestone | Description | State |
 |---|---|---|
 | M0 | Scaffold and config | Complete |
-| M1 | Core plumbing: model, state, normalize, emitter | Not started |
+| M1 | Core plumbing: model, state, normalize, emitter | Complete |
 | M2 | Tier A sources | Not started |
 | M3 | Dedupe and persistence integration | Not started |
 | M4 | End to end feeds and publish surface | Not started |
@@ -166,8 +166,7 @@ level, and reference material such as the source spec in `plans/spec/`.
 ```
 corning_events/
   README.md
-  pyproject.toml            packaging and pytest config. Runtime deps are read
-                            from requirements.txt, not duplicated here
+  pyproject.toml            pytest config only. The project is not installed
   requirements.txt          requests, icalendar, python-dateutil,
                             beautifulsoup4, lxml
   requirements-dev.txt      pytest
@@ -177,7 +176,7 @@ corning_events/
     archive/                completed plans
     spec/
       corning-events-source-spec.md
-  src/corning_events/
+  corning_events/
     __init__.py
     config.py               all knobs: rings, city to ring map, category map,
                             feed definitions, source toggles, User-Agent
@@ -350,14 +349,10 @@ switches on the sources it implements.
 
 Two decisions were taken during implementation that the plan had left open.
 
-**Packaging.** The `src/` layout means neither `pytest` nor
-`python -m corning_events.main` can find the package without help. Rather than
-require a `PYTHONPATH` prefix that is easy to forget and fails with a confusing
-ImportError, the repository carries a minimal `pyproject.toml` and is installed
-editable with `pip install -e .`. `requirements.txt` remains the single source
-of truth for runtime dependencies; `pyproject.toml` reads it through
-`dynamic = ["dependencies"]` so the two cannot drift. Homebrew Python is
-externally managed under PEP 668, so a `.venv` is required locally.
+**Packaging.** M0 used a `src/` layout with an editable install. M1 abandoned
+both. See the M1 notes below for why; the package now sits at the repository
+root and nothing is installed. Homebrew Python is externally managed under
+PEP 668, so a `.venv` is still required locally.
 
 **Registry naming.** The fetch function registry in `sources/__init__.py` is
 called `FETCHERS`, not `SOURCES`, so that it is never confused with
@@ -373,19 +368,48 @@ that overlap or reference invalid rings.
 *Verified:* `pytest` reports 13 passed, and `python -m corning_events.main
 --dry-run` reports that no sources are enabled and exits zero.
 
-### M1: Core plumbing
+### M1: Core plumbing (Complete)
 
-Write `model.py`, `state.py` with the schema above and an idempotent migration,
-`normalize.py` covering HTML to text, the title and venue normalizers, `to_utc()`
-via `zoneinfo` and the `" @ "` splitter, and `feeds.py` covering emission and
-validation.
+`model.py`, `state.py`, `normalize.py` and `feeds.py` are implemented and
+covered by 109 tests.
 
-Tests cover normalizer edge cases including Facebook-pasted HTML, the `None`
-title and all-day DTEND exclusivity; a feeds round trip building three synthetic
-events (timed, all-day, cancelled), emitting, reparsing and asserting field
-equality; and a line-length check driven by a 500 character description.
+Four decisions were taken during implementation.
 
-*Verify:* `pytest` green.
+**The `src/` layout and the editable install were both abandoned.** The
+editable install failed silently on this machine: pip writes files into
+site-packages carrying the macOS `UF_HIDDEN` flag, and Python's `site.py`
+deliberately skips hidden `.pth` files, so the editable path entry was never
+applied and every import failed with a bare `ModuleNotFoundError`. The package
+now sits at the repository root and nothing is installed at all, which removes
+the failure mode outright and keeps local and CI behaviour identical.
+`pyproject.toml` survives carrying only pytest configuration.
+
+**`Event` omits the spec's `event_id`.** `(source_id, source_uid)` is already
+the primary key in the state store, so a second identifier would be dead
+weight. `Event.key` returns the pair as one string where that is convenient.
+
+**`Event.end` is always the exclusive end**, matching RFC 5545, for timed and
+all-day events alike. Storing an inclusive end would have put the conversion
+in the emitter, far from the source module that actually knows which
+convention its feed uses. `model.all_day_bounds` takes an inclusive last day
+and returns the exclusive bounds, so the easy path is the correct one. The
+dataclass enforces UTC and rejects an end at or before its start.
+
+**Two source configs now declare `default_ring = None`.** The ring cascade
+consults the source default before the county tag, so a default on every
+source would have made the county and fallback steps unreachable. FLXcalendar
+and Ticketmaster are regional aggregators with no meaningful default, so they
+decline to guess and the cascade continues past them.
+
+Worth knowing for M2: `REFRESH-INTERVAL` is a known DURATION property and
+`icalendar` wants a `timedelta`, while `X-PUBLISHED-TTL` is an X- property
+with no registered type and needs the literal string `PT12H`, or it serializes
+as `12:00:00`. Both derive from `config.REFRESH_INTERVAL_HOURS`.
+
+*Verified:* `pytest` reports 109 passed. A hand-built sample feed carrying a
+timed event, a multi-day all-day event and a cancelled event emits correct
+`VALUE=DATE` bounds with an exclusive DTEND, folds a 500 character description
+and a multi-byte one within 75 octets, and reparses field for field.
 
 ### M2: Tier A sources
 

@@ -7,6 +7,8 @@ category onto a name that does not exist.
 
 from __future__ import annotations
 
+from datetime import timedelta
+
 import pytest
 
 from corning_events import config
@@ -27,9 +29,21 @@ def test_every_configured_source_has_a_fetcher():
 
 def test_source_default_rings_are_valid():
     for source in config.SOURCES.values():
+        if source.default_ring is None:
+            # Regional aggregators decline to guess, which is what keeps the
+            # county tag and fallback steps of the cascade reachable.
+            continue
         assert source.default_ring in VALID_RINGS
         # An event defaulting to "out" would be dropped by every feed.
         assert source.default_ring != config.RING_OUT
+
+
+def test_regional_aggregators_declare_no_default_ring():
+    # If every source declared a default, the source-default step of the ring
+    # cascade would always resolve and the county and fallback steps below it
+    # would be dead code.
+    assert config.SOURCES["flxcalendar"].default_ring is None
+    assert config.SOURCES["ticketmaster"].default_ring is None
 
 
 def test_source_names_are_populated():
@@ -100,3 +114,18 @@ def test_main_exits_cleanly_when_nothing_is_enabled(capsys):
         pytest.skip("some sources are enabled, so this M0 path no longer applies")
     assert main([]) == 0
     assert "No sources enabled." in capsys.readouterr().out
+
+
+def test_repo_root_resolves_to_the_repository():
+    # The package sits at the repository root, so a wrong parents[] index here
+    # would silently write feeds and state outside the repo.
+    assert (config.REPO_ROOT / "pyproject.toml").is_file()
+    assert config.DOCS_DIR.name == "docs"
+    assert config.STATE_DB.parent.name == "state"
+
+
+def test_refresh_interval_forms_agree():
+    # One is a timedelta for icalendar, the other an ISO string for the X-
+    # property. They describe the same interval and must not drift.
+    assert config.REFRESH_INTERVAL == timedelta(hours=config.REFRESH_INTERVAL_HOURS)
+    assert config.REFRESH_INTERVAL_ISO == f"PT{config.REFRESH_INTERVAL_HOURS}H"

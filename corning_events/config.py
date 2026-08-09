@@ -9,16 +9,17 @@ from __future__ import annotations
 
 import os
 from dataclasses import dataclass
+from datetime import timedelta
 from pathlib import Path
 
 # ---------------------------------------------------------------------------
 # Paths
 # ---------------------------------------------------------------------------
 
-# Resolves to the repository root when installed with "pip install -e .".
-# Override with CORNING_EVENTS_ROOT if the package is installed non-editable.
+# The package sits directly under the repository root, so one level up from
+# this file. Override with CORNING_EVENTS_ROOT to write output elsewhere.
 REPO_ROOT = Path(
-    os.environ.get("CORNING_EVENTS_ROOT", Path(__file__).resolve().parents[2])
+    os.environ.get("CORNING_EVENTS_ROOT", Path(__file__).resolve().parents[1])
 )
 
 # GitHub Pages web root. Generated output only, never hand-edited.
@@ -120,7 +121,9 @@ class SourceConfig:
         enabled: Whether a scheduled run fetches it. Sources are switched on as
             their parsers land, so everything starts False.
         default_ring: Ring applied when a record carries no usable city tag and
-            no coordinates.
+            no coordinates. None for regional aggregators, whose events could
+            be anywhere and for which a default would be a guess. Leaving it
+            None lets the county tag and the fallback do their work.
         trust: Field resolution priority when duplicates merge. Lower wins.
         homepage: Human facing page, used in attribution and for debugging.
     """
@@ -128,7 +131,7 @@ class SourceConfig:
     source_id: str
     name: str
     enabled: bool
-    default_ring: str
+    default_ring: str | None
     trust: int
     homepage: str
 
@@ -150,7 +153,7 @@ SOURCES = {
             source_id="flxcalendar",
             name="FLXcalendar",
             enabled=False,
-            default_ring=RING_REGIONAL,
+            default_ring=None,  # regional aggregator, spans every ring
             trust=TRUST_FLXCALENDAR,
             homepage="https://www.flxcalendar.com/",
         ),
@@ -174,7 +177,7 @@ SOURCES = {
             source_id="ticketmaster",
             name="Ticketmaster",
             enabled=False,
-            default_ring=RING_NEAR,
+            default_ring=None,  # radius search, records carry coordinates
             trust=TRUST_TICKETING,
             homepage="https://www.ticketmaster.com/",
         ),
@@ -350,7 +353,15 @@ PRODID = "-//corning-events//Corning Events Aggregator//EN"
 
 # Apple Calendar honours REFRESH-INTERVAL; X-PUBLISHED-TTL is the older
 # Microsoft equivalent. Emit both, trust neither (spec section 9.2).
-REFRESH_INTERVAL = "PT12H"
+#
+# Both derive from one number because they must agree. REFRESH-INTERVAL is a
+# known DURATION property, so icalendar wants a timedelta and renders it
+# itself. X-PUBLISHED-TTL is an X- property, so icalendar has no type for it
+# and would serialize a timedelta as "12:00:00" rather than "PT12H"; it needs
+# the ISO 8601 string handed over ready made.
+REFRESH_INTERVAL_HOURS = 12
+REFRESH_INTERVAL = timedelta(hours=REFRESH_INTERVAL_HOURS)
+REFRESH_INTERVAL_ISO = f"PT{REFRESH_INTERVAL_HOURS}H"
 
 # Events starting before this many days ago are dropped from the feed. A small
 # window keeps today's events visible for clients that refresh late.

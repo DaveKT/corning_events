@@ -12,8 +12,9 @@ other client and see the events alongside their own.
 
 ## Status
 
-Scaffold and configuration are in place; no source parsers are implemented yet,
-so every source is switched off. See
+The pipeline's core is built: the event model, state store, normalizers and
+iCal emitter all work and are covered by tests. No source parsers are
+implemented yet, so every source is switched off and no feed is produced. See
 [the plan](plans/2026-08-corning-events-ical-aggregator.md) for the current
 milestone state. The feed URLs below will not resolve until milestone M6 lands.
 
@@ -54,13 +55,12 @@ repository root or from `/docs`.
 
 ## Running locally
 
-Requires Python 3.11 or newer. The editable install is what puts
-`corning_events` on the path for both the CLI and the tests.
+Requires Python 3.11 or newer. There is no install step: the package sits at
+the repository root, so run everything from there.
 
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements-dev.txt
-pip install -e .
 python -m corning_events.main --dry-run
 ```
 
@@ -95,9 +95,9 @@ request would wipe a subscriber's calendar.
 
 ## Adding a source
 
-Write a module in `src/corning_events/sources/` exposing a fetch function that
+Write a module in `corning_events/sources/` exposing a fetch function that
 returns a list of `Event`, following the contract documented in
-[`sources/base.py`](src/corning_events/sources/base.py). Register it in the
+[`sources/base.py`](corning_events/sources/base.py). Register it in the
 `FETCHERS` map in `sources/__init__.py`, add a matching `SourceConfig` to
 `config.SOURCES` with a default ring and trust band, and save one raw capture
 into `tests/fixtures/` with a parser test against it. Nothing else in the

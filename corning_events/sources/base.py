@@ -20,6 +20,11 @@ Four rules apply to every source:
    the two, and an empty list from a broken source would look like every event
    being cancelled at once (build plan, Part 1 adjustment 3).
 4. Times are converted to UTC before returning, using normalize.to_utc.
+5. Descriptions are passed through normalize.strip_html before returning.
+   Nothing downstream can safely do this for you: only the source knows
+   whether its description field holds HTML, and running the stripper over
+   text that merely contains a "<" would silently eat the rest of the
+   sentence. Unstripped HTML reaches subscribers as visible markup.
 
 Shared helpers land here as the parsers reveal what they have in common. Until
 M2 there is nothing to share yet.

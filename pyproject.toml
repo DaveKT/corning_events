@@ -1,19 +1,15 @@
-[build-system]
-requires = ["setuptools>=68"]
-build-backend = "setuptools.build_meta"
-
-[project]
-name = "corning-events"
-version = "0.1.0"
-description = "Aggregates public events around Corning, New York into subscribable iCal feeds"
-requires-python = ">=3.11"
-dynamic = ["dependencies"]
-
-[tool.setuptools.dynamic]
-dependencies = { file = ["requirements.txt"] }
-
-[tool.setuptools.packages.find]
-where = ["src"]
+# Configuration only. This project is an application rather than a library,
+# so it is not installed: the package sits at the repository root and both
+# pytest and "python -m corning_events.main" find it there.
+#
+# It used to use a src/ layout with an editable install. That was abandoned
+# after the install proved to fail silently on macOS: pip marks files in
+# site-packages with the UF_HIDDEN flag, and Python's site.py deliberately
+# skips hidden .pth files, so the editable path entry was never applied and
+# imports failed with a bare ModuleNotFoundError. Depending on no install at
+# all removes the whole failure mode and keeps local and CI behaviour
+# identical.
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+pythonpath = ["."]
