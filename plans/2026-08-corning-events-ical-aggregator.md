@@ -3,7 +3,7 @@ Plan: Corning Events iCal Aggregator
 
 > Status: Underway
 
-Repository bootstrap (git, `doc/`, README) is complete. No milestone code has
+Repository bootstrap (git, `plans/`, README) is complete. No milestone code has
 been written yet. Implementation begins at M0.
 
 | Milestone | Description | State |
@@ -25,7 +25,7 @@ Corning, New York and publishes subscribable iCal feeds for two people, the
 repository owner and their partner.
 
 An earlier session produced a thorough source specification, now at
-`doc/corning-events-source-spec.md`. That document is the authority on source
+`corning-events-source-spec.md` in the repository root. That is the authority on source
 details: URLs, formats, record counts, and known quirks. This plan is the
 authority on architecture and sequencing. Where the two conflict, this plan
 wins, and Part 1 records every such conflict explicitly.
@@ -154,16 +154,13 @@ the feed URL is public regardless, and nothing private goes into a feed.
 
 ### Directory naming warning
 
-Two similarly named directories exist and must never be confused.
+`docs/` is not documentation. It is the GitHub Pages web root, and everything
+inside it is build output. Never hand-edit it, and never put a plan or a
+reference document there. The name is fixed because branch-based GitHub Pages
+serves only from the repository root or from `/docs`.
 
-| Path | Purpose | Hand-edited? |
-|---|---|---|
-| `doc/` | Human documentation: this plan, the source spec | Yes |
-| `docs/` | GitHub Pages web root: generated `.ics` files and `index.html` | No, generated |
-
-`docs/` is the Pages root because branch-based GitHub Pages only serves from the
-repository root or from `/docs`. Everything inside it is build output. Never
-hand-edit it, and never put a plan there.
+Hand-written documentation lives in `plans/` for development plans and at the
+repository root for reference material such as the source spec.
 
 ### Repository layout
 
@@ -174,10 +171,10 @@ corning_events/
                             beautifulsoup4, lxml
   requirements-dev.txt      pytest
   CLAUDE.md
-  doc/
-    corning-events-source-spec.md
-    plans/
-      2026-08-corning-events-ical-aggregator.md
+  corning-events-source-spec.md
+  plans/
+    2026-08-corning-events-ical-aggregator.md
+    archive/                completed plans
   src/corning_events/
     __init__.py
     config.py               all knobs: rings, city to ring map, category map,

@@ -13,7 +13,7 @@ other client and see the events alongside their own.
 ## Status
 
 Planning complete, implementation not yet started. See
-[the plan](doc/plans/2026-08-corning-events-ical-aggregator.md) for the current
+[the plan](plans/2026-08-corning-events-ical-aggregator.md) for the current
 milestone state. The feed URLs below will not resolve until milestone M6 lands.
 
 ## Feeds
@@ -42,14 +42,13 @@ coordinates, or source, and anything beyond fifty miles is dropped.
 
 | Path | Contents |
 |---|---|
-| [`doc/plans/`](doc/plans/) | Development plans, prefixed by year and month |
-| [`doc/corning-events-source-spec.md`](doc/corning-events-source-spec.md) | Source registry: every data source, its format, quirks and known breakage |
+| [`plans/`](plans/) | Development plans, prefixed by year and month. Completed plans move to `plans/archive/` |
+| [`corning-events-source-spec.md`](corning-events-source-spec.md) | Source registry: every data source, its format, quirks and known breakage |
 
-Note the difference between `doc/` and `docs/`. `doc/` is human documentation and
-is edited by hand. `docs/` is the GitHub Pages web root, contains only generated
-output, and must never be hand-edited. The awkward pairing exists because
-branch-based GitHub Pages will only serve from the repository root or from
-`/docs`.
+`docs/` is not documentation. It is the GitHub Pages web root, holds only
+generated `.ics` output and its index page, and must never be hand-edited. The
+name is fixed because branch-based GitHub Pages will serve only from the
+repository root or from `/docs`.
 
 ## Running locally
 
