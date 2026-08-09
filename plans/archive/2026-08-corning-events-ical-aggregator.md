@@ -702,6 +702,44 @@ These cannot be done by the implementing model.
 
 ---
 
+## Part 6: Post-completion review
+
+A full review after M6 verified the system's claims by simulation rather than
+by reading, and found two defects in the cross-run state machine, both in
+territory the milestone tests had only exercised for one to three runs. Both
+were fixed the same day, with the simulations that exposed them rerun to
+confirm.
+
+**Cancelled events resurrected after their retention window.** Expiry forgot
+the published row while the stale raw rows and the cluster survived, so the
+next run treated the cluster as never published and re-recorded it: back in
+the feed as CANCELLED with a fresh cancellation date and its SEQUENCE reset
+to zero. A 39 day simulation had the "retained for 30 days" event present on
+38 of them. The fix skips publishing any cluster that is gone with no
+surviving published row, and the retention test now runs six days past the
+expiry boundary, which is exactly where the old test stopped and the bug
+lived.
+
+**Three state tables grew without bound.** Raw events were pruned at 90 days
+but the cluster and published tables were append-only, accumulating rows for
+events that no longer existed anywhere. Expiry now prunes orphans in the same
+pass: member rows with no raw event, clusters with no members, published rows
+with no cluster, while a multi-source cluster keeps its identity as long as
+any member survives upstream.
+
+Four minor findings were also addressed. Rockwell's year inference picks the
+in-window reading nearest to now, so a year-boundary date resolves to
+yesterday rather than 364 days ahead. The containment rule no longer trusts
+titles at the minimum token count unless both sides positively name the same
+place; the genuine merge that tightening would have cost is preserved by
+stripping standalone years during title normalization, which promotes "India
+Day 2026" against "India Day" to the exact-title rule. The workflow's
+nothing-changed guard uses git status rather than git diff so it can see
+untracked files. And feed emission validates once instead of twice.
+
+The test count stands at 232, and the live merge count was unchanged at 20
+throughout, verified against production data before and after each change.
+
 ## Style constraints
 
 Taken from spec section 14 and applying to all generated text, documentation and

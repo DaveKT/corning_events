@@ -29,6 +29,15 @@ suffix: "Wise Crackers All Stars" against "Wise Crackers All Stars Comedy
 Show" scores 0.79 against a threshold of 0.85, despite being the same show at
 the same instant in the same room. Word containment scores it 1.0.
 
+**Containment does not extend the benefit of the doubt to minimum-length
+titles.** A later review found that a bare, location-less "Open House" at the
+right instant would have bridged the chamber's three separate same-day open
+houses into one event. Titles at ``MIN_TITLE_TOKENS`` therefore need both
+sides to positively name the same place, absence not counting. The genuine
+pair that tightening would have cost ("India Day 2026" against "India Day")
+is preserved by :func:`normalize.normalize_title` stripping standalone years,
+which lets that pair match on the exact-title rule instead.
+
 Measured against the 2026-08-09 capture, the cascade as specified caught
 neither of the two genuine duplicates present. With these adjustments it
 catches both, and the 6 same-title same-day groups in that data all sit at a

@@ -13,8 +13,10 @@ other client and see the events alongside their own.
 ## Status
 
 Live and running. A GitHub Actions workflow rebuilds the feeds every morning
-and publishes them to GitHub Pages. Each run collects around 538 events from
-five sources and publishes 518, with 313 inside the 25 mile default feed.
+and publishes them to GitHub Pages. Each run collects around 540 events from
+five sources and publishes around 520 after deduplication, roughly 310 of
+them inside the 25 mile default feed. Exact counts drift daily as events
+pass and new ones are listed; the subscribe page shows the current numbers.
 
 Three sources in the registry are disabled because they cannot be read by a
 client that identifies itself honestly. See Coverage gaps below.
