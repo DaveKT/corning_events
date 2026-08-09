@@ -168,6 +168,35 @@ def test_a_cancelled_event_leaves_the_feed_after_the_retention_window(conn):
     assert doomed.uid not in vevents(outputs[CORE_PATH])
 
 
+def test_a_cancelled_event_stays_gone_after_the_retention_window(conn):
+    # The test above stops one run after expiry, which is exactly where this
+    # used to break. Expiry forgot the published row while the stale raw rows
+    # and the cluster survived, so the next run treated the cluster as never
+    # published and re-recorded it: back in the feed as CANCELLED with a
+    # fresh cancelled_at and SEQUENCE reset to 0, cycling forever. Over a 39
+    # day simulation the "retained for 30 days" event was present on 38.
+    events = make_events(count=9)
+    first, _ = run(conn, events)
+    doomed = next(i for i in first if i.event.source_uid == "flxcalendar-0")
+    run(conn, events[1:], now=NOW + timedelta(days=1))
+
+    expiry = config.CANCELLED_RETENTION_DAYS + 2
+    for day in range(expiry, expiry + 6):
+        published, outputs = run(conn, events[1:], now=NOW + timedelta(days=day))
+        assert doomed.uid not in vevents(outputs[CORE_PATH]), (
+            f"cancelled event resurrected on day {day}"
+        )
+        if day > expiry:
+            # On the boundary day itself the published row still exists until
+            # that run's own expire step, so the item passes through the
+            # in-memory list once more while staying out of the feed. From
+            # the next run on it must not even be built.
+            assert all(item.uid != doomed.uid for item in published)
+
+    # The published row must stay forgotten, not be re-minted at sequence 0.
+    assert state.get_published(conn, doomed.uid) is None
+
+
 def test_a_past_event_disappearing_is_not_a_cancellation(conn):
     # Feeds drop events once they have happened. That is housekeeping.
     past = Event(
@@ -295,3 +324,70 @@ def test_the_index_page_reports_the_event_counts(conn):
     _, outputs = run(conn, make_events(count=8))
     page = outputs[config.DOCS_DIR / "index.html"].decode("utf-8")
     assert "Currently 8 events" in page
+
+
+# ---------------------------------------------------------------------------
+# State hygiene
+# ---------------------------------------------------------------------------
+
+
+def test_state_rows_for_long_past_events_are_pruned_everywhere(conn):
+    # raw_events was pruned at 90 days, but clusters, cluster_members and
+    # published were append-only: a simulation left 8 events upstream and 16
+    # rows in each identity table. The committed database must not grow
+    # without bound, so once an event's raw rows are pruned, everything that
+    # described it goes too.
+    early = [
+        Event(
+            source_id="flxcalendar",
+            source_uid=f"early-{i}",
+            title=f"Early Event {i}",
+            start=NOW + timedelta(days=10 + i),
+            city_tag="Corning",
+        )
+        for i in range(8)
+    ]
+    run(conn, early)
+
+    # 200 days on: the early events are long past and beyond raw retention;
+    # the source now publishes a different batch.
+    later_day = NOW + timedelta(days=200)
+    late = [
+        Event(
+            source_id="flxcalendar",
+            source_uid=f"late-{i}",
+            title=f"Late Event {i}",
+            start=later_day + timedelta(days=10 + i),
+            city_tag="Corning",
+        )
+        for i in range(8)
+    ]
+    run(conn, late, now=later_day)
+
+    counts = {
+        table: conn.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0]
+        for table in ("raw_events", "seen", "clusters", "cluster_members", "published")
+    }
+    assert counts == {
+        "raw_events": 8,
+        "seen": 8,
+        "clusters": 8,
+        "cluster_members": 8,
+        "published": 8,
+    }, f"stale rows survived pruning: {counts}"
+
+
+def test_pruning_never_touches_live_or_recently_cancelled_events(conn):
+    # The cleanup must only collect rows whose raw events are gone. A live
+    # event and a freshly cancelled one both still have raw rows, so their
+    # identity rows must survive a prune.
+    events = make_events(count=9)
+    first, _ = run(conn, events)
+    doomed = next(i for i in first if i.event.source_uid == "flxcalendar-0")
+
+    published, _ = run(conn, events[1:], now=NOW + timedelta(days=1))
+
+    cancelled = next(i for i in published if i.uid == doomed.uid)
+    assert cancelled.status == STATUS_CANCELLED
+    assert state.get_published(conn, doomed.uid) is not None
+    assert len(published) == len(events)

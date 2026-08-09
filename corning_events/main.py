@@ -261,6 +261,16 @@ def build_published(
 
     for uid, resolved, members in pinned:
         gone = all(member.key in stale for member in members)
+
+        if gone and state.get_published(conn, uid) is None:
+            # Nothing a subscriber has ever seen, so there is nothing to
+            # cancel. Either the cancellation already served its retention
+            # window and was expired, in which case re-recording it here
+            # would resurrect it with a fresh cancelled_at and a SEQUENCE
+            # reset to zero, forever; or it was never published at all. The
+            # raw rows linger until pruned, and this skip repeats until then.
+            continue
+
         status = STATUS_CANCELLED if gone else STATUS_CONFIRMED
 
         item = PublishedEvent(uid=uid, event=resolved, status=status)
@@ -282,10 +292,17 @@ def build_published(
 
 
 def expire(conn, now: datetime) -> None:
-    """Forget events cancelled long enough ago, and prune old rows."""
+    """Forget events cancelled long enough ago, and prune old rows.
+
+    Orphan pruning runs after the raw prune on purpose: it is the raw
+    deletions that strand cluster and published rows, and cleaning them in
+    the same pass is what keeps the committed database from growing without
+    bound.
+    """
     cutoff = now - timedelta(days=config.CANCELLED_RETENTION_DAYS)
     state.forget_published(conn, state.cancelled_before(conn, cutoff))
     state.prune_raw_events(conn, now - timedelta(days=config.RAW_EVENT_RETENTION_DAYS))
+    state.prune_orphans(conn)
     state.prune_fetch_log(conn)
 
 

@@ -192,3 +192,39 @@ def test_prune_fetch_log_keeps_recent_rows_per_source(conn):
         conn.execute("SELECT source_id, COUNT(*) c FROM fetch_log GROUP BY source_id")
     )
     assert counts == {"flxcalendar": 3, "cmog": 3}
+
+
+def test_prune_orphans_drops_identity_rows_with_no_raw_event(conn):
+    # A live cluster and a dead one. The dead one's raw rows have been
+    # pruned, so its cluster and published rows must go too, or the
+    # committed database grows without bound.
+    state.upsert_raw_event(conn, make_event("kept"), RUN_1)
+    state.create_cluster(conn, "kept@x", ["flxcalendar:kept"])
+    state.record_published(conn, "kept@x", "h")
+
+    state.create_cluster(conn, "gone@x", ["flxcalendar:gone"])
+    state.record_published(conn, "gone@x", "h")
+
+    clusters, published = state.prune_orphans(conn)
+
+    assert (clusters, published) == (1, 1)
+    assert state.cluster_for_member(conn, "flxcalendar:kept") is not None
+    assert state.get_published(conn, "kept@x") is not None
+    assert state.cluster_for_member(conn, "flxcalendar:gone") is None
+    assert state.get_published(conn, "gone@x") is None
+
+
+def test_prune_orphans_keeps_a_cluster_with_one_surviving_member(conn):
+    # A multi-source cluster where one member's raw row was pruned but the
+    # other survives. The cluster and its published identity stay, since the
+    # event still exists upstream.
+    state.upsert_raw_event(conn, make_event("alive"), RUN_1)
+    state.create_cluster(conn, "pair@x", ["flxcalendar:alive", "cmog:pruned"])
+    state.record_published(conn, "pair@x", "h")
+
+    clusters, published = state.prune_orphans(conn)
+
+    assert (clusters, published) == (0, 0)
+    assert state.cluster_for_member(conn, "flxcalendar:alive")["published_uid"] == "pair@x"
+    # Only the dead member's row was removed.
+    assert state.cluster_for_member(conn, "cmog:pruned") is None

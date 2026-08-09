@@ -374,6 +374,42 @@ def forget_published(conn: sqlite3.Connection, uids: Iterable[str]) -> None:
 # ---------------------------------------------------------------------------
 
 
+def prune_orphans(conn: sqlite3.Connection) -> tuple[int, int]:
+    """Drop cluster and published rows whose events no longer exist.
+
+    ``raw_events`` is pruned once starts are long past, but the identity
+    tables were append-only, so the committed database grew without bound: a
+    year of operation would have left thousands of rows describing events
+    that no longer exist anywhere. Runs after ``prune_raw_events``, so
+    anything still upstream is untouched: active events always have raw rows,
+    and cancelled events keep theirs until well past their start.
+
+    Returns ``(clusters_dropped, published_dropped)``.
+    """
+    conn.execute(
+        """
+        DELETE FROM cluster_members WHERE member_key NOT IN (
+            SELECT source_id || ':' || source_uid FROM raw_events
+        )
+        """
+    )
+    clusters = conn.execute(
+        """
+        DELETE FROM clusters WHERE cluster_id NOT IN (
+            SELECT cluster_id FROM cluster_members
+        )
+        """
+    ).rowcount
+    published = conn.execute(
+        """
+        DELETE FROM published WHERE published_uid NOT IN (
+            SELECT published_uid FROM clusters
+        )
+        """
+    ).rowcount
+    return clusters, published
+
+
 def record_fetch(
     conn: sqlite3.Connection,
     source_id: str,
