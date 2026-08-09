@@ -1,0 +1,92 @@
+name: Publish feeds
+
+# Rebuilds the feeds once a day and commits the result. Pages serves docs/
+# from this branch, so the push is what publishes.
+#
+# The state database is committed alongside the feeds on purpose: stable UIDs,
+# SEQUENCE increments and cancellation detection all depend on knowing what
+# the previous run saw and published.
+
+on:
+  schedule:
+    # 09:15 UTC, which is early morning in Corning year round. Scheduled runs
+    # on public repositories are queued rather than punctual, so treat this as
+    # "once a day" rather than "at 09:15".
+    - cron: "15 9 * * *"
+  workflow_dispatch:
+
+# One run at a time. Two runs committing state concurrently would race, and
+# the loser's events would be lost rather than merged.
+concurrency:
+  group: publish-feeds
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-dev.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements-dev.txt
+
+      # Runs before the pipeline, not after. A broken parser should stop the
+      # run rather than publish whatever it managed to produce.
+      - name: Run tests
+        run: pytest -q
+
+      - name: Build feeds
+        env:
+          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+        run: python -m corning_events.main | tee build.log
+
+      - name: Summarise
+        if: always()
+        run: |
+          {
+            echo '### Feed build'
+            echo '```'
+            cat build.log 2>/dev/null || echo 'the build produced no output'
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+
+          if git diff --quiet -- docs state; then
+            echo "Nothing changed, so nothing to publish."
+            exit 0
+          fi
+
+          git config user.name "corning-events bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs state
+
+          core=$(grep -c '^BEGIN:VEVENT' docs/corning-core.ics || echo '?')
+          all=$(grep -c '^BEGIN:VEVENT' docs/flx-all.ics || echo '?')
+          git commit -m "Publish feeds: ${core} core, ${all} regional"
+
+          # A human push can land between checkout and here. Rebase rather
+          # than force, so their commit survives.
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected, rebasing and retrying (attempt ${attempt})."
+            git pull --rebase --autostash origin main
+          done
+
+          echo "Could not push after three attempts."
+          exit 1
