@@ -1,12 +1,15 @@
 Plan: Corning Events iCal Aggregator
 ===============================================================================
 
-> Status: Underway
+> Status: Complete
 
-M0 through M5 are complete, and GitHub Pages is now serving the feeds at
-https://davekt.github.io/corning_events/. What remains of M6 is the scheduled
-workflow that rebuilds them daily; until it lands, the published feeds are
-only as fresh as the last local run.
+Every milestone is complete. The service runs daily on GitHub Actions and
+publishes to https://davekt.github.io/corning_events/.
+
+Three sources could not be built and ship disabled, each documented in its own
+module: ssclibrary and cmog are behind Cloudflare bot challenges, and gaffer
+renders its events client-side with no reachable data endpoint. Remaining
+owner actions are in Part 4.
 
 Two sources could not be built and ship disabled: cmog is behind a bot
 challenge on every one of its domains, and gaffer renders its events
@@ -24,7 +27,7 @@ See M2 and the owner action items in Part 4.
 | M3 | Dedupe and persistence integration | Complete |
 | M4 | End to end feeds and publish surface | Complete |
 | M5 | Tier B scrapers | Complete, except cmog and gaffer |
-| M6 | GitHub Actions and Pages | Pages live, workflow outstanding |
+| M6 | GitHub Actions and Pages | Complete |
 
 ---
 
@@ -174,51 +177,11 @@ level, and reference material such as the source spec in `plans/spec/`.
 
 ### Repository layout
 
-```
-corning_events/
-  README.md
-  pyproject.toml            pytest config only. The project is not installed
-  requirements.txt          requests, icalendar, python-dateutil,
-                            beautifulsoup4, lxml
-  requirements-dev.txt      pytest
-  CLAUDE.md
-  plans/
-    2026-08-corning-events-ical-aggregator.md
-    archive/                completed plans
-    spec/
-      corning-events-source-spec.md
-  corning_events/
-    __init__.py
-    config.py               all knobs: rings, city to ring map, category map,
-                            feed definitions, source toggles, User-Agent
-    model.py                Event dataclass mirroring spec section 8
-    state.py                SQLite open, migrate, upsert, query
-    http.py                 session with UA, timeout, retry and backoff
-    normalize.py            HTML to text, title normalization, tz conversion,
-                            " @ " venue split
-    dedupe.py               match cascade, clustering, field resolution
-    feeds.py                filtering, VEVENT assembly, emission, validation
-    main.py                 orchestrator. CLI: --sources, --dry-run, --db
-    sources/
-      __init__.py           FETCHERS registry mapping source_id to fetch fn
-      base.py               the fetch contract, plus shared helpers
-      flxcalendar.py        xCal via ElementTree.iterparse, spec section 4.6
-      ssclibrary.py         Tribe .ics via icalendar
-      clemenscenter.py      Tribe .ics via icalendar
-      ticketmaster.py       Discovery API JSON
-      chamber.py            ChamberMaster ?rendermode=print HTML
-      cmog.py               Drupal HTML, whatson.cmog.org
-      rockwell.py           WordPress /events/{slug} detail pages
-      gaffer.py             Simpleview /events/ subtree
-  tests/
-    fixtures/               one saved raw capture per source
-    test_normalize.py  test_dedupe.py  test_feeds.py  test_sources.py
-  docs/                     GitHub Pages root, generated
-    index.html  corning-core.ics  flx-all.ics
-  state/
-    events.db               committed, carries cross-run state
-  .github/workflows/daily.yml
-```
+The package sits at the repository root as `corning_events/`, with `sources/`
+holding one module per upstream source and `config.py` holding every tunable
+knob. Tests and their fixtures live in `tests/`, plans in `plans/`, generated
+feeds in `docs/`, and the committed state database in `state/`. The workflow
+is `.github/workflows/daily.yml`. See the README for how to add a source.
 
 ### Event model
 
@@ -231,32 +194,16 @@ Datetimes are stored as UTC ISO-8601 strings in SQLite.
 
 ### SQLite schema
 
-```sql
-CREATE TABLE IF NOT EXISTS raw_events (      -- one row per source occurrence
-  source_id TEXT NOT NULL,
-  source_uid TEXT NOT NULL,                  -- recurrences: parent + ':' + date
-  payload TEXT NOT NULL,                     -- JSON of the Event dataclass
-  first_seen TEXT NOT NULL,
-  last_seen TEXT NOT NULL,
-  PRIMARY KEY (source_id, source_uid)
-);
-CREATE TABLE IF NOT EXISTS clusters (        -- published identity, pinned
-  cluster_id INTEGER PRIMARY KEY,
-  published_uid TEXT NOT NULL UNIQUE,        -- minted once, never regenerated
-  member_keys TEXT NOT NULL                  -- JSON list of source_id:source_uid
-);
-CREATE TABLE IF NOT EXISTS published (       -- what the last feed contained
-  published_uid TEXT PRIMARY KEY,
-  sequence INTEGER NOT NULL DEFAULT 0,
-  content_hash TEXT NOT NULL,                -- excludes DTSTAMP and SEQUENCE
-  status TEXT NOT NULL DEFAULT 'CONFIRMED',  -- or CANCELLED
-  cancelled_at TEXT                          -- drives 30 day retention
-);
-CREATE TABLE IF NOT EXISTS fetch_log (
-  source_id TEXT NOT NULL, run_at TEXT NOT NULL,
-  ok INTEGER NOT NULL, event_count INTEGER NOT NULL, note TEXT
-);
-```
+Five tables, defined in `state.py`. `raw_events` holds one JSON payload per
+source occurrence, keyed by source and native id, and is rewritten only when
+an event's content actually changes. `seen` records when each was last
+reported, split out precisely because it changes on every row every run;
+keeping the two apart is what lets the committed database delta to a few
+kilobytes rather than its whole size. `clusters` and `cluster_members` carry
+the pinned published UID for each deduplicated event. `published` remembers
+the last emitted content hash, SEQUENCE and status per UID. `fetch_log`
+records each source's outcome per run, which is what stops a failed fetch
+being mistaken for a mass cancellation.
 
 ### Key algorithms
 
@@ -677,29 +624,38 @@ recover the real location from the source that knows it.
 five sources, publishes 518 events, merges 20 clusters, misses none, and two
 consecutive runs remain byte-identical apart from DTSTAMP.
 
-### M6: GitHub Actions and Pages
+### M6: GitHub Actions and Pages (Complete)
 
-Write `.github/workflows/daily.yml` with a `schedule` of cron `15 9 * * *` plus
-`workflow_dispatch`. It checks out, sets up Python 3.12, installs requirements,
-runs main, then commits `docs/` and `state/` if changed under a bot identity and
-pushes. `TICKETMASTER_API_KEY` comes from repository secrets. Set a concurrency
-group so runs cannot overlap.
+`.github/workflows/daily.yml` runs at 09:15 UTC and on demand, and the service
+is live at https://davekt.github.io/corning_events/.
 
-Pages is already enabled, serving branch `main` folder `/docs`, and verified
-returning `text/calendar` for both feeds. It was switched on early because the
-README advertised feed URLs that 404ed.
+Pages was switched on ahead of this milestone, because the README was
+advertising feed URLs that returned 404 while the files sat committed and
+unserved. It serves branch `main` folder `/docs`, and both feeds return
+`text/calendar`, which is the content type calendar clients check.
 
-Note for the README and any other markdown: GitHub's markdown sanitizer strips
-link schemes other than http, https and mailto, so a `webcal://` link silently
-renders as plain text with no anchor. Confirmed against GitHub's own markdown
-API. Present those URLs as copyable code and keep the clickable one-tap links
-on the generated index page, which is raw HTML and not sanitized.
+Three details in the workflow are load bearing. Tests run before the pipeline
+rather than after, so a broken parser stops the run instead of publishing
+whatever it managed to produce. A concurrency group prevents two runs
+committing state at once, where the loser's events would be lost rather than
+merged. And a rejected push rebases and retries, so a human commit landing
+mid-run survives instead of being clobbered.
 
-*Verify:* trigger through `workflow_dispatch` and confirm the run is green.
-Confirm `https://davekt.github.io/corning_events/corning-core.ics` serves valid
-iCal and that `index.html` renders. Subscribe on an iPhone through the webcal
-link and confirm events appear. Confirm the next scheduled run produces a small
-diff carrying DTSTAMP changes and genuinely new events only.
+Worth knowing for any future markdown: GitHub's sanitizer strips link schemes
+other than http, https and mailto, so a `webcal://` link renders as plain text
+with no anchor. Confirmed against GitHub's own markdown API. The README
+therefore gives those URLs as copyable code, and the clickable one-tap links
+live on the generated index page, which is raw HTML and not sanitized.
+
+*Verified:* two `workflow_dispatch` runs completed green in under 30 seconds
+each, committed as the bot, and triggered a Pages rebuild that served the new
+feed carrying the workflow's own timestamp. The diff between two consecutive
+runs is 832 changed lines across both feeds, every one of them a DTSTAMP, and
+zero substantive changes. That is M4's idempotency guarantee holding in
+production.
+
+The one step nobody but the owner can do is subscribing on a phone and living
+with the result for a week.
 
 ---
 

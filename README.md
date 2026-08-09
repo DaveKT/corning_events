@@ -12,14 +12,12 @@ other client and see the events alongside their own.
 
 ## Status
 
-The feeds are live and subscribable. A run collects around 538 events from
+Live and running. A GitHub Actions workflow rebuilds the feeds every morning
+and publishes them to GitHub Pages. Each run collects around 538 events from
 five sources and publishes 518, with 313 inside the 25 mile default feed.
 
-Regeneration is still manual: the scheduled workflow that rebuilds the feeds
-daily is the last piece of work outstanding. Until it lands, the published
-feeds are only as fresh as the last local run. See
-[the plan](plans/2026-08-corning-events-ical-aggregator.md) for milestone
-state.
+Three sources in the registry are disabled because they cannot be read by a
+client that identifies itself honestly. See Coverage gaps below.
 
 ## Feeds
 
@@ -60,7 +58,7 @@ coordinates, or source, and anything beyond fifty miles is dropped.
 
 | Path | Contents |
 |---|---|
-| [`plans/`](plans/) | Development plans, prefixed by year and month. Completed plans move to `plans/archive/` |
+| [`plans/archive/`](plans/archive/) | The build plan, now complete. Records every decision and every place the source spec turned out to be wrong |
 | [`plans/spec/`](plans/spec/) | Reference material the plans are written against |
 | [`plans/spec/corning-events-source-spec.md`](plans/spec/corning-events-source-spec.md) | Source registry: every data source, its format, quirks and known breakage |
 
@@ -94,12 +92,20 @@ pytest
 `TICKETMASTER_API_KEY` enables the Ticketmaster source. Without it that one
 source skips with a warning and everything else runs normally.
 
-Three sources are registered but disabled. The Southeast Steuben County
-Library and the Corning Museum of Glass both answer non-browser requests with
-a Cloudflare bot challenge, so neither can be read by a client that identifies
-itself honestly. The Gaffer District renders its events client-side and
-publishes no reachable data endpoint. Each module explains its own situation,
-and the first two need only a config change if access is ever arranged.
+## Coverage gaps
+
+Three sources are registered but disabled, and one is unverified. Each module
+documents its own situation.
+
+| Source | Problem | Route back |
+|---|---|---|
+| Corning Museum of Glass | Every `cmog.org` domain answers a non-browser request with a Cloudflare bot challenge. The largest single gap: the museum has the highest event volume in the city and nothing else carries it | Ask the museum for an allowlist entry or a feed URL |
+| Southeast Steuben County Library | Same bot challenge. Partly covered by FLXcalendar and the Chamber | Ask the library, who publish the feed for public subscription |
+| Corning's Gaffer District | Events render client-side with no reachable data endpoint. Its static festival pages give dates as prose with no year, and guessing would put wrong dates in a calendar. Nothing else covers GlassFest and the other downtown festivals | Read the endpoint out of a browser session |
+| Ticketmaster | Implemented but never run against a live response, since no API key was available | Add `TICKETMASTER_API_KEY` as a repository secret |
+
+The parsers for the first two are written and tested, so each needs only a
+config change if access is arranged.
 
 ## How it works
 
