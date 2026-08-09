@@ -12,9 +12,9 @@ other client and see the events alongside their own.
 
 ## Status
 
-The pipeline's core is built: the event model, state store, normalizers and
-iCal emitter all work and are covered by tests. No source parsers are
-implemented yet, so every source is switched off and no feed is produced. See
+The pipeline fetches and parses live data from FLXcalendar and the Clemens
+Center, around 460 events per run. Deduplication and feed publication are not
+built yet, so no `.ics` file is produced. See
 [the plan](plans/2026-08-corning-events-ical-aggregator.md) for the current
 milestone state. The feed URLs below will not resolve until milestone M6 lands.
 
@@ -77,6 +77,11 @@ pytest
 
 `TICKETMASTER_API_KEY` enables the Ticketmaster source. Without it that one
 source skips with a warning and everything else runs normally.
+
+The Southeast Steuben County Library feed is registered but disabled: its host
+answers non-browser requests with a Cloudflare bot challenge, so the feed
+cannot be read by a client that identifies itself honestly. The parser is
+written and tested, so enabling it is a one line change if access is arranged.
 
 ## How it works
 

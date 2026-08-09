@@ -87,6 +87,8 @@ CITY_RINGS = {
     "montour falls": RING_REGIONAL,
     "hornell": RING_REGIONAL,
     "geneva": RING_REGIONAL,
+    "waverly": RING_REGIONAL,
+    "keuka lake": RING_REGIONAL,
 }
 
 # County to ring, keyed by lowercased county tag. Coarser than CITY_RINGS and
@@ -152,7 +154,7 @@ SOURCES = {
         SourceConfig(
             source_id="flxcalendar",
             name="FLXcalendar",
-            enabled=False,
+            enabled=True,
             default_ring=None,  # regional aggregator, spans every ring
             trust=TRUST_FLXCALENDAR,
             homepage="https://www.flxcalendar.com/",
@@ -168,7 +170,7 @@ SOURCES = {
         SourceConfig(
             source_id="clemenscenter",
             name="Clemens Center",
-            enabled=False,
+            enabled=True,
             default_ring=RING_NEAR,
             trust=TRUST_VENUE,
             homepage="https://clemenscenter.org/events-calendar/",
@@ -176,7 +178,7 @@ SOURCES = {
         SourceConfig(
             source_id="ticketmaster",
             name="Ticketmaster",
-            enabled=False,
+            enabled=True,
             default_ring=None,  # radius search, records carry coordinates
             trust=TRUST_TICKETING,
             homepage="https://www.ticketmaster.com/",
@@ -240,40 +242,21 @@ FLX_FAILURE_LIMIT = 3
 # so category filtered feeds stay a config change rather than a code change.
 CANONICAL_CATEGORIES = frozenset(
     {
-        "Music",
-        "Performing Arts",
-        "Community",
-        "Beer",
-        "Family Fun",
-        "Food",
-        "Connection",
-        "Art",
-        "Causes",
-        "Wine",
-        "Festivals",
-        "New to the Area",
-        "Nature",
-        "Literature",
-        "Education",
-        "History and Heritage",
-        "Games",
-        "Comedy",
-        "Film",
-        "Glass",
-        "Crafts",
-        "Dancing",
-        "Competitions",
-        "Sports",
-        "LGBTQ+",
-        "Sober-friendly",
-        "Other",
-        "Volunteering",
-        "Farmers Market",
-        "Running",
+        "Art", "BIPOC", "Beer", "Bikes", "Boats", "Cars", "Causes", "Comedy",
+        "Community", "Competitions", "Connection", "Crafts", "Dancing",
+        "Education", "Faith", "Family Fun", "Farmers Market", "Festivals",
+        "Film", "Food", "Games", "Glass", "Health", "History & Heritage",
+        "Holidays", "LGBTQ+", "Literature", "Music", "Nature",
+        "New to the Area", "Other", "Performing Arts", "Pets", "Running",
+        "Science", "Seniors", "Sober-friendly", "Sports", "Support",
+        "Tastings", "Teen", "Tastings", "Virtual", "Volunteering", "Wine",
+        "Youth Empowerment",
     }
 )
 
 # Lowercased inbound category to canonical category. Extend as sources land.
+# "history and heritage" is here because spec section 4.5 spells it with the
+# word "and" while the live feed uses an ampersand.
 CATEGORY_ALIASES = {
     "live music": "Music",
     "concert": "Music",
@@ -293,6 +276,9 @@ CATEGORY_ALIASES = {
     "race": "Running",
     "5k": "Running",
     "fundraiser": "Causes",
+    "history and heritage": "History & Heritage",
+    "arts": "Art",
+    "trivia": "Games",
 }
 
 # ---------------------------------------------------------------------------
@@ -373,6 +359,12 @@ HORIZON_DAYS = 365
 # A cancelled event stays in the feed this long so subscribers see that it was
 # cancelled rather than watching it silently vanish (spec section 9.2).
 CANCELLED_RETENTION_DAYS = 30
+
+# Descriptions are truncated at a word boundary beyond this. Venue feeds in
+# particular pad every event with box office hours, share links and visitor
+# information, which is unreadable on a phone. The event URL is always emitted,
+# so nothing is lost that a tap cannot recover.
+MAX_DESCRIPTION_CHARS = 600
 
 # Sanity floor. If the default feed would carry fewer events than this,
 # something upstream has broken, so abort rather than overwrite a good feed

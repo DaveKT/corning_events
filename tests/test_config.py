@@ -109,9 +109,18 @@ def test_resolve_sources_ignores_the_enabled_flag_when_named():
     assert [s.source_id for s in resolved] == ["flxcalendar"]
 
 
-def test_main_exits_cleanly_when_nothing_is_enabled(capsys):
-    if config.enabled_sources():
-        pytest.skip("some sources are enabled, so this M0 path no longer applies")
+def test_main_exits_cleanly_when_nothing_is_enabled(capsys, monkeypatch):
+    # Sources are enabled as their parsers land, so disable them here rather
+    # than skipping: an empty selection must still exit zero and explain
+    # itself instead of crashing or producing an empty feed.
+    import dataclasses
+
+    disabled = {
+        key: dataclasses.replace(source, enabled=False)
+        for key, source in config.SOURCES.items()
+    }
+    monkeypatch.setattr(config, "SOURCES", disabled)
+
     assert main([]) == 0
     assert "No sources enabled." in capsys.readouterr().out
 

@@ -56,7 +56,10 @@ def strip_html(value: str | None) -> str | None:
     if value is None:
         return None
     if "<" not in value and "&" not in value:
-        return _collapse(value) or None
+        # Already plain text. Tidy it the same way as the HTML path rather
+        # than flattening: feeds that convert HTML themselves hand back runs
+        # of tabs and blank lines, but the paragraph breaks are still real.
+        return _tidy_lines(value.splitlines())
 
     soup = BeautifulSoup(value, "lxml")
     for tag in soup(["script", "style"]):
@@ -68,8 +71,12 @@ def strip_html(value: str | None) -> str | None:
         else:
             tag.insert_after("\n")
 
-    lines = [_collapse(line) for line in soup.get_text().splitlines()]
-    text = "\n".join(line for line in lines if line)
+    return _tidy_lines(soup.get_text().splitlines())
+
+
+def _tidy_lines(lines: list[str]) -> str | None:
+    cleaned = [_collapse(line) for line in lines]
+    text = "\n".join(line for line in cleaned if line)
     return text or None
 
 

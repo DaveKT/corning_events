@@ -3,13 +3,16 @@ Plan: Corning Events iCal Aggregator
 
 > Status: Underway
 
-M0 and M1 are complete. Implementation continues at M2, the Tier A parsers.
+M0, M1 and M2 are complete. Implementation continues at M3, deduplication.
+
+One source is blocked: ssclibrary is behind a Cloudflare bot challenge. See M2
+below and the owner action items in Part 4.
 
 | Milestone | Description | State |
 |---|---|---|
 | M0 | Scaffold and config | Complete |
 | M1 | Core plumbing: model, state, normalize, emitter | Complete |
-| M2 | Tier A sources | Not started |
+| M2 | Tier A sources | Complete, except ssclibrary |
 | M3 | Dedupe and persistence integration | Not started |
 | M4 | End to end feeds and publish surface | Not started |
 | M5 | Tier B scrapers | Not started |
@@ -411,35 +414,76 @@ timed event, a multi-day all-day event and a cancelled event emits correct
 `VALUE=DATE` bounds with an exclusive DTEND, folds a 500 character description
 and a multi-byte one within 75 octets, and reparses field for field.
 
-### M2: Tier A sources
+### M2: Tier A sources (Complete, except ssclibrary)
 
-`flxcalendar.py` fetches
-`https://timelyapp.time.ly/api/calendars/48240494/export?format=xml`, which is
-roughly 9.3 MB, using `iterparse` with `el.clear()` per spec section 4.6. The
-namespace is `urn:ietf:params:xml:ns:icalendar-2.0` and values are wrapped in
-type children, so `dtstart` contains `date-time`, `summary` contains `text`, and
-X-properties wrap their value in `unknown`. Extract per the spec section 4.2
-property table, expand RDATE, RRULE and EXDATE, split `x-tags` into `city_tag`
-and `county_tag`, drop `None` titles, strip HTML from descriptions, and split
-LOCATION on `" @ "`.
+Three of the four Tier A sources are implemented, enabled and verified against
+live data on 2026-08-09. A full run fetches 460 events: 443 from FLXcalendar
+and 17 from Clemens Center, distributed 116 Core, 139 Near, 205 Regional.
 
-`ssclibrary.py` and `clemenscenter.py` fetch the
-`?post_type=tribe_events&ical=1&eventDisplay=list` URLs from spec sections 3.2
-and 3.3, parse with `icalendar`, and map onto Event.
+**ssclibrary is blocked.** The host answers any non-browser request with a
+Cloudflare bot challenge and a 403. Getting past that would mean impersonating
+a browser to defeat a protection the site owner deliberately enabled, which is
+not something to do quietly on their infrastructure. The parser is written and
+tested, and the source is registered but disabled, so enabling it is a one line
+change once access is arranged. See Part 4 for the options.
 
-`ticketmaster.py` calls the Discovery API per spec section 3.4 with a fifty mile
-radius, pages through results, and reads its key from the environment variable
-`TICKETMASTER_API_KEY`. If that variable is absent the source skips with a
-warning rather than failing.
+**Ticketmaster is unverified against live data.** No API key was available, so
+the parser follows the documented Discovery API v2 schema and its fixture was
+built from that schema rather than captured. Every field access is defensive,
+so the likely failure mode is silently empty results rather than an exception.
+Re-record the fixture the first time a key is present.
 
-Save one real raw capture per source into `tests/fixtures/` and write parser
-tests against those fixtures, asserting counts, one fully checked record per
-source, and the recurrence expansion count for FLXcalendar.
+Four things differ from what the spec recorded on 2026-07-24, measured against
+a fresh export:
 
-*Verify:* `pytest` green, and
-`python -m corning_events.main --sources flxcalendar --dry-run` reports a
-plausible count. The spec measured roughly 262 future-dated records as of
-2026-07-24, so treat that as a range rather than an exact assertion.
+**`x-original-url` is empty on all 1503 FLXcalendar records.** Spec section 4.2
+lists it at 100 percent coverage and section 10 calls it the best dedupe
+signal. It is present as an empty element and carries nothing. Dedupe rule 1
+is therefore dead for FLXcalendar and M3 must lean on the title, venue and
+time rules. A test pins this, so if the curator ever starts populating it the
+test fails and rule 1 becomes available.
+
+**`rrule` is structured XML, not an RRULE string.** Children are `freq`,
+`until`, `byday` and `wkst`, reassembled into a string before dateutil can
+expand them.
+
+**All-day events exist and the spec's property table omits them.** Around 43
+records carry `date` rather than `date-time` values.
+
+**The category vocabulary is 45 labels, not the 30 in spec section 4.5.**
+Fifteen were missing, including Cars, Health, Science, Holidays, Teen and
+Support, and the spec spells "History and Heritage" where the feed uses an
+ampersand. Since unrecognised labels are dropped rather than passed through,
+the stale list would have silently discarded them. `CANONICAL_CATEGORIES` now
+matches the live vocabulary. Two city tags were also added, Waverly and Keuka
+Lake.
+
+Implementation notes worth carrying forward:
+
+- Occurrence `source_uid` values encode the full timestamp, not just the date
+  as the plan originally said. A series can legitimately run twice in one day,
+  and Timely's own permalinks are keyed the same way.
+- Occurrences outside the window from `PAST_WINDOW_DAYS` ago to `HORIZON_DAYS`
+  ahead are discarded at parse time. This settles spec section 15 question 1
+  in favour of discarding: there is no analytics use for the roughly 1,200
+  past records in each export, and keeping them would bloat a database that is
+  committed on every run.
+- Descriptions are capped at `MAX_DESCRIPTION_CHARS`. Venue feeds pad every
+  event with box office hours, share links and visitor information, which is
+  unreadable on a phone. The event URL is always emitted.
+- Venue-published feeds set `original_url` to their own event URL, since the
+  venue is the organizer. That gives dedupe rule 1 something to match on even
+  though FLXcalendar cannot supply it.
+- Clemens Center signals cancellation in the title, as "CANCELLED - Show Name",
+  rather than through STATUS. Spec section 11 says no source publishes
+  cancellations; this one does, informally. The title reads correctly to a
+  subscriber as is. M4 could optionally map such a prefix onto
+  `STATUS:CANCELLED`.
+
+*Verified:* 155 tests pass, all offline against fixtures pinned to a fixed
+capture time so counts cannot drift. `python -m corning_events.main --dry-run`
+fetches live and reports the counts above. Timezone handling was checked
+against event descriptions that state their own local start time.
 
 ### M3: Dedupe and persistence
 
@@ -522,8 +566,18 @@ These cannot be done by the implementing model.
 
 1. Register at `developer.ticketmaster.com`, which is free and immediate, and add
    the key as the repository secret `TICKETMASTER_API_KEY`. The pipeline runs
-   without it; Ticketmaster events simply will not appear.
-2. After M6, enable Pages in repository settings if the workflow has not, and
+   without it; Ticketmaster events simply will not appear. Doing this also
+   allows the Ticketmaster parser to be verified against a real response for
+   the first time.
+2. Decide what to do about the library feed, `ssclibrary`. Its host now answers
+   non-browser requests with a Cloudflare bot challenge, so the feed cannot be
+   fetched by an honest client and the source ships disabled. Options, roughly
+   in order of preference: ask the library to allow the aggregator's
+   User-Agent, since they publish the feed for public subscription and the
+   request is one GET per day; accept the partial coverage that already comes
+   through FLXcalendar and, from M5, the Chamber of Commerce; or reconsider
+   Burbio, dropped in Part 1 adjustment 4, which aggregates library calendars.
+3. After M6, enable Pages in repository settings if the workflow has not, and
    subscribe on both phones through the webcal links on the index page. On
    Android and Google Calendar, expect multi-hour refresh lag per spec section
    9.3.

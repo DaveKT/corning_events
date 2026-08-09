@@ -1,0 +1,92 @@
+{
+  "_comment": "Built from the documented Discovery API v2 schema, not from a live capture: no API key was available when the parser was written. Re-record this from a real response the first time a key is present. See corning_events/sources/ticketmaster.py.",
+  "_embedded": {
+    "events": [
+      {
+        "name": "The Touring Band",
+        "id": "vvG1zZ9abcdef",
+        "url": "https://www.ticketmaster.com/event/vvG1zZ9abcdef",
+        "info": "Doors open at 6:30pm. All ages welcome.",
+        "dates": {
+          "start": {
+            "localDate": "2026-08-22",
+            "localTime": "19:30:00",
+            "dateTime": "2026-08-22T23:30:00Z",
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "status": { "code": "onsale" },
+          "spanMultipleDays": false
+        },
+        "classifications": [
+          {
+            "segment": { "name": "Music" },
+            "genre": { "name": "Rock" },
+            "subGenre": { "name": "Pop" }
+          }
+        ],
+        "priceRanges": [
+          { "type": "standard", "currency": "USD", "min": 25.0, "max": 75.0 }
+        ],
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Tag's Summer Stage",
+              "city": { "name": "Big Flats" },
+              "state": { "stateCode": "NY" },
+              "postalCode": "14814",
+              "address": { "line1": "3037 Watkins Road" },
+              "location": { "longitude": "-76.9319", "latitude": "42.1428" }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Comedy Night",
+        "id": "vvG1zZ9ghijkl",
+        "url": "https://www.ticketmaster.com/event/vvG1zZ9ghijkl",
+        "dates": {
+          "start": {
+            "localDate": "2026-09-05",
+            "dateTBA": false,
+            "timeTBA": true,
+            "noSpecificTime": true
+          },
+          "status": { "code": "onsale" }
+        },
+        "classifications": [
+          {
+            "segment": { "name": "Arts & Theatre" },
+            "genre": { "name": "Comedy" },
+            "subGenre": { "name": "Undefined" }
+          }
+        ],
+        "priceRanges": [
+          { "type": "standard", "currency": "USD", "min": 30.0, "max": 30.0 }
+        ],
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Clemens Center",
+              "city": { "name": "Elmira" },
+              "state": { "stateCode": "NY" },
+              "address": { "line1": "207 Clemens Center Parkway" },
+              "location": { "longitude": "-76.8077", "latitude": "42.0898" }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Event With Almost No Metadata",
+        "id": "vvG1zZ9mnopqr",
+        "url": "https://www.ticketmaster.com/event/vvG1zZ9mnopqr",
+        "dates": {
+          "start": { "localDate": "2026-08-30", "dateTime": "2026-08-30T18:00:00Z" }
+        },
+        "_embedded": { "venues": [] }
+      }
+    ]
+  },
+  "page": { "size": 200, "totalElements": 3, "totalPages": 1, "number": 0 }
+}

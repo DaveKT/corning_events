@@ -12,10 +12,14 @@ from __future__ import annotations
 
 import argparse
 import sys
+from collections import Counter
+from dataclasses import dataclass, field
 from pathlib import Path
 
-from . import config
+from . import config, normalize
+from .http import Fetcher
 from .sources import FETCHERS
+from .sources.ticketmaster import MissingApiKey
 
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
@@ -70,6 +74,11 @@ def resolve_sources(requested: str | None) -> list[config.SourceConfig]:
 
 
 def main(argv: list[str] | None = None) -> int:
+    # Line buffered so progress interleaves correctly with anything written to
+    # stderr, which matters when the output is piped or captured by CI.
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(line_buffering=True)
+
     args = parse_args(argv)
     selected = resolve_sources(args.sources)
 
@@ -100,10 +109,80 @@ def main(argv: list[str] | None = None) -> int:
             "No fetcher registered for: " + ", ".join(sorted(unimplemented))
         )
 
+    results = fetch_all(selected)
+    report(results)
+
     raise SystemExit(
-        "The pipeline is not implemented yet. M1 adds the model, state store, "
-        "normalizers and emitter; M2 adds the Tier A parsers."
+        "Fetching works; the rest of the pipeline does not exist yet. M3 adds "
+        "deduplication and persistence, M4 emits the feeds."
     )
+
+
+@dataclass
+class FetchResult:
+    """Outcome of one source's fetch.
+
+    ``ok`` distinguishes a source that genuinely returned nothing from one
+    that failed. Only the former may ever drive cancellation (build plan,
+    Part 1 adjustment 3).
+    """
+
+    source_id: str
+    ok: bool
+    events: list = field(default_factory=list)
+    note: str | None = None
+
+    @property
+    def count(self) -> int:
+        return len(self.events)
+
+
+def fetch_all(selected: list[config.SourceConfig]) -> list[FetchResult]:
+    """Fetch every selected source, isolating failures to one source.
+
+    One broken parser must never take the pipeline down with it: the other
+    sources still have events to publish, and the failed source's previous
+    events stay untouched rather than looking cancelled.
+    """
+    results = []
+    with Fetcher() as http:
+        for source in selected:
+            print(f"  fetching {source.source_id} ...", end=" ", flush=True)
+            try:
+                events = FETCHERS[source.source_id](http)
+            except MissingApiKey as exc:
+                print("skipped")
+                results.append(FetchResult(source.source_id, ok=False, note=str(exc)))
+            except Exception as exc:
+                print("FAILED")
+                results.append(
+                    FetchResult(
+                        source.source_id,
+                        ok=False,
+                        note=f"{type(exc).__name__}: {exc}",
+                    )
+                )
+            else:
+                print(f"{len(events)} events")
+                results.append(FetchResult(source.source_id, ok=True, events=events))
+    return results
+
+
+def report(results: list[FetchResult]) -> None:
+    total = sum(r.count for r in results if r.ok)
+    rings = Counter(
+        normalize.classify_ring(event)
+        for result in results
+        if result.ok
+        for event in result.events
+    )
+
+    print(f"\n{total} events fetched")
+    if rings:
+        print("  by ring: " + ", ".join(f"{r}={rings[r]}" for r in config.RING_ORDER if rings[r]))
+    for result in results:
+        if not result.ok:
+            print(f"  {result.source_id}: {result.note}")
 
 
 if __name__ == "__main__":
