@@ -1,0 +1,7 @@
+# Runtime dependencies. This list is fixed by the build plan, Part 1
+# adjustment 1. Do not add to it without revisiting that decision.
+requests>=2.31
+icalendar>=6.0
+python-dateutil>=2.9
+beautifulsoup4>=4.12
+lxml>=5.2

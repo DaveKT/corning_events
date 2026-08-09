@@ -1,0 +1,3 @@
+# Keeps the directory tracked. events.db appears on the first real run
+# and is committed, because cross-run state drives stable UIDs, SEQUENCE
+# increments and cancellation detection.

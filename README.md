@@ -12,7 +12,8 @@ other client and see the events alongside their own.
 
 ## Status
 
-Planning complete, implementation not yet started. See
+Scaffold and configuration are in place; no source parsers are implemented yet,
+so every source is switched off. See
 [the plan](plans/2026-08-corning-events-ical-aggregator.md) for the current
 milestone state. The feed URLs below will not resolve until milestone M6 lands.
 
@@ -53,19 +54,24 @@ repository root or from `/docs`.
 
 ## Running locally
 
+Requires Python 3.11 or newer. The editable install is what puts
+`corning_events` on the path for both the CLI and the tests.
+
 ```bash
-pip install -r requirements.txt
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements-dev.txt
+pip install -e .
 python -m corning_events.main --dry-run
 ```
 
 Useful flags: `--sources flxcalendar,ssclibrary` limits the run to named
-sources, `--dry-run` skips writing feeds and state, and `--db PATH` points at an
-alternative state database.
+sources and runs them even while disabled in config, which is how a parser
+under development gets exercised. `--dry-run` skips writing feeds and state,
+and `--db PATH` points at an alternative state database.
 
 Tests run offline against saved fixtures:
 
 ```bash
-pip install -r requirements-dev.txt
 pytest
 ```
 
@@ -90,9 +96,12 @@ request would wipe a subscriber's calendar.
 ## Adding a source
 
 Write a module in `src/corning_events/sources/` exposing a fetch function that
-returns a list of `Event`, register it in `sources/__init__.py`, add a config
-entry with a default ring, and save one raw capture into `tests/fixtures/` with
-a parser test against it. Nothing else in the pipeline needs to change.
+returns a list of `Event`, following the contract documented in
+[`sources/base.py`](src/corning_events/sources/base.py). Register it in the
+`FETCHERS` map in `sources/__init__.py`, add a matching `SourceConfig` to
+`config.SOURCES` with a default ring and trust band, and save one raw capture
+into `tests/fixtures/` with a parser test against it. Nothing else in the
+pipeline needs to change.
 
 ## Attribution and etiquette
 

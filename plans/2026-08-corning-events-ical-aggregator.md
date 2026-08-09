@@ -3,12 +3,11 @@ Plan: Corning Events iCal Aggregator
 
 > Status: Underway
 
-Repository bootstrap (git, `plans/`, README) is complete. No milestone code has
-been written yet. Implementation begins at M0.
+Repository bootstrap and M0 are complete. Implementation continues at M1.
 
 | Milestone | Description | State |
 |---|---|---|
-| M0 | Scaffold and config | Not started |
+| M0 | Scaffold and config | Complete |
 | M1 | Core plumbing: model, state, normalize, emitter | Not started |
 | M2 | Tier A sources | Not started |
 | M3 | Dedupe and persistence integration | Not started |
@@ -167,6 +166,8 @@ level, and reference material such as the source spec in `plans/spec/`.
 ```
 corning_events/
   README.md
+  pyproject.toml            packaging and pytest config. Runtime deps are read
+                            from requirements.txt, not duplicated here
   requirements.txt          requests, icalendar, python-dateutil,
                             beautifulsoup4, lxml
   requirements-dev.txt      pytest
@@ -189,8 +190,8 @@ corning_events/
     feeds.py                filtering, VEVENT assembly, emission, validation
     main.py                 orchestrator. CLI: --sources, --dry-run, --db
     sources/
-      __init__.py           SOURCES registry mapping source_id to fetch fn
-      base.py               shared helpers for source modules
+      __init__.py           FETCHERS registry mapping source_id to fetch fn
+      base.py               the fetch contract, plus shared helpers
       flxcalendar.py        xCal via ElementTree.iterparse, spec section 4.6
       ssclibrary.py         Tribe .ics via icalendar
       clemenscenter.py      Tribe .ics via icalendar
@@ -339,17 +340,38 @@ overwriting the existing files and exit nonzero.
 Execute in order. Each milestone ends when its own verification passes. Commit
 once per milestone.
 
-### M0: Scaffold
+### M0: Scaffold (Complete)
 
-Create the layout above, the two requirements files, empty modules, and wire
-pytest. `config.py` holds the anchor coordinates, the ring tables, a source
-registry with a per-source enabled flag, the two feed definitions (`corning-core`
-covering Core and Near, `flx-all` covering Core, Near and Regional), the
-User-Agent string, the twelve month horizon, and the thirty day cancellation
-retention.
+The layout above exists, with `config.py` carrying the anchor coordinates, ring
+tables, source registry, feed definitions, User-Agent, horizon and retention
+windows. Every other module is a docstring stub naming the milestone that fills
+it in. All eight sources are registered with `enabled=False`; each milestone
+switches on the sources it implements.
 
-*Verify:* `pytest` runs and reports zero tests without error, and
-`python -m corning_events.main --dry-run` prints that no sources are enabled.
+Two decisions were taken during implementation that the plan had left open.
+
+**Packaging.** The `src/` layout means neither `pytest` nor
+`python -m corning_events.main` can find the package without help. Rather than
+require a `PYTHONPATH` prefix that is easy to forget and fails with a confusing
+ImportError, the repository carries a minimal `pyproject.toml` and is installed
+editable with `pip install -e .`. `requirements.txt` remains the single source
+of truth for runtime dependencies; `pyproject.toml` reads it through
+`dynamic = ["dependencies"]` so the two cannot drift. Homebrew Python is
+externally managed under PEP 668, so a `.venv` is required locally.
+
+**Registry naming.** The fetch function registry in `sources/__init__.py` is
+called `FETCHERS`, not `SOURCES`, so that it is never confused with
+`config.SOURCES`, which holds the `SourceConfig` metadata. The two are held in
+step by a test.
+
+M0 also ships thirteen tests rather than the zero the milestone strictly
+required. They cover the seams where later milestones are most likely to drift:
+a source module without a matching `SourceConfig`, a mistyped ring name, a
+category alias pointing at a name that does not exist, and feed definitions
+that overlap or reference invalid rings.
+
+*Verified:* `pytest` reports 13 passed, and `python -m corning_events.main
+--dry-run` reports that no sources are enabled and exits zero.
 
 ### M1: Core plumbing
 
