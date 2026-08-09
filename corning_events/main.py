@@ -14,10 +14,12 @@ import argparse
 import sys
 from collections import Counter
 from dataclasses import dataclass, field
+from datetime import datetime
 from pathlib import Path
 
-from . import config, normalize
+from . import config, dedupe, feeds, normalize, state
 from .http import Fetcher
+from .model import UTC
 from .sources import FETCHERS
 from .sources.ticketmaster import MissingApiKey
 
@@ -109,13 +111,118 @@ def main(argv: list[str] | None = None) -> int:
             "No fetcher registered for: " + ", ".join(sorted(unimplemented))
         )
 
+    run_at = datetime.now(UTC)
     results = fetch_all(selected)
     report(results)
 
+    conn = state.connect(args.db)
+    try:
+        persist(conn, results, run_at)
+        known = state.all_raw_events(conn)
+        clusters = dedupe.deduplicate(known)
+        pinned, retired = pin_clusters(conn, clusters)
+
+        print(f"\n{len(known)} stored events -> {len(pinned)} published events")
+        merged = sum(1 for _, _, members in pinned if len(members) > 1)
+        print(f"  {merged} formed from more than one source")
+        if retired:
+            print(f"  {len(retired)} previously published UIDs absorbed by another cluster")
+
+        if args.dry_run:
+            conn.rollback()
+            print("  dry run: state rolled back")
+        else:
+            conn.commit()
+        outage = critical_outage(conn, results)
+    finally:
+        conn.close()
+
+    if outage:
+        raise SystemExit(outage)
+
     raise SystemExit(
-        "Fetching works; the rest of the pipeline does not exist yet. M3 adds "
-        "deduplication and persistence, M4 emits the feeds."
+        "Deduplication and persistence work; feed emission does not exist yet. "
+        "M4 wires cancellation and writes the .ics files."
     )
+
+
+def persist(conn, results: list["FetchResult"], run_at: datetime) -> None:
+    """Store this run's events and record each source's outcome.
+
+    A source that failed is logged but its stored events are left exactly as
+    they were, so the next stage still publishes them and cancellation cannot
+    misread an outage as every event disappearing at once.
+    """
+    for result in results:
+        if result.ok:
+            state.upsert_raw_events(conn, result.events, run_at)
+        state.record_fetch(
+            conn,
+            result.source_id,
+            run_at,
+            ok=result.ok,
+            event_count=result.count,
+            note=result.note,
+        )
+
+
+def pin_clusters(conn, clusters: list[tuple]) -> tuple[list[tuple], list[str]]:
+    """Attach a stable published UID to each cluster.
+
+    A UID is minted once, the first time a cluster appears, and reused for the
+    life of that cluster no matter which source later wins field resolution.
+    Regenerating it would make every subscriber's calendar accumulate a fresh
+    copy of the same event (build plan, Part 1 adjustment 6).
+    """
+    pinned = []
+    retired: list[str] = []
+
+    for resolved, members in clusters:
+        keys = [member.key for member in members]
+        existing = [row for row in (state.cluster_for_member(conn, key) for key in keys) if row]
+
+        if not existing:
+            uid = feeds.mint_uid(members[0])
+            state.create_cluster(conn, uid, keys)
+        else:
+            # Two clusters can converge once a source fills in a field that
+            # had been missing. The oldest keeps its UID, since its events are
+            # the ones already sitting in subscribers' calendars.
+            survivor = min(existing, key=lambda row: row["cluster_id"])
+            uid = survivor["published_uid"]
+            for row in {row["cluster_id"]: row for row in existing}.values():
+                if row["cluster_id"] != survivor["cluster_id"]:
+                    retired.append(row["published_uid"])
+                    state.delete_cluster(conn, row["cluster_id"])
+            state.update_cluster_members(conn, survivor["cluster_id"], keys)
+
+        pinned.append((uid, resolved, members))
+
+    return pinned, retired
+
+
+def critical_outage(conn, results: list["FetchResult"]) -> str | None:
+    """Report a sustained outage of the highest volume source.
+
+    A quietly shrinking feed is worse than a failed build: nobody notices it
+    until someone misses an event. Returning a message rather than exiting
+    lets the caller finish writing state first.
+    """
+    for result in results:
+        if result.source_id != "flxcalendar" or result.ok:
+            continue
+        print(
+            f"\nWARNING: {result.source_id} failed. Its stored events are "
+            "retained and nothing has been cancelled."
+        )
+        failures = state.consecutive_failures(conn, result.source_id)
+        if failures >= config.FLX_FAILURE_LIMIT:
+            return (
+                f"{result.source_id} has failed {failures} runs in a row, at or "
+                f"over the limit of {config.FLX_FAILURE_LIMIT}. Failing the run "
+                "so this surfaces as an alert rather than a shrinking feed."
+            )
+    return None
 
 
 @dataclass

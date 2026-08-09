@@ -356,3 +356,70 @@ def test_a_missing_api_key_is_a_skip_not_a_failure(monkeypatch):
 
     assert results[0].ok is False
     assert "developer.ticketmaster.com" in results[0].note
+
+
+def test_a_failed_source_keeps_its_stored_events(tmp_path):
+    """The core of the outage guard.
+
+    A source that fails must leave its previous events in place. If they were
+    dropped, the next stage would read the absence as every one of them being
+    cancelled, and two phones would lose a source's worth of calendar.
+    """
+    from corning_events import main as main_module
+    from corning_events import state
+
+    db = tmp_path / "state.db"
+    conn = state.connect(db)
+    run_one = datetime(2026, 8, 9, 9, 0, tzinfo=UTC)
+    run_two = datetime(2026, 8, 10, 9, 0, tzinfo=UTC)
+
+    stored = Event(
+        source_id="flxcalendar",
+        source_uid="keep-me",
+        title="Still Scheduled",
+        start=CAPTURED_AT + timedelta(days=30),
+    )
+    main_module.persist(
+        conn, [main_module.FetchResult("flxcalendar", ok=True, events=[stored])], run_one
+    )
+
+    # The next run fails outright.
+    main_module.persist(
+        conn,
+        [main_module.FetchResult("flxcalendar", ok=False, note="timeout")],
+        run_two,
+    )
+
+    assert state.get_raw_event(conn, "flxcalendar", "keep-me") is not None
+    assert state.consecutive_failures(conn, "flxcalendar") == 1
+    # last_seen must not have advanced, or the event would look re-confirmed.
+    row = conn.execute("SELECT last_seen FROM raw_events").fetchone()
+    assert row["last_seen"] == run_one.isoformat()
+    conn.close()
+
+
+def test_a_sustained_outage_of_the_main_source_fails_the_run(tmp_path):
+    from corning_events import main as main_module
+    from corning_events import state
+
+    conn = state.connect(tmp_path / "state.db")
+    failure = main_module.FetchResult("flxcalendar", ok=False, note="timeout")
+
+    for day in range(config.FLX_FAILURE_LIMIT):
+        main_module.persist(conn, [failure], datetime(2026, 8, 9 + day, 9, 0, tzinfo=UTC))
+
+    message = main_module.critical_outage(conn, [failure])
+    assert message and "failed" in message
+    conn.close()
+
+
+def test_a_single_failure_does_not_fail_the_run(tmp_path):
+    from corning_events import main as main_module
+    from corning_events import state
+
+    conn = state.connect(tmp_path / "state.db")
+    failure = main_module.FetchResult("flxcalendar", ok=False, note="timeout")
+    main_module.persist(conn, [failure], datetime(2026, 8, 9, 9, 0, tzinfo=UTC))
+
+    assert main_module.critical_outage(conn, [failure]) is None
+    conn.close()

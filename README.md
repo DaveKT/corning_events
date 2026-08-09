@@ -12,9 +12,9 @@ other client and see the events alongside their own.
 
 ## Status
 
-The pipeline fetches and parses live data from FLXcalendar and the Clemens
-Center, around 460 events per run. Deduplication and feed publication are not
-built yet, so no `.ics` file is produced. See
+The pipeline fetches live data, deduplicates it across sources and stores it:
+around 460 events per run, resolving to 458 after merging. Feed emission is
+not wired yet, so no `.ics` file is produced. See
 [the plan](plans/2026-08-corning-events-ical-aggregator.md) for the current
 milestone state. The feed URLs below will not resolve until milestone M6 lands.
 

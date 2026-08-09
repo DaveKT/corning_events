@@ -242,6 +242,19 @@ def _set_members(
     )
 
 
+def delete_cluster(conn: sqlite3.Connection, cluster_id: int) -> None:
+    """Drop a cluster whose members have been absorbed by another.
+
+    Happens when two records that looked distinct turn out to be the same
+    event, usually because a source filled in a field that had been missing.
+    The surviving cluster keeps its UID; the caller is responsible for
+    cancelling the retired one so it does not simply vanish from subscribers'
+    calendars.
+    """
+    conn.execute("DELETE FROM cluster_members WHERE cluster_id = ?", (cluster_id,))
+    conn.execute("DELETE FROM clusters WHERE cluster_id = ?", (cluster_id,))
+
+
 def all_clusters(conn: sqlite3.Connection) -> list[sqlite3.Row]:
     return conn.execute(
         "SELECT cluster_id, published_uid, member_keys FROM clusters"

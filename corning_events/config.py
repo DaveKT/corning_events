@@ -382,6 +382,16 @@ TITLE_SIMILARITY_THRESHOLD = 0.85
 # Coordinates within this distance are treated as the same venue.
 GEO_MATCH_METRES = 150.0
 
+# How completely the shorter title's words must sit inside the longer one's
+# for the containment rule to fire. Character similarity punishes an added
+# suffix, so this catches pairs like "Wise Crackers All Stars" against "Wise
+# Crackers All Stars Comedy Show", which scores only 0.79 by character.
+TITLE_CONTAINMENT_THRESHOLD = 0.9
+
+# Containment is not trusted below this many words. A one word title matches
+# far too much to merge on.
+MIN_TITLE_TOKENS = 2
+
 # Suffix appended to every published UID. UIDs are minted once per cluster and
 # never regenerated, because a changing UID makes subscribers accumulate
 # duplicates (build plan, Part 1 adjustment 6).

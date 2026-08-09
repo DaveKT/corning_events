@@ -3,17 +3,18 @@ Plan: Corning Events iCal Aggregator
 
 > Status: Underway
 
-M0, M1 and M2 are complete. Implementation continues at M3, deduplication.
+M0 through M3 are complete. Implementation continues at M4, feed emission.
 
-One source is blocked: ssclibrary is behind a Cloudflare bot challenge. See M2
-below and the owner action items in Part 4.
+The library source stays disabled by decision of the owner: partial coverage
+through FLXcalendar and, from M5, the Chamber of Commerce is accepted for now.
+See M2 and the owner action items in Part 4.
 
 | Milestone | Description | State |
 |---|---|---|
 | M0 | Scaffold and config | Complete |
 | M1 | Core plumbing: model, state, normalize, emitter | Complete |
 | M2 | Tier A sources | Complete, except ssclibrary |
-| M3 | Dedupe and persistence integration | Not started |
+| M3 | Dedupe and persistence integration | Complete |
 | M4 | End to end feeds and publish surface | Not started |
 | M5 | Tier B scrapers | Not started |
 | M6 | GitHub Actions and Pages | Not started |
@@ -485,16 +486,71 @@ capture time so counts cannot drift. `python -m corning_events.main --dry-run`
 fetches live and reports the counts above. Timezone handling was checked
 against event descriptions that state their own local start time.
 
-### M3: Dedupe and persistence
+### M3: Dedupe and persistence (Complete)
 
-Implement `dedupe.py` per Part 2 and wire pipeline steps 1 through 4 in
-`main.py`, upserting `raw_events` and minting or looking up clusters.
+`dedupe.py` implements the cascade and field resolution; `main.py` now runs
+fetch, persist, deduplicate and cluster pinning. A live run reduces 460 fetched
+events to 458 published ones, merging the two genuine duplicates present.
 
-Tests cover synthetic fixtures exercising each cascade rule, a museum-style event
-present in three sources collapsing to one, and UID pinning surviving a change of
-canonical source between two runs.
+**The cascade as specified caught neither real duplicate in the data.** Four
+adjustments were needed, each forced by measurement rather than taste.
 
-*Verify:* run twice against fixtures; the second run mints zero new clusters.
+*Only records from different sources are compared.* A source has already
+deduplicated itself, so two of its records are two different things.
+FLXcalendar lists four separate showtimes for one theatre run; under the
+specified rules they shared a title, a venue and a local date, and would have
+collapsed into one, silently deleting three performances.
+
+*Candidates bucket by local date, not UTC date.* An 8pm local event is already
+tomorrow in UTC. In the 2026-08-09 capture that split 17 of 58 evening events
+away from their own duplicates. All-day events need the opposite treatment:
+they are stored at UTC midnight, so converting them to local time moves them
+to 8pm the previous day, and their stored date is used as it stands.
+
+*A missing venue counts as unknown, not as a mismatch.* Spec section 10 has
+rules 2 and 3 require equal venues, but the Clemens Center feed publishes no
+LOCATION at all, so under that reading none of its events could ever match
+their FLXcalendar counterparts. Comparison now stays eligible when either side
+lacks a venue, with city tags checked the same way to keep the looser rule
+honest. Measured risk: the capture holds 6 same-title same-day groups and all
+6 sit at a single venue, so nothing merges that should not.
+
+*A containment rule was added as rule 5.* Character similarity punishes an
+added suffix. "Wise Crackers All Stars" against "Wise Crackers All Stars
+Comedy Show" scores 0.79 against a 0.85 threshold, at the same instant in the
+same room. Word containment scores it 1.0. Titles shorter than
+`MIN_TITLE_TOKENS` are excluded, since a one word title matches far too much.
+
+Title normalization also now strips leading status markers such as
+"CANCELLED -". They describe an event's state, not its identity, and left in
+place they stop the same event matching across sources.
+
+**Field resolution fills gaps rather than taking the winner wholesale.** The
+most trusted member sets identity and timing, since venue sites are
+authoritative on times and cancellations while aggregators lag. Every other
+field falls back through the remaining members in trust order. That is how the
+Clemens Center record, which carries no location, ends up published with the
+venue name, city and coordinates FLXcalendar supplied, while keeping the
+venue's own "CANCELLED - " title that the aggregator had not yet caught.
+Venue with address, and latitude with longitude, move as pairs: half a location
+from each source would invent a place that does not exist.
+
+**Converging clusters retire a UID.** Two records that looked distinct can
+become one once a source fills in a missing field. The older cluster keeps its
+UID, because its events are the ones already sitting in subscribers'
+calendars, and the newer UID is returned as retired. M4 must emit those as
+`STATUS:CANCELLED` rather than letting them vanish.
+
+Also wired: `critical_outage` fails the run once FLXcalendar has failed
+`FLX_FAILURE_LIMIT` times consecutively, so a sustained outage surfaces as an
+alert instead of a quietly shrinking feed. `--dry-run` now runs the full
+pipeline against the real database and rolls back, so its output is accurate
+rather than a simulation against an empty store.
+
+*Verified:* 185 tests pass. Two consecutive live runs against one database
+produce 458 clusters both times, mint zero new UIDs on the second, preserve
+`first_seen` while advancing `last_seen` on all 460 rows, and leave the two
+multi-source clusters intact.
 
 ### M4: End to end feeds and publish surface
 

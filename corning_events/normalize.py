@@ -9,7 +9,7 @@ from __future__ import annotations
 import math
 import re
 import unicodedata
-from datetime import datetime
+from datetime import date, datetime
 from zoneinfo import ZoneInfo
 
 from bs4 import BeautifulSoup
@@ -27,6 +27,14 @@ _LOCATION_SEPARATOR = " @ "
 
 # A trailing "@ Venue" fragment that aggregators append to titles.
 _TRAILING_VENUE = re.compile(r"\s+@\s+.+$")
+
+# Status decorations venues put in front of a title. They describe the state of
+# an event rather than its identity, so they must not stop the same event
+# matching across sources. Clemens Center publishes "CANCELLED - Show Name".
+_STATUS_PREFIX = re.compile(
+    r"^\s*(cancelled|canceled|postponed|rescheduled|sold\s*out|new\s*date)\b[\s:;,.\-]*",
+    re.IGNORECASE,
+)
 
 # Elements that imply a line break when HTML is flattened to text.
 _BLOCK_TAGS = (
@@ -92,7 +100,8 @@ def normalize_title(title: str, venue: str | None = None) -> str:
     strips punctuation and whitespace, and removes both a leading venue name
     prefix and a trailing ``@ Venue`` fragment (build plan, dedupe cascade).
     """
-    text = _TRAILING_VENUE.sub("", title)
+    text = _STATUS_PREFIX.sub("", title)
+    text = _TRAILING_VENUE.sub("", text)
     text = _fold(text)
 
     if venue:
@@ -101,6 +110,24 @@ def normalize_title(title: str, venue: str | None = None) -> str:
             text = text[len(prefix) :].strip()
 
     return text
+
+
+def title_tokens(title: str, venue: str | None = None) -> frozenset[str]:
+    """Word set of a normalized title, for containment comparison."""
+    return frozenset(normalize_title(title, venue).split())
+
+
+def containment(left: frozenset[str], right: frozenset[str]) -> float:
+    """How completely the smaller word set sits inside the larger one.
+
+    Character similarity punishes an added suffix, so "Wise Crackers All
+    Stars" and "Wise Crackers All Stars Comedy Show" score only 0.79 against a
+    0.85 threshold despite plainly being the same show. Containment scores
+    that pair 1.0 while still separating genuinely different titles.
+    """
+    if not left or not right:
+        return 0.0
+    return len(left & right) / min(len(left), len(right))
 
 
 def normalize_venue(venue: str | None) -> str:
@@ -161,6 +188,20 @@ def canonical_categories(raw: object) -> tuple[str, ...]:
 # ---------------------------------------------------------------------------
 # Time
 # ---------------------------------------------------------------------------
+
+
+def local_date(event: Event) -> date:
+    """The calendar date an event falls on, as a person in Corning sees it.
+
+    Bucketing by UTC date would be wrong twice over. An 8pm local event is
+    already the next day in UTC, which split 17 of 58 evening events in the
+    2026-08-09 capture. And an all-day event is stored at UTC midnight, so
+    converting it to local time moves it to 8pm the previous day. All-day
+    values are date-valued and carry no zone, so they are used as they stand.
+    """
+    if event.all_day:
+        return event.start.date()
+    return event.start.astimezone(_LOCAL_ZONE).date()
 
 
 def to_utc(value: datetime, tz: str | ZoneInfo | None = None) -> datetime:
