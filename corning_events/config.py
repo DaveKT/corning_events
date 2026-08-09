@@ -296,6 +296,8 @@ class FeedConfig:
         description: X-WR-CALDESC, shown by some clients.
         rings: Rings included. Everything else is filtered out.
         categories: Canonical categories included, or None for all.
+        min_events: Refuse to publish this feed with fewer events than this.
+            A narrow feed added later needs a lower floor than a broad one.
     """
 
     slug: str
@@ -303,6 +305,7 @@ class FeedConfig:
     description: str
     rings: tuple[str, ...]
     categories: frozenset[str] | None = None
+    min_events: int = 5
 
     @property
     def filename(self) -> str:
@@ -355,6 +358,10 @@ PAST_WINDOW_DAYS = 1
 
 # Events starting beyond this are dropped. Also bounds RRULE expansion.
 HORIZON_DAYS = 365
+
+# Stored events whose start is older than this are dropped, to bound a
+# database that is committed to the repository on every run.
+RAW_EVENT_RETENTION_DAYS = 90
 
 # A cancelled event stays in the feed this long so subscribers see that it was
 # cancelled rather than watching it silently vanish (spec section 9.2).

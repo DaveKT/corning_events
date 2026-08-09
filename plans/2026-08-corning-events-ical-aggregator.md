@@ -3,7 +3,9 @@ Plan: Corning Events iCal Aggregator
 
 > Status: Underway
 
-M0 through M3 are complete. Implementation continues at M4, feed emission.
+M0 through M4 are complete. The feeds are generated and valid; they are not
+reachable yet, because publishing them needs M6. Implementation continues at
+M5, the Tier B scrapers.
 
 The library source stays disabled by decision of the owner: partial coverage
 through FLXcalendar and, from M5, the Chamber of Commerce is accepted for now.
@@ -15,7 +17,7 @@ See M2 and the owner action items in Part 4.
 | M1 | Core plumbing: model, state, normalize, emitter | Complete |
 | M2 | Tier A sources | Complete, except ssclibrary |
 | M3 | Dedupe and persistence integration | Complete |
-| M4 | End to end feeds and publish surface | Not started |
+| M4 | End to end feeds and publish surface | Complete |
 | M5 | Tier B scrapers | Not started |
 | M6 | GitHub Actions and Pages | Not started |
 
@@ -538,8 +540,15 @@ from each source would invent a place that does not exist.
 **Converging clusters retire a UID.** Two records that looked distinct can
 become one once a source fills in a missing field. The older cluster keeps its
 UID, because its events are the ones already sitting in subscribers'
-calendars, and the newer UID is returned as retired. M4 must emit those as
-`STATUS:CANCELLED` rather than letting them vanish.
+calendars, and the newer UID is returned as retired.
+
+This note originally said M4 should emit those as `STATUS:CANCELLED`. That was
+wrong, and M4 does the opposite. Nothing has been cancelled: the event is still
+in the feed under the surviving UID, so marking the retired one cancelled would
+show "cancelled" beside a live copy of the same event. The retired UID is
+simply forgotten and the client drops it, which is the correct outcome. Spec
+section 9.2's rule against silent removal is about an event disappearing
+upstream, not about our own deduplication improving.
 
 Also wired: `critical_outage` fails the run once FLXcalendar has failed
 `FLX_FAILURE_LIMIT` times consecutively, so a sustained outage surfaces as an
@@ -552,21 +561,50 @@ produce 458 clusters both times, mint zero new UIDs on the second, preserve
 `first_seen` while advancing `last_seen` on all 460 rows, and leave the two
 multi-source clusters intact.
 
-### M4: End to end feeds and publish surface
+### M4: End to end feeds and publish surface (Complete)
 
-Wire cancellation, filtering and emission, then write `docs/index.html` as a
-plain page describing what the feeds are, linking both in `https://` and
-`webcal://` form, and carrying the attribution note.
+The pipeline now produces its deliverable. A live run writes
+`docs/corning-core.ics` with 253 events, `docs/flx-all.ics` with 458, and
+`docs/index.html` carrying the subscribe links. Both feeds reparse cleanly,
+fold within 75 octets and use CRLF throughout.
 
-The idempotency test is the critical one: run main twice back to back against
-fixtures and require the two `.ics` outputs to be byte-identical except for
-DTSTAMP lines, with no SEQUENCE changed. The cancellation test removes one
-future-dated fixture record, runs, and asserts `STATUS:CANCELLED` with a SEQUENCE
-bump; it then simulates a failed fetch by having a source raise, and asserts that
-nothing was cancelled.
+**Idempotency holds against live data.** Two consecutive real runs produce
+byte-identical `.ics` files once DTSTAMP is redacted, and bump no SEQUENCE.
+That is the property that stops every client re-notifying daily.
 
-*Verify:* import `corning-core.ics` into a calendar client locally and eyeball
-ten events for sane times, titles and locations.
+**Cancellation is guarded three ways.** An event only becomes
+`STATUS:CANCELLED` when every member of its cluster has gone from a source
+that both succeeded and returned something. A failed fetch, an empty parse and
+a single source failing beside a healthy one are each covered by a test
+asserting nothing is cancelled. A cancelled event keeps its original
+`cancelled_at`, since refreshing it each run would push the retention deadline
+forward forever and the event would never leave the feed.
+
+**Validation runs before anything is written**, so a broken run leaves the
+previous good files untouched. The sanity floor is per feed rather than global,
+because a narrow category feed added later would need a lower one than these
+two.
+
+Three decisions worth recording:
+
+*Retired UIDs are forgotten, not cancelled.* See the correction in M3 above.
+
+*The state schema was split to keep the committed database small.* `last_seen`
+moved out of `raw_events` into its own `seen` table, and a payload is only
+rewritten when it actually changes. Before the split every row changed on every
+run, so the whole 1.4 MB file would have been rewritten daily. After it, git
+packs the first revision to 229 KB and each subsequent daily revision to about
+11 KB, which is the difference between roughly 80 MB and 4 MB of history a
+year. Worth doing now rather than after it is baked into the history.
+
+*DTSTAMP is the run time*, so the files change daily even when nothing else
+does. This costs nothing: the state database changes every run regardless, so
+the workflow commits either way.
+
+*Verified:* 201 tests pass. Two live runs produce byte-identical feeds. The
+index page renders correctly in a browser with both feeds, their counts and
+working `webcal://` links. Ten events were read out of the emitted feed and
+carry sane titles, times, venues and attribution.
 
 ### M5: Tier B scrapers
 

@@ -393,7 +393,7 @@ def test_a_failed_source_keeps_its_stored_events(tmp_path):
     assert state.get_raw_event(conn, "flxcalendar", "keep-me") is not None
     assert state.consecutive_failures(conn, "flxcalendar") == 1
     # last_seen must not have advanced, or the event would look re-confirmed.
-    row = conn.execute("SELECT last_seen FROM raw_events").fetchone()
+    row = conn.execute("SELECT last_seen FROM seen").fetchone()
     assert row["last_seen"] == run_one.isoformat()
     conn.close()
 

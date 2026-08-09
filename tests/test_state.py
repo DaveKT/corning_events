@@ -40,7 +40,21 @@ def test_migrate_is_idempotent(conn):
         row["name"]
         for row in conn.execute("SELECT name FROM sqlite_master WHERE type='table'")
     }
-    assert {"raw_events", "clusters", "published", "fetch_log"} <= tables
+    assert {"raw_events", "seen", "clusters", "published", "fetch_log"} <= tables
+
+
+def test_an_unchanged_payload_is_not_rewritten(conn):
+    # The payload table must stay byte stable between runs so the committed
+    # database deltas to a few kilobytes rather than its whole size.
+    state.upsert_raw_event(conn, make_event(), RUN_1)
+    before = conn.execute("SELECT payload FROM raw_events").fetchone()["payload"]
+
+    state.upsert_raw_event(conn, make_event(), RUN_2)
+    after = conn.execute("SELECT payload FROM raw_events").fetchone()["payload"]
+
+    assert before == after
+    seen = conn.execute("SELECT last_seen FROM seen").fetchone()["last_seen"]
+    assert seen == RUN_2.isoformat(), "last_seen must still advance"
 
 
 def test_upsert_round_trips_an_event(conn):
@@ -60,7 +74,10 @@ def test_first_seen_survives_updates_while_last_seen_advances(conn):
     state.upsert_raw_event(conn, make_event(), RUN_1)
     state.upsert_raw_event(conn, make_event(title="Renamed"), RUN_2)
 
-    row = conn.execute("SELECT first_seen, last_seen FROM raw_events").fetchone()
+    row = conn.execute(
+        "SELECT r.first_seen, s.last_seen FROM raw_events r JOIN seen s"
+        " ON s.source_id = r.source_id AND s.source_uid = r.source_uid"
+    ).fetchone()
     assert row["first_seen"] == RUN_1.isoformat()
     assert row["last_seen"] == RUN_2.isoformat()
     assert state.get_raw_event(conn, "flxcalendar", "uid-1").title == "Renamed"

@@ -7,8 +7,15 @@ knowing what the previous run saw and published.
 Four tables:
 
 ``raw_events``
-    One row per source occurrence, keyed by ``(source_id, source_uid)``.
-    ``last_seen`` drives cancellation detection.
+    One row per source occurrence, keyed by ``(source_id, source_uid)``, and
+    updated only when the event's content actually changes.
+``seen``
+    When each record was last reported, which drives cancellation detection.
+    Split out from ``raw_events`` deliberately: it changes on every row on
+    every run, while the payloads rarely change at all. Keeping the two apart
+    leaves the large table's pages untouched between runs, so the database
+    this workflow commits daily deltas to a few kilobytes rather than the
+    whole 1.4 MB file.
 ``clusters``
     Published identity. ``published_uid`` is minted once and never
     regenerated, no matter which source later wins field resolution.
@@ -38,10 +45,16 @@ CREATE TABLE IF NOT EXISTS raw_events (
   start      TEXT NOT NULL,
   payload    TEXT NOT NULL,
   first_seen TEXT NOT NULL,
-  last_seen  TEXT NOT NULL,
   PRIMARY KEY (source_id, source_uid)
 );
 CREATE INDEX IF NOT EXISTS raw_events_start ON raw_events (start);
+
+CREATE TABLE IF NOT EXISTS seen (
+  source_id  TEXT NOT NULL,
+  source_uid TEXT NOT NULL,
+  last_seen  TEXT NOT NULL,
+  PRIMARY KEY (source_id, source_uid)
+);
 
 CREATE TABLE IF NOT EXISTS clusters (
   cluster_id    INTEGER PRIMARY KEY,
@@ -122,23 +135,30 @@ def upsert_raw_event(conn: sqlite3.Connection, event: Event, run_at: datetime) -
     event is reported. The gap between ``last_seen`` and the current run is
     what identifies a disappearance.
     """
+    payload = json.dumps(event.to_dict(), sort_keys=True)
     conn.execute(
         """
-        INSERT INTO raw_events (source_id, source_uid, start, payload, first_seen, last_seen)
-        VALUES (?, ?, ?, ?, ?, ?)
+        INSERT INTO raw_events (source_id, source_uid, start, payload, first_seen)
+        VALUES (?, ?, ?, ?, ?)
         ON CONFLICT (source_id, source_uid) DO UPDATE SET
-            start     = excluded.start,
-            payload   = excluded.payload,
-            last_seen = excluded.last_seen
+            start   = excluded.start,
+            payload = excluded.payload
+        WHERE raw_events.payload IS NOT excluded.payload
         """,
         (
             event.source_id,
             event.source_uid,
             _iso(event.start),
-            json.dumps(event.to_dict(), sort_keys=True),
-            _iso(run_at),
+            payload,
             _iso(run_at),
         ),
+    )
+    conn.execute(
+        """
+        INSERT INTO seen (source_id, source_uid, last_seen) VALUES (?, ?, ?)
+        ON CONFLICT (source_id, source_uid) DO UPDATE SET last_seen = excluded.last_seen
+        """,
+        (event.source_id, event.source_uid, _iso(run_at)),
     )
 
 
@@ -178,8 +198,10 @@ def stale_member_keys(
     """
     rows = conn.execute(
         """
-        SELECT source_id, source_uid FROM raw_events
-        WHERE source_id = ? AND last_seen < ? AND start > ?
+        SELECT r.source_id, r.source_uid
+        FROM raw_events r JOIN seen s
+          ON s.source_id = r.source_id AND s.source_uid = r.source_uid
+        WHERE r.source_id = ? AND s.last_seen < ? AND r.start > ?
         """,
         (source_id, _iso(run_at), _iso(now)),
     ).fetchall()
@@ -188,6 +210,13 @@ def stale_member_keys(
 
 def prune_raw_events(conn: sqlite3.Connection, before: datetime) -> int:
     """Drop records whose start is well in the past, to bound the database."""
+    conn.execute(
+        """
+        DELETE FROM seen WHERE (source_id, source_uid) IN
+        (SELECT source_id, source_uid FROM raw_events WHERE start < ?)
+        """,
+        (_iso(before),),
+    )
     cursor = conn.execute("DELETE FROM raw_events WHERE start < ?", (_iso(before),))
     return cursor.rowcount
 
@@ -293,6 +322,14 @@ def record_published(
     else:
         sequence = int(existing["sequence"]) + 1
 
+    # An event is cancelled once. Refreshing the timestamp on every later run
+    # would keep pushing the retention deadline forward, and the event would
+    # sit in subscribers' calendars as cancelled forever.
+    if existing is not None and existing["status"] == STATUS_CANCELLED and existing["cancelled_at"]:
+        cancelled_at_iso = existing["cancelled_at"]
+    else:
+        cancelled_at_iso = _iso(cancelled_at) if cancelled_at else None
+
     conn.execute(
         """
         INSERT INTO published (published_uid, sequence, content_hash, status, cancelled_at)
@@ -308,7 +345,7 @@ def record_published(
             sequence,
             content_hash,
             status,
-            _iso(cancelled_at) if cancelled_at else None,
+            cancelled_at_iso,
         ),
     )
     return sequence

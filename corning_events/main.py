@@ -4,8 +4,8 @@ Run with:
 
     python -m corning_events.main --dry-run
 
-The full pipeline is assembled across milestones M1 to M4. Until then this
-resolves which sources would run and reports what is not built yet.
+Fetches every enabled source, stores the results, deduplicates across sources,
+detects cancellations, and writes the published feeds and index page.
 """
 
 from __future__ import annotations
@@ -14,12 +14,12 @@ import argparse
 import sys
 from collections import Counter
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 from . import config, dedupe, feeds, normalize, state
 from .http import Fetcher
-from .model import UTC
+from .model import STATUS_CANCELLED, STATUS_CONFIRMED, UTC, PublishedEvent
 from .sources import FETCHERS
 from .sources.ticketmaster import MissingApiKey
 
@@ -111,27 +111,21 @@ def main(argv: list[str] | None = None) -> int:
             "No fetcher registered for: " + ", ".join(sorted(unimplemented))
         )
 
-    run_at = datetime.now(UTC)
+    run_at = now = datetime.now(UTC)
     results = fetch_all(selected)
     report(results)
 
     conn = state.connect(args.db)
     try:
-        persist(conn, results, run_at)
-        known = state.all_raw_events(conn)
-        clusters = dedupe.deduplicate(known)
-        pinned, retired = pin_clusters(conn, clusters)
-
-        print(f"\n{len(known)} stored events -> {len(pinned)} published events")
-        merged = sum(1 for _, _, members in pinned if len(members) > 1)
-        print(f"  {merged} formed from more than one source")
-        if retired:
-            print(f"  {len(retired)} previously published UIDs absorbed by another cluster")
+        published, rendered = run_pipeline(conn, results, run_at, now)
 
         if args.dry_run:
             conn.rollback()
-            print("  dry run: state rolled back")
+            print("  dry run: state rolled back, no files written")
         else:
+            for path, data in rendered.items():
+                feeds.write(path, data)
+            print(f"  wrote {len(rendered)} files to {config.DOCS_DIR}")
             conn.commit()
         outage = critical_outage(conn, results)
     finally:
@@ -140,10 +134,47 @@ def main(argv: list[str] | None = None) -> int:
     if outage:
         raise SystemExit(outage)
 
-    raise SystemExit(
-        "Deduplication and persistence work; feed emission does not exist yet. "
-        "M4 wires cancellation and writes the .ics files."
-    )
+    return 0
+
+
+def run_pipeline(
+    conn, results: list["FetchResult"], run_at: datetime, now: datetime
+) -> tuple[list[PublishedEvent], dict[Path, bytes]]:
+    """Everything between fetching and writing.
+
+    Kept as one function so that tests exercise the same path a real run takes
+    rather than a reimplementation of it. Nothing here touches the filesystem
+    or the network, and the caller decides whether to commit.
+    """
+    persist(conn, results, run_at)
+
+    known = state.all_raw_events(conn)
+    pinned, retired = pin_clusters(conn, dedupe.deduplicate(known))
+
+    print(f"\n{len(known)} stored events -> {len(pinned)} published events")
+    merged = sum(1 for _, _, members in pinned if len(members) > 1)
+    print(f"  {merged} formed from more than one source")
+
+    if retired:
+        # These are not cancellations. Two entries turned out to be one event,
+        # and the survivor is still in the feed under the older UID, so the
+        # client should simply drop the duplicate. Publishing CANCELLED here
+        # would show "cancelled" beside a live copy of the same event.
+        state.forget_published(conn, retired)
+        print(f"  {len(retired)} duplicate UIDs retired into another cluster")
+
+    stale = stale_keys(conn, results, run_at, now)
+    published = build_published(conn, pinned, stale, now)
+
+    cancelled = sum(1 for item in published if item.status == STATUS_CANCELLED)
+    if cancelled:
+        print(
+            f"  {cancelled} cancelled upstream, retained for "
+            f"{config.CANCELLED_RETENTION_DAYS} days"
+        )
+
+    expire(conn, now)
+    return published, render(published, now)
 
 
 def persist(conn, results: list["FetchResult"], run_at: datetime) -> None:
@@ -199,6 +230,85 @@ def pin_clusters(conn, clusters: list[tuple]) -> tuple[list[tuple], list[str]]:
         pinned.append((uid, resolved, members))
 
     return pinned, retired
+
+
+def stale_keys(
+    conn, results: list["FetchResult"], run_at: datetime, now: datetime
+) -> set[str]:
+    """Member keys that vanished upstream this run, still in the future.
+
+    Only sources that both succeeded and returned something are consulted. A
+    failed or empty fetch contributes nothing, so its events can never be read
+    as having disappeared, which is the whole point of Part 1 adjustment 3: a
+    single timeout must not empty a subscriber's calendar.
+    """
+    keys: set[str] = set()
+    for result in results:
+        if result.ok and result.count > 0:
+            keys |= state.stale_member_keys(conn, result.source_id, run_at, now)
+    return keys
+
+
+def build_published(
+    conn, pinned: list[tuple], stale: set[str], now: datetime
+) -> list[PublishedEvent]:
+    """Attach status and SEQUENCE to each cluster.
+
+    A cluster counts as cancelled only when every one of its members has gone.
+    While any source still lists it, the event is still happening.
+    """
+    published: list[PublishedEvent] = []
+
+    for uid, resolved, members in pinned:
+        gone = all(member.key in stale for member in members)
+        status = STATUS_CANCELLED if gone else STATUS_CONFIRMED
+
+        item = PublishedEvent(uid=uid, event=resolved, status=status)
+        sequence = state.record_published(
+            conn,
+            uid,
+            content_hash=feeds.content_hash(item),
+            status=status,
+            cancelled_at=now if gone else None,
+        )
+        row = state.get_published(conn, uid)
+        item.sequence = sequence
+        item.cancelled_at = (
+            datetime.fromisoformat(row["cancelled_at"]) if row["cancelled_at"] else None
+        )
+        published.append(item)
+
+    return published
+
+
+def expire(conn, now: datetime) -> None:
+    """Forget events cancelled long enough ago, and prune old rows."""
+    cutoff = now - timedelta(days=config.CANCELLED_RETENTION_DAYS)
+    state.forget_published(conn, state.cancelled_before(conn, cutoff))
+    state.prune_raw_events(conn, now - timedelta(days=config.RAW_EVENT_RETENTION_DAYS))
+    state.prune_fetch_log(conn)
+
+
+def render(published: list[PublishedEvent], now: datetime) -> dict[Path, bytes]:
+    """Build and validate every feed before a single byte is written.
+
+    Validation happens up front so that a broken run leaves the previous, good
+    files in place. An empty or invalid feed is worse than a stale one: it
+    fails silently, showing subscribers a calendar with nothing in it.
+    """
+    outputs: dict[Path, bytes] = {}
+    counts: dict[str, int] = {}
+
+    for feed in config.FEEDS:
+        selected = feeds.select_for_feed(feed, published, now)
+        data = feeds.emit(feed, selected, dtstamp=now)
+        feeds.validate(data, expected_count=len(selected), min_events=feed.min_events)
+        outputs[config.DOCS_DIR / feed.filename] = data
+        counts[feed.slug] = len(selected)
+        print(f"  {feed.filename}: {len(selected)} events, {len(data) / 1024:.0f} KB")
+
+    outputs[config.DOCS_DIR / "index.html"] = feeds.render_index(counts, now).encode("utf-8")
+    return outputs
 
 
 def critical_outage(conn, results: list["FetchResult"]) -> str | None:

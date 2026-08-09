@@ -289,3 +289,94 @@ def write(path: Path, data: bytes) -> None:
     """Write bytes verbatim, without newline translation."""
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_bytes(data)
+
+
+# ---------------------------------------------------------------------------
+# Publish surface
+# ---------------------------------------------------------------------------
+
+_INDEX_TEMPLATE = """<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Corning Area Events</title>
+<style>
+  :root {{ color-scheme: light dark; }}
+  body {{
+    font: 16px/1.6 system-ui, -apple-system, Segoe UI, sans-serif;
+    max-width: 38rem; margin: 0 auto; padding: 2rem 1.25rem 4rem;
+  }}
+  h1 {{ font-size: 1.5rem; margin-bottom: 0.25rem; }}
+  h2 {{ font-size: 1.05rem; margin: 2rem 0 0.5rem; }}
+  .sub {{ opacity: 0.7; margin-top: 0; }}
+  .feed {{ border: 1px solid rgba(128,128,128,0.35); border-radius: 8px;
+          padding: 1rem 1.15rem; margin: 1rem 0; }}
+  .feed h3 {{ margin: 0 0 0.35rem; font-size: 1rem; }}
+  .feed p {{ margin: 0 0 0.75rem; opacity: 0.8; font-size: 0.95rem; }}
+  .links a {{ margin-right: 1rem; }}
+  code {{ font-size: 0.9em; word-break: break-all; opacity: 0.75; }}
+  footer {{ margin-top: 2.5rem; font-size: 0.85rem; opacity: 0.65; }}
+</style>
+</head>
+<body>
+<h1>Corning Area Events</h1>
+<p class="sub">Public events in and around Corning, New York, gathered from
+several calendars into one subscription.</p>
+
+{feeds}
+
+<h2>How to subscribe</h2>
+<p>On iPhone or Mac, tap or click a <strong>Subscribe</strong> link and confirm.
+On Google Calendar, use <em>Other calendars, From URL</em> and paste the plain
+link. Google refreshes external calendars on its own schedule, often many hours
+behind.</p>
+
+<h2>Where this comes from</h2>
+<p>Events are collected from public calendars published by venues and regional
+organizations. Each entry credits its source and links back to it, so full
+details and tickets are one tap away. Nothing here is official: check with the
+organizer before making plans around an event.</p>
+
+<footer>
+Updated {updated}. Rebuilt daily.
+</footer>
+</body>
+</html>
+"""
+
+_FEED_TEMPLATE = """<div class="feed">
+  <h3>{name}</h3>
+  <p>{description} Currently {count} events.</p>
+  <p class="links"><a href="{webcal}">Subscribe</a>
+     <a href="{https}">Plain link</a></p>
+  <code>{https}</code>
+</div>"""
+
+
+def render_index(counts: dict[str, int], generated_at: datetime) -> str:
+    """Build the page that carries the subscribe links.
+
+    Published to the same directory as the feeds, so a subscriber has one URL
+    to remember rather than two opaque .ics paths.
+    """
+    base = config.PAGES_BASE_URL.rstrip("/")
+    blocks = []
+    for feed in config.FEEDS:
+        https = f"{base}/{feed.filename}"
+        blocks.append(
+            _FEED_TEMPLATE.format(
+                name=feed.calendar_name,
+                description=feed.description,
+                count=counts.get(feed.slug, 0),
+                https=https,
+                # webcal:// gives one tap subscription on iOS and macOS.
+                webcal="webcal://" + https.split("://", 1)[1],
+            )
+        )
+
+    return _INDEX_TEMPLATE.format(
+        feeds="\n".join(blocks),
+        updated=generated_at.strftime("%d %B %Y at %H:%M UTC"),
+    )
