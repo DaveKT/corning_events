@@ -12,23 +12,38 @@ other client and see the events alongside their own.
 
 ## Status
 
-The pipeline runs end to end across five sources and generates both feeds:
-around 538 events per run, resolving to 518 after deduplication, with 313
-inside the 25 mile default feed. The feeds are not reachable yet, because
-publishing them needs the GitHub Actions and Pages milestone. See
-[the plan](plans/2026-08-corning-events-ical-aggregator.md) for the current
-milestone state. The feed URLs below will not resolve until milestone M6 lands.
+The feeds are live and subscribable. A run collects around 538 events from
+five sources and publishes 518, with 313 inside the 25 mile default feed.
+
+Regeneration is still manual: the scheduled workflow that rebuilds the feeds
+daily is the last piece of work outstanding. Until it lands, the published
+feeds are only as fresh as the last local run. See
+[the plan](plans/2026-08-corning-events-ical-aggregator.md) for milestone
+state.
 
 ## Feeds
 
-| Feed | Contents | Subscribe |
-|---|---|---|
-| `corning-core.ics` | Core and Near rings, up to 25 miles, all categories. The default. | [https](https://davekt.github.io/corning_events/corning-core.ics) / [webcal](webcal://davekt.github.io/corning_events/corning-core.ics) |
-| `flx-all.ics` | Everything within 50 miles, including Ithaca and the Finger Lakes. | [https](https://davekt.github.io/corning_events/flx-all.ics) / [webcal](webcal://davekt.github.io/corning_events/flx-all.ics) |
+**[Open the subscribe page](https://davekt.github.io/corning_events/)** and
+tap a Subscribe link. That is the easiest route on a phone, and the only place
+the one-tap links work.
 
-On iOS the `webcal://` link subscribes in one tap. Google Calendar refreshes
-external subscriptions on its own schedule, often many hours behind, and offers
-no way to force it.
+| Feed | Contents | Direct link |
+|---|---|---|
+| `corning-core.ics` | Core and Near rings, up to 25 miles, all categories. The default. | [corning-core.ics](https://davekt.github.io/corning_events/corning-core.ics) |
+| `flx-all.ics` | Everything within 50 miles, including Ithaca and the Finger Lakes. | [flx-all.ics](https://davekt.github.io/corning_events/flx-all.ics) |
+
+One-tap subscription on iOS and macOS needs the `webcal` scheme. GitHub strips
+`webcal://` links out of README files, so they cannot be clickable here; copy
+one of these instead, or use the subscribe page above where they do work.
+
+```
+webcal://davekt.github.io/corning_events/corning-core.ics
+webcal://davekt.github.io/corning_events/flx-all.ics
+```
+
+In Google Calendar, use *Other calendars, From URL* and paste the https link.
+Google refreshes external subscriptions on its own schedule, often many hours
+behind, and offers no way to force it.
 
 ## Geographic scope
 

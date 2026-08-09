@@ -3,8 +3,10 @@ Plan: Corning Events iCal Aggregator
 
 > Status: Underway
 
-M0 through M5 are complete. The feeds are generated and valid; they are not
-reachable yet, because publishing them needs M6, which is all that remains.
+M0 through M5 are complete, and GitHub Pages is now serving the feeds at
+https://davekt.github.io/corning_events/. What remains of M6 is the scheduled
+workflow that rebuilds them daily; until it lands, the published feeds are
+only as fresh as the last local run.
 
 Two sources could not be built and ship disabled: cmog is behind a bot
 challenge on every one of its domains, and gaffer renders its events
@@ -22,7 +24,7 @@ See M2 and the owner action items in Part 4.
 | M3 | Dedupe and persistence integration | Complete |
 | M4 | End to end feeds and publish surface | Complete |
 | M5 | Tier B scrapers | Complete, except cmog and gaffer |
-| M6 | GitHub Actions and Pages | Not started |
+| M6 | GitHub Actions and Pages | Pages live, workflow outstanding |
 
 ---
 
@@ -683,7 +685,15 @@ runs main, then commits `docs/` and `state/` if changed under a bot identity and
 pushes. `TICKETMASTER_API_KEY` comes from repository secrets. Set a concurrency
 group so runs cannot overlap.
 
-In repository settings, set Pages to serve from branch `main`, folder `/docs`.
+Pages is already enabled, serving branch `main` folder `/docs`, and verified
+returning `text/calendar` for both feeds. It was switched on early because the
+README advertised feed URLs that 404ed.
+
+Note for the README and any other markdown: GitHub's markdown sanitizer strips
+link schemes other than http, https and mailto, so a `webcal://` link silently
+renders as plain text with no anchor. Confirmed against GitHub's own markdown
+API. Present those URLs as copyable code and keep the clickable one-tap links
+on the generated index page, which is raw HTML and not sanitized.
 
 *Verify:* trigger through `workflow_dispatch` and confirm the run is green.
 Confirm `https://davekt.github.io/corning_events/corning-core.ics` serves valid
