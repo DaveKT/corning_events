@@ -10,452 +10,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Friday See & Sketch
-DTSTART:20260904T180000Z
-DTEND:20260904T190000Z
-DTSTAMP:20260905T124042Z
-UID:e6434f7b9f5f28f9a3faea644f2407ede9f38063@corning-events
-SEQUENCE:0
-DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
- e: Corning Area Chamber of Commerce - https://www.corningny.com/events/det
- ails/friday-see-sketch-09-04-2026-19815
-STATUS:CONFIRMED
-URL:https://www.corningny.com/events/details/friday-see-sketch-09-04-2026-
- 19815
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HUPSTATE CIRCUS FESTIVAL in ITHACA
-DTSTART:20260904T190000Z
-DTEND:20260907T190000Z
-DTSTAMP:20260905T124042Z
-UID:abe7d58e6636e12996bb89cd24b73796e85f5c9c@corning-events
-SEQUENCE:0
-CATEGORIES:Family Fun,Festivals,Performing Arts
-DESCRIPTION:Hupstate Circus Festival in Ithaca\, NY\nSept 4th-7th 2026\n4 
- Epic Days of Circus\nFULL SCHEDULE:\nhttps://www.hupstatecircus.org/hupsta
- te-festival-schedule\n\nSource: FLXcalendar - https://calendar.time.ly/o9b
- 0uzpj/event/78441649/20260904150000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78441649/20260904150000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pat & Owen Duo live at Weis Vineyards
-DTSTART:20260904T200000Z
-DTEND:20260904T230000Z
-DTSTAMP:20260905T124042Z
-UID:576fafebe2f1139689f58cb5c05985f9c5c01d9b@corning-events
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Kick off the weekend with us at the winery!\nMusic: Pat & Owen
-  Duo\n*Music is outside on The Patio and is weather dependent*\nEvent by W
- eis Vineyards\n10014 Day Rd\, Hammondsport\n\nSource: FLXcalendar - https:
- //calendar.time.ly/o9b0uzpj/event/78456544/20260904160000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78456544/20260904160000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live Music Fridays (no cover) @ The Oasis
-DTSTART:20260904T200000Z
-DTEND:20260904T210000Z
-DTSTAMP:20260905T124042Z
-UID:936fa3dd4bdd7431fb943c13706de6e68d414023@corning-events
-SEQUENCE:0
-CATEGORIES:Music,Performing Arts,Wine
-DESCRIPTION:Event by Hazlitt 1852 Vineyards\n5712 State Route 414\, Hector
- \, NY\nDuration: 3 hr\nPublic\n5:30 p.m. - 8:30 p.m.\nJoin us for live mus
- ic every Friday night at our outdoor bar\, The Oasis.⁣\n⁣\n𝐓𝐡
- 𝐞 𝟐𝟎𝟐𝟔 𝐛𝐚𝐧𝐝 𝐥𝐢𝐧𝐞-𝐮𝐩:⁣\n⁣
- \n𝟐𝟐-𝐌𝐚𝐲 Sweats • Americana & Rock⁣\n𝟐𝟗-𝐌𝐚
- 𝐲 Virgil Cain • Pop & Classic Rock Hits⁣\n𝟓-𝐉𝐮𝐧 High Ca
- liber • Classic Rock⁣\n𝟏𝟐-𝐉𝐮𝐧 StratCat Willie & the Str
- ays • Blues⁣\n𝟏𝟗-𝐉𝐮𝐧 The Gabe Stillman Band • Hard St
- ompin' Blues⁣\n𝟐𝟔-𝐉𝐮𝐧 Dane Hendrix & the Hangdog Saints 
- • Rock & Roll\, Blues\, & Americana⁣\n𝟑-𝐉𝐮𝐥 Kilrush • Ce
- ltic Rock⁣\n𝟏𝟎-𝐉𝐮𝐥 Telephone Party • Danceable Pop & La
- id-Back Jams⁣\n𝟏𝟕-𝐉𝐮𝐥 The Roll the Dice Band • Blues\, 
- Rock\, & Classic Rock⁣\n𝟐𝟒-𝐉𝐮𝐥 Miller and The Other Sinne
- rs • Soul\, Rhythm & Blues⁣\n𝟑𝟏-𝐉𝐮𝐥 The Junior Rich Pro
- ject • Classic Rock⁣\n𝟕-𝐀𝐮𝐠 Betty's Ghost • Rock & Pop
- ⁣\n𝟏𝟒-𝐀𝐮𝐠 Cass and The Bailout Crew • Rock\, Pop\, & Co
- untry⁣\n𝟐𝟏-𝐀𝐮𝐠 Rust • Classic Rock\n𝟐𝟖-𝐀𝐮
- 𝐠 City Limits • Blues\, Funk\, & Rock⁣\n𝟒-𝐒𝐞𝐩 Skadattle
-  • Multi Genre Covers⁣\n𝟏𝟏-𝐒𝐞𝐩 ⁣Bad Bear • Classic 
- Rock & Funk⁣\n𝟏𝟖-𝐒𝐞𝐩 Delta Mike Shaw Band • Dancing Blu
- es⁣\n𝟐𝟓-𝐒𝐞𝐩 YETSU • Rock & Roll\, Blues\, & Roots⁣\n
- ⁣\nCheck our Facebook post every Friday for scheduled food truck. Food T
- rucks and bands subject to change.\nNo Cover • Family Friendly • Wine 
- • Local Snacks • Wine Slushies • Cider Tree • Local Beverages⁣\n
- \nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78364857/2
- 0260526160000
-GEO:42.510619;-76.875744
-LOCATION:Hazlitt 1852 Vineyards\, 5712 New York 414\, Hector\, New York\, 
- 14841\, United States
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78364857/20260526160000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sampson State Park Farmers Market
-DTSTART:20260904T210000Z
-DTEND:20260905T000000Z
-DTSTAMP:20260905T124042Z
-UID:7910e33b51600539b2f039ef59e61ca9c7302986@corning-events
-SEQUENCE:0
-CATEGORIES:Farmers Market,Family Fun
-DESCRIPTION:See details in image\n\nSource: FLXcalendar - https://calendar
- .time.ly/o9b0uzpj/event/78369835/20260605170000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78369835/20260605170000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seeker's Art Gallery First Fridays
-DTSTART:20260904T210000Z
-DTEND:20260905T000000Z
-DTSTAMP:20260905T124042Z
-UID:9d4de26d6d23b183079b3999cedc14db1d266268@corning-events
-SEQUENCE:0
-CATEGORIES:Art,Community,Connection
-DESCRIPTION:The Seeker’s Art Gallery\nFirst Fridays April Through Octobe
- r 2026\n5:00 PM to 8:00 PM\nSomething is waiting to be found.\nIntroducing
-  First Fridays: The Seeker's Art Gallery\nA monthly art event tucked into 
- the heart of downtown\, where local artists\, live music\, and community c
- ome together under open skies.\nEvery first Friday\, April through October
- \, we're activating a hidden-in-plain-sight courtyard space alongside @lik
- eMagickPhotography and @TheCakery to bring you an evening of original art
- \, live music\, the occasional silent auction\, and good energy.\nFree to 
- attend\, sober\, outdoor event\n5:00-8:00 PM April through October 2026\nT
- he Courtyard at 116 Baldwin St Elmira NY\n\nSource: FLXcalendar - https://
- calendar.time.ly/o9b0uzpj/event/78369827/20260605170000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78369827/20260605170000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ithaca Gallery Night
-DTSTART:20260904T210000Z
-DTEND:20260905T000000Z
-DTSTAMP:20260905T124042Z
-UID:e96e27fd1e8b7315789c929423d32ce4d131b585@corning-events
-SEQUENCE:0
-DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
-  Friday of every month from 5-8pm where galleries and venues present visua
- l art exhibits.\nClick here for monthly gallery and event listing.\n\nSour
- ce: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78456696/2026090
- 4170000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78456696/20260904170000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live Music Fridays (no cover) @ The Oasis
-DTSTART:20260904T213000Z
-DTEND:20260905T003000Z
-DTSTAMP:20260905T124042Z
-UID:eea75c11018639b9c44f820ad7ff0e6656c83be8@corning-events
-SEQUENCE:0
-CATEGORIES:Music,Performing Arts
-DESCRIPTION:Event by Hazlitt 1852 Vineyards\n5712 State Route 414\nHector
- \, NY\nDuration: 3 hr\nPublic\n5:30 p.m. - 8:30 p.m.\nJoin us for live mus
- ic every Friday night at our outdoor bar\, The Oasis.⁣\n⁣\n𝐓𝐡
- 𝐞 𝟐𝟎𝟐𝟔 𝐛𝐚𝐧𝐝 𝐥𝐢𝐧𝐞-𝐮𝐩:⁣\n⁣
- \n𝟕-𝐀𝐮𝐠 Betty's Ghost • Rock & Pop⁣\n𝟏𝟒-𝐀𝐮𝐠
-  Cass and The Bailout Crew • Rock\, Pop\, & Country⁣\n𝟐𝟏-𝐀
- 𝐮𝐠 Rust • Classic Rock\n𝟐𝟖-𝐀𝐮𝐠 City Limits • Blue
- s\, Funk\, & Rock⁣\n𝟒-𝐒𝐞𝐩 Skadattle • Multi Genre Covers
- ⁣\n𝟏𝟏-𝐒𝐞𝐩 ⁣Bad Bear • Classic Rock & Funk⁣\n𝟏
- 𝟖-𝐒𝐞𝐩 Delta Mike Shaw Band • Dancing Blues⁣\n𝟐𝟓-𝐒
- 𝐞𝐩 YETSU • Rock & Roll\, Blues\, & Roots⁣\n⁣\nCheck our Facebo
- ok post every Friday for scheduled food truck. Food Trucks and bands subje
- ct to change.\nNo Cover • Family Friendly • Wine • Local Snacks • 
- Wine Slushies • Cider Tree • Local Beverages⁣\n\nSource: FLXcalendar
-  - https://calendar.time.ly/o9b0uzpj/event/78437744/20260814173000
-GEO:42.510619;-76.875744
-LOCATION:Hazlitt 1852 Vineyards\, 5712 New York 414\, Hector\, New York\, 
- 14841\, United States
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78437744/20260814173000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feed The Fire LIVE @ Two Goats Brewing
-DTSTART:20260904T220000Z
-DTEND:20260905T010000Z
-DTSTAMP:20260905T124042Z
-UID:3785be1cfab51a82bc561b09762046050e04d7ce@corning-events
-SEQUENCE:0
-CATEGORIES:Music,Performing Arts,Beer
-DESCRIPTION:Feed the Fire\nFriday\, September 4\, 2026\n6:00 PM 9:00 PM\nF
- eed the Fire: edgy original psychedelic rock and reggae - with killer fema
- le vocals!\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/even
- t/78440590/20260904180000
-LOCATION:Two Goats Brewing\, 5027 State Route 414\, Hector\, NY
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78440590/20260904180000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boatyard Friday Night Summer Music Series\, Ithaca
-DTSTART:20260904T220000Z
-DTEND:20260905T010000Z
-DTSTAMP:20260905T124042Z
-UID:97bd51b55047e4a32d772a3aac2e191f6e79fb03@corning-events
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Join us on the north patio starting each Friday at 6pm… or c
- ome by a little earlier for a bite to eat inside (and outside\, weather-pe
- rmitting) and enjoy our 4-6pm happy hour. Doors open at 4pm.\nIn addition 
- to our extensive beer\, wine\, classic and free-spirited drinks menu… we
-  will be featuring beautifully-crafted Brugal Rum cocktails all summer lon
- g.\nCheers!\n—-\nThe lineup\n8/7 Hot Dogs & Gin\n8/14 Betty’s Ghost\n8
- /21 City Limits\n8/28 Brothers & Friends\n9/4 Virgil Cain\nEvent by Boatya
- rd Grill\n525 Taughannock Blvd.\, Ithaca\n\nSource: FLXcalendar - https://
- calendar.time.ly/o9b0uzpj/event/78433504/20260807180000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78433504/20260807180000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Pin Drops live at Solera Tap House
-DTSTART:20260904T220000Z
-DTEND:20260905T010000Z
-DTSTAMP:20260905T124042Z
-UID:c33e36bdeba8505ad802144b2c7aa30d5c501eff@corning-events
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Rockin' the Labor Day weekend!\nEvent by The Pin Drops\n\nSour
- ce: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78456578/2026090
- 4180000
-GEO:42.445836;-76.864214
-LOCATION:Solera Tap House\, 4393 New York 414\, Burdett\, New York\, 14818
- \, United States
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78456578/20260904180000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trivia Under the Tent: Back to School Edition
-DTSTART:20260904T230000Z
-DTEND:20260905T035959Z
-DTSTAMP:20260905T124042Z
-UID:0798952c570959ae088506f054e6c9ce53601383@corning-events
-SEQUENCE:0
-CATEGORIES:Games,Competitions
-DESCRIPTION:Trivia Under the Tent: Back to School Edition\nWith Local triv
- ia host Bob Proehl!\nFriday\, September 4 from 7–9 pm\nTickets: $100 tea
- m (up to 6) / $20 individual\nJoin us for a fun and friendly Trivia Night 
- to raise funds for the Hangar Theatre’s KIDDSTUFF Series! Gather your fr
- iends (or come on your own!)\, test your knowledge\, and compete for Hanga
- r-themed prizes—all while supporting the Hangar’s mission to bring out
- standing Theatre for Young Audiences to our community. Whether you’re a 
- trivia buff or just in it for a good time\, this is a night you won’t wa
- nt to miss.\nThis is a family-friendly event that will include both genera
- l knowledge (pop culture\, sports\, history\, music) and some theater-rela
- ted trivia. We’ll have a cash bar with wine\, beer\, and non-alcoholic b
- everages as well as sweet and snacky items to keep you sharp and on the ba
- ll.\nAll proceeds go to benefit the Hangar Theatre’s KIDDSTUFF series!\n
- Trivia Night FAQs:\n1. How do I register as a team?\nPurchase a team ticke
- t ($100) to register your team of up to 6 people. Within 48 hours of purch
- asing your ticket\, you will receive a google form by email that will let 
- you submit a team name (if you have one!) as well as the names of your tea
- m members.\n2. Can I register as an individual?\nAbsolutely! Purchase an i
- ndividual ticket ($20) to register as an individual\, and we will match yo
- u with a team. Within 48 hours of purchasing your ticket\, you will receiv
- e a google form by email that will let you submit any team requests (for e
- xample\, you and a friend could purchase individual tickets and request to
-  be on the same team.)\n3. How does it work?\nAll teams will get asked the
-  same question\, read aloud by emcee Bob Proehl. Players will work within 
- their teams to come up with an answer\, write it down\, and submit. All qu
- estions are about a variety of topics including general knowledge and thea
- ter-related trivia. Some questions will be multiple choice\, others will b
- e fill in the blank.\n4. How does a team win?\nThe team with most points a
- t the end of the game are our winners!\nTickets: https://hangartheatre.eas
- y-ware-ticketing.com/eventsByMovie/A000001105.\n\nSource: FLXcalendar - ht
- tps://calendar.time.ly/o9b0uzpj/event/78440339/20260904190000
-GEO:42.457531;-76.515267
-LOCATION:Hangar Theatre\, 801 Taughannock Boulevard\, Ithaca\, New York\, 
- 14850\, United States
-STATUS:CONFIRMED
-URL:https://hangartheatre.easy-ware-ticketing.com/eventsByMovie/A000001105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jake & Friendz live at The Yard FLX
-DTSTART:20260904T230000Z
-DTEND:20260905T020000Z
-DTSTAMP:20260905T124042Z
-UID:3321db6b22949c93b18878cd8d90616283f3b1ed@corning-events
-SEQUENCE:0
-CATEGORIES:Music
-DESCRIPTION:Rebecca Jade on vocals\nEvent by Jake & Friendz\nThe Yard FLX
- \n2374 Route 414\, Watkins Glen\n\nSource: FLXcalendar - https://calendar.
- time.ly/o9b0uzpj/event/78456563/20260904190000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78456563/20260904190000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Roller Skating at Cass Park Rink\, Ithaca
-DTSTART:20260904T233000Z
-DTEND:20260905T010000Z
-DTSTAMP:20260905T124042Z
-UID:5bbd614d9fac5b303cb36aee0923248991736e93@corning-events
-SEQUENCE:0
-CATEGORIES:Family Fun,New to the Area
-DESCRIPTION:Skate Admission: $7/person 18yrs+ and $5/person under 18 years
- \nSkate Rental is an additional $3.50 fee/rental.\n*Group rates are availa
- ble if scheduled 10 days prior with a minimum of 10 skaters and maximum of
-  20.\nPlease submit your interest on this form.\nIn order to save you time
- \, you can pre-pay for your roller skates at the same time you register fo
- r your session.\nRoller skate rentals are available in Toddler size 10 to 
- Adult size 13.\nWe encourage the use of protective equipment - helmets\, e
- lbow and knee pads - for all skaters.\nEvent by Cass Park Rink\, Pool\, & 
- Fields\n701 Taughannock Blvd\, Ithaca\n\nSource: FLXcalendar - https://cal
- endar.time.ly/o9b0uzpj/event/78433501/20260807193000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78433501/20260807193000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Southern Tier Running Club Trailfest at Sugar Hill
-DTSTART:20260905T110000Z
-DTEND:20260906T035959Z
-DTSTAMP:20260905T124042Z
-UID:7cec3db8044b110d324a30d81a32bdbb52e1f98c@corning-events
-SEQUENCE:0
-CATEGORIES:Running,Nature
-DESCRIPTION:You're Invited to a Special Event!\nJoin us for a day of fun\,
-  fitness\, and community at Sugar Hill State Forest\, hosted by the Southe
- rn Tier Running Club (STRC).\nTimed loop course trail challenge: 3 differe
- nt durations:\n3 hour\, 6 hour\, and 12 hour\nStart Time: 7:00 AM (all dur
- ations 3\, 6\, and 12 hour start at 7 am)\nLocation: Sugar Hill State Fore
- st: Fire Tower Area\nCourse: 4 mile trail loop with ~500 feet of elevation
-  gain per loop\nChallenge yourself on a beautiful 4 mile trail loop in you
- r choice of a 3\, 6\, or 12 hour timed event. Run as many loops as you can
-  within the time limit—but remember\, only loops completed before the ti
- me limit for your event count! You can stop whenever you like\; there's no
-  pressure to run the full duration. Run\, hike\, walk\, stroll for as many
-  miles/minutes as you want. Take breaks\, chat with friends\, eat some foo
- d\, then log more miles. However you want to do this thing.\nA fully stock
- ed aid station will be available at the start/finish of the loop area to k
- eep you fueled and hydrated.\nEntry Fee:\n$65.00 for the 3 hour event\n$85
- .00 for the 6 hour event\n$100.00 for the 12 hour event\n(STRC membership 
- is $10: join the club and save $5)\nNot a member yet? Join STRC here to re
- ceive your discount code and register: https://runsignup.com/.../NY/Cornin
- g/SouthernTierRunningClub\nYour entry includes:\nAccess to the aid station
- \nPost-run food\nA great time on the trails with fellow runners\nSwag:\n- 
- Custom BOCO Gear hats for all participants.\n- Finisher Medal\n- Custom aw
- ards for Male and Female winners\n- Support the local trail running commun
- ity with a donation to local trails organization from our proceeds\nAfter 
- the run\, stick around for a fun time socializing with the trail community
- ! We’ll be grilling burgers and hot dogs\, serving up tasty sides\, and 
- offering vegetarian/vegan options too. It’s a relaxed\, family-friendly 
- gathering with:\nA covered pavilion (just in case the weather doesn’t co
- operate)\nPicnic tables (bring lawn chairs if you’d like)\nSugar Hill St
- ate forests offer a variety of camping sites throughout the forest area. 2
- 6 of these camp sites are located in the Fire Tower Area where we are hold
- ing the event. These campsites are available on a first come first serve b
- asis. Come up the day before and camp overnight through race day or come u
- p race day and camp for the day into the evening or next day.\n******* Par
- king is limited so this event is capped at 100 participants. If you want t
- o participate in this event sign up early so you don’t miss out. *******
- *\nTHERE IS NO PARKING PERMITTED ON THE ROAD LEADING TO THE FIRE TOWER ARE
- A\nIf you want to support the trail running community and want this event 
- to continue and allow potential for more events in the future please follo
- w all of these guidelines. We are working in conjunction with NYS DEC and 
- other local municipalities and that is the only way events like this can b
- e held. Thank you for your cooperation.\nVolunteers make these events poss
- ible. We will need volunteers for the following tasks:\n- parking\n- Aid s
- tation\n- Post race food\n- Course sweeping/deflagging\nIf you or someone 
- you know is interested in participating in fun community events please rea
- ch out to STRC at SouthernTierRunningClub@gmail.com. If you have friends a
- nd family’s joining you on this adventure that would be interested in vo
- lunteering please reach out to us as well.\nYou can find more information 
- about Sugar Hill State Forest Here: https://dec.ny.gov/places/sugar-hill-s
- tate-forest\n- Sugar Hill State Forest Map North: https://dec.ny.gov/sites
- /default/files/mapsugarhillnorth.pdf\n- Sugar Hill State Forest Map South:
-  https://extapps.dec.ny.gov/.../land.../mapsugarhillsouth.pdf\nCAMPING INF
- ORMATION:\nThe Sugar Hill Recreation Area\, located at 3360 Tower Hill Rd
- \, Watkins Glen\, NY\, is the largest designated camping area on Sugar Hil
- l State Forest. Available on a first-come first-serve basis\, the area is 
- a nine-acre open field for camping. These 26 designated campsites have fir
- e rings and picnic tables. Upon arrival\, campers must fill out a self-iss
- ued camping permit. There is no reservation system\, if you arrive and it 
- is full you will have to find another location to camp.\nOther facilities 
- in the Rec Area include\; a picnic area with picnic tables and pavilion\, 
- an accessible horse-mounting platform\, open horse stalls\, during summer 
- months a restroom with potable water are available\, and access to the Six
-  Nations Trail System\, as well as the Sugar Hill Fire Tower. The gate is 
- opened to vehicle traffic\, and the water turned on\, from the 3rd Monday 
- in May through the 3rd Monday in October of each year.\nThe Lower Evergree
- n Hill Rec Area\, located off of Evergreen Hill Rd\, is smaller and has pi
- cnic tables\, fire rings\, open horse stalls and a pit privy. New for 2021
- \, three campsites have been designated. No trash pickup is provided. This
-  is a carry in-carry out facility.\nIndividual campsites are located throu
- ghout the State Forest. These 19 additional primitive designated camping s
- ites are semi-flat spots\, some are graveled parking areas\, others are sm
- all openings set back in the woods on topsoil\, most with no other facilit
- ies provided.\nPrimitive backcountry camping is allowed. Campsites must be
-  at least 150 feet away from the nearest road\, trail\, or body of water.
- \nCamping for more than three nights or in groups of ten or more requires 
- a permit from a Forest Ranger. No trash pickup is provided. These are carr
- y-in\, carry-out facilities.\nLean-to Camping :There are five Adirondack-s
- tyle lean-tos at four different locations. Lean-tos must be shared to thei
- r capacity on a first-come\, first-use basis\, with no exclusive reservati
- on allowed.\nBuck Settlement Lean-to on the Finger Lakes Trail north of Te
- mplar Road and near Glen Creek\;\nParks Hollow Lean-to on Mohawk Trail\, n
- orth of Sugar Hill Road\;\nthe Twin Lean-to's (Sugar Hill Lean-to #1 and #
- 2) - on Seneca Trail\, south of the Sugar Hill Rec Area\;\nand VanZandt Le
- an-to - on Seneca Trail\, east of Tower Hill Road.\nNo trash pickup is pro
- vided. These are a carry in-carry out facilities.\n\nSource: FLXcalendar -
-  https://calendar.time.ly/o9b0uzpj/event/78456577/20260905070000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78456577/20260905070000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Geneva Farmers Market
-DTSTART:20260905T120000Z
-DTEND:20260905T170000Z
-DTSTAMP:20260905T124042Z
-UID:05731148f5aa935a6a3797a21a924d9ec05c41dd@corning-events
-SEQUENCE:0
-CATEGORIES:Farmers Market,Community,Family Fun,Food
-DESCRIPTION:35 Lake Front Drive\, Geneva\, NY 14456\nLocated next to the F
- inger Lakes Welcome Center along the shore of Seneca Lake\, the Geneva Far
- mers Market offers locally grown produce\, fresh eggs and meats\, flowers
- \, baked goods\, and handmade products. SNAP\, FreshConnect\, FMNP\, and W
- IC accepted at select vendors.\n\nSource: FLXcalendar - https://calendar.t
- ime.ly/o9b0uzpj/event/78384150/20260620080000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78384150/20260620080000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
-DTSTART:20260905T120000Z
-DTEND:20260905T203000Z
-DTSTAMP:20260905T124042Z
-UID:62864d5872e384c9caf2d79e8a419ed24567eecb@corning-events
-SEQUENCE:0
-CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
-DESCRIPTION:Located in the “heart of it all” and situated on 44 tree l
- ined acres for over 35 years\, The Windmill Farm & Craft Market is nestled
-  in the rolling hills of Upstate New York. Just south of Penn Yan on State
-  Route 14A and bordered by Keuka and Seneca Lakes\, the scenic surrounding
- s are almost unimaginable.\nThe Windmill is host to over 175 indoor and ou
- tdoor shops filled with hand crafted items too numerous to count. You will
-  discover great food\, fresh produce\, flowers\, custom cabinetry\, furnit
- ure\, fashion\, local wineries\, artistry\, gifts\, micro brews\, entertai
- nment\, and so much more. The Windmill offers many onsite dining options f
- rom full restaurants to unending snack options. With six wineries\, a brew
- ery and a distillery\, The Windmill is a one stop destination for tastings
- .\nThe Windmill is a short drive from so many things to do and see\, it’
- s easy to see why they are in high demand for large and small group tours
- \, which are always welcome. We welcome limos\, small buses and large moto
- r coaches as well. There is ample\, convenient parking for several motor c
- oaches at the Hobson Road entrance. Reservations are not mandatory\, but T
- he Windmill would like to preregister groups so they can be welcomed with 
- a step on guide.\nBegin your day us at 8:00 a.m. and stay until we close a
- t 4:30 p.m. Admission is always Free!\nOpen every Saturday from the third 
- Saturday in April through the last Saturday in November\, plus Memorial Da
- y\, July 3rd & 4th\, Labor Day\, and Black Friday!\n\nSource: FLXcalendar 
- - https://calendar.time.ly/o9b0uzpj/event/78366792/20260530080000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78366792/20260530080000
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Steuben 250 Concert & History Fair | Pulteney Square\, Bath
 DTSTART:20260905T130000Z
 DTEND:20260905T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5a634895c632f99e5d577809ece257bf2326a801@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Community,Festivals,Family Fun,Music,Food
@@ -484,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Saturday Market
 DTSTART:20260905T130000Z
 DTEND:20260905T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:62dffa0ff5daa8dc6a8c9ef6deb3e8bdb6abd081@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Support,Food,Crafts,Art,Family Fun,Per
@@ -502,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca College Jazz Ensemble Children's Concert
 DTSTART:20260905T140000Z
 DTEND:20260906T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b5589241aacbb48c5a2f2c8fc752e4fa0fb5514e@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Music
@@ -524,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Flea Market at Chamberlain Acres\, Elmira
 DTSTART:20260905T150000Z
 DTEND:20260905T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e2d8129c0dae9531151b7e09989ed4d2765d13e9@corning-events
 SEQUENCE:0
 CATEGORIES:Community
@@ -542,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Elmira Alt-Rock Fest
 DTSTART:20260905T170000Z
 DTEND:20260906T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:81ac7de191eb183656afbcfd3dbcc75a6a0405c7@corning-events
 SEQUENCE:1
 CATEGORIES:Music,Festivals,Family Fun
@@ -583,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:States Apart live at Birdseye Hollow Farm & Distillery
 DTSTART:20260905T190000Z
 DTEND:20260905T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:01f93d50713cc1bd238a607e36d14946c55314dd@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -599,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Wendy & Jim live at Krooked Tusker Distillery
 DTSTART:20260905T190000Z
 DTEND:20260906T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:0e1b3b22120f5f3010f925b30c070639a2d37772@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -615,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:Hupstate Circus Festival: Natural Causes
 DTSTART:20260905T200000Z
 DTEND:20260906T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:0a72ddb0851f0180b608680be3263ba4722330c6@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts
@@ -638,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:The Dylan Doyle Band LIVE @ Steuben Brewing Company
 DTSTART:20260905T200000Z
 DTEND:20260905T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2a7cc80bb3c1dad03fe6e69f8edfa2df9850c980@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Beer,Performing Arts
@@ -658,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music at Eldridge Park
 DTSTART:20260905T210000Z
 DTEND:20260906T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d2c5394a199bae46cc333fa97b0ce57be0e89cc5@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Family Fun,New to the Area
@@ -674,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Concert – The Katts
 DTSTART:20260905T210000Z
 DTEND:20260906T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:fbfa5f2b2f9a0369d4707d7e20952331436cc913@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -688,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:Plan Z LIVE @ Two Goats Brewing
 DTSTART:20260905T220000Z
 DTEND:20260906T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3295013740934e571158d6b6b567ae3f96484211@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -704,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:Betty's Ghost live at Kookalaroc's
 DTSTART:20260905T220000Z
 DTEND:20260906T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5e6957e25c7926ba1265b3cb20362e4e2c43bb35@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -720,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:SunSET Series w/ FABI @ Atwater Wine
 DTSTART:20260905T223000Z
 DTEND:20260906T003000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:0a9df779ce3a6a709e4d87d1ac9e4122f6c7c6fa@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Wine
@@ -743,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Grain Bin Vintage Market at the Trumansburg Fairgrounds
 DTSTART:20260906T120000Z
 DTEND:20260906T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d93987ef3703440f28e321071a376f6fc45a8217@corning-events
 SEQUENCE:0
 CATEGORIES:Connection
@@ -757,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:Planes & Pancakes - Fly-In Breakfast at ELM
 DTSTART:20260906T120000Z
 DTEND:20260906T150000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:de312275013f4e8c55bfc8966d08b409f06fb140@corning-events
 SEQUENCE:0
 CATEGORIES:Food,Family Fun,Connection
@@ -776,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Sunday Market
 DTSTART:20260906T140000Z
 DTEND:20260906T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2dc37224e6cdba0f4683122518b7463277ee8690@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -792,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20260906T153000Z
 DTEND:20260906T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c6d83af54446d8c07e251273ce9177cb54299fb3@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -814,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Eldridge Park Craft Fair
 DTSTART:20260906T160000Z
 DTEND:20260906T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5bad9b3b8705fac5c35c968c19ac0b13b83b9772@corning-events
 SEQUENCE:0
 CATEGORIES:Crafts
@@ -835,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:Brit Car Sunday Social at The Beerocracy British Pub
 DTSTART:20260906T170000Z
 DTEND:20260906T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:30c1b15c315b7d4cb277b7246965e43a32936b54@corning-events
 SEQUENCE:0
 CATEGORIES:Cars,Beer
@@ -869,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:Rachel Beverly live at Wagner Vineyards
 DTSTART:20260906T170000Z
 DTEND:20260906T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:443b750501e39f94efe35aa869641212ddc98349@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Wine
@@ -891,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:Cheers & Cheese at Latitude 42\, H'Heads
 DTSTART:20260906T180000Z
 DTEND:20260906T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:171a09a32ab32f6ac07a185b9b9cc3d30264af83@corning-events
 SEQUENCE:2
 CATEGORIES:Food,Music,Tastings
@@ -907,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:Vivalina's Gourd-a-Palooza @ Ithaca Children's Garden
 DTSTART:20260906T180000Z
 DTEND:20260906T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:8cd0575e15e652a4adc6ae5dd4615c939f0b837f@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Food,Music,Literature
@@ -933,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:Dylan Doyle Band live at Weis Vineyards
 DTSTART:20260906T180000Z
 DTEND:20260906T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b1c7eb622bf6747b1da3a262c0cc7fbcfdc24313@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -948,7 +506,7 @@ BEGIN:VEVENT
 SUMMARY:Oasis Sunday Music @ Hazlitt 1852 Vineyards
 DTSTART:20260906T180000Z
 DTEND:20260906T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:dcbe22236067ccdc74e0c5dd48cc28b390c13d9b@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Wine
@@ -986,7 +544,7 @@ BEGIN:VEVENT
 SUMMARY:Scuffletown LIVE @ Two Goats Brewing
 DTSTART:20260906T200000Z
 DTEND:20260906T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1002aa545d817ba896804a980d3f42765373e13e@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -1004,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:Geneva Lakefront Concert Series: Labor Day Weekend
 DTSTART:20260906T200000Z
 DTEND:20260906T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2299581a48c916c3be72f9fb2ac6399bcc3f86fd@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Community
@@ -1029,7 +587,7 @@ BEGIN:VEVENT
 SUMMARY:Night Owl live at Camp Bell Campground
 DTSTART:20260906T230000Z
 DTEND:20260907T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:af5b09a9e52ba63e4be765570f364c77b5938ba9@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1044,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:Closed for Labor Day
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ee2ad935101e41c68f38919f02e856c582cb3051@corning-events
 SEQUENCE:0
 DESCRIPTION:We are closed for Labor Day. See you tomorrow!\n\nSource: Chem
@@ -1058,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music at Eldridge Park
 DTSTART:20260907T180000Z
 DTEND:20260907T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6bd028091589238c46d2aea1ee5d3bc761cb54a4@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Family Fun,New to the Area
@@ -1074,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:Melissa Etheridge LIVE @ Point of the Bluff
 DTSTART:20260907T191500Z
 DTEND:20260908T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3412b131542a00cc1f12e4b67899988c1b8a6cc4@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Wine
@@ -1267,7 +825,7 @@ BEGIN:VEVENT
 SUMMARY:Open Mic Night with Mark Maynard at Lucky Hare\, Hector
 DTSTART:20260907T220000Z
 DTEND:20260908T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c6b7a2b018636816204c16fd6643f8f93d8daec2@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1287,7 +845,7 @@ BEGIN:VEVENT
 SUMMARY:Tuesdays at Taughannock ft. Levi & the Wranglers!
 DTSTART:20260908T213000Z
 DTEND:20260909T003000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d0cf678e847dbfa827a032fb03cbe2802674cf43@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -1310,7 +868,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20260908T220000Z
 DTEND:20260908T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:014126ab08fa953e1d3aecb4f5fc6d216e034966@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -1326,7 +884,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20260908T220000Z
 DTEND:20260909T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2f51bdb25dd3ade327197f241fa3cbfbefe10586@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -1345,7 +903,7 @@ BEGIN:VEVENT
 SUMMARY:Understanding the Civil War: A Reading & Discussion Series
 DTSTART:20260908T220000Z
 DTEND:20260908T233000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b3c0f7974851a883dd3aa35666076b0329a83881@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -1376,7 +934,7 @@ BEGIN:VEVENT
 SUMMARY:Trivia Night at Burgers & Beer\, Corning
 DTSTART:20260908T230000Z
 DTEND:20260909T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:09a39a4d06ede2661725b8c0be8206c48a6ae4a9@corning-events
 SEQUENCE:0
 CATEGORIES:Games,Food,Beer
@@ -1391,7 +949,7 @@ SUMMARY:Studio Instructor Presentations | Caleb Carlson\, Tracy Drier\, Su
  san Gott\, & Jessica Loughlin @ CMoG
 DTSTART:20260908T233000Z
 DTEND:20260909T013000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b67f298fa2b0db418de5c9fc6b0317224c17c147@corning-events
 SEQUENCE:0
 CATEGORIES:Glass
@@ -1412,7 +970,7 @@ BEGIN:VEVENT
 SUMMARY:Wisner Farmers Market in Elmira
 DTSTART:20260909T140000Z
 DTEND:20260909T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:8eaf73a44927556387da2b4cd27c5163e489bee9@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Music,Family Fun,New to the Area
@@ -1442,7 +1000,7 @@ BEGIN:VEVENT
 SUMMARY:Wisner Market: Wednesdays at Wisner
 DTSTART:20260909T140000Z
 DTEND:20260909T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d3e00bd828931c03679cd456ace70a069000676d@corning-events
 SEQUENCE:1
 CATEGORIES:Festivals,Music,Food,Community
@@ -1474,7 +1032,7 @@ BEGIN:VEVENT
 SUMMARY:Out to Lunch: West Elmira Library Calligraphy Club
 DTSTART:20260909T160000Z
 DTEND:20260909T170000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4e3854a045fdf93b8be1c3d73edab1dca50dacb9@corning-events
 SEQUENCE:1
 CATEGORIES:History & Heritage
@@ -1495,7 +1053,7 @@ BEGIN:VEVENT
 SUMMARY:Trumansburg Farmers Market
 DTSTART:20260909T200000Z
 DTEND:20260909T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4abb6adcd924b52559096462cfb6e24913ba4488@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -1511,7 +1069,7 @@ BEGIN:VEVENT
 SUMMARY:Business After Hours at Corning Meals on Wheels
 DTSTART:20260909T210000Z
 DTEND:20260909T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:01385dee6d0b110e87fada8245f912e6d2df69ff@corning-events
 SEQUENCE:0
 DESCRIPTION:Join us for Business After Hours at Corning Meals on Wheels on
@@ -1527,7 +1085,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons and Dragons One Shot!
 DTSTART:20260909T220000Z
 DTEND:20260909T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:39634f5c7e4aa1f860a9d3ac837857f423e64af9@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -1544,7 +1102,7 @@ BEGIN:VEVENT
 SUMMARY:Wednesday Open Mic Night at The Nocturnal Café!
 DTSTART:20260909T230000Z
 DTEND:20260910T020000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6f37ba92cdcdc36e924a76280f3b7399086e83fd@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Connection
@@ -1565,7 +1123,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SVRA Hilliard U.S. Vintage Grand Prix at The Glen
 DTSTART:20260910T040000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a0299efed45c49841051ef04f2c304634ccbfc9c@corning-events
 SEQUENCE:0
 DESCRIPTION:History and prestige return to the birthplace of North America
@@ -1581,7 +1139,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Farmers Market
 DTSTART:20260910T140000Z
 DTEND:20260910T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:044b1076dae7f90d49935c030e468b28002dad55@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Food,Crafts,New to the Area,Family Fun
@@ -1613,7 +1171,7 @@ BEGIN:VEVENT
 SUMMARY:Montour Falls Farmers Market
 DTSTART:20260910T200000Z
 DTEND:20260910T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a217c081c1a79c634c4b2355efa95f1360e0a9ca@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -1641,7 +1199,7 @@ BEGIN:VEVENT
 SUMMARY:Singer-Songwriter Series: Hannah T @ Atwater Wine
 DTSTART:20260910T220000Z
 DTEND:20260911T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:243644914aba1565b824661718d393c9d6c3ec33@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Wine
@@ -1670,7 +1228,7 @@ BEGIN:VEVENT
 SUMMARY:Still Kickin' live at Lafayette Park Pre-Vintage Festival
 DTSTART:20260910T220000Z
 DTEND:20260911T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:8619bd5f3850a169f35d61c22fbada2c0fc83ff9@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1689,7 +1247,7 @@ SUMMARY:Jazz & Blues Night w/ London McDaniels and Lava at 5 & Dime\, Itha
  ca
 DTSTART:20260910T230000Z
 DTEND:20260911T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:767bb8b5ce0e94745207998b6afd5da206966ea1@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1710,7 +1268,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Watkins Glen Grand Prix Festival
 DTSTART:20260911T140000Z
 DTEND:20260912T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e02462c520c4d696f885a68dc4c466b641a4088c@corning-events
 SEQUENCE:0
 CATEGORIES:Cars,Community,History & Heritage
@@ -1735,7 +1293,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20260911T180000Z
 DTEND:20260911T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a66b33956a9ea175eb4ab5d340c6b007894ef208@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -1749,7 +1307,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20260911T190000Z
 DTEND:20260911T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ffa022abccec160a2b0e51aa44101eec8f6e05b3@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -1767,7 +1325,7 @@ BEGIN:VEVENT
 SUMMARY:AUDITIONS: The Nutcracker at 171 Cedar Arts
 DTSTART:20260911T200000Z
 DTEND:20260911T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1fd348430fe53ca57a32a650196904ffc022b4b5@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts
@@ -1785,7 +1343,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Fridays (no cover) @ The Oasis
 DTSTART:20260911T200000Z
 DTEND:20260911T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:89fbdbefff7d54458b758f7e179a877573bdb202@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Wine
@@ -1825,7 +1383,7 @@ BEGIN:VEVENT
 SUMMARY:Intention Jar Bar @ Latitude 42 Tap House
 DTSTART:20260911T200000Z
 DTEND:20260912T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b037b0f3813a1efa260fe149155de1b10bcb3601@corning-events
 SEQUENCE:0
 CATEGORIES:Crafts,Other
@@ -1856,7 +1414,7 @@ BEGIN:VEVENT
 SUMMARY:Opening Reception - Fall Spotlight at West End Gallery
 DTSTART:20260911T210000Z
 DTEND:20260911T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1fea420475527da4524ccb9a47125bc2937c62b7@corning-events
 SEQUENCE:0
 CATEGORIES:Art
@@ -1891,7 +1449,7 @@ BEGIN:VEVENT
 SUMMARY:Alive After 5 in Elmira
 DTSTART:20260911T210000Z
 DTEND:20260912T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:573971563ecab927044d76a3fc435531c78dda85@corning-events
 SEQUENCE:1
 CATEGORIES:Music,Community,Family Fun,New to the Area
@@ -1919,7 +1477,7 @@ BEGIN:VEVENT
 SUMMARY:Sampson State Park Farmers Market
 DTSTART:20260911T210000Z
 DTEND:20260912T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9694ea042bdd7d84346ba74eb32be29a18c3d4ab@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Family Fun
@@ -1932,7 +1490,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Fridays (no cover) @ The Oasis
 DTSTART:20260911T213000Z
 DTEND:20260912T003000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:01c13441daf58a5bc88328d8865d86ffa11423e9@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -1961,7 +1519,7 @@ BEGIN:VEVENT
 SUMMARY:Doug Deming LIVE @ Steuben Brewing Company
 DTSTART:20260911T213000Z
 DTEND:20260912T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:461aabe83aa0bf87dae913478e0e007c6c4ca58f@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Beer,Performing Arts
@@ -1992,7 +1550,7 @@ BEGIN:VEVENT
 SUMMARY:From Darkness to Light at The Glen
 DTSTART:20260911T230000Z
 DTEND:20260912T020000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5e2ab2dc049bc2cac195549b6060a7240b0ddd1b@corning-events
 SEQUENCE:0
 CATEGORIES:Causes,Community,Music
@@ -2017,7 +1575,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Roller Skating at Cass Park Rink\, Ithaca
 DTSTART:20260911T233000Z
 DTEND:20260912T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d0a02bff0d6ea10eb4624af9384cc5c0adb9f9de@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,New to the Area
@@ -2039,7 +1597,7 @@ SUMMARY:Choir! Choir! Choir! presents Landslide: An Epic Fleetwood Mac Sin
  galong
 DTSTART:20260912T000000Z
 DTEND:20260912T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:0e2182b095dca1ee1c68a0d1728905b71aafee11@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -2076,7 +1634,7 @@ BEGIN:VEVENT
 SUMMARY:Nelly live at the Mich Ultra Summer Stage at Tags
 DTSTART:20260912T000000Z
 DTEND:20260912T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ea794d8beada02e63106445c2b379298ec2ab66e@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -2096,7 +1654,7 @@ BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20260912T120000Z
 DTEND:20260912T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:74bf36f2828468c1fd6ee394b7cffe9a2a7d3c2b@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -2129,7 +1687,7 @@ BEGIN:VEVENT
 SUMMARY:Geneva Farmers Market
 DTSTART:20260912T120000Z
 DTEND:20260912T170000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f58cee2363e3fe6d6bad26b18537a0392249437f@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Family Fun,Food
@@ -2146,7 +1704,7 @@ BEGIN:VEVENT
 SUMMARY:Children's Rummage Sale
 DTSTART:20260912T130000Z
 DTEND:20260912T170000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2397483c255ab29d6ff5f6aee7c2bbb4178b93df@corning-events
 SEQUENCE:0
 DESCRIPTION:Event by Nonnie Hood Parent Resource Center\nNonnie Hood Paren
@@ -2174,7 +1732,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Saturday Market
 DTSTART:20260912T130000Z
 DTEND:20260912T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:bac6a340df296f69badac62a6813328330e0e171@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Support,Food,Crafts,Art,Family Fun,Per
@@ -2192,7 +1750,7 @@ BEGIN:VEVENT
 SUMMARY:The Tompkins Treasure Hunt Kick-Off Party
 DTSTART:20260912T150000Z
 DTEND:20260912T170000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3797d219d01cea8124050628946fa8e631f1f8b7@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Connection,Family Fun
@@ -2211,7 +1769,7 @@ BEGIN:VEVENT
 SUMMARY:Furry Fest - Pet Pride & Animal Expo at Bradley Farms\, Elmira
 DTSTART:20260912T150000Z
 DTEND:20260912T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:bb15cc91180047812be2267267091857d49affed@corning-events
 SEQUENCE:0
 CATEGORIES:Pets,Causes,Community
@@ -2229,7 +1787,7 @@ BEGIN:VEVENT
 SUMMARY:Flea Market at Chamberlain Acres\, Elmira
 DTSTART:20260912T150000Z
 DTEND:20260912T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d4cb2c0a1dcc4a9e471653b36446743fa1a7381d@corning-events
 SEQUENCE:0
 CATEGORIES:Community
@@ -2247,7 +1805,7 @@ BEGIN:VEVENT
 SUMMARY:Future Firefighters Fun Fest @ Eldridge Park
 DTSTART:20260912T160000Z
 DTEND:20260914T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:113a50d8667462e84e0df17711d0ae4663fa0e63@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Family Fun,Education
@@ -2263,7 +1821,7 @@ BEGIN:VEVENT
 SUMMARY:Fall Flower & Cupcake Crawl
 DTSTART:20260912T160000Z
 DTEND:20260912T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d0fcd3c5269da39ee95263da56cd56c7a5890144@corning-events
 SEQUENCE:0
 CATEGORIES:Festivals,Community
@@ -2287,7 +1845,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Ballet: OPEN AUDITIONS
 DTSTART:20260912T164500Z
 DTEND:20260913T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e338e2537f18f81ddfea6b354098bcfe268b99f9@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Ballet\nOpen Auditions for the 2026-2027 season. Ladies
@@ -2300,7 +1858,7 @@ BEGIN:VEVENT
 SUMMARY:Heron Hill Harvest Festival
 DTSTART:20260912T170000Z
 DTEND:20260912T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c309f038be34db9990ab8777bf4ccefc6ff10fd8@corning-events
 SEQUENCE:0
 CATEGORIES:Festivals,Food,Wine
@@ -2321,7 +1879,7 @@ BEGIN:VEVENT
 SUMMARY:The Myriad Project presented by Ithaca College
 DTSTART:20260912T180000Z
 DTEND:20260913T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:518b6f7df952dfcd7c87a134a1533ad042bcc785@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -2337,7 +1895,7 @@ BEGIN:VEVENT
 SUMMARY:The Chris O'Leary Band LIVE @ Steuben Brewing Company
 DTSTART:20260912T200000Z
 DTEND:20260912T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6e691b7e778c84b91a3c0a41525e8900456d2704@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Beer,Performing Arts
@@ -2355,7 +1913,7 @@ BEGIN:VEVENT
 SUMMARY:The Cadillac Cats LIVE @ Two Goats Brewing
 DTSTART:20260912T220000Z
 DTEND:20260913T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6d20f8de6ac3dd006a5a39a71cef7a7b69bd8d57@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -2373,7 +1931,7 @@ BEGIN:VEVENT
 SUMMARY:DMAC Promotions Presents FLEX Wrestling: Hangar Havoc
 DTSTART:20260912T220000Z
 DTEND:20260913T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d0f83ff205b42ddc5c5991a5b279f59076099872@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Sports
@@ -2398,7 +1956,7 @@ BEGIN:VEVENT
 SUMMARY:Houses of the Holy: Led Zeppelin Tribute w/ special guest Bad Bear
 DTSTART:20260912T220000Z
 DTEND:20260913T020000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e63f7b75ba914bda575f61893dc2c83f90ee11bb@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -2423,7 +1981,7 @@ BEGIN:VEVENT
 SUMMARY:Brad Williams live at the State Theatre\, Ithaca
 DTSTART:20260912T230000Z
 DTEND:20260913T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:8d848c55987f8347abbad7ebe25a7753f48dc523@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy
@@ -2445,7 +2003,7 @@ BEGIN:VEVENT
 SUMMARY:Ready to Strike live at Landon's Pub
 DTSTART:20260913T003000Z
 DTEND:20260913T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4b233886729861a0afc29dc420b1af4046b4f140@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -2463,7 +2021,7 @@ BEGIN:VEVENT
 SUMMARY:2nd Annual Car and Antique Tractor Show\, Addison
 DTSTART:20260913T120000Z
 DTEND:20260914T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b6f54d1d463c22bccef651996dd06a9f3852eebe@corning-events
 SEQUENCE:0
 CATEGORIES:Cars,Food
@@ -2480,7 +2038,7 @@ SUMMARY:Guided River Paddle: Conhocton Street to Bottcher's Landing Boat L
  aunch
 DTSTART:20260913T130000Z
 DTEND:20260914T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1d547f8b4b049d685d5668c20b29f246d9cf38bd@corning-events
 SEQUENCE:1
 CATEGORIES:Boats,Nature
@@ -2501,7 +2059,7 @@ SUMMARY:Guided River Paddle - Conhocton St to Bottcher's Landing w: Chemun
  g River Friends
 DTSTART:20260913T130000Z
 DTEND:20260914T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b4498795f5d1509178345d98355100b64495bc74@corning-events
 SEQUENCE:0
 CATEGORIES:Boats,Nature,Community,New to the Area,Sober-friendly
@@ -2519,7 +2077,7 @@ BEGIN:VEVENT
 SUMMARY:Elmira Holiday Parade Costume Fitting
 DTSTART:20260913T130000Z
 DTEND:20260913T150000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c0d69004ba98b46d194c166a882ea81b6d7afd5e@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Community
@@ -2551,7 +2109,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Sunday Market
 DTSTART:20260913T140000Z
 DTEND:20260913T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:66018277fcf87d2ce107bb432094716ca3db8d4e@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -2567,7 +2125,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20260913T153000Z
 DTEND:20260913T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d39ff41c03c81d7c832d4b1733109e3c8bfed83b@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -2589,7 +2147,7 @@ BEGIN:VEVENT
 SUMMARY:34th Annual Founder's Day Concert in DeWitt Park\, Ithaca
 DTSTART:20260913T180000Z
 DTEND:20260914T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:16608981eec4e1d222aa0b840a02993ab10790b3@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Family Fun,Community
@@ -2609,7 +2167,7 @@ BEGIN:VEVENT
 SUMMARY:Oasis Sunday Music @ Hazlitt 1852 Vineyards
 DTSTART:20260913T180000Z
 DTEND:20260913T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:eee1d5eeb52651fed6e00a8d0bbf7989c09539ce@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Wine
@@ -2647,7 +2205,7 @@ BEGIN:VEVENT
 SUMMARY:Duck Drop Fundraiser at Eldridge Park
 DTSTART:20260913T190000Z
 DTEND:20260914T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3f087943c16f08d467ac90cbf9b9fc135a4b5718@corning-events
 SEQUENCE:0
 CATEGORIES:Causes,Community,Family Fun
@@ -2675,7 +2233,7 @@ BEGIN:VEVENT
 SUMMARY:Alec Smith Trio LIVE @ Steuben Brewing Company
 DTSTART:20260913T190000Z
 DTEND:20260913T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b927cb82299d0f2c5cb569c3dbfafcf585d12ddf@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Beer,Performing Arts
@@ -2693,7 +2251,7 @@ BEGIN:VEVENT
 SUMMARY:Go Gone LIVE @ Two Goats Brewing
 DTSTART:20260913T200000Z
 DTEND:20260913T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:94a704761181cf7141e7398f026ede14da4ba80a@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -2709,7 +2267,7 @@ SUMMARY:Marcus King Band - Darling Blue Tour Pt. 2 LIVE @ State Theatre of
   Ithaca
 DTSTART:20260914T000000Z
 DTEND:20260914T020000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:bfca4dbdc87a3e2b0639a138482646b534a3588c@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -2743,7 +2301,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Chamber Golf Tournament 2026
 DTSTART:20260915T123000Z
 DTEND:20260915T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a3e3817a3a18776c0cb75415ac9d7a632215d07c@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -2775,7 +2333,7 @@ BEGIN:VEVENT
 SUMMARY:Tuesdays at Taughannock ft. The Dart Brothers
 DTSTART:20260915T213000Z
 DTEND:20260916T003000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:937712488062122be626f10e6504ef46c85ae676@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -2798,7 +2356,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20260915T220000Z
 DTEND:20260916T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6686166e8b79e408b4a44b239164e2e0d554f113@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -2817,7 +2375,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20260915T220000Z
 DTEND:20260915T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:76ee59ce6d1c33d2b8a89f93c2d51508b21cf2e0@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -2833,7 +2391,7 @@ BEGIN:VEVENT
 SUMMARY:Poets in Play\, featuring Jessica Femiani - The ARTS Council
 DTSTART:20260915T230000Z
 DTEND:20260916T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:03cfef3d2a268bb42de513ddf47276039f8309ea@corning-events
 SEQUENCE:0
 DESCRIPTION:The ARTS Council of the Southern Finger Lakes (The ARTS Counci
@@ -2849,7 +2407,7 @@ BEGIN:VEVENT
 SUMMARY:Wisner Farmers Market in Elmira
 DTSTART:20260916T140000Z
 DTEND:20260916T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:66fac5a2745edf3da994178a11cda30df6f69dc0@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Music,Family Fun,New to the Area
@@ -2879,7 +2437,7 @@ BEGIN:VEVENT
 SUMMARY:Wisner Market: Wednesdays at Wisner
 DTSTART:20260916T140000Z
 DTEND:20260916T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6ed14d5482d36297993da8057c26073f9406d769@corning-events
 SEQUENCE:1
 CATEGORIES:Festivals,Music,Food,Community
@@ -2911,7 +2469,7 @@ BEGIN:VEVENT
 SUMMARY:Trumansburg Farmers Market
 DTSTART:20260916T200000Z
 DTEND:20260916T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:210e064f5d6b24279a0b8f737bfb3f00edb1edcf@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -2927,7 +2485,7 @@ BEGIN:VEVENT
 SUMMARY:Guided Evening Paddle: Fitch's Bridge to Grove Street Boat Launch
 DTSTART:20260916T210000Z
 DTEND:20260917T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:827109b199037a6a26a50a3eb038c2ed9369f2fd@corning-events
 SEQUENCE:0
 CATEGORIES:Boats,Nature
@@ -2973,7 +2531,7 @@ BEGIN:VEVENT
 SUMMARY:Wednesday Open Mic Night at The Nocturnal Café!
 DTSTART:20260916T230000Z
 DTEND:20260917T020000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:52b95ea72651826268850b207a327af241c99788@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Connection
@@ -2995,7 +2553,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca College presents Olivia Phaneuf\, saxophone
 DTSTART:20260916T230000Z
 DTEND:20260917T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e8c337c46d7dc576cec321773c5b6855ee21f2b7@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -3010,7 +2568,7 @@ BEGIN:VEVENT
 SUMMARY:Trampled By Turtles w/ Wild Horses LIVE @ State Theatre of Ithaca
 DTSTART:20260917T000000Z
 DTEND:20260917T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d33b1828f04d4aa4a524782ebc4c854a3b22c761@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -3063,7 +2621,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Farmers Market
 DTSTART:20260917T140000Z
 DTEND:20260917T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f61481321a42bde6e89bca9e1a0ad07ce675aa9a@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Food,Crafts,New to the Area,Family Fun
@@ -3095,7 +2653,7 @@ BEGIN:VEVENT
 SUMMARY:Gallery Talk | Reframing Artists of the WPA with Katherine Banerje
  e
 DTSTART:20260917T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3e3078ea8b171786d3f377dfe6d0e2220688f538@corning-events
 SEQUENCE:1
 DESCRIPTION:Open to the public | Included with regular Museum admission | 
@@ -3108,7 +2666,7 @@ BEGIN:VEVENT
 SUMMARY:Montour Falls Farmers Market
 DTSTART:20260917T200000Z
 DTEND:20260917T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:637c21a4e23b18da2d82d9f8a8579278cac02966@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -3136,7 +2694,7 @@ BEGIN:VEVENT
 SUMMARY:Benny and the Mix LIVE @ Two Goats Brewing
 DTSTART:20260917T210000Z
 DTEND:20260917T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6ab1d6fd142a93b5e0aa284ffb8bf2f2611d29d2@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -3152,7 +2710,7 @@ BEGIN:VEVENT
 SUMMARY:Quarry Farm Poetry Workshop
 DTSTART:20260917T220000Z
 DTEND:20260918T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3563745ff8d0a12c8bcf04e95f10336b244c49ff@corning-events
 SEQUENCE:0
 DESCRIPTION:Join The ARTS Council of the Southern Finger Lakes (The ARTS C
@@ -3167,7 +2725,7 @@ BEGIN:VEVENT
 SUMMARY:Singer-Songwriter Series w/ Cast Iron Cowboys @ Atwater Wine
 DTSTART:20260917T220000Z
 DTEND:20260918T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9996548704a005106c2b2c5d2848ee9b990c3db1@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Wine
@@ -3188,7 +2746,7 @@ SUMMARY:Jazz & Blues Night w/ London McDaniels and Lava at 5 & Dime\, Itha
  ca
 DTSTART:20260917T230000Z
 DTEND:20260918T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:335e61df7f7b0e2667eef2057044039338b028f0@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -3209,7 +2767,7 @@ BEGIN:VEVENT
 SUMMARY:Attic Art Sale
 DTSTART:20260918T140000Z
 DTEND:20260918T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5a3889c7005fd517e697c95fe457fe10ef3e5717@corning-events
 SEQUENCE:0
 CATEGORIES:Art
@@ -3230,7 +2788,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20260918T180000Z
 DTEND:20260918T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5b127e269d93aebbf3553f5bfcd3ffe706088d99@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -3244,7 +2802,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20260918T190000Z
 DTEND:20260918T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:17e5ffb41dfc5426452afa534a3acaa2c2fe5bc2@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -3262,7 +2820,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Fridays (no cover) @ The Oasis
 DTSTART:20260918T200000Z
 DTEND:20260918T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4caa8ea80ab79d995bf66df4fffca8937c0f39b2@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Wine
@@ -3302,7 +2860,7 @@ BEGIN:VEVENT
 SUMMARY:Sampson State Park Farmers Market
 DTSTART:20260918T210000Z
 DTEND:20260919T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f70abeec0ae9016c632727e28a9d0de022cd07b6@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Family Fun
@@ -3315,7 +2873,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Fridays (no cover) @ The Oasis
 DTSTART:20260918T213000Z
 DTEND:20260919T003000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:13c5010332ba0535b5b67500222a8ac3c5dea708@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -3344,7 +2902,7 @@ BEGIN:VEVENT
 SUMMARY:The Analogue Sons LIVE @ Two Goats Brewing
 DTSTART:20260918T220000Z
 DTEND:20260919T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:bb4cf17a8076225f5836be103dbac8a219f4a5c6@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -3359,7 +2917,7 @@ BEGIN:VEVENT
 SUMMARY:Garrison Keillor Tonight @ Hangar Theatre
 DTSTART:20260918T230000Z
 DTEND:20260919T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b54c0e2abee12ff18cab09a632596fd354c65a34@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy
@@ -3391,7 +2949,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Roller Skating at Cass Park Rink\, Ithaca
 DTSTART:20260918T233000Z
 DTEND:20260919T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ea96ad3a06db51d006532b0a6c87b6f0dedd11fb@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,New to the Area
@@ -3412,7 +2970,7 @@ BEGIN:VEVENT
 SUMMARY:Twilight at Tanglewood 2026
 DTSTART:20260919T080000Z
 DTEND:20260919T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5a9db56404e7acf5b58ef295d7dfcdc827819eb4@corning-events
 SEQUENCE:0
 CATEGORIES:Causes,Nature,Community,Connection,Tastings
@@ -3430,7 +2988,7 @@ BEGIN:VEVENT
 SUMMARY:Geneva Farmers Market
 DTSTART:20260919T120000Z
 DTEND:20260919T170000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:39a7c71a1e7f79b1f4a076102753c7c4b7fde147@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Family Fun,Food
@@ -3447,7 +3005,7 @@ BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20260919T120000Z
 DTEND:20260919T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:657d7721ec8b03836d0a75942b9d86955bf70fee@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -3480,7 +3038,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Saturday Market
 DTSTART:20260919T130000Z
 DTEND:20260919T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:51d1854c283d16aeb9c2c7c50df5df98af19d61f@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Support,Food,Crafts,Art,Family Fun,Per
@@ -3498,7 +3056,7 @@ BEGIN:VEVENT
 SUMMARY:2nd Annual Hare Prix 10K Race
 DTSTART:20260919T130000Z
 DTEND:20260920T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:588a01bd20943952c182b7c03d84a7e9ff71e1ea@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Music
@@ -3518,7 +3076,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Rockwell Memorial Golf Tournament @ Willow Creek
 DTSTART:20260919T130000Z
 DTEND:20260920T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ae9d204c32d178367e384235403e64bc5e455ada@corning-events
 SEQUENCE:0
 CATEGORIES:Causes,Sports
@@ -3536,7 +3094,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Rockwell @ 50 Block Party
 DTSTART:20260919T130000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b3ee08705bb02af4412d8971ff8f723a8b36be46@corning-events
 SEQUENCE:3
 CATEGORIES:Art,Performing Arts,Education,Music,Community,Connection,Family
@@ -3554,7 +3112,7 @@ BEGIN:VEVENT
 SUMMARY:Community Collaborative Creation: Anniversary Artist Book with Ann
  a Warfield
 DTSTART:20260919T140000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:12b222c395fb0408c5e28a87d08125b40b6c0dcc@corning-events
 SEQUENCE:1
 DESCRIPTION:Free and open to the public | Advance registration strongly en
@@ -3567,7 +3125,7 @@ BEGIN:VEVENT
 SUMMARY:Tough Turtle Junior @ Ithaca Children's Garden
 DTSTART:20260919T140000Z
 DTEND:20260920T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3b1b4ef4ab073f7bbc211ec919b1cd2730ef6c7e@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Nature
@@ -3586,7 +3144,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alley Art Project Tour
 DTSTART:20260919T140000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6858ac1945c74f5b40c465f92938188a0eb22588@corning-events
 SEQUENCE:1
 DESCRIPTION:Led by Amy Ruza\, Educator for Visitor Engagement and Public P
@@ -3599,7 +3157,7 @@ BEGIN:VEVENT
 SUMMARY:Attic Art Sale
 DTSTART:20260919T140000Z
 DTEND:20260919T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:7b1f64a8475e2d4481a71571f0b47b0f8f66f10d@corning-events
 SEQUENCE:0
 CATEGORIES:Art
@@ -3620,7 +3178,7 @@ BEGIN:VEVENT
 SUMMARY:FREE History Tours @ The Smith Opera House
 DTSTART:20260919T140000Z
 DTEND:20260919T150000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:88386a9815d004d43486809c93e8769675c6cadc@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -3644,7 +3202,7 @@ BEGIN:VEVENT
 SUMMARY:Flea Market at Chamberlain Acres\, Elmira
 DTSTART:20260919T150000Z
 DTEND:20260919T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:bd98f6fcec64fc399ffea89592d47da734dde42a@corning-events
 SEQUENCE:0
 CATEGORIES:Community
@@ -3661,7 +3219,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“50 for 50” Tour
 DTSTART:20260919T150000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:def5af585a148d1cc07381501242083457b513a1@corning-events
 SEQUENCE:1
 DESCRIPTION:Led by Amanda Lett\, Curator of Collections and Exhibitions\n
@@ -3674,7 +3232,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Repair Cafe at Emanuel Lutheran Church
 DTSTART:20260919T160000Z
 DTEND:20260919T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ac48702756e58b75885e36ac6dd15b1206f77fd9@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Support
@@ -3694,7 +3252,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dance Reframed: Movement in Response to Art
 DTSTART:20260919T160000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b26720fab1a74b521bc5c1093f219f909fe6715c@corning-events
 SEQUENCE:1
 DESCRIPTION:Free and open to the public | No registration required\n\nSour
@@ -3706,7 +3264,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rockwell Reframed: Director’s Choice Tour
 DTSTART:20260919T170000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:877b44b701ab970ae711cf14739b3a03784e6597@corning-events
 SEQUENCE:0
 DESCRIPTION:Led by Executive Director Erin Coe\n\nSource: The Rockwell Mus
@@ -3718,7 +3276,7 @@ BEGIN:VEVENT
 SUMMARY:Old Crow Medicine Show LIVE @ Point of the Bluff
 DTSTART:20260919T181500Z
 DTEND:20260919T221500Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3105b9964bbb089e78ec0c80ff92358a0180b1db@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Wine
@@ -3754,7 +3312,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Market Street History Tour
 DTSTART:20260919T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:382273f8200f0fa3c179dd981cdfd349177f77ea@corning-events
 SEQUENCE:0
 DESCRIPTION:Led by Meghan O'Toole\, SFLX 2025 Artist Fellow and Arts Pract
@@ -3766,7 +3324,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Music with Doc Possum
 DTSTART:20260919T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:8932e3b7306e6ec0ba686f0e9c7c77499671b987@corning-events
 SEQUENCE:0
 DESCRIPTION:Free and open to the public | No registration required\n\nSour
@@ -3779,7 +3337,7 @@ BEGIN:VEVENT
 SUMMARY:Reading & Signing: Happy Mother's Daze
 DTSTART:20260919T200000Z
 DTEND:20260919T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c4a36f52ded903d46388b35926c77afb8bd38124@corning-events
 SEQUENCE:0
 CATEGORIES:Literature
@@ -3831,7 +3389,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Night Pride: Rainbow Trivia Night
 DTSTART:20260919T210000Z
 DTEND:20260919T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4305f59b34c6491417d681302c5bb3d55333b023@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,LGBTQ+
@@ -3849,7 +3407,7 @@ BEGIN:VEVENT
 SUMMARY:Far Trio LIVE @ Two Goats Brewing
 DTSTART:20260919T220000Z
 DTEND:20260920T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3510be7a9604f7951434ee1412917e4d0bd3c3fb@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -3865,7 +3423,7 @@ BEGIN:VEVENT
 SUMMARY:Cayuga Chamber Orchestra at 50: Giant-Proof
 DTSTART:20260919T233000Z
 DTEND:20260920T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9a04fc22cc9923ca9067aea4040106a346e662be@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -3893,7 +3451,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening with Ira Glass at The State Theatre\, Ithaca
 DTSTART:20260920T000000Z
 DTEND:20260920T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5aa184ae502015dd9c8bdc26f694082fdb153764@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts
@@ -3925,7 +3483,7 @@ BEGIN:VEVENT
 SUMMARY:Lotus Land: The American Rush Tribute @ Smith Opera House
 DTSTART:20260920T000000Z
 DTEND:20260920T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:7d84cc10e32e46899a33e977101277ef221c314a@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -3958,7 +3516,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Sunday Market
 DTSTART:20260920T140000Z
 DTEND:20260920T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:20af8569e8947ff3091a042e76683e10d76cd624@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -3974,7 +3532,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20260920T153000Z
 DTEND:20260920T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e8c6a248120c7fc2c5bb5eca9ab0f312fbbfd203@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -3996,7 +3554,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Porchfest 2026
 DTSTART:20260920T160000Z
 DTEND:20260920T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:fd396e66ff29086c704bb101407b36755d1658b7@corning-events
 SEQUENCE:0
 CATEGORIES:Festivals,Food,Performing Arts
@@ -4014,7 +3572,7 @@ BEGIN:VEVENT
 SUMMARY:Valley Folk presents David Francey
 DTSTART:20260920T180000Z
 DTEND:20260921T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:552ff31cdae0dfb73fb2801a8a3dd651aff38f29@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4044,7 +3602,7 @@ BEGIN:VEVENT
 SUMMARY:Oasis Sunday Music @ Hazlitt 1852 Vineyards
 DTSTART:20260920T180000Z
 DTEND:20260920T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:63f13941c162692acd5858ee66f98ccc7a918cce@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Wine
@@ -4082,7 +3640,7 @@ BEGIN:VEVENT
 SUMMARY:Terrapin Station LIVE @ Two Goats Brewing
 DTSTART:20260920T200000Z
 DTEND:20260920T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:7841e0688f39c8345b6447447403c96b10a0687a@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -4098,7 +3656,7 @@ BEGIN:VEVENT
 SUMMARY:Guest Artist | Ruth Tamura @ CMoG
 DTSTART:20260921T140000Z
 DTEND:20260921T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6956d9f4fa3ee0ce8899f89e76b70c70af1b15b7@corning-events
 SEQUENCE:0
 CATEGORIES:Glass
@@ -4127,7 +3685,7 @@ BEGIN:VEVENT
 SUMMARY:Reading In Public (Main St\, Penn Yan)
 DTSTART:20260921T210000Z
 DTEND:20260921T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1f3b1e8a88f5a58a37954e94c202b1abfa8a5477@corning-events
 SEQUENCE:0
 CATEGORIES:Literature,Other
@@ -4147,7 +3705,7 @@ BEGIN:VEVENT
 SUMMARY:Guest Artist | Ruth Tamura @ CMoG
 DTSTART:20260922T140000Z
 DTEND:20260922T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:23b921908a02d025295c8b46a8c770e756a528bd@corning-events
 SEQUENCE:0
 CATEGORIES:Glass
@@ -4176,7 +3734,7 @@ BEGIN:VEVENT
 SUMMARY:Book Launch: Mistranslation
 DTSTART:20260922T200000Z
 DTEND:20260922T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:26a0b322bc8c7fc384719cb2ebaac7e5b699e9c1@corning-events
 SEQUENCE:0
 CATEGORIES:Literature
@@ -4218,7 +3776,7 @@ BEGIN:VEVENT
 SUMMARY:Tuesdays at Taughannock ft. Son Henry Band
 DTSTART:20260922T213000Z
 DTEND:20260923T003000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2c2a1be3b2e4edc2b56c2ee59cb86bd33ecd6eb5@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -4241,7 +3799,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20260922T220000Z
 DTEND:20260923T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d787e4251df90432f83b5c4417313fbe98548272@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -4260,7 +3818,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20260922T220000Z
 DTEND:20260922T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f47493818bdd5b6c3f0c4c07a77276058c885fb7@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -4277,7 +3835,7 @@ SUMMARY:Of Monsters and Men: The Mouse Parade Tour LIVE @ State Theatre of
   Ithaca
 DTSTART:20260923T000000Z
 DTEND:20260923T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9a0527b0472bc6ec87bd493d9e7a0ad79009f560@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -4324,7 +3882,7 @@ BEGIN:VEVENT
 SUMMARY:Wisner Farmers Market in Elmira
 DTSTART:20260923T140000Z
 DTEND:20260923T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:10409a5aa64af331f9a463561f75a91b3cf61f81@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Music,Family Fun,New to the Area
@@ -4354,7 +3912,7 @@ BEGIN:VEVENT
 SUMMARY:Guest Artist | Ruth Tamura @ CMoG
 DTSTART:20260923T140000Z
 DTEND:20260923T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4545194d1918033613ade74cb33341c6f19a64b3@corning-events
 SEQUENCE:0
 CATEGORIES:Glass
@@ -4383,7 +3941,7 @@ BEGIN:VEVENT
 SUMMARY:Wisner Market: Wednesdays at Wisner
 DTSTART:20260923T140000Z
 DTEND:20260923T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:8d6bd852881448ad606b951dbd9ef6fc8e90604e@corning-events
 SEQUENCE:1
 CATEGORIES:Festivals,Music,Food,Community
@@ -4415,7 +3973,7 @@ BEGIN:VEVENT
 SUMMARY:Trumansburg Farmers Market
 DTSTART:20260923T200000Z
 DTEND:20260923T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:cd6e6966e38825313a0203792cb1c6ad3e04743d@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -4431,7 +3989,7 @@ BEGIN:VEVENT
 SUMMARY:Business After Hours at Pathways\, Inc.
 DTSTART:20260923T210000Z
 DTEND:20260923T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:897e9972d902319c4c70f353d3efb3a29a11673a@corning-events
 SEQUENCE:0
 DESCRIPTION:Attend Business After Hours on September 23 at Pathways\, Inc.
@@ -4447,7 +4005,7 @@ BEGIN:VEVENT
 SUMMARY:Wednesday Open Mic Night at The Nocturnal Café!
 DTSTART:20260923T230000Z
 DTEND:20260924T020000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5d37388c0c44d2ad964728d98e3b6833ea389551@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Connection
@@ -4469,7 +4027,7 @@ BEGIN:VEVENT
 SUMMARY:Graham Nash - Live on Tour 2026 @ Smith Opera House
 DTSTART:20260923T233000Z
 DTEND:20260924T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:188cda4a040b311e596c6a2d7a974c2a2b73d614@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -4527,7 +4085,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Farmers Market
 DTSTART:20260924T140000Z
 DTEND:20260924T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1a3384f597b568a449ca9ddd74aa92b66fd46707@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Food,Crafts,New to the Area,Family Fun
@@ -4559,7 +4117,7 @@ BEGIN:VEVENT
 SUMMARY:Guest Artist | Ruth Tamura @ CMoG
 DTSTART:20260924T140000Z
 DTEND:20260924T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5ef1ad3dec6b00e20e154d5e581e143a147d5382@corning-events
 SEQUENCE:0
 CATEGORIES:Glass
@@ -4588,7 +4146,7 @@ BEGIN:VEVENT
 SUMMARY:Montour Falls Farmers Market
 DTSTART:20260924T200000Z
 DTEND:20260924T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2ca1ef1d4dfe2e7ef343056ae0189660b7392c85@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -4616,7 +4174,7 @@ BEGIN:VEVENT
 SUMMARY:Singer-Songwriter Series: Liam Lawson @ Atwater Wine
 DTSTART:20260924T220000Z
 DTEND:20260925T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2cd82401d0902daed19670f11fb361a216f57a24@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Wine
@@ -4635,7 +4193,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silver Dollar Society | Annual Donor Recognition Event
 DTSTART:20260924T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a0429e202456326fd2cd90bd8f980c137f6e9039@corning-events
 SEQUENCE:1
 DESCRIPTION:Open to Rockwell Museum Silver Dollar Society Members and thei
@@ -4649,7 +4207,7 @@ SUMMARY:Jazz & Blues Night w/ London McDaniels and Lava at 5 & Dime\, Itha
  ca
 DTSTART:20260924T230000Z
 DTEND:20260925T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2e90d4394410e736e9702c1e8d23ea02aad5b67e@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4670,7 +4228,7 @@ BEGIN:VEVENT
 SUMMARY:72nd Annual Big Flats Community Days
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f86dd6d4e4692a00f9d562703adb6bd61559a896@corning-events
 SEQUENCE:0
 CATEGORIES:Festivals,Community,Family Fun,Games,Food,New to the Area
@@ -4685,7 +4243,7 @@ BEGIN:VEVENT
 SUMMARY:Guest Artist | Ruth Tamura @ CMoG
 DTSTART:20260925T140000Z
 DTEND:20260925T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:be300032c8674f54a83bfd4d67e44ef54831bb01@corning-events
 SEQUENCE:0
 CATEGORIES:Glass
@@ -4714,7 +4272,7 @@ BEGIN:VEVENT
 SUMMARY:Community Health Fair at Appleridge
 DTSTART:20260925T170000Z
 DTEND:20260925T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4ee481202bb6620de45f912e45da86fbcbc3659d@corning-events
 SEQUENCE:0
 DESCRIPTION:Free Community Health Fair at Appleridge Senior Living in Hors
@@ -4729,7 +4287,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20260925T180000Z
 DTEND:20260925T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c4c69e4f7178e7ffb0a4cf20015359f4c159963f@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -4744,7 +4302,7 @@ SUMMARY:29th Annual MANHATTAN SHORT Film Festival screenings at the Southe
  ast Steuben County Library
 DTSTART:20260925T183000Z
 DTEND:20260925T213000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b862cbe78e420ab07b049455031c540b32d8d1f3@corning-events
 SEQUENCE:0
 CATEGORIES:Film,Connection
@@ -4770,7 +4328,7 @@ BEGIN:VEVENT
 SUMMARY:Movie Afternoon: Hoppers
 DTSTART:20260925T184500Z
 DTEND:20260925T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3af73f050d66ce13c03fc0678f10f2071da0551a@corning-events
 SEQUENCE:0
 CATEGORIES:Film,Family Fun
@@ -4787,7 +4345,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20260925T190000Z
 DTEND:20260925T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3f285d6c998e46f859980d84ccc2a7d355d81ef5@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -4805,7 +4363,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Fridays (no cover) @ The Oasis
 DTSTART:20260925T200000Z
 DTEND:20260925T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e1dfa9244e8c68274dcf979c08455dfbc4e60a22@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Wine
@@ -4845,7 +4403,7 @@ BEGIN:VEVENT
 SUMMARY:Sampson State Park Farmers Market
 DTSTART:20260925T210000Z
 DTEND:20260926T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5ff42fde44204f3a0ece820abb5bb0d265eaf4d2@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Family Fun
@@ -4858,7 +4416,7 @@ BEGIN:VEVENT
 SUMMARY:Art Guild Show: When Shapes Come Together- Opening Reception
 DTSTART:20260925T210000Z
 DTEND:20260925T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6e11b141c2a37a227a976efa10fc2ef9a2c88fd7@corning-events
 SEQUENCE:0
 CATEGORIES:Art
@@ -4878,7 +4436,7 @@ BEGIN:VEVENT
 SUMMARY:Reading & Signing: Numinosity
 DTSTART:20260925T210000Z
 DTEND:20260925T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c628987249cf91f710fb762a023a0883828028d0@corning-events
 SEQUENCE:0
 CATEGORIES:Literature
@@ -4945,7 +4503,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Fridays (no cover) @ The Oasis
 DTSTART:20260925T213000Z
 DTEND:20260926T003000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:25360d438db72d0a723d8e6dd191d500c22c17d4@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -4974,7 +4532,7 @@ BEGIN:VEVENT
 SUMMARY:Michael Ciccone & Company LIVE @ Two Goats Brewing
 DTSTART:20260925T220000Z
 DTEND:20260926T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:32091519787cf3af7b88e87eac859d9df2825b1f@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -4990,7 +4548,7 @@ BEGIN:VEVENT
 SUMMARY:Love Lights Up The Night: Rock 'N Remember
 DTSTART:20260925T223000Z
 DTEND:20260926T003000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5502f6243bcd1539bf54132631ca96d8008c8703@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Community
@@ -5019,7 +4577,7 @@ SUMMARY:29th Annual MANHATTAN SHORT Film Festival screenings at the Southe
  ast Steuben County Library
 DTSTART:20260925T230000Z
 DTEND:20260926T020000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5223096f63eb8320ad9bc33e96138e275d97fc9c@corning-events
 SEQUENCE:0
 CATEGORIES:Film,Connection
@@ -5045,7 +4603,7 @@ BEGIN:VEVENT
 SUMMARY:The Pomarium Drag Show- Hosted by Tilia Cordata
 DTSTART:20260925T233000Z
 DTEND:20260926T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:8633e5d36fb3927809da75e86442ac25e8bf1702@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,LGBTQ+
@@ -5086,7 +4644,7 @@ BEGIN:VEVENT
 SUMMARY:Mystic Pizza
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:862982c487eec506e708248bfb9fc904c91a1a1e@corning-events
 SEQUENCE:2
 DESCRIPTION:MYSTIC PIZZA\nSaturdaySeptember 26\, 20267:30pm\nSundaySeptemb
@@ -5106,7 +4664,7 @@ BEGIN:VEVENT
 SUMMARY:Full Moon Ride with Elmira Community Cycle
 DTSTART:20260926T010000Z
 DTEND:20260926T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ca5d403bd14f61c5eb3a6bdcf6d3173bd82b68c3@corning-events
 SEQUENCE:0
 CATEGORIES:Bikes,Community,Connection
@@ -5122,7 +4680,7 @@ BEGIN:VEVENT
 SUMMARY:Geneva Farmers Market
 DTSTART:20260926T120000Z
 DTEND:20260926T170000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:941c05210310318748d12e979f6abb1b0139623e@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Family Fun,Food
@@ -5139,7 +4697,7 @@ BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20260926T120000Z
 DTEND:20260926T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a6b137c618681822e133be279ff44684d3744582@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -5172,7 +4730,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Saturday Market
 DTSTART:20260926T130000Z
 DTEND:20260926T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:43e1d5bc341c5193adb5a6ad49ebdea7e1594013@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Support,Food,Crafts,Art,Family Fun,Per
@@ -5190,7 +4748,7 @@ BEGIN:VEVENT
 SUMMARY:FREE History Tours @ The Smith Opera House
 DTSTART:20260926T140000Z
 DTEND:20260926T150000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:36d3cbde1f9891f5b80f447b36633c68e0f1ed21@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -5214,7 +4772,7 @@ BEGIN:VEVENT
 SUMMARY:Southern Tier Card Showcase
 DTSTART:20260926T140000Z
 DTEND:20260926T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e9407ab33714de4f793b89a3af9111d032b32426@corning-events
 SEQUENCE:0
 CATEGORIES:Games,Food,Family Fun
@@ -5237,7 +4795,7 @@ BEGIN:VEVENT
 SUMMARY:Flea Market at Chamberlain Acres\, Elmira
 DTSTART:20260926T150000Z
 DTEND:20260926T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d1f4e5bd4a04fc1aa38a03758a3ab7ed410737d2@corning-events
 SEQUENCE:0
 CATEGORIES:Community
@@ -5256,7 +4814,7 @@ SUMMARY:Opening Reception - "Domestic Beasts - Monsters of the Mundane" at
   Community Arts of Elmira
 DTSTART:20260926T210000Z
 DTEND:20260926T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:399ce3b0a9c0ef7ed8b2cac8767bf9274bd8064c@corning-events
 SEQUENCE:0
 CATEGORIES:Art
@@ -5277,7 +4835,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibition Opening Celebration! "Trashy Art"
 DTSTART:20260926T210000Z
 DTEND:20260926T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:8c8afd8aac61f3d100bb985a7258fccdd726043d@corning-events
 SEQUENCE:0
 CATEGORIES:Art
@@ -5301,7 +4859,7 @@ SUMMARY:Exhibition Opening Celebration! "Domestic Beasts by FiberArtist Be
  tz White"
 DTSTART:20260926T210000Z
 DTEND:20260926T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ab2100e9b966bab6026142f67e49a095bab52984@corning-events
 SEQUENCE:0
 CATEGORIES:Art
@@ -5326,7 +4884,7 @@ BEGIN:VEVENT
 SUMMARY:Party For The Park @ Stewart Park
 DTSTART:20260926T213000Z
 DTEND:20260926T233000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:7b07600c708de0569b41587745096b6b5ddce2b2@corning-events
 SEQUENCE:0
 CATEGORIES:Other
@@ -5344,7 +4902,7 @@ BEGIN:VEVENT
 SUMMARY:Stereopticon LIVE @ Two Goats Brewing
 DTSTART:20260926T220000Z
 DTEND:20260927T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c23e5a183a43fdef1c84bd6339a55d51e03cf4b0@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -5359,7 +4917,7 @@ BEGIN:VEVENT
 SUMMARY:Mystic Pizza: A New Musical
 DTSTART:20260926T233000Z
 DTEND:20260927T020000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:37bbb07e06c9feb98a990f88f9f07f36208c26ee@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -5397,7 +4955,7 @@ SUMMARY:Morgan James presents The Music of Nina Simone - Corning Painted P
  ost Civic Music
 DTSTART:20260926T233000Z
 DTEND:20260927T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6a138522ece6c927b9d811efe32b180114d4eedd@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5419,7 +4977,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Sunday Market
 DTSTART:20260927T140000Z
 DTEND:20260927T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:583451a4ac79ee6fbe4c5f25a8075de19f1c0645@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -5435,7 +4993,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20260927T153000Z
 DTEND:20260927T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9932c251541578db2dd18dd9cee04ee92be6f05e@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -5457,7 +5015,7 @@ BEGIN:VEVENT
 SUMMARY:Mystic Pizza: A New Musical
 DTSTART:20260927T180000Z
 DTEND:20260927T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1e1bb1dbe30d85bca2a6dca4f00c74332cdc1be0@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -5494,7 +5052,7 @@ BEGIN:VEVENT
 SUMMARY:Oasis Sunday Music @ Hazlitt 1852 Vineyards
 DTSTART:20260927T180000Z
 DTEND:20260927T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3c43239ceaf7ebe09ee074d7ab88e5e73b045e43@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Wine
@@ -5532,7 +5090,7 @@ BEGIN:VEVENT
 SUMMARY:Celebratin' America 250! Talkin' History! Schuyler County
 DTSTART:20260927T180000Z
 DTEND:20260928T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:af9a468b072301af74c34b97df479e2c2deb9238@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Community,Connection
@@ -5608,7 +5166,7 @@ BEGIN:VEVENT
 SUMMARY:Switchfoot with special guest Anberlin LIVE @ Point of the Bluff
 DTSTART:20260927T181500Z
 DTEND:20260927T221500Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:0fee5ae107ae44c0bc4072ea782c716743cd2a6c@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Wine
@@ -5681,7 +5239,7 @@ BEGIN:VEVENT
 SUMMARY:Spiritual Recharge: Tea & Meditation
 DTSTART:20260927T190000Z
 DTEND:20260927T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:52477243c70493f64d035a1af6e698a7a07f9b38@corning-events
 SEQUENCE:0
 CATEGORIES:Health,Connection
@@ -5709,7 +5267,7 @@ BEGIN:VEVENT
 SUMMARY:CC-13 LIVE @ Two Goats Brewing
 DTSTART:20260927T200000Z
 DTEND:20260927T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d1a883c0eabf6dccdabeb3fe9da579ce02d37dd6@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -5725,7 +5283,7 @@ BEGIN:VEVENT
 SUMMARY:Destroyer (Solo) w/ Ryley Walker @ Hangar Theatre
 DTSTART:20260929T000000Z
 DTEND:20260929T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:21e426d23b7381488386a154dcda03772e2d813e@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -5870,7 +5428,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:High School Learning Center | Identity and the Artist Performance
 DTSTART:20260929T193000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:38238354004240f2ba5ec4250e735b02f4668165@corning-events
 SEQUENCE:1
 CATEGORIES:Art,Performing Arts,Education
@@ -5887,7 +5445,7 @@ BEGIN:VEVENT
 SUMMARY:Tuesdays at Taughannock ft. Scratched Vinyl
 DTSTART:20260929T213000Z
 DTEND:20260930T003000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3d54183179996371655d3dd09d0cd0fcde5ba3b9@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -5910,7 +5468,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20260929T220000Z
 DTEND:20260930T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:281bc978eb77699441af821b08736f83c875d88a@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -5929,7 +5487,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20260929T220000Z
 DTEND:20260929T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c45b9ccde86d24d56ee5fb0c24a592142fa10cc8@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -5945,7 +5503,7 @@ BEGIN:VEVENT
 SUMMARY:Understanding the Civil War: A Reading & Discussion Series
 DTSTART:20260929T220000Z
 DTEND:20260929T233000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e22bdf42bffef5280adca33b14cf9e747c9bcbe5@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -5976,7 +5534,7 @@ BEGIN:VEVENT
 SUMMARY:Wisner Farmers Market in Elmira
 DTSTART:20260930T140000Z
 DTEND:20260930T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3dfc8c396231c9023bd331ef407dd95a5d81b735@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Music,Family Fun,New to the Area
@@ -6006,7 +5564,7 @@ BEGIN:VEVENT
 SUMMARY:Wisner Market: Wednesdays at Wisner
 DTSTART:20260930T140000Z
 DTEND:20260930T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:640c645c65913faf146017beb985f72cbdd7ec57@corning-events
 SEQUENCE:1
 CATEGORIES:Festivals,Music,Food,Community
@@ -6038,7 +5596,7 @@ BEGIN:VEVENT
 SUMMARY:Trumansburg Farmers Market
 DTSTART:20260930T200000Z
 DTEND:20260930T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:bdb5612346437a5ddf0e9d3cb32840b218670f0a@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -6054,7 +5612,7 @@ BEGIN:VEVENT
 SUMMARY:Wednesday Open Mic Night at The Nocturnal Café!
 DTSTART:20260930T230000Z
 DTEND:20261001T020000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d2f8db9e47eecc1ecbeb5dc8cf9890487c3f88d7@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Connection
@@ -6076,7 +5634,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Farmers Market
 DTSTART:20261001T140000Z
 DTEND:20261001T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ab820390983430bf72141f22f1c24f494bbed362@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Food,Crafts,New to the Area,Family Fun
@@ -6107,7 +5665,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lil Rockwell | Stroller Walk: Día de los Muertos
 DTSTART:20261001T140000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f1a93b3fcf63d22396898dbb27f4077674193bcb@corning-events
 SEQUENCE:0
 DESCRIPTION:Free for children and their caregivers | No registration requi
@@ -6120,7 +5678,7 @@ BEGIN:VEVENT
 SUMMARY:Montour Falls Farmers Market
 DTSTART:20261001T200000Z
 DTEND:20261001T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:73765c73a0fcf89fe95ac501359df7275ed91e76@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -6148,7 +5706,7 @@ BEGIN:VEVENT
 SUMMARY:Tate Williams LIVE @ Two Goats Brewing
 DTSTART:20261001T210000Z
 DTEND:20261002T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:8bba5bf3655b98baae7bf9186ffacebe40e6b42c@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -6164,7 +5722,7 @@ BEGIN:VEVENT
 SUMMARY:Singer-Songwriter Series w/ Sarah Noelle @ Atwater Wine
 DTSTART:20261001T220000Z
 DTEND:20261002T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c1df83533a02b0232ec31dec1f6402bdd89b0c1b@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Wine
@@ -6187,7 +5745,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261002T180000Z
 DTEND:20261002T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d6aad7118f4825089ce39a7cf73067db9e1f5265@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -6201,7 +5759,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261002T190000Z
 DTEND:20261002T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:62693e428425e892759ee6c75c02b4a860d239c2@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -6220,7 +5778,7 @@ SUMMARY:Opening Reception - "The Line That Connects Us All" at The ARTS Co
  uncil\, Corning
 DTSTART:20261002T210000Z
 DTEND:20261002T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1b871789ab7f47926809175fb6f3ffd7216a0496@corning-events
 SEQUENCE:0
 CATEGORIES:Art,Connection,Community
@@ -6257,7 +5815,7 @@ BEGIN:VEVENT
 SUMMARY:The Seeker's Art Gallery First Fridays
 DTSTART:20261002T210000Z
 DTEND:20261003T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2127116eec94d69a21a2d0cfb41a8bf8bd67cb32@corning-events
 SEQUENCE:0
 CATEGORIES:Art,Community,Connection
@@ -6279,7 +5837,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20261002T210000Z
 DTEND:20261003T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:586f86d661c01d59fd33eaaeb892a4fb1cbe3f6a@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -6294,7 +5852,7 @@ BEGIN:VEVENT
 SUMMARY:Owego Witch Walk
 DTSTART:20261002T210000Z
 DTEND:20261003T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:7b5cfcda8032d4c858fbd013d3a3069523ab135c@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Wine
@@ -6316,7 +5874,7 @@ BEGIN:VEVENT
 SUMMARY:Sampson State Park Farmers Market
 DTSTART:20261002T210000Z
 DTEND:20261003T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:7eaf9e82413872b3d97879c98a1acd72f5f99e1b@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Family Fun
@@ -6329,7 +5887,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Celebration of The Tompkins Treasure Hunt
 DTSTART:20261002T210000Z
 DTEND:20261003T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b310b54050c660337a9a020900d079a2d773f53f@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Connection,Family Fun
@@ -6351,7 +5909,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Andrew Collins Trio
 DTSTART:20261002T233000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:7fc1ad4ab6c1d9d193ee1cd79722d3765b5964d2@corning-events
 SEQUENCE:1
 CATEGORIES:Music
@@ -6372,7 +5930,7 @@ BEGIN:VEVENT
 SUMMARY:Geneva Farmers Market
 DTSTART:20261003T120000Z
 DTEND:20261003T170000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:0361ce50bc3a1dc3b7bdba07fbee72b7b8cc6b2f@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Family Fun,Food
@@ -6389,7 +5947,7 @@ BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20261003T120000Z
 DTEND:20261003T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:601aa4279fb4c2ac86a726b1c44172b4ff5f0e6d@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -6422,7 +5980,7 @@ BEGIN:VEVENT
 SUMMARY:Wineglass 5K
 DTSTART:20261003T120000Z
 DTEND:20261004T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6db190ef37fd1454f6b42835cd9f7eb672a71e2b@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Competitions,Community
@@ -6441,7 +5999,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Saturday Market
 DTSTART:20261003T130000Z
 DTEND:20261003T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:566b30363fac8e7b4da7fad6c64b3e364241528a@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Support,Food,Crafts,Art,Family Fun,Per
@@ -6459,7 +6017,7 @@ BEGIN:VEVENT
 SUMMARY:Flea Market at Chamberlain Acres\, Elmira
 DTSTART:20261003T150000Z
 DTEND:20261003T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5b960e0a57c00afd8834bfa4c1a68cd7a7ddf3a5@corning-events
 SEQUENCE:0
 CATEGORIES:Community
@@ -6477,7 +6035,7 @@ BEGIN:VEVENT
 SUMMARY:Game Night: DRINK! HAZLITT WINE BINGO
 DTSTART:20261003T220000Z
 DTEND:20261004T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:46a17af3572207396bee2febde09a34b1f87c0e3@corning-events
 SEQUENCE:0
 CATEGORIES:Wine,Competitions
@@ -6497,7 +6055,7 @@ BEGIN:VEVENT
 SUMMARY:Erin & The Backwoods Blues Project LIVE @ Two Goats Brewing
 DTSTART:20261003T220000Z
 DTEND:20261004T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a22f476bf62b7975b5dfb4539b707687ee1d5141@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -6513,7 +6071,7 @@ BEGIN:VEVENT
 SUMMARY:Wineglass Half Marathon
 DTSTART:20261004T114500Z
 DTEND:20261005T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c32a056da7f493249ae8ceb421c11158e93e0cec@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Competitions
@@ -6530,7 +6088,7 @@ BEGIN:VEVENT
 SUMMARY:Grain Bin Vintage Market at the Trumansburg Fairgrounds
 DTSTART:20261004T120000Z
 DTEND:20261004T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:414c9f06429d296d6c886a332c9c71993978ee6e@corning-events
 SEQUENCE:0
 CATEGORIES:Connection
@@ -6544,7 +6102,7 @@ BEGIN:VEVENT
 SUMMARY:Planes & Pancakes - Fly-In Breakfast at ELM
 DTSTART:20261004T120000Z
 DTEND:20261004T150000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:99180a982072990863debb8f7d2f817554700d07@corning-events
 SEQUENCE:0
 CATEGORIES:Food,Family Fun,Connection
@@ -6563,7 +6121,7 @@ BEGIN:VEVENT
 SUMMARY:Wineglass Marathon
 DTSTART:20261004T121500Z
 DTEND:20261005T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e993048bb0deab2061fd2fdcac6cad2d8a9fd84b@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Competitions
@@ -6582,7 +6140,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Sunday Market
 DTSTART:20261004T140000Z
 DTEND:20261004T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:61f8f489d04ae13b9f37913c07a5bc7e6bac4669@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -6598,7 +6156,7 @@ BEGIN:VEVENT
 SUMMARY:Owego Porchfest 2026
 DTSTART:20261004T150000Z
 DTEND:20261004T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a600057488cee743a938ee22bea78ea22e1fc36d@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Family Fun,New to the Area,Community,Sober-friendly
@@ -6616,7 +6174,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261004T153000Z
 DTEND:20261004T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:dd38d5fe81a90323fc06ef3abca0a13dafd6b775@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -6638,7 +6196,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Fall Fest @ Grist Iron Brewing Company
 DTSTART:20261004T160000Z
 DTEND:20261004T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2fa7611117ce5e657c6b0fbb89e0df497a38e0cd@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Games,Festivals
@@ -6658,7 +6216,7 @@ BEGIN:VEVENT
 SUMMARY:Brit Car Sunday Social at The Beerocracy British Pub
 DTSTART:20261004T170000Z
 DTEND:20261004T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:53925713e82bd229c30f9ea5d8f1b9b4b9459aea@corning-events
 SEQUENCE:0
 CATEGORIES:Cars,Beer
@@ -6692,7 +6250,7 @@ BEGIN:VEVENT
 SUMMARY:Sing Trece Band LIVE @ Two Goats Brewing
 DTSTART:20261004T200000Z
 DTEND:20261004T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f00a871cda1d3ed3497173293f17b86a49f816f5@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -6707,7 +6265,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20261006T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c6f40eaa4f1f18d9282644eb322cfde6196b85e4@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy
@@ -6728,7 +6286,7 @@ BEGIN:VEVENT
 SUMMARY:Tuesdays at Taughannock ft. Pat Carlineo & Friends
 DTSTART:20261006T213000Z
 DTEND:20261007T003000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6e26954b985968334c7e20d895e5a0962aeca01c@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -6750,7 +6308,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261006T220000Z
 DTEND:20261007T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:7f46fd5eb41275ae31fde68b3ddd86c6474a5fa0@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -6769,7 +6327,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261006T220000Z
 DTEND:20261006T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c1350b94acb3de592b12aa53a502b12f87c94cb6@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -6784,7 +6342,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Retirement Roadmap Series: Understanding Retirement Income
 DTSTART:20261007T170000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c5ced023af1766a7a4c496bb71603d2697efee45@corning-events
 SEQUENCE:0
 DESCRIPTION:Retirement Roadmap: Understanding Retirement Income\nWednesday
@@ -6806,7 +6364,7 @@ BEGIN:VEVENT
 SUMMARY:Trumansburg Farmers Market
 DTSTART:20261007T200000Z
 DTEND:20261007T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:eccd1e173099d4a4cb8bf210abc0c00b7540d929@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -6822,7 +6380,7 @@ BEGIN:VEVENT
 SUMMARY:Wednesday Open Mic Night at The Nocturnal Café!
 DTSTART:20261007T230000Z
 DTEND:20261008T020000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6b6aa168b01706a9defc53dc3d1521949cd9ece0@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Connection
@@ -6844,7 +6402,7 @@ BEGIN:VEVENT
 SUMMARY:Samara Joy and Her Septet @ Smith Opera House
 DTSTART:20261007T233000Z
 DTEND:20261008T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:8d4aec104457cfb850454134d93de5605b6e09c0@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -6887,7 +6445,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Farmers Market
 DTSTART:20261008T140000Z
 DTEND:20261008T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9153a9edbddc2156eae822108aec773d9b72bd10@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Food,Crafts,New to the Area,Family Fun
@@ -6919,7 +6477,7 @@ BEGIN:VEVENT
 SUMMARY:Montour Falls Farmers Market
 DTSTART:20261008T200000Z
 DTEND:20261008T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:39f1704aa002ab595df064c9bc6ac06ff9593f28@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -6948,7 +6506,7 @@ SUMMARY:Singer-Songwriter Series w/ Robert Beck and Clara Virginia @ Atwat
  er Wine
 DTSTART:20261008T220000Z
 DTEND:20261009T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:51517af273214d23b4123a3262c0925f33493c25@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Wine
@@ -6974,7 +6532,7 @@ BEGIN:VEVENT
 SUMMARY:Brad Williams live at the State Theatre\, Ithaca
 DTSTART:20261008T230000Z
 DTEND:20261009T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6970485b1ea36857c02a8cefac671c730d2eea41@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy
@@ -6995,7 +6553,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261009T180000Z
 DTEND:20261009T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5e722e8925f6989f331469e8c9234ae90f0c2723@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -7009,7 +6567,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261009T190000Z
 DTEND:20261009T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b4adfdbc9607caf8343711507ace84ac5a8da858@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -7027,7 +6585,7 @@ BEGIN:VEVENT
 SUMMARY:Sampson State Park Farmers Market
 DTSTART:20261009T210000Z
 DTEND:20261010T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c64e2969bd7f1f2a8086ff33dff3f719aa4c7e8c@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Family Fun
@@ -7040,7 +6598,7 @@ BEGIN:VEVENT
 SUMMARY:JP Williams Blues Duo LIVE @ Two Goats Brewing
 DTSTART:20261009T220000Z
 DTEND:20261010T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:cfc2caef98a9b66a2cf7f8f36c09040775adf3e1@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -7056,7 +6614,7 @@ BEGIN:VEVENT
 SUMMARY:Next Stop Comedy @ 360Aurora
 DTSTART:20261009T230000Z
 DTEND:20261010T020000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:dc701d4909aaea5fbbbebeced331dbdb6a729506@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy,Performing Arts
@@ -7079,7 +6637,7 @@ SUMMARY:Judy Collns: Sweet Judy Blue Eyes Farewell Tour w/ Oakland Rain LI
  VE @ State Theatre of Ithaca
 DTSTART:20261010T000000Z
 DTEND:20261010T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f53c8f18d83070c50890ae17d4023f7d99463d87@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -7164,7 +6722,7 @@ BEGIN:VEVENT
 SUMMARY:Geneva Farmers Market
 DTSTART:20261010T120000Z
 DTEND:20261010T170000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a7731a74c66ed138f29c407c53aabd4fc4d0b9db@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Family Fun,Food
@@ -7181,7 +6739,7 @@ BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20261010T120000Z
 DTEND:20261010T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f933a0c21ce5ed662e37265d207a2333eddd5e04@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -7214,7 +6772,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Saturday Market
 DTSTART:20261010T130000Z
 DTEND:20261010T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:0982fffd8bc06f6b4e07d450b2267671319ae0ac@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Support,Food,Crafts,Art,Family Fun,Per
@@ -7232,7 +6790,7 @@ BEGIN:VEVENT
 SUMMARY:Walk To End Alzheimer's - Southern Finger Lakes
 DTSTART:20261010T130000Z
 DTEND:20261011T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a042b7d6baa8c291dc6dfd4476cc22d1400a69af@corning-events
 SEQUENCE:0
 CATEGORIES:Causes,Other
@@ -7249,7 +6807,7 @@ BEGIN:VEVENT
 SUMMARY:Farm Trail Day!
 DTSTART:20261010T140000Z
 DTEND:20261011T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:567e6bad820329fa8fddbc5a843de5a96bf89851@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Nature
@@ -7265,7 +6823,7 @@ BEGIN:VEVENT
 SUMMARY:Flea Market at Chamberlain Acres\, Elmira
 DTSTART:20261010T150000Z
 DTEND:20261010T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:deb35f32727ad5be02cbe1e1a99ef0d2d5882e95@corning-events
 SEQUENCE:0
 CATEGORIES:Community
@@ -7282,7 +6840,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Second Saturdays | Public Tour
 DTSTART:20261010T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:8af1ec4d396bc505b97c28de0d5b3ec7ee00e497@corning-events
 SEQUENCE:0
 DESCRIPTION:Open to the public | Included with regular Museum admission | 
@@ -7295,7 +6853,7 @@ BEGIN:VEVENT
 SUMMARY:Terrapin Station LIVE @ Two Goats Brewing
 DTSTART:20261010T220000Z
 DTEND:20261011T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f2b8258ea3ddc62e8141de467841e9969c351325@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -7311,7 +6869,7 @@ BEGIN:VEVENT
 SUMMARY:Lettuce- Cook Tour at Smith Center for the Arts
 DTSTART:20261011T000000Z
 DTEND:20261011T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b157060de9fb59bcb538fde6d7d3550b1549880b@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -7346,7 +6904,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Sunday Market
 DTSTART:20261011T140000Z
 DTEND:20261011T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1f047e632d907b4eb9602198f3a5d633314a6abe@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -7362,7 +6920,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261011T153000Z
 DTEND:20261011T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:044f8ff41dcdbbdaf2dd0eb479b4252f081924df@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -7383,7 +6941,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PEACE\, LOVE AND MUSIC: Honoring Kimber A. Billow
 DTSTART:20261011T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d89696fb18a73a4cc4bc0f4dbee737da7c520014@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -7406,7 +6964,7 @@ BEGIN:VEVENT
 SUMMARY:Meg Williams LIVE @ Two Goats Brewing
 DTSTART:20261011T200000Z
 DTEND:20261011T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5351158283ccd21141111580867b32f2f1831550@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -7423,7 +6981,7 @@ BEGIN:VEVENT
 SUMMARY:Fred Armisen live at the State Theatre\, Ithaca
 DTSTART:20261012T000000Z
 DTEND:20261012T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e7d14eda6fdaa15a8093908737629447980771fb@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy,Performing Arts,Music
@@ -7452,7 +7010,7 @@ BEGIN:VEVENT
 SUMMARY:Tuesdays at Taughannock ft. Radio London!
 DTSTART:20261013T213000Z
 DTEND:20261014T003000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4d12970b2ebb1584110a94adceec36835fb168b2@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -7474,7 +7032,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261013T220000Z
 DTEND:20261013T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:18a4324742f0a8d5873270f9c4351f63d87cae3c@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -7490,7 +7048,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261013T220000Z
 DTEND:20261014T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c7ac20ef452c3be88e32bb37c96fb5882e9016e7@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -7509,7 +7067,7 @@ BEGIN:VEVENT
 SUMMARY:Trumansburg Farmers Market
 DTSTART:20261014T200000Z
 DTEND:20261014T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d779af8d28b3ba422bbdc532db53bfeda41e1582@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -7525,7 +7083,7 @@ BEGIN:VEVENT
 SUMMARY:Business After Hours at Lakewood Vineyards
 DTSTART:20261014T210000Z
 DTEND:20261014T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c1dd2c29cf4dc77a73ec353a81f7415ead99fc18@corning-events
 SEQUENCE:0
 DESCRIPTION:Join us October 14 for Business After Hours at Lakewood Vineya
@@ -7541,7 +7099,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons and Dragons One Shot!
 DTSTART:20261014T220000Z
 DTEND:20261014T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:54cf21da0b3c3d7912383baf39bb51e2ee2dad9c@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -7558,7 +7116,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Farmers Market
 DTSTART:20261015T140000Z
 DTEND:20261015T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1d03aa905b8a40cac70a1801f68a0e10b8f1f3a8@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Food,Crafts,New to the Area,Family Fun
@@ -7590,7 +7148,7 @@ BEGIN:VEVENT
 SUMMARY:Singer-Songwriter Series w/ Louiston @ Atwater Wine
 DTSTART:20261015T220000Z
 DTEND:20261016T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3e921689d51af61ad63d4a84b1ef9a4f4f9837d0@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Wine
@@ -7611,7 +7169,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261016T180000Z
 DTEND:20261016T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4f76f9c3ca998f7938d470cf18f27fca72cff53f@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -7625,7 +7183,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261016T190000Z
 DTEND:20261016T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:cad1a38aa61e02d16d816f7c5abf8a3caae00186@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -7643,7 +7201,7 @@ BEGIN:VEVENT
 SUMMARY:Stacey and the Copycats LIVE @ Two Goats Brewing
 DTSTART:20261016T220000Z
 DTEND:20261017T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:7bda9a2b44e234d07c610ed047fa71dbc9cd0fc1@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -7659,7 +7217,7 @@ BEGIN:VEVENT
 SUMMARY:20th Annual Ghost Walk
 DTSTART:20261016T220000Z
 DTEND:20261017T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:fa39ca2b5b049a2b697289228eb3b542204c1dd1@corning-events
 SEQUENCE:0
 DESCRIPTION:Join us for the 20th Annual Ghost Walk. Please read the inform
@@ -7680,7 +7238,7 @@ BEGIN:VEVENT
 SUMMARY:Aziz Ansari: Hypothetical Tour live at the State Theatre\, Ithaca
 DTSTART:20261016T230000Z
 DTEND:20261017T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:7f8d48fcbe41d407b8566fee12efc68ebf3a704c@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy
@@ -7709,7 +7267,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Empire Brick Con
 DTSTART:20261017T040000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:661b796372ce94023d5e7706fb0e62a227ee331d@corning-events
 SEQUENCE:0
 DESCRIPTION:CMoG - Empire Brick Con\n\nSource: Corning Area Chamber of Com
@@ -7721,7 +7279,7 @@ BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20261017T120000Z
 DTEND:20261017T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b8c6c369263e1d379bff01a0ac5454bb07399a0b@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -7754,7 +7312,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Saturday Market
 DTSTART:20261017T130000Z
 DTEND:20261017T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:094730cd320c837be3513afae1058ddd5faaa964@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Support,Food,Crafts,Art,Family Fun,Per
@@ -7773,7 +7331,7 @@ SUMMARY:Beginner Sewing Series - Foundational Classes to Master Your Machi
  ne (Fall 2026)
 DTSTART:20261017T130000Z
 DTEND:20261017T160000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a4b8d2a1ef9448234ef309ae2be907c81abd26e9@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -7787,7 +7345,7 @@ BEGIN:VEVENT
 SUMMARY:Flea Market at Chamberlain Acres\, Elmira
 DTSTART:20261017T150000Z
 DTEND:20261017T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:64dc3c9870f9d7dafb2bcea1479645e7f010d806@corning-events
 SEQUENCE:0
 CATEGORIES:Community
@@ -7804,7 +7362,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Artrageous
 DTSTART:20261017T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a36c66601a9c5f576acbbb5eb5bf01e3ddd2bd01@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun
@@ -7825,7 +7383,7 @@ BEGIN:VEVENT
 SUMMARY:Scarecrow Jubilee @ Ithaca Children's Garden
 DTSTART:20261017T190000Z
 DTEND:20261017T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f0c27017f88977a601bd0684690de371d3fddd75@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Festivals,Holidays
@@ -7842,7 +7400,7 @@ BEGIN:VEVENT
 SUMMARY:20th Annual Ghost Walk
 DTSTART:20261017T220000Z
 DTEND:20261018T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2775d7f71ec655af726d74886a44de0ab831a0cc@corning-events
 SEQUENCE:0
 DESCRIPTION:Join us for the 20th Annual Ghost Walk. Please read the inform
@@ -7863,7 +7421,7 @@ BEGIN:VEVENT
 SUMMARY:Notorious Stringbusters LIVE @ Two Goats Brewing
 DTSTART:20261017T220000Z
 DTEND:20261018T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9e05ab01f458573bbaaf594eb3a9f863bf36bf2f@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -7878,7 +7436,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Sunday Market
 DTSTART:20261018T140000Z
 DTEND:20261018T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4d8ed054106d4f7d0429baae3e1c434efd7b980a@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -7894,7 +7452,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261018T153000Z
 DTEND:20261018T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6af2b8629be987568f0fe86cf6270b9a0ac2eb1c@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -7916,7 +7474,7 @@ BEGIN:VEVENT
 SUMMARY:20th Annual Ghost Walk
 DTSTART:20261018T200000Z
 DTEND:20261018T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:03be634114971a77380932150d0d60e3f744fd75@corning-events
 SEQUENCE:0
 DESCRIPTION:Join us for the 20th Annual Ghost Walk. Please read the inform
@@ -7938,7 +7496,7 @@ BEGIN:VEVENT
 SUMMARY:Kate Hinote Trio LIVE @ Two Goats Brewing
 DTSTART:20261018T200000Z
 DTEND:20261018T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:42a881f94635c2aeb174142b76627160914ce2a4@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -7954,7 +7512,7 @@ BEGIN:VEVENT
 SUMMARY:The Bodyguard
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:44448eee5e1c23414f262245f2384c224f943bd4@corning-events
 SEQUENCE:1
 DESCRIPTION:THE BODYGUARD\nTuesday – WednesdayOctober 20 – 21\, 20267:
@@ -7974,7 +7532,7 @@ BEGIN:VEVENT
 SUMMARY:In the Study: The History and Legacy of Haudenosaunee Beadwork wit
  h Gabrielle Patrone
 DTSTART:20261020T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:71f55ed6141ab0e7bc79d881c576f2d79cd3cf2a@corning-events
 SEQUENCE:0
 DESCRIPTION:Free for Rockwell Members | Registration required\n\nSource: T
@@ -7986,7 +7544,7 @@ BEGIN:VEVENT
 SUMMARY:Understanding the Civil War: A Reading & Discussion Series
 DTSTART:20261020T220000Z
 DTEND:20261020T233000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2b17d4ffb9c28950d635821758e73439ec4735d6@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -8017,7 +7575,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261020T220000Z
 DTEND:20261020T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c3132097e780b2c4e896236a65dc44936c88e5e5@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -8033,7 +7591,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261020T220000Z
 DTEND:20261021T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:df66f8c2223b904552444ff77cebd3eb33860e98@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -8052,7 +7610,7 @@ BEGIN:VEVENT
 SUMMARY:The Bodyguard: The Musical
 DTSTART:20261020T233000Z
 DTEND:20261021T014500Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d2c61394c931c3318f80c131754440d17ba1a51c@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -8082,7 +7640,7 @@ BEGIN:VEVENT
 SUMMARY:Trumansburg Farmers Market
 DTSTART:20261021T200000Z
 DTEND:20261021T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:0571af96038d476916cc4e63c42de9f6079d2988@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -8099,7 +7657,7 @@ SUMMARY:Remember Me: A Día de los Muertos Celebration @ Southeast Steuben
   County Library
 DTSTART:20261021T210000Z
 DTEND:20261021T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9b287efde9e81640657dd92f2404ec2079cb74f8@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Family Fun,Community,Connection,Film
@@ -8122,7 +7680,7 @@ BEGIN:VEVENT
 SUMMARY:The Bodyguard: The Musical
 DTSTART:20261021T233000Z
 DTEND:20261022T014500Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:84bb7da6a6d7fe0bf0d2cc0b641690fea3324357@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -8152,7 +7710,7 @@ BEGIN:VEVENT
 SUMMARY:The Days of Incandescence
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ef7aa6411de76a3b80ee1e37fcca3a208726524b@corning-events
 SEQUENCE:0
 CATEGORIES:Festivals,Community,History & Heritage,Family Fun,New to the Ar
@@ -8174,7 +7732,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Farmers Market
 DTSTART:20261022T140000Z
 DTEND:20261022T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6cbd387d54fb4f4318d059f7ba3af95f9a5c4473@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Food,Crafts,New to the Area,Family Fun
@@ -8207,7 +7765,7 @@ SUMMARY:Remember Me: A Día de los Muertos Celebration @ Watkins Glen Publ
  ic Library
 DTSTART:20261022T210000Z
 DTEND:20261022T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:593433a12348617f760d4682c90441afa440561a@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Family Fun,Community,Connection,Film
@@ -8230,7 +7788,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261023T180000Z
 DTEND:20261023T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1081e1fcb8f3255e672ba12972e10ca1e3a22803@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -8244,7 +7802,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261023T190000Z
 DTEND:20261023T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:13ce5b619c118e9ab0fdb023433454bfff3ee833@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -8262,7 +7820,7 @@ BEGIN:VEVENT
 SUMMARY:5th Annual Wicked Wisner Trunk Or Treat
 DTSTART:20261023T213000Z
 DTEND:20261023T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2a6857b045b95bc6955973ff1a105cf457e840a7@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun
@@ -8292,7 +7850,7 @@ BEGIN:VEVENT
 SUMMARY:The Bard Brothers LIVE @ Two Goats Brewing
 DTSTART:20261023T220000Z
 DTEND:20261024T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:fc9b5caeaae8acbb0631b6c15c7f376aa0b508f4@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -8309,7 +7867,7 @@ BEGIN:VEVENT
 SUMMARY:360 Karaoke + Open Mic Night
 DTSTART:20261024T000000Z
 DTEND:20261024T035900Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6c45c59a63ab97d379dc361f1f83d47916c39373@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -8332,7 +7890,7 @@ BEGIN:VEVENT
 SUMMARY:360 Karaoke + Open Mic Night
 DTSTART:20261024T000000Z
 DTEND:20261024T035900Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9351d334b721c56e25c0933e0811990797892df5@corning-events
 SEQUENCE:1
 CATEGORIES:Performing Arts,Music,Literature
@@ -8355,7 +7913,7 @@ BEGIN:VEVENT
 SUMMARY:Full Moon Ride with Elmira Community Cycle
 DTSTART:20261024T010000Z
 DTEND:20261024T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4f874b0253e727c297f13bbcc4d312f3bbf71752@corning-events
 SEQUENCE:0
 CATEGORIES:Bikes,Community,Connection
@@ -8371,7 +7929,7 @@ BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20261024T120000Z
 DTEND:20261024T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a69da6fd3f97eb1b2ac3a77514aaba87260f077e@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -8404,7 +7962,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Saturday Market
 DTSTART:20261024T130000Z
 DTEND:20261024T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b477d3a41f9d0a3d9df9d7e272bd7f490613ef3d@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Support,Food,Crafts,Art,Family Fun,Per
@@ -8422,7 +7980,7 @@ BEGIN:VEVENT
 SUMMARY:Flea Market at Chamberlain Acres\, Elmira
 DTSTART:20261024T150000Z
 DTEND:20261024T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:eecefa51514141b5edea525c2929771d0c8fec66@corning-events
 SEQUENCE:0
 CATEGORIES:Community
@@ -8440,7 +7998,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Night Pride: Button & Patch Studio
 DTSTART:20261024T210000Z
 DTEND:20261024T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b0f07d5b0ffe0e227a917e60a11e6da2e9ebffe6@corning-events
 SEQUENCE:0
 CATEGORIES:LGBTQ+,Crafts,Food,Teen
@@ -8459,7 +8017,7 @@ BEGIN:VEVENT
 SUMMARY:Mystic Twangers LIVE @ Two Goats Brewing
 DTSTART:20261024T220000Z
 DTEND:20261025T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4135cc927c521dc6b1af9a46d65406eda4770d5a@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -8481,7 +8039,7 @@ BEGIN:VEVENT
 SUMMARY:Jeff Tweedy Solo LIVE @ State Theatre of Ithaca
 DTSTART:20261024T233000Z
 DTEND:20261025T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5a441da18a9f7fe4b84bc31c893cb1413fadd26f@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -8514,7 +8072,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Sunday Market
 DTSTART:20261025T140000Z
 DTEND:20261025T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ec834796f8a186dc7484c294008691fd3fde115b@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -8530,7 +8088,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261025T153000Z
 DTEND:20261025T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9745d0b7ad61f3ea7cfb53aa1a016a2f7c9aab74@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -8552,7 +8110,7 @@ BEGIN:VEVENT
 SUMMARY:Spiritual Recharge: Tea & Meditation
 DTSTART:20261025T190000Z
 DTEND:20261025T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c805095db82dfa8eab4c5b384e2cb2eb7ce5e66e@corning-events
 SEQUENCE:0
 CATEGORIES:Health,Connection
@@ -8580,7 +8138,7 @@ BEGIN:VEVENT
 SUMMARY:A Dream Within A Dream: The Poetry and Stories of Edgar Allan Poe
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e39cec52a2530c1a0752858816756173692e4a6f@corning-events
 SEQUENCE:0
 DESCRIPTION:A Dream Within A Dream: The Poetry and Stories of Edgar Allan 
@@ -8602,7 +8160,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261027T220000Z
 DTEND:20261028T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3ebf875fbce114db94a4338256a0fa51ae255c47@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -8621,7 +8179,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261027T220000Z
 DTEND:20261027T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:91f09282e387b931ce90067a7a6c64b4fa041c2e@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -8637,7 +8195,7 @@ BEGIN:VEVENT
 SUMMARY:Out to Lunch: Ghostly Readings 2026
 DTSTART:20261028T160000Z
 DTEND:20261028T170000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f60c26dba28b88f930b30c0f6e2c8909d12e667b@corning-events
 SEQUENCE:1
 CATEGORIES:History & Heritage
@@ -8657,7 +8215,7 @@ BEGIN:VEVENT
 SUMMARY:Movie Afternoon: Casper (PG)
 DTSTART:20261028T190000Z
 DTEND:20261028T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:af8c87caf79cae0d15a3c4faa42978720fb745e8@corning-events
 SEQUENCE:0
 CATEGORIES:Film,Family Fun,Holidays
@@ -8674,7 +8232,7 @@ BEGIN:VEVENT
 SUMMARY:Trumansburg Farmers Market
 DTSTART:20261028T200000Z
 DTEND:20261028T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e04f7d034f0d5c01422a5df043006e9974dea26a@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Music,Family Fun,New to the Area
@@ -8690,7 +8248,7 @@ BEGIN:VEVENT
 SUMMARY:Business After Hours at Employment Solutions
 DTSTART:20261028T210000Z
 DTEND:20261028T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:03400d70eef19939c2954adabbf3c091cf7b9398@corning-events
 SEQUENCE:0
 DESCRIPTION:Join us October 28 for a Halloween-themed Business After Hours
@@ -8707,7 +8265,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Farmers Market
 DTSTART:20261029T140000Z
 DTEND:20261029T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:cd7c90349e7a8e10e801e6a3498d33e25c8df42c@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Food,Crafts,New to the Area,Family Fun
@@ -8739,7 +8297,7 @@ BEGIN:VEVENT
 SUMMARY:The Rocky Horror Picture Show Spooktacular Tour with the Original 
  “Columbia” Nell Campbell
 DTSTART:20261029T233000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:8fd0716af9feaaa37c2ac91b88432981ed6aedd5@corning-events
 SEQUENCE:3
 CATEGORIES:Film,Music,Holidays
@@ -8765,7 +8323,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261030T180000Z
 DTEND:20261030T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3d7482b6847d7b4b365162be2f7d188e5c797d5e@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -8779,7 +8337,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261030T190000Z
 DTEND:20261030T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:35228910a70f2a07d0c1558d8764c9d5f7f99f8a@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -8797,7 +8355,7 @@ BEGIN:VEVENT
 SUMMARY:Barrel Aged Band LIVE @ Two Goats Brewing
 DTSTART:20261030T220000Z
 DTEND:20261031T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2c0f4b2810cc295b9d5a27e25f9a6c29d50cddcf@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts,Beer
@@ -8813,7 +8371,7 @@ BEGIN:VEVENT
 SUMMARY:The Town Pants LIVE @ the Smith Opera House
 DTSTART:20261031T000000Z
 DTEND:20261031T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9e796c310467f4fd4bc898c61a6b684bfff485ad@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -8859,7 +8417,7 @@ BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20261031T120000Z
 DTEND:20261031T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c29d5e25b7d989c5666c54a36503945236a20786@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -8893,7 +8451,7 @@ SUMMARY:Beginner Sewing Series - Foundational Classes to Master Your Machi
  ne (Fall 2026)
 DTSTART:20261031T130000Z
 DTEND:20261031T160000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:31530eb1a832827ee1ec3e64f169a9b04df21c04@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -8907,7 +8465,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Farmers Market - Saturday Market
 DTSTART:20261031T130000Z
 DTEND:20261031T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:60bce76d449054e5ea03c867241c357d8d439ec5@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Support,Food,Crafts,Art,Family Fun,Per
@@ -8925,7 +8483,7 @@ BEGIN:VEVENT
 SUMMARY:Flea Market at Chamberlain Acres\, Elmira
 DTSTART:20261031T150000Z
 DTEND:20261031T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:02ee8bfea5198fe039dea38f5f2579f892e6c4aa@corning-events
 SEQUENCE:0
 CATEGORIES:Community
@@ -8942,7 +8500,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:November: Free Admission for Veterans and Active Military
 DTSTART:20261101T140000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:866cdc1b01909d99e2169604f9121de7a1ad37eb@corning-events
 SEQUENCE:0
 DESCRIPTION:All veterans and active military receive free admission throug
@@ -8955,7 +8513,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261101T153000Z
 DTEND:20261101T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:47b587b9a767cc0badfc03796358d1aa2d5625e0@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -8977,7 +8535,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261103T220000Z
 DTEND:20261103T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9ebd049b53e946e9e6ad7b56f2ce1be2097ececc@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -8993,7 +8551,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261103T230000Z
 DTEND:20261104T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:115244d85412ccf139d212f44e78c5f722bb54ec@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -9011,7 +8569,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lil Rockwell | Project: Big and Little
 DTSTART:20261105T150000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4c739c977b8766c67690bf9cf936c4dc753c4829@corning-events
 SEQUENCE:3
 DESCRIPTION:Free for children and their caregivers | No registration requi
@@ -9024,7 +8582,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261106T190000Z
 DTEND:20261106T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f047c9875fd654fbede197732ccd59de28be6a0b@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -9038,7 +8596,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261106T200000Z
 DTEND:20261106T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:bde5c3ae96f7851e62acd4245729fc17ea1b18cf@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -9056,7 +8614,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20261106T220000Z
 DTEND:20261107T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:93ed584c290c6ceeb5ee7445ea25c4f05268e555@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -9071,7 +8629,7 @@ BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20261107T120000Z
 DTEND:20261107T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1330cfb77f7e4d64249c886e184a2f07c591bc7b@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -9104,7 +8662,7 @@ BEGIN:VEVENT
 SUMMARY:Hands of Hope Gala
 DTSTART:20261107T230000Z
 DTEND:20261108T020000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e4007659e9f24e3e5ff703b044bd1efb19e3f92e@corning-events
 SEQUENCE:2
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -9116,7 +8674,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Rockwell Museum’s 50th Anniversary Gala
 DTSTART:20261107T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e97d633f302a7f330ae42467d7fc46b9393211b5@corning-events
 SEQUENCE:0
 CATEGORIES:Art,Community
@@ -9129,7 +8687,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Founder’s Day: Free Admission
 DTSTART:20261108T140000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ef52d6ba5f2941110e92cd512d0279cbba7a4609@corning-events
 SEQUENCE:1
 DESCRIPTION:Enjoy free admission!\n\nSource: The Rockwell Museum - https:/
@@ -9141,7 +8699,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261108T153000Z
 DTEND:20261108T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b1cffc8b03e54ff29b6c74a424df8e145b81ff56@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -9163,7 +8721,7 @@ BEGIN:VEVENT
 SUMMARY:Valley Folk presents Medusa (quartet)
 DTSTART:20261108T190000Z
 DTEND:20261109T045959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9c4ea0065916fe6c5d717be0bef8149ec0e9f2aa@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -9183,7 +8741,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261110T220000Z
 DTEND:20261110T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2b24ea68b2b61ea5b0b834ac1b0f5f08b38caa73@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -9199,7 +8757,7 @@ BEGIN:VEVENT
 SUMMARY:Understanding the Civil War: A Reading & Discussion Series
 DTSTART:20261110T230000Z
 DTEND:20261111T003000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:64b918b50b303db24c393fc0267bfad5fa5ef050@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -9230,7 +8788,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261110T230000Z
 DTEND:20261111T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:bb505fe4143b21420663c2c15174bbc5a16efa43@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -9249,7 +8807,7 @@ BEGIN:VEVENT
 SUMMARY:Out to Lunch: Antique Firearms
 DTSTART:20261111T170000Z
 DTEND:20261111T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:8e165d28aada8973b7262580ede47983ad64492b@corning-events
 SEQUENCE:0
 DESCRIPTION:CCHS Board member Mark Claypool will share information about h
@@ -9267,7 +8825,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons and Dragons One Shot!
 DTSTART:20261111T230000Z
 DTEND:20261112T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:edfe3712b081cb316151579e745b75e78f1303f7@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -9284,7 +8842,7 @@ BEGIN:VEVENT
 SUMMARY:💙 FLXGives 💙
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:061fc2a1b59afab263dcc331e68a66289615ce73@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Causes,Connection
@@ -9303,7 +8861,7 @@ SUMMARY:Corning-Painted Post Civic Music present Edgar Meyer\, Tessa Lark
  \, and Joshua Roman
 DTSTART:20261113T003000Z
 DTEND:20261113T045959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ae23359955fc8a4a810846275a431ed635900078@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -9325,7 +8883,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261113T190000Z
 DTEND:20261113T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1e672ba75d6b27ef5beba2d964b6e2a49203bd7b@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -9339,7 +8897,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261113T200000Z
 DTEND:20261113T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:7555a6eca07800f700568e7b947e40b2273901f8@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -9357,7 +8915,7 @@ BEGIN:VEVENT
 SUMMARY:Next Stop Comedy @ 360Aurora
 DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6e445d966d1945623badbfcd323097bd42eb6991@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy,Performing Arts
@@ -9379,7 +8937,7 @@ BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20261114T120000Z
 DTEND:20261114T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9af25822130ba2a03b0bc747ee4f53c78773e3ec@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -9412,7 +8970,7 @@ BEGIN:VEVENT
 SUMMARY:Empire Brick Minifig Swap
 DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:28be0978f569c15e0e590296f47095bd3582e16d@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun
@@ -9426,7 +8984,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Second Saturdays | Public Tour
 DTSTART:20261114T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4009d2578fd1d0de8ef4ea23d258ff09a7f388b5@corning-events
 SEQUENCE:1
 DESCRIPTION:Open to the public | Included with regular Museum admission | 
@@ -9439,7 +8997,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261115T153000Z
 DTEND:20261115T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9dbe447df902dc586f27834bcd376c1d720ca567@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -9461,7 +9019,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261117T220000Z
 DTEND:20261117T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:0dafd186ea5d2bf41288799764e2d5865892545f@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -9477,7 +9035,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261117T230000Z
 DTEND:20261118T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:92defa5bf23f117df2cc2a078a6324076d2a1677@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -9496,7 +9054,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261120T190000Z
 DTEND:20261120T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d2908b8c95783b2ce3e7ae5228584515b475da16@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -9510,7 +9068,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261120T200000Z
 DTEND:20261120T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:31a77b8fad18916a0bbbf96aae26beaa228b74e2@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -9528,7 +9086,7 @@ BEGIN:VEVENT
 SUMMARY:Full Moon Ride with Elmira Community Cycle
 DTSTART:20261121T020000Z
 DTEND:20261121T045959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1b2b36c5a91686db22339e3f98502639ff83addc@corning-events
 SEQUENCE:0
 CATEGORIES:Bikes,Community,Connection
@@ -9544,7 +9102,7 @@ BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20261121T120000Z
 DTEND:20261121T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ff78feb07071742836a9d7512f556a6b5089890b@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -9578,7 +9136,7 @@ SUMMARY:Beginner Sewing Series - Foundational Classes to Master Your Machi
  ne (Fall 2026)
 DTSTART:20261121T140000Z
 DTEND:20261121T170000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2edf748c2b8fd951000cc9d6e20c72e87a3d830d@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -9591,7 +9149,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Snowy Day and Other Stories: A Sensory-Friendly Performance
 DTSTART:20261121T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2702e63edff72354ed2716ae2d7753416c36bd75@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun
@@ -9614,7 +9172,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261122T153000Z
 DTEND:20261122T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:998a320926d45dc08ed9be450a2f2288432c1ca3@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -9635,7 +9193,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20261124T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:36997203c6248636f1312eda18c418c3e8efc559@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy
@@ -9656,7 +9214,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261124T220000Z
 DTEND:20261124T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e86775cf020cdf3569e8e36aa7a39791c26c1950@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -9672,7 +9230,7 @@ BEGIN:VEVENT
 SUMMARY:Understanding the Civil War: A Reading & Discussion Series
 DTSTART:20261124T230000Z
 DTEND:20261125T003000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2a8cd72abb4104c0dd9ac1e5861d5d43abc8a609@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -9703,7 +9261,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261124T230000Z
 DTEND:20261125T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a6570669c7cfe7fa9220bf91383c15ce01eba579@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -9722,7 +9280,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261127T190000Z
 DTEND:20261127T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:350bb0ec74fab07ed3fea475673e11798991765d@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -9736,7 +9294,7 @@ BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20261128T120000Z
 DTEND:20261128T203000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:d1d6484912c2bb464e5bcb1cd9aef280fbf79792@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -9769,7 +9327,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261129T153000Z
 DTEND:20261129T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b83084dd2cd48af25c836395a9f4956678a182cb@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -9791,7 +9349,7 @@ BEGIN:VEVENT
 SUMMARY:Spiritual Recharge: Tea & Meditation
 DTSTART:20261129T200000Z
 DTEND:20261129T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:aedd5d9d6666a216a55a4a022350851dfb102d50@corning-events
 SEQUENCE:0
 CATEGORIES:Health,Connection
@@ -9819,7 +9377,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261201T220000Z
 DTEND:20261201T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ad20e99a32673ef59a5de29e8a123b78c68e6fb1@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -9835,7 +9393,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261201T230000Z
 DTEND:20261202T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6d2b37b61d6456e2837e083e9958bf4a41f8cdf1@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -9853,7 +9411,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gingerbread Invitational Opening Reception
 DTSTART:20261202T223000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b38160f61bd1d9f8ae5aa26f481d430d3f03b00c@corning-events
 SEQUENCE:1
 DESCRIPTION:Free and open to the public | Registration encouraged\n\nSourc
@@ -9864,7 +9422,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lil Rockwell | Story Hour: Gingerbread
 DTSTART:20261203T150000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:eed09e70192d4d9057bfbe371d088eaae92adaa3@corning-events
 SEQUENCE:1
 DESCRIPTION:Free for children and their caregivers | No registration requi
@@ -9877,7 +9435,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261204T190000Z
 DTEND:20261204T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:398860f90694a4d8ab2e1726e6980950bda2f2c7@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -9891,7 +9449,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261204T200000Z
 DTEND:20261204T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6c588bcd8631560fc6a55b28091edd3a42c0b1ec@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -9909,7 +9467,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20261204T220000Z
 DTEND:20261205T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:18425e75f3426188731bc26a53b13b3675ef681f@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -9923,7 +9481,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holiday Open House + Sparkle
 DTSTART:20261205T140000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:ed12e4c80183386cc93429cd906b50fbac45626f@corning-events
 SEQUENCE:3
 DESCRIPTION:Free and open to the public | No registration required\n\nSour
@@ -9935,7 +9493,7 @@ BEGIN:VEVENT
 SUMMARY:Southern Tier Card Showcase
 DTSTART:20261206T150000Z
 DTEND:20261206T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3e785dada0330f5d1b9e82d7f0e2fa89ef875499@corning-events
 SEQUENCE:0
 CATEGORIES:Games,Food,Family Fun
@@ -9958,7 +9516,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261206T153000Z
 DTEND:20261206T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:83ce0149607b5bbdd4ba8322151abf856ba1fee1@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -9980,7 +9538,7 @@ BEGIN:VEVENT
 SUMMARY:The Magic School Bus: Lost in the Solar System
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4167f72302b324faae5463498a329ae0d0cf8917@corning-events
 SEQUENCE:0
 DESCRIPTION:The Magic School Bus: Lost in the Solar System\nMondayDecember
@@ -10001,7 +9559,7 @@ BEGIN:VEVENT
 SUMMARY:Beetlejuice
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a48cf5a4d6f9e24a3b4920e2943e026d9221209e@corning-events
 SEQUENCE:1
 DESCRIPTION:BEETLEJUICE\nTuesday – WednesdayDecember 8 – 9\, 20267:30p
@@ -10021,7 +9579,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261208T220000Z
 DTEND:20261208T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3dcd0b02b99816aac319950037fe2379b12c3217@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -10037,7 +9595,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261208T230000Z
 DTEND:20261209T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:893a841d935d3b1fce5c6265f482c2191ece08cf@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -10056,7 +9614,7 @@ BEGIN:VEVENT
 SUMMARY:Understanding the Civil War: A Reading & Discussion Series
 DTSTART:20261208T230000Z
 DTEND:20261209T003000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:93f8756992331ef283b0cbaecd8f571c051b5d85@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -10087,7 +9645,7 @@ BEGIN:VEVENT
 SUMMARY:It's A Wonderful Life Festival in Seneca Falls
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9bbf6a681f1e7790e898d6ac6315bb1df22124be@corning-events
 SEQUENCE:0
 CATEGORIES:Festivals,Community,Film,Holidays,Family Fun,History & Heritage
@@ -10103,7 +9661,7 @@ BEGIN:VEVENT
 SUMMARY:Out to Lunch: Gallery Talk
 DTSTART:20261209T170000Z
 DTEND:20261209T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9a4718eeafd75a5d48689c282319837297307983@corning-events
 SEQUENCE:0
 DESCRIPTION:Join CCHS Education Director Susan Zehnder on a walk through t
@@ -10121,7 +9679,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons and Dragons One Shot!
 DTSTART:20261209T230000Z
 DTEND:20261210T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:bde7d0ad3aa879d1f05be487cb3f7db92975456f@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -10138,7 +9696,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261211T190000Z
 DTEND:20261211T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:62d2a968f7203e8ae6549f18f02f0d05a2fb676c@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -10152,7 +9710,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261211T200000Z
 DTEND:20261211T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f536f18edcc79497cf3ceaad7a3d462e4d8636b6@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -10170,7 +9728,7 @@ BEGIN:VEVENT
 SUMMARY:360 Karaoke + Open Mic Night
 DTSTART:20261212T010000Z
 DTEND:20261212T045900Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4d22b86c4af893dd71a4b1e3cc747c41bac8a0e2@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -10193,7 +9751,7 @@ BEGIN:VEVENT
 SUMMARY:360 Karaoke + Open Mic Night
 DTSTART:20261212T010000Z
 DTEND:20261212T045900Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e54a659174c75025d4d76562e815d67aeaa894d5@corning-events
 SEQUENCE:1
 CATEGORIES:Performing Arts,Music,Literature
@@ -10216,7 +9774,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261213T153000Z
 DTEND:20261213T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a228a0d791ee4e8c1244ae585cacf4ea2aa2074b@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -10238,7 +9796,7 @@ BEGIN:VEVENT
 SUMMARY:Corning-Painted Post Civic Music presents Canadian Brass
 DTSTART:20261213T200000Z
 DTEND:20261214T045959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:9c60730cad550aafcd822ada7e01e4a7961aac5f@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -10259,7 +9817,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261215T220000Z
 DTEND:20261215T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:43c070d198b0e02085e1155814858d0b57284a0c@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -10275,7 +9833,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261215T230000Z
 DTEND:20261216T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:39bf667f6973824b90c3eeb3c358e06189e0ec92@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -10294,7 +9852,7 @@ BEGIN:VEVENT
 SUMMARY:I Want a Hippopotamus for Christmas
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:a65c4b54033d8405c107da550ba83dd22a10af7f@corning-events
 SEQUENCE:0
 DESCRIPTION:I Want a Hippopotamus for Christmas\nWednesdayDecember 16\, 20
@@ -10314,7 +9872,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261218T190000Z
 DTEND:20261218T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:e8b2dc31a6833932d8134fbd5d8d2f6ab10e9994@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -10328,7 +9886,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261218T200000Z
 DTEND:20261218T220000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:dc74bce113bf450a61f70d4fab73005ee9d1c8b9@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -10346,7 +9904,7 @@ BEGIN:VEVENT
 SUMMARY:Full Moon Ride with Elmira Community Cycle
 DTSTART:20261219T020000Z
 DTEND:20261219T045959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:3abad03611b2cc2d67818aa291e838395dae91b7@corning-events
 SEQUENCE:0
 CATEGORIES:Bikes,Community,Connection
@@ -10362,7 +9920,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261220T153000Z
 DTEND:20261220T190000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:821bd6e9f2ca6d5cf428583d17a1085a9a18fc62@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -10384,7 +9942,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261222T220000Z
 DTEND:20261222T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:63eee7f06a171d1527870f11dd47d10c7e0b13e8@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -10400,7 +9958,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261222T230000Z
 DTEND:20261223T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:aacb360f3c00d2660365545daa2f427172acbdbc@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -10419,7 +9977,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261225T190000Z
 DTEND:20261225T200000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:83325af9f3a43fa6cdbae3321a69cce216c4bd87@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -10433,7 +9991,7 @@ BEGIN:VEVENT
 SUMMARY:Spiritual Recharge: Tea & Meditation
 DTSTART:20261227T200000Z
 DTEND:20261227T210000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:58b0ebe368d6daf8c93ed1875fcad9c123f9bb6e@corning-events
 SEQUENCE:0
 CATEGORIES:Health,Connection
@@ -10461,7 +10019,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261229T220000Z
 DTEND:20261229T230000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:55fa0b792ea163f62d5a4223fca2f4ade2a0db0b@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -10477,7 +10035,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261229T230000Z
 DTEND:20261230T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f1479802cfe483c6b0c7260040ede0549a9da6b5@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -10496,7 +10054,7 @@ BEGIN:VEVENT
 SUMMARY:Next Stop Comedy @ 360Aurora
 DTSTART:20270101T000000Z
 DTEND:20270101T030000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:791a7936deea45a22785e72198fa0fd1d71a50ea@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy,Performing Arts
@@ -10517,7 +10075,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20270202T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:c77b1809b938c49952ef8168649f2d5522cc8d44@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy
@@ -10538,7 +10096,7 @@ BEGIN:VEVENT
 SUMMARY:Heroes of the Underground Railroad
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:8da6df3828a7d0b497f430a4518db64b99895f62@corning-events
 SEQUENCE:0
 DESCRIPTION:Heroes of the Underground Railroad\nFridayFebruary 5\, 202710:
@@ -10558,7 +10116,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270205T220000Z
 DTEND:20270206T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:5cb51a4bce14898a300775f043999cdab0124497@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -10573,7 +10131,7 @@ BEGIN:VEVENT
 SUMMARY:Corning-Painted Post Civic Music presents The King's Singers
 DTSTART:20270212T003000Z
 DTEND:20270212T045959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b75490ffb9c4e867543a6e605d608c6a8371b055@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -10593,7 +10151,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20270302T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:7cfee6f81407afb13d1ba550496ce63e56fe66ee@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy
@@ -10614,7 +10172,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270305T220000Z
 DTEND:20270306T010000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:bf05b1c6606757d7a1274a04bdbed9a33db39923@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -10629,7 +10187,7 @@ BEGIN:VEVENT
 SUMMARY:Hadestown
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:6a41c3ec248481c245b62a325e78dd8aea9617cb@corning-events
 SEQUENCE:0
 DESCRIPTION:HADESTOWN\nThursday – FridayMarch 11 – 12\, 20277:30pm\nAg
@@ -10649,7 +10207,7 @@ BEGIN:VEVENT
 SUMMARY:Ocean Blue
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:875e9722ffaceb7ede418014df7633a9ee161c80@corning-events
 SEQUENCE:0
 DESCRIPTION:Ocean Blue\nFridayMarch 19\, 202710:00am and 12:30pm\nRuntime:
@@ -10669,7 +10227,7 @@ BEGIN:VEVENT
 SUMMARY:Corning-Painted Post Civic Music presents Bria Skonberg
 DTSTART:20270320T233000Z
 DTEND:20270321T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:4ad6c4b4662e0742fa7dbbe69bb3886e53c3d564@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -10688,7 +10246,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270402T210000Z
 DTEND:20270403T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:1c57f1f57b21ce14c9b5b64ff79d863ab1093b16@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -10702,7 +10260,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20270406T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:28d1b2236391b84c910fbddec43ed348279e9d4f@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy
@@ -10724,7 +10282,7 @@ SUMMARY:Jazz at Lincoln Center presents World On A String - Swinging Songs
   of Broadway | Corning Painted Post Civic Music
 DTSTART:20270411T190000Z
 DTEND:20270412T035959Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:2f4c9f9ca010dc61047e9fe4de8cb4eac8144b4c@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -10746,7 +10304,7 @@ BEGIN:VEVENT
 SUMMARY:Jersey Boys
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270415
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:86ed845d6e5fb37d0d0776c91804159b9c8a523d@corning-events
 SEQUENCE:1
 DESCRIPTION:JERSEY BOYS\nTuesday – ThursdayApril 13 – 15\, 20277:30pm
@@ -10765,7 +10323,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aliens Alive!
 DTSTART:20270417T180000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f72efde0ca0ed7cc1bba72861f9f6b55bbbe7b55@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun
@@ -10786,7 +10344,7 @@ BEGIN:VEVENT
 SUMMARY:Doktor Kaboom: Under Pressure!
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:b9db6e77eea2e24aa5a6ee1c4859665caeacc20b@corning-events
 SEQUENCE:0
 DESCRIPTION:Doktor Kaboom: Under Pressure!\nMondayApril 19\, 202710:00am a
@@ -10806,7 +10364,7 @@ BEGIN:VEVENT
 SUMMARY:Clifford The Big Red Dog: The Musical
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:f7b1ebed09690b2419f8b5af3f6397216a5e5730@corning-events
 SEQUENCE:0
 DESCRIPTION:Clifford The Big Red Dog: The Musical\nFridayApril 30\, 202710
@@ -10826,7 +10384,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270507T210000Z
 DTEND:20270508T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:88db5196a3c64318b7074d4abfaee17b02cd1ee0@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -10841,7 +10399,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270604T210000Z
 DTEND:20270605T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:efadc7fe9b38634b7ade3803af2ad27d412a5860@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -10856,7 +10414,7 @@ BEGIN:VEVENT
 SUMMARY:The Wiz
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270624
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:79e4a8b648a8eb87ee00574e367e2b51aedcce66@corning-events
 SEQUENCE:0
 DESCRIPTION:THE WIZ\nTuesday – WednesdayJune 22 – 23\, 20277:30pm\nAge
@@ -10876,7 +10434,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270702T210000Z
 DTEND:20270703T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:06dde538f8a1616daef42e4cc894cfaec24575a7@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -10891,7 +10449,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270806T210000Z
 DTEND:20270807T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:0f183b6a5a196a1f67993d572307f939362bbd08@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -10906,7 +10464,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270903T210000Z
 DTEND:20270904T000000Z
-DTSTAMP:20260905T124042Z
+DTSTAMP:20260906T125224Z
 UID:cd678459b0feede90ffe6d9670b041d88a171c66@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
