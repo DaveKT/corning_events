@@ -9,134 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Second Saturdays | Public Tour
-DTSTART:20261010T180000Z
-DTSTAMP:20261011T153722Z
-UID:8af1ec4d396bc505b97c28de0d5b3ec7ee00e497@corning-events
-SEQUENCE:0
-DESCRIPTION:Open to the public | Included with regular Museum admission | 
- No registration required\n\nSource: The Rockwell Museum - https://rockwell
- museum.org/events/second26/event/2026-10-10
-STATUS:CONFIRMED
-URL:https://rockwellmuseum.org/events/second26/event/2026-10-10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Betty's Ghost LIVE @ Grist Iron Brewing Company
-DTSTART:20261010T220000Z
-DTEND:20261011T010000Z
-DTSTAMP:20261011T153722Z
-UID:0e9301fa5b4c50f01358a4128a29057909ead4f4@corning-events
-SEQUENCE:0
-CATEGORIES:Music,Beer
-DESCRIPTION:Event by Grist Iron Brewing Company\n4880 State Route 414\, Bu
- rdett\, NY\nDuration: 3 hr\nPublic\nBetty's Ghost will be at Grist Iron on
-  Saturday\, October 10th\, from 6-9 PM!\n\nSource: FLXcalendar - https://c
- alendar.time.ly/o9b0uzpj/event/78467631/20261010180000
-GEO:42.47025;-76.867304
-LOCATION:Grist Iron Brewing Company\, 4880 New York 414\, Burdett\, New Yo
- rk\, 14818\, United States
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78467631/20261010180000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Able2's 7th Annual Guts & Grit 5K & 1-Miler Walk\, Elmira
-DTSTART:20261011T123000Z
-DTEND:20261012T035959Z
-DTSTAMP:20261011T153722Z
-UID:2349c06eed66ce84f9a22c2d57ccaa3d4a8226c4@corning-events
-SEQUENCE:0
-CATEGORIES:Causes,Running
-DESCRIPTION:Same Day Registration will be available. Please arrive at Eldr
- idge Park at 8:30 AM to register that day for either the 5K or 1 Mile Walk
- .\nAble2 invites everyone of all abilities and ages to bring their competi
- tive spirit to Eldridge Park on Sunday October 11th for a 5K Run or 1 Mile
-  Walk.\nIt’s a day for the community to come together for a day of fun\,
-  fitness and fundraising!\nMoney raised will support the work of Able2\, e
- nsuring people with disabilities develop their talents\, reach their goals
- \, and become strong contributors to their communities.\nIf you cannot att
- end you can still support the event! The registration link also has a DONA
- TE button. All proceeds go directly to Able2.\nWe will see you at the star
- ting line!\nEvent by Able2\nEldridge Park\n\nSource: FLXcalendar - https:/
- /calendar.time.ly/o9b0uzpj/event/78486425/20261011083000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78486425/20261011083000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The McKILTED Classic at Watkins Glen Golf Course
-DTSTART:20261011T130000Z
-DTEND:20261012T035959Z
-DTSTAMP:20261011T153722Z
-UID:43d9c51ef601882edd41dbfd86ed016100882fa4@corning-events
-SEQUENCE:0
-CATEGORIES:Sports
-DESCRIPTION:Come join us at the Watkins Glen Golf Course for our very firs
- t 9 hole golf tournament on October 11\, 2026.\nBreakfast is on us\, a gif
- t bag is included with your ticket\, and yes… we’re providing kilts! Y
- ou don’t have to wear one\, but if you do\, you’ll earn yourself a mul
- ligan.\nDetails include:\n• 8:00-8:30 AM Breakfast/ Registration\n• 9:
- 00 AM Shotgun start\n• First taste of 7 year old Single MAlt\n• Gift b
- ag includes 200 mL McKenzie Whiskey\, your very own kilt\, branded towel\,
-  drink coupon and more\n• Entertainment and amazing prizes\nBring your o
- wn clubs\, bring your friends\, and come prepared for some questionable go
- lf with a whole lot of shenanigans.\nClick the link to sign up\, spots are
-  limited.\nhttps://fareharbor.com/embeds/book/fingerlakesdistilling/items/
- 758531/?full-items=yes\n\nSource: FLXcalendar - https://calendar.time.ly/o
- 9b0uzpj/event/78473754/20261011090000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78473754/20261011090000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chamberlain Acres Farmers Market in Elmira
-DTSTART:20261011T153000Z
-DTEND:20261011T190000Z
-DTSTAMP:20261011T153722Z
-UID:044f8ff41dcdbbdaf2dd0eb479b4252f081924df@corning-events
-SEQUENCE:0
-CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
-DESCRIPTION:Spend the day shopping local and supporting an amazing group o
- f farmers\, bakers\, makers\, growers\, and small businesses from our comm
- unity.\nFresh baked goods\nHandmade items\nLocal foods & treats\nFlowers &
-  plants\nFresh brewed tea & lemonade\nFamily-friendly atmosphere\nGrab lun
- ch\, sip something refreshing\, and enjoy a relaxing Sunday surrounded by 
- flowers\, fresh air\, and local creativity.\nSunday | 11 AM – 3 PM\nCham
- berlain Acres Farmers Market\nBring your friends\, bring your family\, and
-  come make a day of it with us!\n#FarmersMarket #ShopLocal #FingerLakes #S
- upportSmallBusiness #WomenOwned #LocalMakers #ChamberlainAcres #MontourFal
- lsTeaCompany #ElmiraNY #SundayMarket\n\nSource: FLXcalendar - https://cale
- ndar.time.ly/o9b0uzpj/event/78366790/20260531113000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78366790/20260531113000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PEACE\, LOVE AND MUSIC: Honoring Kimber A. Billow
-DTSTART:20261011T180000Z
-DTSTAMP:20261011T153722Z
-UID:d89696fb18a73a4cc4bc0f4dbee737da7c520014@corning-events
-SEQUENCE:1
-CATEGORIES:Music
-DESCRIPTION:SHS Concert Choir Reunion presents\nPEACE\, LOVE AND MUSIC: Ho
- noring Kimber A. Billow\nSundayOctober 11\, 20262:00pm\nRunning Time: 2 hr
- s plus a 20 min intermission\nAge Recommendation: All Ages\nShare:\nPricin
- g\nProcessing and facility maintenance fees apply.\nTickets:$15\nBUY TICKE
- TS\nView Seating Chart (PDF)\nQuestions?\nContact our Box Office:\nMonday-
- Friday\n11:30 am – 5:30 pm\n607-734-8191 or\n800-724-0159\nboxoffice@cle
- menscenter.org\nVisitor Information>\nSHS Concert Choir Reunion presents\n
- Southside High School Concert Choir Reunion will celebrate the thirty-year
-  career of beloved music teacher\, choir ...\n\nSource: Clemens Center - h
- ttps://clemenscenter.org/event/peace-love-and-music-honoring-kimber-a-bill
- ow/
-GEO:42.08921;-76.804956
-LOCATION:Clemens Center\, 207 Clemens Center Parkway\, Elmira\, New York\,
-  14901
-STATUS:CONFIRMED
-URL:https://clemenscenter.org/event/peace-love-and-music-honoring-kimber-a
- -billow/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Museum Closed
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:206a647df03cc7ca8c4130eb033d9ee5cc51a84f@corning-events
 SEQUENCE:0
 DESCRIPTION:We are closed today. See you tomorrow!\n\nSource: Chemung Coun
@@ -147,10 +23,25 @@ STATUS:CONFIRMED
 URL:https://chemungvalleymuseum.org/event/museum-closed-19/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Happy Halloween w/ Bendher at Sonny's\, H'Heads
+DTSTART:20261013T000000Z
+DTEND:20261013T030000Z
+DTSTAMP:20261012T185927Z
+UID:e2f0be7085a8db2dd8cf7ab854400bee16ceb12d@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:It's a Halloween show at Sonny's Bar & Grill\, hope to see som
+ e cool costumes on Halloween Night!\nEvent by Bendher\nSonny's Bar & Grill
+ e\n49 Level Acres Dr\, H'heads\n\nSource: FLXcalendar - https://calendar.t
+ ime.ly/o9b0uzpj/event/78488749/20261012200000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78488749/20261012200000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261013T220000Z
 DTEND:20261013T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:18a4324742f0a8d5873270f9c4351f63d87cae3c@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -166,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:Demystifying the Grant Process
 DTSTART:20261013T220000Z
 DTEND:20261013T233000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:bb312648c88f579c0bf8fbd28b30531668e50e66@corning-events
 SEQUENCE:1
 CATEGORIES:Community,Support
@@ -183,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261013T220000Z
 DTEND:20261014T000000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:c7ac20ef452c3be88e32bb37c96fb5882e9016e7@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -202,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Turn Back Time Tuesday - Spooky Edition! at Corning Palace Theatre
 DTSTART:20261013T220000Z
 DTEND:20261014T035959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:cf0abf039923eb9aa1d35d631ba39d640149d14f@corning-events
 SEQUENCE:0
 CATEGORIES:Film
@@ -223,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:3rd Annual Ghouls Night Out
 DTSTART:20261014T210000Z
 DTEND:20261015T000000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:02259b923d36ad0911200572d371bedd664b2f99@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Competitions
@@ -246,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Business After Hours at Lakewood Vineyards
 DTSTART:20261014T210000Z
 DTEND:20261014T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:c1dd2c29cf4dc77a73ec353a81f7415ead99fc18@corning-events
 SEQUENCE:0
 DESCRIPTION:Join us October 14 for Business After Hours at Lakewood Vineya
@@ -259,10 +150,26 @@ URL:https://www.corningny.com/events/details/business-after-hours-at-lakew
  ood-vineyards-19682
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Meaning Movies at Park Church - "Natchez"
+DTSTART:20261014T230000Z
+DTEND:20261015T035959Z
+DTSTAMP:20261012T185927Z
+UID:bde9506ed647cad9f50f0248d8c143726611fcb6@corning-events
+SEQUENCE:0
+CATEGORIES:Film,Community
+DESCRIPTION:See details in image\n\nSource: FLXcalendar - https://calendar
+ .time.ly/o9b0uzpj/event/78488813/20261014190000
+GEO:42.089201;-76.808797
+LOCATION:Park Church\, 208 West Gray Street\, Elmira\, New York\, 14901\, 
+ United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78488813/20261014190000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Corning Farmers Market
 DTSTART:20261015T140000Z
 DTEND:20261015T180000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:1d03aa905b8a40cac70a1801f68a0e10b8f1f3a8@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Food,Crafts,New to the Area,Family Fun
@@ -294,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:Tri-Chamber Government Affairs Roundtable 2026
 DTSTART:20261015T190000Z
 DTEND:20261015T213000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:127b0d50adbc80df6d72e136a1482993ac5f4b61@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -307,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Tri-County Government Affairs Roundtable 2026
 DTSTART:20261015T190000Z
 DTEND:20261015T213000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:32c9c5b0af5846c95e3d490416f29179d7055edd@corning-events
 SEQUENCE:1
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -320,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:Singer-Songwriter Series w/ Louiston @ Atwater Wine
 DTSTART:20261015T220000Z
 DTEND:20261016T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:3e921689d51af61ad63d4a84b1ef9a4f4f9837d0@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Wine
@@ -341,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:Upstate NY Business Meet Up - LECOM Event Center
 DTSTART:20261016T130000Z
 DTEND:20261016T143000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:73b27d0e3e52ac8f5ec308d242531e065c8bc4fc@corning-events
 SEQUENCE:0
 CATEGORIES:Connection
@@ -361,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Fall Park Rangers
 DTSTART:20261016T140000Z
 DTEND:20261016T150000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:000ded5d1e4fc016143b94e2af2a9ec7e6defb58@corning-events
 SEQUENCE:0
 CATEGORIES:Nature,Education
@@ -384,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261016T180000Z
 DTEND:20261016T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:4f76f9c3ca998f7938d470cf18f27fca72cff53f@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -398,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261016T190000Z
 DTEND:20261016T210000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:cad1a38aa61e02d16d816f7c5abf8a3caae00186@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -416,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Mike Lucey acoustic LIVE @ Solera Tap House
 DTSTART:20261016T220000Z
 DTEND:20261017T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:d858c5c20bd644193e303d20b229f3073b80f950@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Beer
@@ -437,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:20th Annual Ghost Walk
 DTSTART:20261016T220000Z
 DTEND:20261017T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:fa39ca2b5b049a2b697289228eb3b542204c1dd1@corning-events
 SEQUENCE:0
 DESCRIPTION:Join us for the 20th Annual Ghost Walk. Please read the inform
@@ -458,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:20th Annual Elmira Ghost Walk at Woodlawn Cemetery
 DTSTART:20261016T223000Z
 DTEND:20261017T002500Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:9de343299ed7af0a71d4b7f03ce046a24fa6351d@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage
@@ -477,7 +384,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Empire Brick Con
 DTSTART:20261017T040000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:661b796372ce94023d5e7706fb0e62a227ee331d@corning-events
 SEQUENCE:1
 CATEGORIES:Festivals,Family Fun,Art,Glass
@@ -493,7 +400,7 @@ SUMMARY:Beginner Sewing Series - Foundational Classes to Master Your Machi
  ne (Fall 2026)
 DTSTART:20261017T130000Z
 DTEND:20261017T160000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:a4b8d2a1ef9448234ef309ae2be907c81abd26e9@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -507,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:Adventures in Mudcloth with Kathye Arrington
 DTSTART:20261017T140000Z
 DTEND:20261017T170000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:97d4cbc138cb5f33e1a9f80d735f6467385a9be1@corning-events
 SEQUENCE:0
 CATEGORIES:Art,BIPOC,Community,Connection,Education,History & Heritage
@@ -536,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:Flea Market at Chamberlain Acres\, Elmira
 DTSTART:20261017T150000Z
 DTEND:20261017T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:64dc3c9870f9d7dafb2bcea1479645e7f010d806@corning-events
 SEQUENCE:0
 CATEGORIES:Community
@@ -554,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:Life-Size Clue at the Library
 DTSTART:20261017T170000Z
 DTEND:20261017T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:7609460027ec2d01dfd351423198bb1e05e1a5f5@corning-events
 SEQUENCE:0
 CATEGORIES:Games,Performing Arts
@@ -577,7 +484,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Artrageous
 DTSTART:20261017T180000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:a36c66601a9c5f576acbbb5eb5bf01e3ddd2bd01@corning-events
 SEQUENCE:3
 CATEGORIES:Family Fun,Music,Performing Arts,Art
@@ -601,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:Spirit of Schuyler Gathering Fundraiser
 DTSTART:20261017T200000Z
 DTEND:20261017T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:efca4cc46416ba843a10241a80dd8b198ce2bb3b@corning-events
 SEQUENCE:0
 CATEGORIES:Causes,Food,Beer,Wine
@@ -624,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:20th Annual Ghost Walk
 DTSTART:20261017T220000Z
 DTEND:20261018T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:2775d7f71ec655af726d74886a44de0ab831a0cc@corning-events
 SEQUENCE:0
 DESCRIPTION:Join us for the 20th Annual Ghost Walk. Please read the inform
@@ -642,10 +549,25 @@ STATUS:CONFIRMED
 URL:https://chemungvalleymuseum.org/event/20th-annual-ghost-walk-2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Halloween Party & Karaoke at The Office Bar\, Bath
+DTSTART:20261017T220000Z
+DTEND:20261018T033000Z
+DTSTAMP:20261012T185927Z
+UID:6d37d1ff617f0e6ecb63f599ea1515ad2031af0c@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Get your costumes ready! Prizes for costumes. Door prizes! Let
+ ’s have some fun!\nEvent by The Office Bar\n17 Liberty St\, Bath\n\nSour
+ ce: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78488748/2026101
+ 7180000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78488748/20261017180000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:20th Annual Elmira Ghost Walk at Woodlawn Cemetery
 DTSTART:20261017T223000Z
 DTEND:20261018T002500Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:301514f71bee5b80b1d8eff39518a8cdd5bced7a@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage
@@ -665,7 +587,7 @@ BEGIN:VEVENT
 SUMMARY:Love and Theft @ Mud Creek Bison Ranch
 DTSTART:20261017T230000Z
 DTEND:20261018T035959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:28d9a94045d2ff06180864c0fc8f8276ab54dc3d@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -686,7 +608,7 @@ BEGIN:VEVENT
 SUMMARY:Elmira Holiday Parade - Costume Fitting
 DTSTART:20261018T123000Z
 DTEND:20261018T150000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:a68d3161df11c8a6843c723af07b6c57cb29c536@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Holidays,Volunteering
@@ -716,7 +638,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261018T153000Z
 DTEND:20261018T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:6af2b8629be987568f0fe86cf6270b9a0ac2eb1c@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -738,7 +660,7 @@ BEGIN:VEVENT
 SUMMARY:20th Annual Ghost Walk
 DTSTART:20261018T200000Z
 DTEND:20261018T220000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:03be634114971a77380932150d0d60e3f744fd75@corning-events
 SEQUENCE:1
 CATEGORIES:History & Heritage
@@ -761,7 +683,7 @@ BEGIN:VEVENT
 SUMMARY:Museum Closed
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:16ccc5f5327f4c5dbd9b44c4ecca4ba4e83ea76a@corning-events
 SEQUENCE:0
 DESCRIPTION:We are closed today. See you tomorrow!\n\nSource: Chemung Coun
@@ -775,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:Fireside Chat w/ local author Carey Crooker
 DTSTART:20261019T220000Z
 DTEND:20261019T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:43a9c4da7b7d49ea5fe57e33f1801c0359da86d7@corning-events
 SEQUENCE:0
 CATEGORIES:Literature
@@ -806,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:Living Out Loud: The Stories We Carry
 DTSTART:20261019T220000Z
 DTEND:20261019T233000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:d0f4fdc9a7b898e3fe53a94c00c868549fbd11a2@corning-events
 SEQUENCE:0
 DESCRIPTION:Living Out Loud: The Stories We Carry\nThe ARTS Council & Dant
@@ -822,7 +744,7 @@ BEGIN:VEVENT
 SUMMARY:The Bodyguard
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:44448eee5e1c23414f262245f2384c224f943bd4@corning-events
 SEQUENCE:4
 DESCRIPTION:THE BODYGUARD\nTuesday – WednesdayOctober 20 – 21\, 20267:
@@ -842,7 +764,7 @@ BEGIN:VEVENT
 SUMMARY:New Member Information Session
 DTSTART:20261020T123000Z
 DTEND:20261020T133000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:61b61265de2b884594bd7b4f721c56db4600848c@corning-events
 SEQUENCE:1
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -855,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:In the Study: The History and Legacy of Haudenosaunee Beadwork wit
  h Gabrielle Patrone
 DTSTART:20261020T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:71f55ed6141ab0e7bc79d881c576f2d79cd3cf2a@corning-events
 SEQUENCE:1
 CATEGORIES:Art,History & Heritage
@@ -871,7 +793,7 @@ BEGIN:VEVENT
 SUMMARY:Rooted Together - A Child Loss Support Group - CareFirstNY
 DTSTART:20261020T220000Z
 DTEND:20261020T233000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:175fcf48e118ba3c3e94aae0546449a99df8a09f@corning-events
 SEQUENCE:0
 CATEGORIES:Support,Community
@@ -901,7 +823,7 @@ BEGIN:VEVENT
 SUMMARY:Understanding the Civil War: A Reading & Discussion Series
 DTSTART:20261020T220000Z
 DTEND:20261020T233000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:2b17d4ffb9c28950d635821758e73439ec4735d6@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -932,7 +854,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261020T220000Z
 DTEND:20261020T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:c3132097e780b2c4e896236a65dc44936c88e5e5@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -948,7 +870,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261020T220000Z
 DTEND:20261021T000000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:df66f8c2223b904552444ff77cebd3eb33860e98@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -967,7 +889,7 @@ BEGIN:VEVENT
 SUMMARY:The Bodyguard: The Musical
 DTSTART:20261020T233000Z
 DTEND:20261021T014500Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:d2c61394c931c3318f80c131754440d17ba1a51c@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -998,7 +920,7 @@ SUMMARY:Remember Me: A Día de los Muertos Celebration @ Southeast Steuben
   County Library
 DTSTART:20261021T210000Z
 DTEND:20261021T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:9b287efde9e81640657dd92f2404ec2079cb74f8@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Family Fun,Community,Connection,Film
@@ -1021,7 +943,7 @@ BEGIN:VEVENT
 SUMMARY:Remember Me: "Coco" Screening with CareFirstNY
 DTSTART:20261021T210000Z
 DTEND:20261021T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:c3d7882a5651868df349ede66d2b5c789da3dbc9@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -1049,7 +971,7 @@ BEGIN:VEVENT
 SUMMARY:The Bodyguard: The Musical
 DTSTART:20261021T233000Z
 DTEND:20261022T014500Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:84bb7da6a6d7fe0bf0d2cc0b641690fea3324357@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -1079,7 +1001,7 @@ BEGIN:VEVENT
 SUMMARY:The Days of Incandescence
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:ef7aa6411de76a3b80ee1e37fcca3a208726524b@corning-events
 SEQUENCE:0
 CATEGORIES:Festivals,Community,History & Heritage,Family Fun,New to the Ar
@@ -1101,7 +1023,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Farmers Market
 DTSTART:20261022T140000Z
 DTEND:20261022T180000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:6cbd387d54fb4f4318d059f7ba3af95f9a5c4473@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Food,Crafts,New to the Area,Family Fun
@@ -1134,7 +1056,7 @@ SUMMARY:Remember Me: A Día de los Muertos Celebration @ Watkins Glen Publ
  ic Library
 DTSTART:20261022T210000Z
 DTEND:20261022T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:593433a12348617f760d4682c90441afa440561a@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Family Fun,Community,Connection,Film
@@ -1157,7 +1079,7 @@ BEGIN:VEVENT
 SUMMARY:Art of the Cemetery: Tales of Local True Crime
 DTSTART:20261022T213000Z
 DTEND:20261023T003000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:09c611b968d5b996f2684f0f95dc4bbb1c4e0fc4@corning-events
 SEQUENCE:0
 DESCRIPTION:Join The ARTS Council of the Southern Finger Lakes on Thursday
@@ -1174,7 +1096,7 @@ SUMMARY:Film Screening | Everlasting (a film on Cornelius 'Pepsi' Lyon by
  Caleb Kaufman)
 DTSTART:20261022T220000Z
 DTEND:20261022T233000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:e0336fe67776ef674ae8590b4962c13f852275d0@corning-events
 SEQUENCE:0
 CATEGORIES:Film,Art
@@ -1206,7 +1128,7 @@ BEGIN:VEVENT
 SUMMARY:Fall Park Rangers
 DTSTART:20261023T140000Z
 DTEND:20261023T150000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:69039ec7915152d478c74a3fed7b61d539564333@corning-events
 SEQUENCE:0
 CATEGORIES:Nature,Education
@@ -1229,7 +1151,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261023T180000Z
 DTEND:20261023T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:1081e1fcb8f3255e672ba12972e10ca1e3a22803@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -1243,7 +1165,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261023T190000Z
 DTEND:20261023T210000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:13ce5b619c118e9ab0fdb023433454bfff3ee833@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -1261,7 +1183,7 @@ BEGIN:VEVENT
 SUMMARY:5th Annual Wicked Wisner Trunk Or Treat
 DTSTART:20261023T213000Z
 DTEND:20261023T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:2a6857b045b95bc6955973ff1a105cf457e840a7@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun
@@ -1291,7 +1213,7 @@ BEGIN:VEVENT
 SUMMARY:Teen Halloween Dance at Steele Memorial Library
 DTSTART:20261023T230000Z
 DTEND:20261024T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:a490abf22fffeff483db8bcc34b1d83ff87d1e1e@corning-events
 SEQUENCE:0
 CATEGORIES:Teen
@@ -1308,10 +1230,29 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78486430/20261023190000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Twin Tiers Community Orchestra Halloween Concert at the Arnot Mall
+DTSTART:20261023T230000Z
+DTEND:20261024T000000Z
+DTSTAMP:20261012T185927Z
+UID:bd1b827478972ef386e90c5c03279c1ea76c885f@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Family Fun
+DESCRIPTION:The Twin Tiers Community Orchestra presents their annual Hallo
+ ween Concert. This event will be held in the Arnot Mall Center Court and i
+ s free and open to the public.\nEvent by Twin Tiers Community Orchestra\n
+ \nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78488751/2
+ 0261023190000
+GEO:42.160134;-76.873177
+LOCATION:Arnot Mall\, 3300 Chambers Road\, Horseheads\, New York\, 14845\,
+  United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78488751/20261023190000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Steele Teen Halloween Dance
 DTSTART:20261023T230000Z
 DTEND:20261024T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:c73772bbba5a608a6dce384efd0da14d979eb9bf@corning-events
 SEQUENCE:0
 CATEGORIES:Teen,Dancing,Food,Games,Competitions,Music
@@ -1332,7 +1273,7 @@ BEGIN:VEVENT
 SUMMARY:360 Karaoke + Open Mic Night
 DTSTART:20261024T000000Z
 DTEND:20261024T035900Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:6c45c59a63ab97d379dc361f1f83d47916c39373@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -1355,7 +1296,7 @@ BEGIN:VEVENT
 SUMMARY:Full Moon Ride with Elmira Community Cycle
 DTSTART:20261024T010000Z
 DTEND:20261024T035959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:4f874b0253e727c297f13bbcc4d312f3bbf71752@corning-events
 SEQUENCE:0
 CATEGORIES:Bikes,Community,Connection
@@ -1371,7 +1312,7 @@ BEGIN:VEVENT
 SUMMARY:The Art of Toe-Up Sock Knitting With Sara Kalla (Session 1)
 DTSTART:20261024T140000Z
 DTEND:20261024T160000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:0a49cf5903d72b0f10d077e2827dd61e1e6141aa@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -1386,7 +1327,7 @@ SUMMARY:Great Glass Pumpkin Experiment Demonstration | Claire Cadorette an
  d Niko Dimitrijevic  @ CMoG
 DTSTART:20261024T140000Z
 DTEND:20261024T153000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:e761b80be055dc24d97e0b03236ad72b467e2920@corning-events
 SEQUENCE:0
 CATEGORIES:Glass
@@ -1409,10 +1350,28 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78466296/20260919100000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tagsylvania Kids' Daylight Frights
+DTSTART:20261024T150000Z
+DTEND:20261024T200000Z
+DTSTAMP:20261012T185927Z
+UID:1290987ea1e5869c515a939936284d1678a35665@corning-events
+SEQUENCE:0
+CATEGORIES:Family Fun
+DESCRIPTION:Too scared to come at night? Have little kids who love Spooky 
+ Season but are not quite ready for the fear of the Southern Tier? Come joi
+ n us for Kids' Daylight Frights instead! We will have spooky face painting
+ \, creepy crafts\, a costume contest\, a daylight walk through The Lost Ha
+ mlet\, Jerkus Circus and the Motel with plenty more!\nClick here for full 
+ info\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/7848
+ 8835/20261024110000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78488835/20261024110000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Flea Market at Chamberlain Acres\, Elmira
 DTSTART:20261024T150000Z
 DTEND:20261024T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:eecefa51514141b5edea525c2929771d0c8fec66@corning-events
 SEQUENCE:0
 CATEGORIES:Community
@@ -1427,10 +1386,34 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78433018/20260808110000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Halloween Skate Party to benefit Italian American Festival\, Watki
+ ns Glen
+DTSTART:20261024T190000Z
+DTEND:20261024T213000Z
+DTSTAMP:20261012T185927Z
+UID:27b56d6081e56d10518b33ff4c46a69d7a961b5c@corning-events
+SEQUENCE:0
+CATEGORIES:Family Fun,Causes,Community
+DESCRIPTION:$10 admission includes: skate rentals\, skate lesson\, 1 raffl
+ e ticket.\nBE SURE TO DRESS IN COSTUME to participate in our costume conte
+ st. This is a family-friendly benefit event to support the Schuyler County
+  Italian American Festival\nNOT SKATING? No problem. There's lots of activ
+ ities for you: silent auction\, costume contest\, raffle baskets\, 50/50 r
+ affle\, bake sale\, pumpkin decorating (thank you The Pumpkin Stand in Ovi
+ d!)\, and more!\nWANT TO SKATE BUT NOT SURE HOW? A skate lesson is include
+ d with the admission to skate - now is your chance to learn a few new tric
+ ks\, even if the trick is simply remaining upright\nEvent by Watkins Glen 
+ Italian Festival\nWatkins Glen Community Center\n195 S Clute Park Road\, W
+ atkins Glen\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/eve
+ nt/78488805/20261024150000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78488805/20261024150000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Barn Yard Boo Bash
 DTSTART:20261024T190000Z
 DTEND:20261024T210000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:40abab2209e38f5e7732acfd7f9ae55d1055a92f@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Crafts,Food
@@ -1452,7 +1435,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Night Pride @ Watkins Glen Public Library
 DTSTART:20261024T210000Z
 DTEND:20261024T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:9911a89034152c7c9143c2e21d6b205d4d2f38cf@corning-events
 SEQUENCE:0
 CATEGORIES:Teen,LGBTQ+
@@ -1471,7 +1454,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Night Pride: Button & Patch Studio
 DTSTART:20261024T210000Z
 DTEND:20261024T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:b0f07d5b0ffe0e227a917e60a11e6da2e9ebffe6@corning-events
 SEQUENCE:1
 CATEGORIES:LGBTQ+,Crafts,Food,Teen
@@ -1490,7 +1473,7 @@ BEGIN:VEVENT
 SUMMARY:Trunk-Or-Treat 2026 in Bath
 DTSTART:20261024T213000Z
 DTEND:20261025T000000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:589f7163200b35e535115132018bc87cd1447526@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Festivals,Music,Food
@@ -1511,10 +1494,31 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78467444/20261024173000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2nd Annual Halloween Party at Hotel Laurel\, Watkins Glen
+DTSTART:20261024T220000Z
+DTEND:20261025T035959Z
+DTSTAMP:20261012T185927Z
+UID:31b2e447c0694cf038f4f8a723c5ba60149076e4@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Dancing
+DESCRIPTION:THE HOTEL LAUREL’S 2nd ANNUAL HALLOWEEN PARTY Get ready for 
+ a hauntingly good time! Join us at our restaurant for a night of spooky fu
+ n\, great music\, and festive drinks.\nDate: Saturday\, October 24th\, 202
+ 6\nLocation: The Restaurant Grill at the Laurel located inside the Hotel L
+ aurel.\nAddress: 3380 State Route 14\, Watkins Glen\, NY\nCover Fee: $10\n
+ FEATURING: DJ Jukebox Junkie spinning spooky beats and party hits all nigh
+ t.\nFood & Drinks available for purchase to keep the party going\nEvent by
+  The Hotel Laurel at Seneca\n3380 State Route 14\, Watkins Glen\n\nSource:
+  FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78488794/2026102418
+ 0000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78488794/20261024180000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Miller and the Other Sinners LIVE @ Grist Iron Brewing Company
 DTSTART:20261024T220000Z
 DTEND:20261025T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:ee2fb8998557f4b8f1f57d70a022124f208b4195@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Beer
@@ -1532,7 +1536,7 @@ BEGIN:VEVENT
 SUMMARY:The Developments Duo LIVE @ ILL Eagle Taphouse
 DTSTART:20261024T230000Z
 DTEND:20261025T020000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:75bc0db4894d89cb92193f0e74dfbbd1ba621b99@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1551,7 +1555,7 @@ BEGIN:VEVENT
 SUMMARY:10th Annual Halloween Party w/ The Sweats at Patrick's\, Elmira
 DTSTART:20261024T230000Z
 DTEND:20261025T035959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:a4a6a38cd025f405448095b3b3f2817b27ca6149@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1568,7 +1572,7 @@ BEGIN:VEVENT
 SUMMARY:Boos\, Booze & Beats w/ DJ MadCat at Brick\, Corning
 DTSTART:20261025T010000Z
 DTEND:20261025T035959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:5c65de9eb61ba062b4483a14aebe4c70a85d2885@corning-events
 SEQUENCE:0
 CATEGORIES:Dancing,Music
@@ -1595,7 +1599,7 @@ BEGIN:VEVENT
 SUMMARY:Trails\, Tricks and Treats Race
 DTSTART:20261025T140000Z
 DTEND:20261025T160000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:2d95994d80ad831edc79b5407eb5c2c30f54971c@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Competitions
@@ -1625,7 +1629,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261025T153000Z
 DTEND:20261025T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:9745d0b7ad61f3ea7cfb53aa1a016a2f7c9aab74@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -1647,7 +1651,7 @@ BEGIN:VEVENT
 SUMMARY:Spiritual Recharge: Tea & Meditation
 DTSTART:20261025T190000Z
 DTEND:20261025T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:c805095db82dfa8eab4c5b384e2cb2eb7ce5e66e@corning-events
 SEQUENCE:0
 CATEGORIES:Health,Connection
@@ -1675,7 +1679,7 @@ BEGIN:VEVENT
 SUMMARY:Storytime with Doc Possum @ Dormann Library
 DTSTART:20261026T153000Z
 DTEND:20261027T035959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:4cbd4ce2393a76073351654a6eca08612473836a@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Music
@@ -1695,7 +1699,7 @@ BEGIN:VEVENT
 SUMMARY:A Dream Within A Dream: The Poetry and Stories of Edgar Allan Poe
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:e39cec52a2530c1a0752858816756173692e4a6f@corning-events
 SEQUENCE:1
 DESCRIPTION:A Dream Within A Dream: The Poetry and Stories of Edgar Allan 
@@ -1717,7 +1721,7 @@ BEGIN:VEVENT
 SUMMARY:Tacos\, Halloween Trivia & Tunes w/ DJ MadCat at Brick\, Corning
 DTSTART:20261027T200000Z
 DTEND:20261028T030000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:b91c967722e433bb42c07b24c6faebd8b14ac9f1@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Games
@@ -1752,7 +1756,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261027T220000Z
 DTEND:20261028T000000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:3ebf875fbce114db94a4338256a0fa51ae255c47@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -1771,7 +1775,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261027T220000Z
 DTEND:20261027T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:91f09282e387b931ce90067a7a6c64b4fa041c2e@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -1787,7 +1791,7 @@ BEGIN:VEVENT
 SUMMARY:Out to Lunch: Ghostly Readings 2026
 DTSTART:20261028T160000Z
 DTEND:20261028T170000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:f60c26dba28b88f930b30c0f6e2c8909d12e667b@corning-events
 SEQUENCE:1
 CATEGORIES:History & Heritage
@@ -1807,7 +1811,7 @@ BEGIN:VEVENT
 SUMMARY:Movie Afternoon: Casper (PG)
 DTSTART:20261028T190000Z
 DTEND:20261028T203000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:af8c87caf79cae0d15a3c4faa42978720fb745e8@corning-events
 SEQUENCE:0
 CATEGORIES:Film,Family Fun,Holidays
@@ -1824,7 +1828,7 @@ BEGIN:VEVENT
 SUMMARY:Business After Hours at Employment Solutions
 DTSTART:20261028T210000Z
 DTEND:20261028T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:03400d70eef19939c2954adabbf3c091cf7b9398@corning-events
 SEQUENCE:0
 DESCRIPTION:Join us October 28 for a Halloween-themed Business After Hours
@@ -1842,7 +1846,7 @@ SUMMARY:An Evening with Edgar Allan Poe - "Deep Into That Darkness Peering
  " - at Rye\, Elmira
 DTSTART:20261028T230000Z
 DTEND:20261029T013000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:c3d741139bedfeecf1d2f3dda224e2ae7398ffbe@corning-events
 SEQUENCE:0
 CATEGORIES:Art,Performing Arts
@@ -1886,7 +1890,7 @@ BEGIN:VEVENT
 SUMMARY:Retirement for Small Business Owners
 DTSTART:20261029T130000Z
 DTEND:20261029T140000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:2f1ad295dad47b255e1d97d59711e7adbaeced28@corning-events
 SEQUENCE:0
 DESCRIPTION:Retirement Planning for Small Business Owners | Shawn Twigg\, 
@@ -1900,7 +1904,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Farmers Market
 DTSTART:20261029T140000Z
 DTEND:20261029T180000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:cd7c90349e7a8e10e801e6a3498d33e25c8df42c@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Community,Food,Crafts,New to the Area,Family Fun
@@ -1933,7 +1937,7 @@ SUMMARY:Halloween Matinee Movie - "The Uninvited" at Southeast Steuben Cou
  nty Library
 DTSTART:20261029T180000Z
 DTEND:20261029T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:252784240392f306108c657a56680bce04d9b5ea@corning-events
 SEQUENCE:0
 CATEGORIES:Film
@@ -1954,7 +1958,7 @@ BEGIN:VEVENT
 SUMMARY:Painted Post Halloween Parade
 DTSTART:20261029T220000Z
 DTEND:20261029T233000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:8ff7574efacacff2758798c0da5b8c5dced3d091@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Family Fun
@@ -1976,7 +1980,7 @@ BEGIN:VEVENT
 SUMMARY:CAYP Halloween Mixer
 DTSTART:20261029T220000Z
 DTEND:20261029T233000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:d2273368f0845eb2d971bc475aa925a2a1ba9978@corning-events
 SEQUENCE:0
 DESCRIPTION:The Corning Area Young Professionals (CAYP) invites emerging l
@@ -1993,7 +1997,7 @@ SUMMARY:An Evening with Edgar Allan Poe - "Deep Into That Darkness Peering
  " - at Rye\, Elmira
 DTSTART:20261029T230000Z
 DTEND:20261030T013000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:f30dfd50d5fe2511107f4debd7282fc4a4a3ea04@corning-events
 SEQUENCE:0
 CATEGORIES:Art,Performing Arts
@@ -2037,7 +2041,7 @@ BEGIN:VEVENT
 SUMMARY:The Rocky Horror Picture Show Spooktacular Tour with the Original 
  “Columbia” Nell Campbell
 DTSTART:20261029T233000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:8fd0716af9feaaa37c2ac91b88432981ed6aedd5@corning-events
 SEQUENCE:4
 CATEGORIES:Film,Music,Holidays
@@ -2063,7 +2067,7 @@ BEGIN:VEVENT
 SUMMARY:Fall Park Rangers
 DTSTART:20261030T140000Z
 DTEND:20261030T150000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:cebc5bc953069ca1b4f9cae1044dfe13587c2e68@corning-events
 SEQUENCE:0
 CATEGORIES:Nature,Education
@@ -2086,7 +2090,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261030T180000Z
 DTEND:20261030T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:3d7482b6847d7b4b365162be2f7d188e5c797d5e@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -2097,10 +2101,28 @@ URL:https://www.corningny.com/events/details/friday-see-sketch-10-30-2026-
  19823
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Library of Horrors Halloween Party at Watkins Glen Public Library
+DTSTART:20261030T183000Z
+DTEND:20261030T210000Z
+DTSTAMP:20261012T185927Z
+UID:05ca6050fc84387225903facc5741117c29aa559@corning-events
+SEQUENCE:0
+CATEGORIES:Family Fun,Film
+DESCRIPTION:The library's annual Halloween Party is BACK! Join us on Frida
+ y\, October 30th from 2:30pm-5:00pm for an afternoon full of fun\, candy\,
+  games\, and more. This event is free and open to the public.\n- PIZZA\, P
+ OPCORN\, CANDY\n- WATCH CASPER WITH US! (Movie starts at 3:00pm)\n- COSTUM
+ ES ENCOURAGED\n- BEST COSTUME WINS A PRIZE (4:00pm)\n- OTHER FUN ACTIVITIE
+ S\n- NO REGISTRATION\, JUST DROP IN\n\nSource: FLXcalendar - https://calen
+ dar.time.ly/o9b0uzpj/event/78488784/20261030143000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78488784/20261030143000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261030T190000Z
 DTEND:20261030T210000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:35228910a70f2a07d0c1558d8764c9d5f7f99f8a@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -2118,7 +2140,7 @@ BEGIN:VEVENT
 SUMMARY:B4AD live @ ILL Eagle Taphouse
 DTSTART:20261030T210000Z
 DTEND:20261031T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:e6dd026597551454efec8877085c35a97b488d9c@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Food,Beer
@@ -2138,7 +2160,7 @@ BEGIN:VEVENT
 SUMMARY:Nightmare on Denison Parkway- Halloween Party @ Corning Radisson
 DTSTART:20261030T220000Z
 DTEND:20261031T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:0c691407941449c4d8b535c7bb136407ee70ba16@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -2163,7 +2185,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Hootenany Skate Fest\, Elmira
 DTSTART:20261030T230000Z
 DTEND:20261031T020000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:4b6b585708fefbb396b66cec66ad20b51963d62b@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun
@@ -2179,7 +2201,7 @@ SUMMARY:Beginner Sewing Series - Foundational Classes to Master Your Machi
  ne (Fall 2026)
 DTSTART:20261031T130000Z
 DTEND:20261031T160000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:31530eb1a832827ee1ec3e64f169a9b04df21c04@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -2194,7 +2216,7 @@ SUMMARY:Great Glass Pumpkin Experiment Demonstration | Claire Cadorette an
  d Niko Dimitrijevic  @ CMoG
 DTSTART:20261031T140000Z
 DTEND:20261031T153000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:891a705a92d09d3c2f1f4323f6b0b4aec6820bab@corning-events
 SEQUENCE:0
 CATEGORIES:Glass
@@ -2220,7 +2242,7 @@ BEGIN:VEVENT
 SUMMARY:Flea Market at Chamberlain Acres\, Elmira
 DTSTART:20261031T150000Z
 DTEND:20261031T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:02ee8bfea5198fe039dea38f5f2579f892e6c4aa@corning-events
 SEQUENCE:0
 CATEGORIES:Community
@@ -2235,10 +2257,28 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78433018/20260808110000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tagsylvania Kids' Daylight Frights
+DTSTART:20261031T150000Z
+DTEND:20261031T200000Z
+DTSTAMP:20261012T185927Z
+UID:87659167e28c56f9c31c250eb0d4801d9f40e003@corning-events
+SEQUENCE:0
+CATEGORIES:Family Fun
+DESCRIPTION:Too scared to come at night? Have little kids who love Spooky 
+ Season but are not quite ready for the fear of the Southern Tier? Come joi
+ n us for Kids' Daylight Frights instead! We will have spooky face painting
+ \, creepy crafts\, a costume contest\, a daylight walk through The Lost Ha
+ mlet\, Jerkus Circus and the Motel with plenty more!\nClick here for full 
+ info\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/7848
+ 8835/20261024110000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78488835/20261024110000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:River Friends Pollinator Garden Project
 DTSTART:20261031T153000Z
 DTEND:20261101T035959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:379bd6f3f249bc766e76ffbf9a680f0c9a46be94@corning-events
 SEQUENCE:0
 CATEGORIES:Nature,Volunteering,Causes,Community
@@ -2259,7 +2299,7 @@ BEGIN:VEVENT
 SUMMARY:Horseheads - Fall Into Reading Festival
 DTSTART:20261031T170000Z
 DTEND:20261031T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:5be1424483017e86f8050339c741bf843b51b4fb@corning-events
 SEQUENCE:0
 CATEGORIES:Literature,Festivals,Family Fun,Games,Food
@@ -2278,7 +2318,7 @@ BEGIN:VEVENT
 SUMMARY:Haunting on the Hill at Hill Top Inn
 DTSTART:20261031T170000Z
 DTEND:20261101T030000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:948c2490e4e9ee5a06a986812df8e67edf9bcb77@corning-events
 SEQUENCE:0
 CATEGORIES:Food,Other
@@ -2298,7 +2338,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Party at Liquid Shoes Brewing\, Corning
 DTSTART:20261031T210000Z
 DTEND:20261101T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:5d4f5719b0d5188de60b145f761770e8e7d193af@corning-events
 SEQUENCE:0
 CATEGORIES:Beer
@@ -2314,10 +2354,36 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78486398/20261031170000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Halloween Trunk-or-Treat at Lafayette Park\, Watkins Glen
+DTSTART:20261031T210000Z
+DTEND:20261031T230000Z
+DTSTAMP:20261012T185927Z
+UID:de24d0eb37bf21acc10460fd20a8e1c0a6dd3764@corning-events
+SEQUENCE:0
+CATEGORIES:Family Fun,Community
+DESCRIPTION:Safe Streets\, Sweet Treats!\nThe Watkins Glen Police Departme
+ nt is thrilled to present our annual Trunk-or-Treat event! Bring the whole
+  family out for the ultimate community Halloween night.\nDate: Saturday\, 
+ October 31\, 2026\nTime: 5:00 PM – 7:00 PM\nLocation: Lafayette Park (Co
+ rner of Fifth & Decatur Street\, Watkins Glen)\nWe are proud to partner wi
+ th the Schuyler County Sheriff\, W.G. Fire Dept.\, and our fantastic area 
+ businesses to create a fun\, safe environment for your little ghosts and g
+ oblins!\nWant to participate or set up a trunk?\nWe are looking for commun
+ ity members and local businesses to join the fun! If you'd like to decorat
+ e a trunk and hand out candy\, please email Sergeant Jumper at Jumper159@w
+ atkinsglen.us with the subject line "Trunk or Treat".\nSee you there in yo
+ ur best costumes!\n#WatkinsGlen #TrunkOrTreat #CommunityPolicing #Hallowee
+ n2026 #SafeStreetsSweetTreats #FamilyFun\nEvent by Seneca Lake Events\n\nS
+ ource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78488788/2026
+ 1031170000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78488788/20261031170000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Trunk Or Treat in Avoca!
 DTSTART:20261031T213000Z
 DTEND:20261101T000000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:8b4ee544995635f0a6af6f3869a1b95a2d516bc4@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun
@@ -2332,10 +2398,76 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78480793/20261031173000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Halloween w/ Metasequoia at Lucky Hare Watkins Glen
+DTSTART:20261031T220000Z
+DTEND:20261101T035959Z
+DTSTAMP:20261012T185927Z
+UID:cdea5fec654af3d08fcb7f0d2425464a5f4633f8@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Join Metasequoia for Halloween night!\nA spooktacular two sets
+  of tunes!\nCome in costume!\nBest costume contest\, voted by YOU!\nMusic 
+ 6-9\nEvent by Metasequoia\n\nSource: FLXcalendar - https://calendar.time.l
+ y/o9b0uzpj/event/78488798/20261031180000
+GEO:42.384001;-76.87208
+LOCATION:Lucky Hare Brewing Bar and Grill\, Watkins Glen\, 2 Seneca Harbor
+  Drive\, Watkins Glen\, New York\, 14891\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78488798/20261031180000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rocky Horror Picture Show at Seneca Lodge
+DTSTART:20261031T230000Z
+DTEND:20261101T035959Z
+DTSTAMP:20261012T185927Z
+UID:1c4bcf179fef65bca6d91e4388556e259f1a2dbb@corning-events
+SEQUENCE:0
+CATEGORIES:Film
+DESCRIPTION:COMING HALLOWEEN NIGHT: We will be holding a special presentat
+ ion of The Rocky Horror Picture Show!\nJoin us on Halloween night for a sc
+ reening of The Rocky Horror Picture Show. Event will begin at 7:00 P.M. an
+ d screening of the film will begin at 7:30 P.M. Be prepared to dance the t
+ ime warp and enjoy the film! Feel free to come dressed up in your best Roc
+ ky Horror outfit\, or just decked out for the season.\nBar will be open th
+ roughout the evening.\nPopcorn and a prop bag will be included!\nTickets a
+ re $20 plus tax.\n21+ Event.\nTo get tickets\, either scan the QR Code on 
+ the poster\, call our front desk from 9AM-5PM at (607) 535-2014\, or click
+  this link: https://checkout.square.site/.../SNEWOXN7QEHTOWZJPNT7A32N\nSee
+  you Halloween night!\n*Please note: This is a private\, ticketed event. O
+ ur normal restaurant and bar operations will be closed for the day (10/31)
+ *\nEvent by Seneca Lodge\n3600 SR 419\, Watkins Glen\n\nSource: FLXcalenda
+ r - https://calendar.time.ly/o9b0uzpj/event/78488770/20261031190000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78488770/20261031190000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boos\, Booze & Beats Halloween Party at The Wooden Nickel\, Bath
+DTSTART:20261101T000000Z
+DTEND:20261101T035959Z
+DTSTAMP:20261012T185927Z
+UID:dc65d878ab22db1eb01e5af2bfe8073a62814a80@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Clear your calendar\, grab your crew and start planning your c
+ ostume- you do NOT want to miss this party!!!\nCome as you AREN'T.... to o
+ ur annual Wooden Nickel Halloween Party. There will be lots of KILLER musi
+ c with DJ Ritz\, some frightfully good drink specials and $100.00 UP FOR G
+ RABS in our judging contest!\nDo the Monster Mash on our dance floor!\nA $
+ 50.00 bar tab goes to the best couple or group\, a $50.00 bar tab goes to 
+ the best overall costume and the winners in each category will win a bottl
+ e of champagne.\nCome for the boos & stay for the booze!!!\nNo Cover Charg
+ e- 21 and over- Proper ID Required\nYour Halloween Plans Have Officially B
+ een Made!!!\nEvent by The Wooden Nickel\n18 LIBERTY ST\, Bath\n\nSource: F
+ LXcalendar - https://calendar.time.ly/o9b0uzpj/event/78488746/202610312000
+ 00
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78488746/20261031200000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Halloween Party w/ Next of Kin at Beef's
 DTSTART:20261101T010000Z
 DTEND:20261101T035959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:23316dcf73eefab61ea43615fb03b3f5b423d68b@corning-events
 SEQUENCE:0
 DESCRIPTION:Dress in your best or scariest costume! Live music by Next of 
@@ -2349,7 +2481,7 @@ BEGIN:VEVENT
 SUMMARY:Sit-N-Bull Halloween Bash w/ The Rascal Kings
 DTSTART:20261101T010000Z
 DTEND:20261101T035959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:3e83836b7dc965570fb538a492b9e6cae5bcab0f@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -2365,7 +2497,7 @@ SUMMARY:Halloween - Night of the Living Groove w/ Kira & The Kindness at B
  rick\, Corning
 DTSTART:20261101T010000Z
 DTEND:20261101T035959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:6740ec16e9138aacbb050c97740c979532e037b3@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Dancing
@@ -2401,7 +2533,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Party at Slammin Jammin BBQ
 DTSTART:20261101T010000Z
 DTEND:20261101T035959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:91aeed97f5eb6bff28511ececfc1e8487532e510@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Food
@@ -2423,7 +2555,7 @@ BEGIN:VEVENT
 SUMMARY:River Friends Pollinator Garden Project
 DTSTART:20261101T033000Z
 DTEND:20261101T035959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:569512e4803accc68d903e325c8edc22554a09f9@corning-events
 SEQUENCE:1
 CATEGORIES:Nature,Volunteering,Causes,Community
@@ -2443,7 +2575,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:November: Free Admission for Veterans and Active Military
 DTSTART:20261101T140000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:866cdc1b01909d99e2169604f9121de7a1ad37eb@corning-events
 SEQUENCE:2
 DESCRIPTION:All veterans and active military receive free admission throug
@@ -2456,7 +2588,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261101T153000Z
 DTEND:20261101T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:47b587b9a767cc0badfc03796358d1aa2d5625e0@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -2478,7 +2610,7 @@ BEGIN:VEVENT
 SUMMARY:Doc Possum: Reading & Rocking Tour!
 DTSTART:20261102T153000Z
 DTEND:20261102T163000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:ecc29165d306f95b9677065ad6a0b319f82bb823@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Music,Literature
@@ -2500,7 +2632,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:United States Army Field Band
 DTSTART:20261103T003000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:b859ca7a583f20a4f02c8ef3a29f1f8f3d681238@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -2521,7 +2653,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261103T220000Z
 DTEND:20261103T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:9ebd049b53e946e9e6ad7b56f2ce1be2097ececc@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -2537,7 +2669,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261103T230000Z
 DTEND:20261104T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:115244d85412ccf139d212f44e78c5f722bb54ec@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -2555,7 +2687,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Glass Holiday Feast
 DTSTART:20261105T050000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:a1e91c465ef576012e004f54f1b5ff978941b913@corning-events
 SEQUENCE:0
 DESCRIPTION:Glass Holiday Feast\n\nSource: Corning Area Chamber of Commerc
@@ -2568,7 +2700,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kwanzaa Setting
 DTSTART:20261105T050000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:b22f9ba09eadbed37d186d202309f8665523cb94@corning-events
 SEQUENCE:0
 DESCRIPTION:Glass Kwanzaa Setting\n\nSource: Corning Area Chamber of Comme
@@ -2581,7 +2713,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holiday Ornament Tree
 DTSTART:20261105T050000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:c547c964bec4998d4a5509d55b29f7c7f718b5ed@corning-events
 SEQUENCE:0
 DESCRIPTION:Glass Holiday Ornament Tree at Corning Museum of Glass\n\nSour
@@ -2594,7 +2726,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Advent Wreath
 DTSTART:20261105T050000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:f3fd6cec3f749d2f20865369c0d1113534233ff8@corning-events
 SEQUENCE:0
 DESCRIPTION:Glass Advent Wreath\n\nSource: Corning Area Chamber of Commerc
@@ -2605,7 +2737,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lil Rockwell | Project: Big and Little
 DTSTART:20261105T150000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:4c739c977b8766c67690bf9cf936c4dc753c4829@corning-events
 SEQUENCE:4
 DESCRIPTION:Free for children and their caregivers | No registration requi
@@ -2618,7 +2750,7 @@ BEGIN:VEVENT
 SUMMARY:The 2026 Annual Awards Breakfast
 DTSTART:20261106T130000Z
 DTEND:20261106T150000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:15d28fc3faae8b34f48e69eb32a3a01b3561104d@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -2631,7 +2763,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261106T190000Z
 DTEND:20261106T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:f047c9875fd654fbede197732ccd59de28be6a0b@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -2645,7 +2777,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261106T200000Z
 DTEND:20261106T220000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:bde5c3ae96f7851e62acd4245729fc17ea1b18cf@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -2662,7 +2794,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veterans Glassworking Experience
 DTSTART:20261107T050000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:656c27a88b882c7957e204a0a1a9b7eaff66d3de@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -2675,7 +2807,7 @@ BEGIN:VEVENT
 SUMMARY:PRC of the Valleys - "From Cradle to Quilt" Auction
 DTSTART:20261107T183000Z
 DTEND:20261107T203000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:31263d86a2d746c154f0e46b03b6e817389c14ec@corning-events
 SEQUENCE:0
 CATEGORIES:Causes,Connection,Food
@@ -2692,7 +2824,7 @@ BEGIN:VEVENT
 SUMMARY:Hands of Hope Gala
 DTSTART:20261107T230000Z
 DTEND:20261108T020000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:e4007659e9f24e3e5ff703b044bd1efb19e3f92e@corning-events
 SEQUENCE:2
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -2704,7 +2836,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Rockwell Museum’s 50th Anniversary Gala
 DTSTART:20261107T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:e97d633f302a7f330ae42467d7fc46b9393211b5@corning-events
 SEQUENCE:1
 CATEGORIES:Art,Community
@@ -2716,7 +2848,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Founder’s Week: Free Admission
 DTSTART:20261108T140000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:ef52d6ba5f2941110e92cd512d0279cbba7a4609@corning-events
 SEQUENCE:3
 DESCRIPTION:Enjoy free admission!\n\nSource: The Rockwell Museum - https:/
@@ -2728,7 +2860,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261108T153000Z
 DTEND:20261108T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:b1cffc8b03e54ff29b6c74a424df8e145b81ff56@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -2750,7 +2882,7 @@ BEGIN:VEVENT
 SUMMARY:Valley Folk presents Medusa (quartet)
 DTSTART:20261108T190000Z
 DTEND:20261109T045959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:9c4ea0065916fe6c5d717be0bef8149ec0e9f2aa@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -2770,7 +2902,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261110T220000Z
 DTEND:20261110T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:2b24ea68b2b61ea5b0b834ac1b0f5f08b38caa73@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -2786,7 +2918,7 @@ BEGIN:VEVENT
 SUMMARY:Understanding the Civil War: A Reading & Discussion Series
 DTSTART:20261110T230000Z
 DTEND:20261111T003000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:64b918b50b303db24c393fc0267bfad5fa5ef050@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -2817,7 +2949,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261110T230000Z
 DTEND:20261111T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:bb505fe4143b21420663c2c15174bbc5a16efa43@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -2836,7 +2968,7 @@ BEGIN:VEVENT
 SUMMARY:Out to Lunch: Antique Firearms
 DTSTART:20261111T170000Z
 DTEND:20261111T180000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:8e165d28aada8973b7262580ede47983ad64492b@corning-events
 SEQUENCE:0
 DESCRIPTION:CCHS Board member Mark Claypool will share information about h
@@ -2854,7 +2986,7 @@ BEGIN:VEVENT
 SUMMARY:💙 FLXGives 💙
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:061fc2a1b59afab263dcc331e68a66289615ce73@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Causes,Connection
@@ -2873,7 +3005,7 @@ SUMMARY:Corning-Painted Post Civic Music present Edgar Meyer\, Tessa Lark
  \, and Joshua Roman
 DTSTART:20261113T003000Z
 DTEND:20261113T045959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:ae23359955fc8a4a810846275a431ed635900078@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -2895,7 +3027,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261113T190000Z
 DTEND:20261113T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:1e672ba75d6b27ef5beba2d964b6e2a49203bd7b@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -2909,7 +3041,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261113T200000Z
 DTEND:20261113T220000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:7555a6eca07800f700568e7b947e40b2273901f8@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -2927,7 +3059,7 @@ BEGIN:VEVENT
 SUMMARY:Next Stop Comedy @ 360Aurora
 DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:6e445d966d1945623badbfcd323097bd42eb6991@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy,Performing Arts
@@ -2949,7 +3081,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story\, The Musical
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:885dd2e1f18cb6deb80cbab58ea1ff79a84905c0@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun
@@ -2970,7 +3102,7 @@ BEGIN:VEVENT
 SUMMARY:The Art of Toe-Up Sock Knitting With Sara Kalla (Session 2)
 DTSTART:20261114T150000Z
 DTEND:20261114T170000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:c00d909138cef1509888f15070c06f6a0aaed0d6@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -2984,7 +3116,7 @@ BEGIN:VEVENT
 SUMMARY:Empire Brick Minifig Swap
 DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:28be0978f569c15e0e590296f47095bd3582e16d@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun
@@ -2998,7 +3130,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Second Saturdays | Public Tour
 DTSTART:20261114T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:4009d2578fd1d0de8ef4ea23d258ff09a7f388b5@corning-events
 SEQUENCE:2
 DESCRIPTION:Open to the public | Included with regular Museum admission | 
@@ -3011,7 +3143,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261115T153000Z
 DTEND:20261115T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:9dbe447df902dc586f27834bcd376c1d720ca567@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -3033,7 +3165,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261117T220000Z
 DTEND:20261117T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:0dafd186ea5d2bf41288799764e2d5865892545f@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -3049,7 +3181,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261117T230000Z
 DTEND:20261118T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:92defa5bf23f117df2cc2a078a6324076d2a1677@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -3068,7 +3200,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261120T190000Z
 DTEND:20261120T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:d2908b8c95783b2ce3e7ae5228584515b475da16@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -3082,7 +3214,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261120T200000Z
 DTEND:20261120T220000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:31a77b8fad18916a0bbbf96aae26beaa228b74e2@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -3099,7 +3231,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Christmas on Broadway Drag Show
 DTSTART:20261121T003000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:c1f913b2b7a33571d669fc906beaa58cdefd8d3a@corning-events
 SEQUENCE:0
 DESCRIPTION:Christmas on BroadwayDrag Show\nin Mandeville Hall\nFridayNove
@@ -3119,7 +3251,7 @@ BEGIN:VEVENT
 SUMMARY:Full Moon Ride with Elmira Community Cycle
 DTSTART:20261121T020000Z
 DTEND:20261121T045959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:1b2b36c5a91686db22339e3f98502639ff83addc@corning-events
 SEQUENCE:0
 CATEGORIES:Bikes,Community,Connection
@@ -3136,7 +3268,7 @@ SUMMARY:Beginner Sewing Series - Foundational Classes to Master Your Machi
  ne (Fall 2026)
 DTSTART:20261121T140000Z
 DTEND:20261121T170000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:2edf748c2b8fd951000cc9d6e20c72e87a3d830d@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -3149,7 +3281,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Snowy Day and Other Stories: A Sensory-Friendly Performance
 DTSTART:20261121T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:2702e63edff72354ed2716ae2d7753416c36bd75@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun
@@ -3172,7 +3304,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Night Pride @ Watkins Glen Public Library
 DTSTART:20261121T220000Z
 DTEND:20261122T000000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:9075e3bec0200227ce2a002b637d2da9baf767f4@corning-events
 SEQUENCE:0
 CATEGORIES:Teen,LGBTQ+
@@ -3191,7 +3323,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261122T153000Z
 DTEND:20261122T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:998a320926d45dc08ed9be450a2f2288432c1ca3@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -3212,7 +3344,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20261124T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:36997203c6248636f1312eda18c418c3e8efc559@corning-events
 SEQUENCE:1
 CATEGORIES:Comedy
@@ -3233,7 +3365,7 @@ BEGIN:VEVENT
 SUMMARY:I’m Dead. Now What? End-of-Life Planning Q&A Session
 DTSTART:20261124T220000Z
 DTEND:20261124T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:1a552d84611f4444b18501d1a65d57de34451c36@corning-events
 SEQUENCE:0
 DESCRIPTION:I’m Dead. Now What?\nEnd-of-Life Planning Q&A Session\nTuesd
@@ -3255,7 +3387,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261124T220000Z
 DTEND:20261124T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:e86775cf020cdf3569e8e36aa7a39791c26c1950@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -3271,7 +3403,7 @@ BEGIN:VEVENT
 SUMMARY:Understanding the Civil War: A Reading & Discussion Series
 DTSTART:20261124T230000Z
 DTEND:20261125T003000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:2a8cd72abb4104c0dd9ac1e5861d5d43abc8a609@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -3302,7 +3434,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261124T230000Z
 DTEND:20261125T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:a6570669c7cfe7fa9220bf91383c15ce01eba579@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -3321,7 +3453,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261127T190000Z
 DTEND:20261127T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:350bb0ec74fab07ed3fea475673e11798991765d@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -3335,7 +3467,7 @@ BEGIN:VEVENT
 SUMMARY:Parade of Lights
 DTSTART:20261128T123000Z
 DTEND:20261128T133000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:45e09e9d2137bfa036e78afe5903b3bb5f37a81d@corning-events
 SEQUENCE:0
 DESCRIPTION:Join us Saturday\, November 28th at 7:30 PM for one of Corning
@@ -3351,7 +3483,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Market at the Federal Building
 DTSTART:20261128T160000Z
 DTEND:20261128T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:372620e7ac78a277ddb3e9a4cbfbe029dc8798f3@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Festivals
@@ -3375,7 +3507,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261129T153000Z
 DTEND:20261129T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:b83084dd2cd48af25c836395a9f4956678a182cb@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -3397,7 +3529,7 @@ BEGIN:VEVENT
 SUMMARY:Spiritual Recharge: Tea & Meditation
 DTSTART:20261129T200000Z
 DTEND:20261129T210000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:aedd5d9d6666a216a55a4a022350851dfb102d50@corning-events
 SEQUENCE:0
 CATEGORIES:Health,Connection
@@ -3424,7 +3556,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Three Kings: The Irish Dance Christmas Sensation
 DTSTART:20261201T003000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:87cec0980311311d534c509109e99321e3c97e73@corning-events
 SEQUENCE:1
 DESCRIPTION:We Three Kings: The Irish Dance Christmas Sensation\nMondayNov
@@ -3446,7 +3578,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261201T220000Z
 DTEND:20261201T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:ad20e99a32673ef59a5de29e8a123b78c68e6fb1@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -3462,7 +3594,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261201T230000Z
 DTEND:20261202T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:6d2b37b61d6456e2837e083e9958bf4a41f8cdf1@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -3480,7 +3612,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gingerbread Invitational Opening Reception
 DTSTART:20261202T223000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:b38160f61bd1d9f8ae5aa26f481d430d3f03b00c@corning-events
 SEQUENCE:2
 DESCRIPTION:Free and open to the public | Registration encouraged\n\nSourc
@@ -3491,7 +3623,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lil Rockwell | Story Hour: Gingerbread
 DTSTART:20261203T150000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:eed09e70192d4d9057bfbe371d088eaae92adaa3@corning-events
 SEQUENCE:2
 DESCRIPTION:Free for children and their caregivers | No registration requi
@@ -3504,7 +3636,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261204T190000Z
 DTEND:20261204T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:398860f90694a4d8ab2e1726e6980950bda2f2c7@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -3518,7 +3650,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261204T200000Z
 DTEND:20261204T220000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:6c588bcd8631560fc6a55b28091edd3a42c0b1ec@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -3535,7 +3667,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holiday Open House
 DTSTART:20261205T050000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:ab92400da163ca48e80eb0aaa41645fbb50fae19@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass Holiday Open House FREE Admission\n\nS
@@ -3548,7 +3680,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holiday Open House + Sparkle
 DTSTART:20261205T140000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:ed12e4c80183386cc93429cd906b50fbac45626f@corning-events
 SEQUENCE:4
 DESCRIPTION:Free and open to the public | No registration required\n\nSour
@@ -3560,7 +3692,7 @@ BEGIN:VEVENT
 SUMMARY:Doc Possum: Reading & Rocking Tour!
 DTSTART:20261205T153000Z
 DTEND:20261205T163000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:99400d5bb6109ed0c8945580e3080dc6ae78f8bf@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Music,Literature
@@ -3582,7 +3714,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sparkle Cookie Decorating
 DTSTART:20261205T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:c452ea413f62d7461f1249a380bbf19d9da2395f@corning-events
 SEQUENCE:0
 DESCRIPTION:Free and open to the public | No registration required\n\nSour
@@ -3594,7 +3726,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holiday Open House
 DTSTART:20261206T140000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:d9e65007d54f52cc473133b24fdb2c423d9bfd45@corning-events
 SEQUENCE:0
 DESCRIPTION:Free and open to the public | No registration required\n\nSour
@@ -3606,7 +3738,7 @@ BEGIN:VEVENT
 SUMMARY:Southern Tier Card Showcase
 DTSTART:20261206T150000Z
 DTEND:20261206T210000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:3e785dada0330f5d1b9e82d7f0e2fa89ef875499@corning-events
 SEQUENCE:0
 CATEGORIES:Games,Food,Family Fun
@@ -3629,7 +3761,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261206T153000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:83ce0149607b5bbdd4ba8322151abf856ba1fee1@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -3651,7 +3783,7 @@ BEGIN:VEVENT
 SUMMARY:The Magic School Bus: Lost in the Solar System
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:4167f72302b324faae5463498a329ae0d0cf8917@corning-events
 SEQUENCE:0
 DESCRIPTION:The Magic School Bus: Lost in the Solar System\nMondayDecember
@@ -3672,7 +3804,7 @@ BEGIN:VEVENT
 SUMMARY:Beetlejuice
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:a48cf5a4d6f9e24a3b4920e2943e026d9221209e@corning-events
 SEQUENCE:3
 DESCRIPTION:BEETLEJUICE\nTuesday – WednesdayDecember 8 – 9\, 20267:30p
@@ -3692,7 +3824,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261208T220000Z
 DTEND:20261208T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:3dcd0b02b99816aac319950037fe2379b12c3217@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -3708,7 +3840,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261208T230000Z
 DTEND:20261209T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:893a841d935d3b1fce5c6265f482c2191ece08cf@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -3727,7 +3859,7 @@ BEGIN:VEVENT
 SUMMARY:Understanding the Civil War: A Reading & Discussion Series
 DTSTART:20261208T230000Z
 DTEND:20261209T003000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:93f8756992331ef283b0cbaecd8f571c051b5d85@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -3758,7 +3890,7 @@ BEGIN:VEVENT
 SUMMARY:Out to Lunch: Gallery Talk
 DTSTART:20261209T170000Z
 DTEND:20261209T180000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:9a4718eeafd75a5d48689c282319837297307983@corning-events
 SEQUENCE:0
 DESCRIPTION:Join CCHS Education Director Susan Zehnder on a walk through t
@@ -3776,7 +3908,7 @@ BEGIN:VEVENT
 SUMMARY:Business After Hours at IncubatorWorks
 DTSTART:20261209T220000Z
 DTEND:20261210T000000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:00c1fd555f8f666c587f1ae20a81a6f6f3ab0cbb@corning-events
 SEQUENCE:0
 DESCRIPTION:Business After Hours on December 9th at IncubatorWorks. Networ
@@ -3792,7 +3924,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261211T190000Z
 DTEND:20261211T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:62d2a968f7203e8ae6549f18f02f0d05a2fb676c@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -3806,7 +3938,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261211T200000Z
 DTEND:20261211T220000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:f536f18edcc79497cf3ceaad7a3d462e4d8636b6@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -3824,7 +3956,7 @@ BEGIN:VEVENT
 SUMMARY:360 Karaoke + Open Mic Night
 DTSTART:20261212T010000Z
 DTEND:20261212T045900Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:4d22b86c4af893dd71a4b1e3cc747c41bac8a0e2@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -3846,7 +3978,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Second Saturdays | Public Tour
 DTSTART:20261212T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:2b41d6560f8e11d9f632c2813dd147c81c2ad9c6@corning-events
 SEQUENCE:0
 DESCRIPTION:Open to the public | Included with regular Museum admission | 
@@ -3859,7 +3991,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261213T153000Z
 DTEND:20261213T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:a228a0d791ee4e8c1244ae585cacf4ea2aa2074b@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -3881,7 +4013,7 @@ BEGIN:VEVENT
 SUMMARY:Corning-Painted Post Civic Music presents Canadian Brass
 DTSTART:20261213T200000Z
 DTEND:20261214T045959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:9c60730cad550aafcd822ada7e01e4a7961aac5f@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -3902,7 +4034,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261215T220000Z
 DTEND:20261215T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:43c070d198b0e02085e1155814858d0b57284a0c@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -3918,7 +4050,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261215T230000Z
 DTEND:20261216T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:39bf667f6973824b90c3eeb3c358e06189e0ec92@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -3937,7 +4069,7 @@ BEGIN:VEVENT
 SUMMARY:I Want a Hippopotamus for Christmas
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:a65c4b54033d8405c107da550ba83dd22a10af7f@corning-events
 SEQUENCE:0
 DESCRIPTION:I Want a Hippopotamus for Christmas\nWednesdayDecember 16\, 20
@@ -3957,7 +4089,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261218T190000Z
 DTEND:20261218T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:e8b2dc31a6833932d8134fbd5d8d2f6ab10e9994@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -3971,7 +4103,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261218T200000Z
 DTEND:20261218T220000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:dc74bce113bf450a61f70d4fab73005ee9d1c8b9@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -3989,7 +4121,7 @@ BEGIN:VEVENT
 SUMMARY:Full Moon Ride with Elmira Community Cycle
 DTSTART:20261219T020000Z
 DTEND:20261219T045959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:3abad03611b2cc2d67818aa291e838395dae91b7@corning-events
 SEQUENCE:0
 CATEGORIES:Bikes,Community,Connection
@@ -4005,7 +4137,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261220T153000Z
 DTEND:20261220T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:821bd6e9f2ca6d5cf428583d17a1085a9a18fc62@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -4027,7 +4159,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261222T220000Z
 DTEND:20261222T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:63eee7f06a171d1527870f11dd47d10c7e0b13e8@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -4043,7 +4175,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261222T230000Z
 DTEND:20261223T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:aacb360f3c00d2660365545daa2f427172acbdbc@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -4062,7 +4194,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261225T190000Z
 DTEND:20261225T200000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:83325af9f3a43fa6cdbae3321a69cce216c4bd87@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -4076,7 +4208,7 @@ BEGIN:VEVENT
 SUMMARY:Spiritual Recharge: Tea & Meditation
 DTSTART:20261227T200000Z
 DTEND:20261227T210000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:58b0ebe368d6daf8c93ed1875fcad9c123f9bb6e@corning-events
 SEQUENCE:0
 CATEGORIES:Health,Connection
@@ -4104,7 +4236,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261229T220000Z
 DTEND:20261229T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:55fa0b792ea163f62d5a4223fca2f4ade2a0db0b@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -4120,7 +4252,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261229T230000Z
 DTEND:20261230T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:f1479802cfe483c6b0c7260040ede0549a9da6b5@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -4139,7 +4271,7 @@ BEGIN:VEVENT
 SUMMARY:Next Stop Comedy @ 360Aurora
 DTSTART:20270101T000000Z
 DTEND:20270101T030000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:791a7936deea45a22785e72198fa0fd1d71a50ea@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy,Performing Arts
@@ -4160,7 +4292,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Glass Snow Family
 DTSTART:20270107T050000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:9c5c093cfb52a5b64b882d88b66ebc2082655429@corning-events
 SEQUENCE:0
 DESCRIPTION:Glass Snow Family\n\nSource: Corning Area Chamber of Commerce 
@@ -4174,7 +4306,7 @@ BEGIN:VEVENT
 SUMMARY:I’m Dead. Now What? End-of-Life Planning Q&A Session
 DTSTART:20270120T220000Z
 DTEND:20270120T230000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:92b5ecf559c9c1cc81ff72ec5dacf2eaf4c5b2e1@corning-events
 SEQUENCE:0
 DESCRIPTION:I’m Dead. Now What?\nEnd-of-Life Planning Q&A Session\nWedne
@@ -4195,7 +4327,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20270202T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:c77b1809b938c49952ef8168649f2d5522cc8d44@corning-events
 SEQUENCE:1
 CATEGORIES:Comedy
@@ -4216,7 +4348,7 @@ BEGIN:VEVENT
 SUMMARY:Heroes of the Underground Railroad
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:8da6df3828a7d0b497f430a4518db64b99895f62@corning-events
 SEQUENCE:0
 DESCRIPTION:Heroes of the Underground Railroad\nFridayFebruary 5\, 202710:
@@ -4235,7 +4367,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Simon and Garfunkel Tribute: On Bleecker Street
 DTSTART:20270207T003000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:987466f98a762b61310afa67427de9a7b5a52161@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4256,7 +4388,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Simon and Garfunkel Tribute: On Bleecker Street
 DTSTART:20270210T003000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:fccbda21ccda04757494b0bc2d3394c2f165e872@corning-events
 SEQUENCE:15
 CATEGORIES:Music
@@ -4278,7 +4410,7 @@ BEGIN:VEVENT
 SUMMARY:Corning-Painted Post Civic Music presents The King's Singers
 DTSTART:20270212T003000Z
 DTEND:20270212T045959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:b75490ffb9c4e867543a6e605d608c6a8371b055@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4298,7 +4430,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20270302T010000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:7cfee6f81407afb13d1ba550496ce63e56fe66ee@corning-events
 SEQUENCE:1
 CATEGORIES:Comedy
@@ -4319,7 +4451,7 @@ BEGIN:VEVENT
 SUMMARY:I’m Dead. Now What? End-of-Life Planning Q&A Session
 DTSTART:20270310T180000Z
 DTEND:20270310T190000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:b63074bf49f9f515592fd46e4ae6288f16dd6cb6@corning-events
 SEQUENCE:0
 DESCRIPTION:I’m Dead. Now What?\nEnd-of-Life Planning Q&A Session\nWedne
@@ -4341,7 +4473,7 @@ BEGIN:VEVENT
 SUMMARY:Hadestown
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:6a41c3ec248481c245b62a325e78dd8aea9617cb@corning-events
 SEQUENCE:1
 DESCRIPTION:HADESTOWN\nThursday – FridayMarch 11 – 12\, 20277:30pm\nAg
@@ -4361,7 +4493,7 @@ BEGIN:VEVENT
 SUMMARY:Ocean Blue
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:875e9722ffaceb7ede418014df7633a9ee161c80@corning-events
 SEQUENCE:0
 DESCRIPTION:Ocean Blue\nFridayMarch 19\, 202710:00am and 12:30pm\nRuntime:
@@ -4381,7 +4513,7 @@ BEGIN:VEVENT
 SUMMARY:Corning-Painted Post Civic Music presents Bria Skonberg
 DTSTART:20270320T233000Z
 DTEND:20270321T035959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:4ad6c4b4662e0742fa7dbbe69bb3886e53c3d564@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4399,7 +4531,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20270406T000000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:28d1b2236391b84c910fbddec43ed348279e9d4f@corning-events
 SEQUENCE:1
 CATEGORIES:Comedy
@@ -4421,7 +4553,7 @@ SUMMARY:Jazz at Lincoln Center presents World On A String - Swinging Songs
   of Broadway | Corning Painted Post Civic Music
 DTSTART:20270411T190000Z
 DTEND:20270412T035959Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:2f4c9f9ca010dc61047e9fe4de8cb4eac8144b4c@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4443,7 +4575,7 @@ BEGIN:VEVENT
 SUMMARY:Jersey Boys
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270415
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:86ed845d6e5fb37d0d0776c91804159b9c8a523d@corning-events
 SEQUENCE:2
 DESCRIPTION:JERSEY BOYS\nTuesday – ThursdayApril 13 – 15\, 20277:30pm
@@ -4462,7 +4594,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aliens Alive!
 DTSTART:20270417T180000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:f72efde0ca0ed7cc1bba72861f9f6b55bbbe7b55@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun
@@ -4483,7 +4615,7 @@ BEGIN:VEVENT
 SUMMARY:Doktor Kaboom: Under Pressure!
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:b9db6e77eea2e24aa5a6ee1c4859665caeacc20b@corning-events
 SEQUENCE:0
 DESCRIPTION:Doktor Kaboom: Under Pressure!\nMondayApril 19\, 202710:00am a
@@ -4503,7 +4635,7 @@ BEGIN:VEVENT
 SUMMARY:Clifford The Big Red Dog: The Musical
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:f7b1ebed09690b2419f8b5af3f6397216a5e5730@corning-events
 SEQUENCE:0
 DESCRIPTION:Clifford The Big Red Dog: The Musical\nFridayApril 30\, 202710
@@ -4523,7 +4655,7 @@ BEGIN:VEVENT
 SUMMARY:I’m Dead. Now What? End-of-Life Planning Q&A Session
 DTSTART:20270505T170000Z
 DTEND:20270505T180000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:575846fa5af1374a7a17411e03b4e5dcdd0e51e0@corning-events
 SEQUENCE:12
 DESCRIPTION:I’m Dead. Now What?\nEnd-of-Life Planning Q&A Session\nWedne
@@ -4544,7 +4676,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maggie's Wake
 DTSTART:20270514T233000Z
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:7a8499ef5d7c3d25818392c71217631f8afcaa97@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4565,20 +4697,20 @@ BEGIN:VEVENT
 SUMMARY:The Wiz
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270624
-DTSTAMP:20261011T153722Z
+DTSTAMP:20261012T185927Z
 UID:79e4a8b648a8eb87ee00574e367e2b51aedcce66@corning-events
-SEQUENCE:15
+SEQUENCE:16
 DESCRIPTION:THE WIZ\nTuesday – WednesdayJune 22 – 23\, 20277:30pm\nAge
   Recommendation: Ages 8+\nAdvisory: This production uses haze\, smoke and 
  flashing lights.\nRunning Time: 2 hrs and 20 mins\, including intermission
- .\nShare:\nPricing\nProcessing and facility maintenance fees apply.\nBroad
- way Series Subscription:\n$349 – $553\nBUY NOW\nLearn More about our Ser
- ies Subscription >\nView Seating Chart (PDF)\nQuestions?\nContact our Box 
- Office:\nMonday-Friday\n11:30 am – 5:30 pm\n607-734-8191 or\n800-724-015
- 9\nboxoffice@clemenscenter.org\nVisitor Information>\nLearn more about our
- online ticket process >\nEverybody look around! The ...\n\nSource: Clemens
-  Center - https://clemenscenter.org/event/the-wiz/
-STATUS:CANCELLED
+ .\nShare:\nPricing\nProcessing and facility maintenance fees apply.\n5-Sho
+ w Broadway Series Subscription:$296 – $466\nBUY NOW\nLearn More about ou
+ r Series Subscription >\nView Seating Chart (PDF)\nQuestions?\nContact our
+  Box Office:\nMonday-Friday\n11:30 am – 5:30 pm\n607-734-8191 or\n800-72
+ 4-0159\nboxoffice@clemenscenter.org\nVisitor Information>\nLearn more abou
+ t ouronline ticket process >\nEverybody look ...\n\nSource: Clemens Center
+  - https://clemenscenter.org/event/the-wiz/
+STATUS:CONFIRMED
 URL:https://clemenscenter.org/event/the-wiz/
 END:VEVENT
 END:VCALENDAR
