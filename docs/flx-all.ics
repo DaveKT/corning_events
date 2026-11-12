@@ -10,141 +10,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Group Run with Southern Tier Running Club
-DTSTART:20261110T220000Z
-DTEND:20261110T230000Z
-DTSTAMP:20261111T170424Z
-UID:2b24ea68b2b61ea5b0b834ac1b0f5f08b38caa73@corning-events
-SEQUENCE:0
-CATEGORIES:Running,Community,New to the Area
-DESCRIPTION:The Southern Tier Running Club is hosting a weekly Tuesday eve
- ning group run. Come out for an evening 3 mile run that will start and end
-  at Confluence Running on Market Street in Corning. All paces are welcome!
- \nEvent by Southern Tier Running Club\n\nSource: FLXcalendar - https://cal
- endar.time.ly/o9b0uzpj/event/78432943/20260811180000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78432943/20260811180000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Understanding the Civil War: A Reading & Discussion Series
-DTSTART:20261110T230000Z
-DTEND:20261111T003000Z
-DTSTAMP:20261111T170424Z
-UID:64b918b50b303db24c393fc0267bfad5fa5ef050@corning-events
-SEQUENCE:0
-CATEGORIES:History & Heritage,Education
-DESCRIPTION:Event by Watkins Glen Public Library\n214 N Franklin St\, Watk
- ins Glen\, NY 14891-1224\, United States\nDuration: 1 hr 30 min\nPublic\nD
- r. Gary Emerson is back with a new Reading & Discussion Series! This is a 
- graduate-level discussion comprised of eight ( total sessions. All books a
- re provided by the Watkins Glen Public Library for the duration of the pro
- gram.\nParticipants are asked to attend as many sessions as possible.\nReg
- istration is required due to limited space and copies of materials. To reg
- ister\, call (607) 535-2346\, or visit us in person.\nAll programs run fro
- m 6:00pm-7:30pm and will be hosted in the Watkins Glen Area Chamber of Com
- merce Conference Room (214 N Franklin Street\, Watkins Glen\, NY). Space i
- s limited.\nAUGUST 4 - With Malice Toward None\nAUGUST 25 - Battle Cry of 
- Freedom\nSEPTEMBER 8 - Battle Cry of Freedom\nSEPTEMEBER 29 - This Republi
- c is Suffering\nOCTOBER 20 - Daughters of the Union\nNOVEMBER 10 - Embattl
- ed Freedom\nNOVEMBER 24 - Marching Home\nDECEMBER 8 - Reconstruction: A Co
- ncise History\nThis project is made possible in part by funds from the Sta
- tewide Community Regrant Program\, a regrant program of the New York State
-  Council on the Arts with support from the Office of the Governor and the 
- New York State Legislature\, and administered by the Arts Council of the S
- outhern Finger Lakes.\n\nSource: FLXcalendar - https://calendar.time.ly/o9
- b0uzpj/event/78440615/20260825180000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78440615/20260825180000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rock-Pop Music Trivia/Bingo!
-DTSTART:20261110T230000Z
-DTEND:20261111T010000Z
-DTSTAMP:20261111T170424Z
-UID:bb505fe4143b21420663c2c15174bbc5a16efa43@corning-events
-SEQUENCE:0
-CATEGORIES:Competitions,Music
-DESCRIPTION:Event by Doc’s Musical Mystery Tour\nRadisson Hotel Corning
- \nDuration: 2 hr\nPublic\nLive music\, fun prizes\, great food/drink speci
- als mixed throughout a night of music/pop culture related gameplay includi
- ng trivia\, bingo\, family feud\, newlywed game and more\n\nSource: FLXcal
- endar - https://calendar.time.ly/o9b0uzpj/event/78393438/20260630180000
-GEO:42.142301;-77.049475
-LOCATION:Radisson Hotel Corning\, 125 Denison Parkway East\, Corning\, New
-  York\, 14830\, United States
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78393438/20260630180000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poets in Play featuring Scott Williams - The ARTS Council of the S
- outhern Finger Lakes
-DTSTART:20261111T000000Z
-DTEND:20261111T020000Z
-DTSTAMP:20261111T170424Z
-UID:0c47b29d801563d5b77bf10ba52610d9fdcd92b6@corning-events
-SEQUENCE:0
-CATEGORIES:Literature,Connection,Virtual,BIPOC
-DESCRIPTION:The ARTS Council of the Southern Finger Lakes (The ARTS Counci
- l) invites you to Poets in Play featuring Scott Williams on Tuesday\, Nove
- mber 10\, from 7-9pm.\nJoin us at The ARTS Council\, 79 West Market St.\, 
- in Corning\, NY\, or on Zoom for Scott's reading. An open mic opportunity 
- for in-person poets will immediately follow the featured reading. Poets\, 
- read a poem based on Scott's prompt or something of your own selection.\nP
- rompt: "The place had those white stone stairs that housewives washed as f
- requent as underwear."\nZoom Info: https://us02web.zoom.us/j/86496002708\n
- This event is free and open to the public.\nAbout Scott:\nScott was born o
- n Staten Island\, NY and raised in Baltimore\, MD. He has a PhD in mathema
- tics from Lehigh University. Scott was also awarded the status of Professo
- r Emeritus at the University at Buffalo. He has over 60 poems published in
-  magazines and newspapers as well as 7 published books. Scott runs his own
-  monthly poetry series in Geneva\, NY.\nQuestions?\nEmail Director of Publ
- ic Programs\, Casey Winston\, at casey@eARTS.org.\nPoets in Play is presen
- ted in partnership with FootHills Publishing.\nFunding for this event is g
- enerously provided by The Newbury Giving Fund.\n__\nPhoto provided by Scot
- t Williiams.\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/ev
- ent/78507591/20261110190000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78507591/20261110190000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poets In Play - at The ARTS Council
-DTSTART:20261111T000000Z
-DTEND:20261111T020000Z
-DTSTAMP:20261111T170424Z
-UID:fc482d9f69cad77fecbc9b91fdd04a6b454bbf89@corning-events
-SEQUENCE:0
-DESCRIPTION:Poets In Play at The ARTS Council\nFeaturing Scott Williams\nT
- uesday\, November 10\, 7-9pm\nThe ARTS Council of the Southern Finger Lake
- s (The ARTS Council) invites\n\nSource: Corning Area Chamber of Commerce -
-  https://www.corningny.com/events/details/poets-in-play-at-the-arts-counci
- l-20103
-STATUS:CONFIRMED
-URL:https://www.corningny.com/events/details/poets-in-play-at-the-arts-cou
- ncil-20103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Out to Lunch: Antique Firearms
-DTSTART:20261111T170000Z
-DTEND:20261111T180000Z
-DTSTAMP:20261111T170424Z
-UID:8e165d28aada8973b7262580ede47983ad64492b@corning-events
-SEQUENCE:0
-DESCRIPTION:CCHS Board member Mark Claypool will share information about h
- andling antique weapons along with general firearm safety using artifacts 
- from our collection.\nBring your own lunch and drop by to hear a short tal
- k on local history. Light refreshments provided. These programs are free a
- nd open to the public. Call 607-734-4167 for more information.\n\nSource: 
- Chemung County Historical Society - https://chemungvalleymuseum.org/event/
- out-to-lunch-antique-firearms/
-LOCATION:Chemung Valley Museum\, 415 E. Water Street\, Elmira\, NY\, 14901
-STATUS:CONFIRMED
-URL:https://chemungvalleymuseum.org/event/out-to-lunch-antique-firearms/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261111T220000Z
 DTEND:20261112T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:9c34f0236e2a4578fcafa093be2a83fe1627e80c@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -158,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20261111T223000Z
 DTEND:20261112T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:89c6561937e3fb61f72134861ef030e3eec30e1d@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -176,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons and Dragons One Shot!
 DTSTART:20261111T230000Z
 DTEND:20261112T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:edfe3712b081cb316151579e745b75e78f1303f7@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -193,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:💙 FLXGives 💙
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:061fc2a1b59afab263dcc331e68a66289615ce73@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Causes,Connection
@@ -212,7 +81,7 @@ SUMMARY:Legacy in Sound: Featuring the Next Generation of Music Educators
  and Performers
 DTSTART:20261112T000000Z
 DTEND:20261112T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:3150ba01c748c7b8847a8ee6cf75e943c1e54150@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -246,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261112T150000Z
 DTEND:20261112T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:0fa6f969f270b9ba048d93931074057dbd59a43a@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -265,11 +134,28 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78509534/20261105100000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Bard Brothers LIVE @ Weis Vineyards
+DTSTART:20261112T180000Z
+DTEND:20261112T210000Z
+DTSTAMP:20261112T173258Z
+UID:f64b0d123dd3346eb361c7ed328cc6f1bec0a758@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Event by The Bard Brothers\nWeis Vineyards\nDuration: 3 hr\nPu
+ blic\nThe Bard Brothers can't wait to play at Weis Vineyards! We'll be dow
+ nstairs\, playing our blend of original music and eclectic covers\, along 
+ with delicious foods and the tastiest wines in NYS! Come join us for a gre
+ at November afternoon!\n\nSource: FLXcalendar - https://calendar.time.ly/o
+ 9b0uzpj/event/78514544/20261112130000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514544/20261112130000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Food\, Hospitality & the Stories We Tell: An Evening with Molly an
  d Meherwan Irani
 DTSTART:20261112T210000Z
 DTEND:20261113T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:7c0261ab025949ccafb0a17912c7d42bc0e02b42@corning-events
 SEQUENCE:0
 CATEGORIES:Literature,Food,Community,History & Heritage
@@ -290,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Business After Hours\, Community Foundation FLX Opening Party
 DTSTART:20261112T220000Z
 DTEND:20261113T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:60feb185b667779f043188f5eb8af8d01014a072@corning-events
 SEQUENCE:0
 DESCRIPTION:Join the Community Foundation of Elmira-Corning and the Finger
@@ -307,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:FLX Gives Opening Party
 DTSTART:20261112T220000Z
 DTEND:20261113T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:b3e95a36a0807c4ca1ebd81de4c9e3beb6ca42ff@corning-events
 SEQUENCE:0
 CATEGORIES:Causes,Community,Connection
@@ -324,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:AUDITIONS: Pride and Prejudice (ELT)
 DTSTART:20261112T220000Z
 DTEND:20261113T013000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:ea94d1622db6005981e8a167ed118bc32100724e@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Literature
@@ -347,10 +233,95 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78508330/20261112170000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dave Davies LIVE @ South Hill Cider
+DTSTART:20261112T223000Z
+DTEND:20261113T045959Z
+DTSTAMP:20261112T173258Z
+UID:e00746ed7f5098b2072d4d1fc934f43933609f46@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Event by South Hill Cider\, Dave Davies and Sean Bloom\n550 Sa
+ ndbank Road\, Ithaca\, NY\, United States\, New York 14850\nPublic\nJoin u
+ s for an evening of live music with Ithaca-based musician Dave Davies!\nA 
+ talented multi-instrumentalist\, singer\, and songwriter\, Dave brings ove
+ r 30 years of experience performing across the U.S.\, Central America\, an
+ d Europe. Known for his versatility on guitar\, trombone\, bass\, and more
+ \, Dave blends a variety of musical styles\, including jazz\, swing\, and 
+ folk.\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/785
+ 14732/20261112173000
+LOCATION:South Hill Cider\, 550 Sandbank Road\, Ithaca\, NY 14850\, Ithaca
+ \, 14850\, US
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514732/20261112173000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artist-in-Residence Lecture | Dennis RedMoon Darkeem
+DTSTART:20261112T230000Z
+DTEND:20261113T000000Z
+DTSTAMP:20261112T173258Z
+UID:41c07a8292f2a1b934beb8edeb4813f5644e9e93@corning-events
+SEQUENCE:0
+CATEGORIES:Art
+DESCRIPTION:Artist-in-Residence Lecture | Dennis RedMoon Darkeem\nNovember
+  12\, 2026 6:00 pm⁠–⁠7:00 pm\nStudio Theater\nJoin us in The Studio 
+ Theater for Dennis RedMoon Darkeem's Artist-in-Residence lecture. Darkeem 
+ is a Bronx-based interdisciplinary artist and educator whose work explores
+  cultural identity\, environmental transformation\, and community engageme
+ nt through mixed media\, sculpture\, photography\, and installation. His p
+ ractice often draws on Afro-Indigenous diasporic traditions to create work
+  rooted in storytelling\, sustainability\, and social awareness.\nDuring t
+ his residency\, Darkeem will focus on creating innovative solutions using 
+ waste and unused glass materials. His goal is to engage youth through work
+ shops that transform recycled glass\, photography\, and lighting into expe
+ rimental\, dimensional artworks.\nReservations for this event are not requ
+ ired. This lecture is free and open to the public.\nArtist presentations r
+ eflect the individual artist's perspective\, practice\, and personal views
+ \, and do not represent an official position of the Corning Museum of Glas
+ s.\nPresentations may occasionally touch on personal\, sensitive\, or diff
+ icult subject matter.\n\nSource: FLXcalendar - https://calendar.time.ly/o9
+ b0uzpj/event/78514536/20261112180000
+GEO:42.1498;77.0542
+LOCATION:Corning Museum of Glass\, One Museum Way\, Corning\, NY\, 14830
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514536/20261112180000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artist-in-Residence Lecture | Hoseok Youn
+DTSTART:20261112T230000Z
+DTEND:20261113T000000Z
+DTSTAMP:20261112T173258Z
+UID:4b638073d420bde63a88892093b69988dad64b2a@corning-events
+SEQUENCE:0
+CATEGORIES:Art
+DESCRIPTION:Artist-in-Residence Lecture | Hoseok Youn\nNovember 12\, 2026 
+ 6:00 pm⁠–⁠7:00 pm\nStudio Theater\nJoin us in The Studio Theater for
+  Hoseok Youn's Artist-in-Residence lecture. Youn is a South Korean glassbl
+ ower specializing in the demanding tradition of Venetian-style glassworkin
+ g\, known for its thin-walled vessels\, precise bit work\, and assemblies 
+ requiring exact timing. Drawing inspiration from pop culture\, science fic
+ tion\, fantasy\, and the games and toys of his childhood\, Youn fuses thes
+ e influences into distinctive glass figures constructed from cups\, vessel
+ s\, and stemware\, employing a wide decorative vocabulary.\nDuring his 202
+ 6 residency at The Studio\, Youn plans to expand his current series by dev
+ eloping reliable methods to encode special patterns and images into the gl
+ ass body using two complementary techniques: terra cotta mold blowing and 
+ wheel engraving.\nReservations for this event are not required. This lectu
+ re is free and open to the public.\nArtist presentations reflect the indiv
+ idual artist's perspective\, practice\, and personal views\, and do not re
+ present an official position of the Corning Museum of Glass.\nPresentation
+ s may occasionally touch on personal\, sensitive\, or difficult subject ma
+ tter.\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/785
+ 14538/20261112180000
+GEO:42.1498;77.0542
+LOCATION:Corning Museum of Glass\, One Museum Way\, Corning\, NY\, 14830
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514538/20261112180000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FLX Gives Trivia at Carey's Brew House
 DTSTART:20261113T000000Z
 DTEND:20261113T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:15b1f48df326944fae82c09bc3bbeff0bcb1fbc3@corning-events
 SEQUENCE:0
 CATEGORIES:Causes,Community,Connection,Games
@@ -376,11 +347,29 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78503502/20261112190000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Twelve Angry Jurors
+DTSTART:20261113T000000Z
+DTEND:20261113T045959Z
+DTSTAMP:20261112T173258Z
+UID:eaebe771e81d4c2e395ad1f0028b0f73dbe38f44@corning-events
+SEQUENCE:0
+CATEGORIES:Performing Arts
+DESCRIPTION:The Odessa Montour School District’s production of “Twelve
+  Angry Jurors” opens today 11/12 at 7:00pm in the Fetter-Brown Auditoriu
+ m! The closing performance is Sunday 11/15 at 2:00pm. Please come support 
+ their show as the cast tells a story of judicial responsibility and integr
+ ity. Tickets are $10 for adults and $5 for students/seniors.\n\nSource: FL
+ Xcalendar - https://calendar.time.ly/o9b0uzpj/event/78514676/2026111219000
+ 0
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514676/20261112190000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Corning-Painted Post Civic Music present Edgar Meyer\, Tessa Lark
  \, and Joshua Roman
 DTSTART:20261113T003000Z
 DTEND:20261113T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:ae23359955fc8a4a810846275a431ed635900078@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -402,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261113T190000Z
 DTEND:20261113T200000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:1e672ba75d6b27ef5beba2d964b6e2a49203bd7b@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -416,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261113T200000Z
 DTEND:20261113T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:7555a6eca07800f700568e7b947e40b2273901f8@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -434,7 +423,7 @@ BEGIN:VEVENT
 SUMMARY:FLX Gives Closing Party
 DTSTART:20261113T220000Z
 DTEND:20261114T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:24dd7fd9022077cd92d800878bdbc38d5726430f@corning-events
 SEQUENCE:0
 CATEGORIES:Causes,Community,Connection
@@ -448,10 +437,48 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78503495/20261113170000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rena Guinn and Joe Lule LIVE @ Two Goats Brewing
+DTSTART:20261113T220000Z
+DTEND:20261114T000000Z
+DTSTAMP:20261112T173258Z
+UID:993e4aaead99edfd5424a9eae533c5ca8d5bd646@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Performing Arts,Beer
+DESCRIPTION:Rena Guinn and Joe Lule\nFriday\, November 13\, 2026\n5:00 PM 
+ 7:00 PM\nOld time\, folk\, originals and local awesomeness.\n\nSource: FLX
+ calendar - https://calendar.time.ly/o9b0uzpj/event/78514699/20261113170000
+LOCATION:Two Goats Brewing\, 5027 State Route 414\, Hector\, NY
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514699/20261113170000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MADD DADDY at the South Hill Cider Community Concert Series
+DTSTART:20261113T223000Z
+DTEND:20261114T045959Z
+DTSTAMP:20261112T173258Z
+UID:58cece30c22f1762fb10a1bcb06b97c9acf83376@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Event by South Hill Cider\, Maddy Walsh and 3 others\n550 Sand
+ bank Road\, Ithaca\, NY\, United States\, New York 14850\nPublic · Anyone
+  on or off Facebook\nMadd Daddy is the father-daughter duo of Ted Walsh an
+ d Maddy Walsh (lead singer and songwriter of Maddy Walsh & The Blind Spots
+ )\, featuring original material and unusual covers\, blood harmonies\, and
+  finger-picked acoustic guitar. The Madd Daddy album\, That Good Life (201
+ 8)\, includes original co-writes (along with one cover song\, the haunting
+  folk-blues tune “Well\, Well\, Well” co-written by Danny O’Keefe an
+ d Bob Dylan)\, and the two have a new record in the works.\n\nSource: FLXc
+ alendar - https://calendar.time.ly/o9b0uzpj/event/78514734/20261113173000
+LOCATION:South Hill Cider\, 550 Sandbank Road\, Ithaca\, NY 14850\, Ithaca
+ \, 14850\, US
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514734/20261113173000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:You're a Good Man\, Charlie Brown @ Avoca Central School
 DTSTART:20261113T230000Z
 DTEND:20261114T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:78d90309b29394044cc763c6b10ad4dd21ad2034@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music,Family Fun
@@ -463,10 +490,48 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78504924/20261113180000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Happy Krampus: A wintertime Misadventure
+DTSTART:20261113T230000Z
+DTEND:20261114T000000Z
+DTSTAMP:20261112T173258Z
+UID:e2b380b7667bf966e682f3633fea2b2585afbe79@corning-events
+SEQUENCE:0
+CATEGORIES:Performing Arts,Holidays
+DESCRIPTION:Happy Krampus: A Wintertime Misadventure\nFri Nov 13th 6:00pm 
+ - 7:00pm\nRose Hill Mansion\, 3373 New York 96A\, Geneva\, NY 14456\, USA
+ \nHappy Krampus: A Wintertime Misadventure is a 60-minute immersive holida
+ y theatrical experience presented by Historic Geneva and Breadcrumbs Produ
+ ctions at Rose Hill Mansion. This holiday-themed production transforms the
+  historic mansion in Geneva\, New York\, into the setting for a unexpected
+  retelling of the famous European folklore figure in a playful\, mischievo
+ us story. What is a Krampus?! According to legend\, this specific monster 
+ would accompany St. Nicholas on his wintry walks and kidnap any naughty ch
+ ildren\; the whispered horrors of what befell those Naughty Children kept 
+ the other children in line. They must be good else they disappear\, on a c
+ old dark night… like the Naughty Children did…\nThis theatrical re-tel
+ ling suggests that there is more to explore in Krampus’ story. Perhaps t
+ his Krampus is unlike the others. Perhaps nothing is what we thought.\nThr
+ ough live performance\, dance-theater\, high-clown comedy\, and choose-you
+ r-own-adventure storytelling\, audiences will explore Rose Hill Mansion as
+  the world of the play unfolds around them\, making choices and encounteri
+ ng characters throughout the space. Happy Krampus is designed for adults a
+ nd adventurous families with children 12+. Guests under 16 must be accompa
+ nied by an adult. (Naughty Children are not allowed!)\nJoin us at Rose Hil
+ l Mansion for this new immersive holiday theater event and learn about the
+  Krampus you’ve never known. The performance will take place throughout 
+ the mansion’s first floor\, in the period-decorated rooms\, setting the 
+ stage for this modern re-telling of a historical tale.\nRecommended for ag
+ es 12 and up.\nThe hourlong performances are at 6 and 8 p.m with a recepti
+ on from 7 to 7:45 p.m. Tickets are $27 each.\n\nSource: FLXcalendar - http
+ s://calendar.time.ly/o9b0uzpj/event/78514569/20261113180000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514569/20261113180000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Magic: The Gathering - Friday Night Draft @ The Game Shoppe
 DTSTART:20261113T233000Z
 DTEND:20261114T023000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:1e5b5f9c4a8afb80c835f1e1d066de7556647585@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -490,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:Next Stop Comedy @ 360Aurora
 DTSTART:20261114T000000Z
 DTEND:20261114T030000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:6e445d966d1945623badbfcd323097bd42eb6991@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy,Performing Arts
@@ -512,7 +577,7 @@ BEGIN:VEVENT
 SUMMARY:A Christmas Story\, The Musical
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:885dd2e1f18cb6deb80cbab58ea1ff79a84905c0@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun
@@ -533,7 +598,7 @@ BEGIN:VEVENT
 SUMMARY:Date Night @ Buffalo Street Books <3
 DTSTART:20261114T000000Z
 DTEND:20261114T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:dfd0f1a6321475a0b2647a0b973197fdca6e67ac@corning-events
 SEQUENCE:0
 CATEGORIES:Literature,Games,Food
@@ -557,10 +622,48 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78508346/20261113190000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Happy Krampus: A wintertime Misadventure
+DTSTART:20261114T010000Z
+DTEND:20261114T020000Z
+DTSTAMP:20261112T173258Z
+UID:78d8966a7b5dc368dadea8f00d878e59ddfed5eb@corning-events
+SEQUENCE:0
+CATEGORIES:Performing Arts,Holidays
+DESCRIPTION:Happy Krampus: A Wintertime Misadventure\nFri Nov 13th 6:00pm 
+ - 7:00pm\nRose Hill Mansion\, 3373 New York 96A\, Geneva\, NY 14456\, USA
+ \nHappy Krampus: A Wintertime Misadventure is a 60-minute immersive holida
+ y theatrical experience presented by Historic Geneva and Breadcrumbs Produ
+ ctions at Rose Hill Mansion. This holiday-themed production transforms the
+  historic mansion in Geneva\, New York\, into the setting for a unexpected
+  retelling of the famous European folklore figure in a playful\, mischievo
+ us story. What is a Krampus?! According to legend\, this specific monster 
+ would accompany St. Nicholas on his wintry walks and kidnap any naughty ch
+ ildren\; the whispered horrors of what befell those Naughty Children kept 
+ the other children in line. They must be good else they disappear\, on a c
+ old dark night… like the Naughty Children did…\nThis theatrical re-tel
+ ling suggests that there is more to explore in Krampus’ story. Perhaps t
+ his Krampus is unlike the others. Perhaps nothing is what we thought.\nThr
+ ough live performance\, dance-theater\, high-clown comedy\, and choose-you
+ r-own-adventure storytelling\, audiences will explore Rose Hill Mansion as
+  the world of the play unfolds around them\, making choices and encounteri
+ ng characters throughout the space. Happy Krampus is designed for adults a
+ nd adventurous families with children 12+. Guests under 16 must be accompa
+ nied by an adult. (Naughty Children are not allowed!)\nJoin us at Rose Hil
+ l Mansion for this new immersive holiday theater event and learn about the
+  Krampus you’ve never known. The performance will take place throughout 
+ the mansion’s first floor\, in the period-decorated rooms\, setting the 
+ stage for this modern re-telling of a historical tale.\nRecommended for ag
+ es 12 and up.\nThe hourlong performances are at 6 and 8 p.m with a recepti
+ on from 7 to 7:45 p.m. Tickets are $27 each.\n\nSource: FLXcalendar - http
+ s://calendar.time.ly/o9b0uzpj/event/78514571/20261113200000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514571/20261113200000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20261114T120000Z
 DTEND:20261114T203000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:9af25822130ba2a03b0bc747ee4f53c78773e3ec@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -594,7 +697,7 @@ SUMMARY:Conservation or Preservation? Coffee w/ Friends of the Chemung Riv
  er Watershed
 DTSTART:20261114T140000Z
 DTEND:20261115T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:8fe61c5782253214cded838732da4dd9b39de98c@corning-events
 SEQUENCE:0
 CATEGORIES:Nature,Connection,Community
@@ -615,7 +718,7 @@ BEGIN:VEVENT
 SUMMARY:Handcrafted Holiday- Keuka Lake Wine Trail
 DTSTART:20261114T150000Z
 DTEND:20261114T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:1cc7db0ddf6550b974271760b169f9e7970fdc09@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Wine
@@ -654,7 +757,7 @@ BEGIN:VEVENT
 SUMMARY:Researching Your Home: Finding Its History
 DTSTART:20261114T150000Z
 DTEND:20261115T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:249fe4e7155bd95a924fae0314532854114f14d1@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage
@@ -681,7 +784,7 @@ BEGIN:VEVENT
 SUMMARY:AUDITIONS: Pride and Prejudice (ELT)
 DTSTART:20261114T150000Z
 DTEND:20261114T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:44d4da872a10aad660d73bbec8b8601d1e8f1336@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Literature
@@ -707,7 +810,7 @@ BEGIN:VEVENT
 SUMMARY:The Art of Toe-Up Sock Knitting With Sara Kalla (Session 2)
 DTSTART:20261114T150000Z
 DTEND:20261114T170000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:c00d909138cef1509888f15070c06f6a0aaed0d6@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -721,7 +824,7 @@ BEGIN:VEVENT
 SUMMARY:Empire Brick Minifig Swap
 DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:28be0978f569c15e0e590296f47095bd3582e16d@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun
@@ -737,7 +840,7 @@ SUMMARY:Philanthropy Beyond the Check – A Day of Service\, Connection\,
  and Partnership
 DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:96dfbbc7352234d37e41e71e1725f7b5b8555251@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Volunteering
@@ -757,9 +860,28 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78508400/20261114120000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:25 in 250 Speaker Series
+DTSTART:20261114T180000Z
+DTEND:20261115T045959Z
+DTSTAMP:20261112T173258Z
+UID:35e127e407a54f8056d85095922b2ad4ed01a60b@corning-events
+SEQUENCE:0
+CATEGORIES:History & Heritage,Wine
+DESCRIPTION:Event by Seneca Falls Museum & Tourism Center\n89 Fall St\, Se
+ neca Falls\, NY\nPublic\nJoin us for our next installment of our FREE 25 i
+ n 250 Speaker Series on Saturday\, November 14th.\n1PM: William King from 
+ the Finger Lakes Wine Museum will be presenting the "History of Wine and V
+ iticulture in the FLX" - Learn the origins of the Finger Lakes grape growi
+ ng and winemaking industry in the 1820's through the 20th century and into
+  the modern day.\nFree Bully Hill Wine sampling to follow!\n\nSource: FLXc
+ alendar - https://calendar.time.ly/o9b0uzpj/event/78514551/20261114130000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514551/20261114130000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Second Saturdays | Public Tour
 DTSTART:20261114T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:4009d2578fd1d0de8ef4ea23d258ff09a7f388b5@corning-events
 SEQUENCE:2
 DESCRIPTION:Open to the public | Included with regular Museum admission | 
@@ -772,7 +894,7 @@ BEGIN:VEVENT
 SUMMARY:Anniversary Party @ Viking Cock Mead
 DTSTART:20261114T190000Z
 DTEND:20261115T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:6ae6f262a081b021ee5be0871daf1caf28c812fc@corning-events
 SEQUENCE:0
 CATEGORIES:Beer,Food,Music
@@ -786,7 +908,7 @@ BEGIN:VEVENT
 SUMMARY:You're a Good Man\, Charlie Brown @ Avoca Central School
 DTSTART:20261114T190000Z
 DTEND:20261114T210000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:926f58df716127e9fc9a53adf67ea24b3c0a3bb1@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music,Family Fun
@@ -801,7 +923,7 @@ BEGIN:VEVENT
 SUMMARY:Poetry Reading w/ Lisa Harris at State of the Art Gallery
 DTSTART:20261114T190000Z
 DTEND:20261115T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:e52d3a989f9410eae05864b900757bedb55a9732@corning-events
 SEQUENCE:0
 CATEGORIES:Literature
@@ -814,7 +936,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Fixers Collective
 DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:eee8cf4b6ca056105379def8718c93411247f75b@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Connection,Support,New to the Area
@@ -835,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:Museum Highlights Tour @ Johnson Museum of Art
 DTSTART:20261114T193000Z
 DTEND:20261114T203000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:c8ff24250494d00fc1fed5d8d5aa79d73f4e930e@corning-events
 SEQUENCE:0
 CATEGORIES:Art
@@ -851,10 +973,47 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78458695/20260920143000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Freight Duo LIVE @ Two Goats Brewing
+DTSTART:20261114T220000Z
+DTEND:20261115T000000Z
+DTSTAMP:20261112T173258Z
+UID:3d38f4759885a5315cb3d5fab49849a3038f19d7@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Performing Arts,Beer
+DESCRIPTION:Freight Duo\nSaturday\, November 14\, 2026\n5:00 PM 7:00 PM\nT
+ wo Goats Brewing\, LLC (map)\nhttps://www.freightmusic.com/\n\nSource: FLX
+ calendar - https://calendar.time.ly/o9b0uzpj/event/78514701/20261114170000
+LOCATION:Two Goats Brewing\, 5027 State Route 414\, Hector\, NY
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514701/20261114170000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rev Ezra LIVE @ South Hill Cider
+DTSTART:20261114T223000Z
+DTEND:20261115T045959Z
+DTSTAMP:20261112T173258Z
+UID:7bea17ddbb35fbda3687dec02cfb87203f6b4abb@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Wine
+DESCRIPTION:Event by South Hill Cider and Rev Ezra\n550 Sandbank Road\, It
+ haca\, NY\nPublic\nRev Ezra is an acoustic music group led by singer-songw
+ riter Josh Chamberlain. Their songs are lyrically focused\, and feature to
+ pics such as understanding your past and family to better understand yours
+ elf\, growing older and re-evaluating your priorities\, the nuances of per
+ sonal relationships\, and more. Their sound has been compared to contempor
+ ary folk/country artists like the Avett Brothers\, Zach Bryan\, and Watchh
+ ouse.\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/785
+ 14723/20261114173000
+LOCATION:South Hill Cider\, 550 Sandbank Road\, Ithaca\, NY 14850\, Ithaca
+ \, 14850\, US
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514723/20261114173000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:You're a Good Man\, Charlie Brown @ Avoca Central School
 DTSTART:20261114T230000Z
 DTEND:20261115T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:c06e8c9c3251cd4c8632ab67283e14ce304a1214@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music,Family Fun
@@ -866,12 +1025,12 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78504924/20261113180000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Whiskey Tango Sideshow - Toliday Sleazin'
+SUMMARY:Whiskey Tango Sideshow - Holiday Sleazin'
 DTSTART:20261115T000000Z
 DTEND:20261115T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:3358a691c075832435dd6c77378f829e2704a7ab@corning-events
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Performing Arts,Holidays
 DESCRIPTION:When trying to decide if we should do a back-to-school show\, 
  a Halloween show\, or a winter holiday show\, Whiskey Tango Sideshow said
@@ -895,7 +1054,7 @@ BEGIN:VEVENT
 SUMMARY:Punch Brothers LIVE @ State Theatre of Ithaca
 DTSTART:20261115T010000Z
 DTEND:20261115T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:51ffb6a13570f6aa33778830eb147d2071ca5d96@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -924,10 +1083,35 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78466315/20261114200000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:E Collector Card Show at the Hangar Theatre
+DTSTART:20261115T140000Z
+DTEND:20261115T200000Z
+DTSTAMP:20261112T173258Z
+UID:edfa6ce3ea8debb892c4fa56fc0c67497b986611@corning-events
+SEQUENCE:0
+CATEGORIES:Family Fun,Games
+DESCRIPTION:E Collector Card Show at the Hangar Theatre\nSunday\, November
+  15 from 9 am–3 pm\nGeneral Admission: $5\, Children under 12 free Ticke
+ ts available at the door\nAre you a fan of sports cards\, Pokémon\, Magic
+ : The Gathering\, Yu-Gi-Oh!\, or any trading card game (TCG)? Don’t miss
+  your chance to discover vintage collectibles\, the latest rookies\, and r
+ are TCG cards all in one place! Meet fellow enthusiasts\, explore a wide v
+ ariety of cards\, and find your next favorite addition. Join us for a day 
+ dedicated to collectors and card game lovers alike!\nCalling all area card
+  vendors:\nClick HERE to register and secure your spot today!\n\nSource: F
+ LXcalendar - https://calendar.time.ly/o9b0uzpj/event/78514600/202611150900
+ 00
+GEO:42.457531;-76.515267
+LOCATION:Hangar Theatre\, 801 Taughannock Boulevard\, Ithaca\, New York\, 
+ 14850\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514600/20261115090000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261115T153000Z
 DTEND:20261115T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:9dbe447df902dc586f27834bcd376c1d720ca567@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -949,7 +1133,7 @@ BEGIN:VEVENT
 SUMMARY:Anniversary Celebration @ Card Carrying Books
 DTSTART:20261115T170000Z
 DTEND:20261115T200000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:e0b797b9aeb3749fc51857b8cac9a9db7b3fcd23@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Music,LGBTQ+,Art
@@ -973,10 +1157,27 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78508329/20261115120000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Twelve Angry Jurors
+DTSTART:20261115T190000Z
+DTEND:20261116T045959Z
+DTSTAMP:20261112T173258Z
+UID:80def3ab943e4724f6f375ebdabf30326e1a43ff@corning-events
+SEQUENCE:0
+CATEGORIES:Performing Arts
+DESCRIPTION:The Odessa Montour School District’s production of “Twelve
+  Angry Jurors” is in the Fetter-Brown Auditorium! The closing performanc
+ e is Sunday 11/15 at 2:00pm. Please come support their show as the cast te
+ lls a story of judicial responsibility and integrity. Tickets are $10 for 
+ adults and $5 for students/seniors.\n\nSource: FLXcalendar - https://calen
+ dar.time.ly/o9b0uzpj/event/78514677/20261115140000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514677/20261115140000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Empire Brick Club Meeting
 DTSTART:20261115T190000Z
 DTEND:20261115T210000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:fc1a4911796e219a63a2b473fd0a20eefdbd1b70@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Connection,New to the Area
@@ -994,7 +1195,7 @@ BEGIN:VEVENT
 SUMMARY:Rain Tempos & Jennie Lowe Sterns w/ Kristin Bigness
 DTSTART:20261115T230000Z
 DTEND:20261116T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:42562f3ec429a061977b87f9078231d941b389a2@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1012,7 +1213,7 @@ BEGIN:VEVENT
 SUMMARY:Bluegrass Night @ Liquid State Brewing Co.
 DTSTART:20261116T223000Z
 DTEND:20261117T013000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:73ee53e795e6dd9bde784909ff4d897d1aa5f3c2@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1030,7 +1231,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca College Piano and String Chamber Music
 DTSTART:20261117T000000Z
 DTEND:20261117T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:5b11c6441923d7fd3394845c05f33c52ff951d6a@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1045,7 +1246,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca College Flute Ensemble
 DTSTART:20261117T011500Z
 DTEND:20261117T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:b62f7357badbaf8c7a13ad878ff09be9c6acf963@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1063,7 +1264,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261117T220000Z
 DTEND:20261117T230000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:0dafd186ea5d2bf41288799764e2d5865892545f@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -1079,7 +1280,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261117T230000Z
 DTEND:20261118T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:92defa5bf23f117df2cc2a078a6324076d2a1677@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -1098,7 +1299,7 @@ BEGIN:VEVENT
 SUMMARY:360 Presents: Magic Hunks!
 DTSTART:20261118T000000Z
 DTEND:20261118T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:2f57787c5c5f1ad3dc8de175baf659c0c5fcca5b@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Dancing
@@ -1135,7 +1336,7 @@ BEGIN:VEVENT
 SUMMARY:Presentation Night w/ Story House Ithaca at Liquid State Brewing
 DTSTART:20261118T000000Z
 DTEND:20261118T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:a6d410ba75bb7204c047a81d07fb26acc48d2a37@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Connection
@@ -1152,7 +1353,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca College Piano and Instrumental Duos
 DTSTART:20261118T000000Z
 DTEND:20261118T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:ab28e9ea3aca3678b45d1ffd579dba03fa35a5a5@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1167,7 +1368,7 @@ BEGIN:VEVENT
 SUMMARY:Free Interactive Wellness Event for Older Adults & Caregivers
 DTSTART:20261118T183000Z
 DTEND:20261118T200000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:72fc2807127edbe5ae28bd493b180bbba9ff760d@corning-events
 SEQUENCE:0
 CATEGORIES:Crafts,Community
@@ -1198,10 +1399,42 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78508394/20261118133000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BraVESTimo! Dementia and Community Chorus
+DTSTART:20261118T183000Z
+DTEND:20261118T200000Z
+DTSTAMP:20261112T173258Z
+UID:df70f963ad217089b3237d1ba21b6b895ca19aaf@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Causes,Community
+DESCRIPTION:Event by VEST - Vocal Essence of the Southern Tier and The Par
+ k Church Elmira\nThe Park Church Elmira\nPublic\nSinging is good for the b
+ rain—and even better when we experience it together!\nBraVESTimo! is a j
+ oyful community chorus for people living with dementia\, Parkinson’s dis
+ ease\, or other neurodegenerative conditions\, their care partners\, and c
+ ommunity members who simply love to sing.\nYou do not need to have a perso
+ nal connection to dementia to participate. Community singers are warmly in
+ vited to sing alongside our members—adding friendship\, encouragement\, 
+ musical support\, and shared joy.\nResearch suggests that group singing ca
+ n support mood\, meaningful engagement\, emotional well-being\, and social
+  connection for people living with dementia and their care partners.\nThis
+  is not a choir performing for people living with dementia. It is a commun
+ ity singing with one another.\nNo prior singing experience is needed. All 
+ voices are welcome.\nLearn more and register at www.vestny.org.\nWe offer 
+ barrier-free access with a Pay-What-You-Are-Able Model\n#BraVESTimo #Commu
+ nitySinging #DementiaSupport #CarePartners #BrainHealth #MusicAndMemory #V
+ ESTNY\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/785
+ 14637/20261118133000
+GEO:42.089201;-76.808797
+LOCATION:Park Church\, 208 West Gray Street\, Elmira\, New York\, 14901\, 
+ United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514637/20261118133000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261118T220000Z
 DTEND:20261119T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:e3c0325d7b372ac93bf787fa1953ef243c6c9a52@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -1215,7 +1448,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20261118T223000Z
 DTEND:20261119T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:b9e810cbc981298e7b08bb34dfed30062ddeec8d@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1230,10 +1463,24 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78495952/20261021173000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Comedy Open Mic @ Twisted Rail
+DTSTART:20261118T233000Z
+DTEND:20261119T013000Z
+DTSTAMP:20261112T173258Z
+UID:ee0f333c8fd1982c405bf077c6f7fdf638ea4ed2@corning-events
+SEQUENCE:0
+CATEGORIES:Comedy,Performing Arts
+DESCRIPTION:Comedy Open Mic at Twisted Rail\nWed Nov 18th 6:30pm - 8:30pm
+ \nsee image for details\n\nSource: FLXcalendar - https://calendar.time.ly/
+ o9b0uzpj/event/78514576/20261118183000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514576/20261118183000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ithaca College Woodwind Chamber Music
 DTSTART:20261119T000000Z
 DTEND:20261119T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:baf79da3d840b2b605a5f3895c6cd500a54e7b75@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1248,7 +1495,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261119T150000Z
 DTEND:20261119T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:e7d489e9d06b1e89191950f2fc679fab3b232e2a@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -1270,7 +1517,7 @@ BEGIN:VEVENT
 SUMMARY:Seouful Stories: A K-Club for All Ages
 DTSTART:20261119T223000Z
 DTEND:20261119T233000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:95fc0a3ef0dd6d9fe62dba76a3ce9936bb5ffedb@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Literature,Performing Arts,Community
@@ -1287,10 +1534,30 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78504929/20261119173000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pelotones Trio LIVE @ South Hill Cider
+DTSTART:20261119T223000Z
+DTEND:20261120T045959Z
+DTSTAMP:20261112T173258Z
+UID:f10f7bbda51971d993d6dc29b29100033de9011f@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Event by South Hill Cider and Wayne Gottlieb\n550 Sandbank Roa
+ d\, Ithaca\, NY\, United States\, New York 14850\nPublic\nThree members of
+  the Pelotones (Wayne Gottlieb\, Harry Aceto and Alex Specker) will be pla
+ ying from the Pelotones play list\, Blues\, R and B\, Swing and originals.
+  Wayne's smooth baritone is backed by Harry Aceto on Bass and Alex's unpar
+ alleled jazz guitar.\n\nSource: FLXcalendar - https://calendar.time.ly/o9b
+ 0uzpj/event/78514724/20261119173000
+LOCATION:South Hill Cider\, 550 Sandbank Road\, Ithaca\, NY 14850\, Ithaca
+ \, 14850\, US
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514724/20261119173000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Max Childs & Louiston LIVE @ Argos
 DTSTART:20261120T000000Z
 DTEND:20261120T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:7212f68f6bd5b6774e6006e74095b0c6023c1098@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1308,7 +1575,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca College African Drumming and Dance Ensemble
 DTSTART:20261120T000000Z
 DTEND:20261120T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:ba35bfcb08c11161721299e70f826ff5316250d1@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Dancing,BIPOC
@@ -1338,7 +1605,7 @@ BEGIN:VEVENT
 SUMMARY:Poetry & Tea Book Club
 DTSTART:20261120T150000Z
 DTEND:20261121T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:3dc9cbabf1482146ed7435923fd066b5fad73275@corning-events
 SEQUENCE:0
 CATEGORIES:Literature,Connection
@@ -1359,7 +1626,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261120T190000Z
 DTEND:20261120T200000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:d2908b8c95783b2ce3e7ae5228584515b475da16@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -1373,7 +1640,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261120T200000Z
 DTEND:20261120T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:31a77b8fad18916a0bbbf96aae26beaa228b74e2@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -1388,10 +1655,57 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78440370/20260911150000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mathis Haug LIVE @ Two Goats Brewing
+DTSTART:20261120T220000Z
+DTEND:20261121T000000Z
+DTSTAMP:20261112T173258Z
+UID:927e3e822aae0ed14069f4c168f70bc3a9ce03a5@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Performing Arts,Beer
+DESCRIPTION:Mathis Haug\nFriday\, November 20\, 2026\n5:00 PM 7:00 PM\nTwo
+  Goats Brewing (map)\nMathis Haug: A radiant mix of blues\, folk and count
+ ry.\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78514
+ 702/20261120170000
+LOCATION:Two Goats Brewing\, 5027 State Route 414\, Hector\, NY
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514702/20261120170000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jeremiah Craig and Max Moses LIVE
+DTSTART:20261120T230000Z
+DTEND:20261121T044500Z
+DTSTAMP:20261112T173258Z
+UID:36cd1b6db1f65b4a8abdfd2e1f898fff5176263f@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Event by Jeremiah Craig and K-HOUSE Karaoke & Arts Hub\nK-HOUS
+ E Karaoke & Arts Hub\nDuration: 5 hr 45 min\nPublic\nJoin local singer-son
+ gwriters Jeremiah Craig and Max Moses for a special evening of live music 
+ at The K-House\, conveniently located next to the State Theatre. With accl
+ aimed folk trio The Wailin' Jennys performing next door that same night\, 
+ Jeremiah and Max will be providing live music before and after the concert
+ \, making The K-House the perfect gathering spot for music lovers througho
+ ut the evening. Expect a mix of original songs\, storytelling\, folk\, cou
+ ntry\, and Americana from two artists deeply rooted in the Finger Lakes mu
+ sic community. Whether you're headed to the State Theatre\, looking for a 
+ place to continue the night after the show\, or simply want to enjoy an in
+ timate local performance\, stop by The K-House and make a full evening of 
+ live music in downtown Ithaca.\nDate: Friday\, November 20. Set 1: 6pm-8pm
+  | Set 2: 10pm-12am\nLocation: The K-House\, Ithaca\, NY\nFeaturing: Jerem
+ iah Craig and Max Moses\nAdmission: Suggested donation of $5\n\nSource: FL
+ Xcalendar - https://calendar.time.ly/o9b0uzpj/event/78514683/2026112018000
+ 0
+GEO:42.439343;-76.499778
+LOCATION:K-House Karaoke & Arts Hub\, 121 West State Street\, Ithaca\, New
+  York\, 14850\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514683/20261120180000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hugo: The Journey Experience live at LECOM Event Center
 DTSTART:20261120T230000Z
 DTEND:20261121T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:5d4adada2039920b61037d4c0c98fb2f57115cf7@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1410,7 +1724,7 @@ BEGIN:VEVENT
 SUMMARY:Magic: The Gathering - Friday Night Draft @ The Game Shoppe
 DTSTART:20261120T233000Z
 DTEND:20261121T023000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:9ba579624e378964d489d35ca3c64b72d416cbc7@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -1434,7 +1748,7 @@ BEGIN:VEVENT
 SUMMARY:AMP'D | Party in the Amphitheater
 DTSTART:20261121T000000Z
 DTEND:20261121T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:6442cd20286651fbf9ab17f8436fdc04bdc14dff@corning-events
 SEQUENCE:0
 CATEGORIES:Glass,Art,Connection
@@ -1454,7 +1768,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca College Concert Band - After Dark
 DTSTART:20261121T000000Z
 DTEND:20261121T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:b61e10a90478564ae1aefe376232d83aa8483bdb@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1472,7 +1786,7 @@ BEGIN:VEVENT
 SUMMARY:Fall Crystal Fest - Gem\, Mineral\, Fossil & Jewelry Show
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:dd26245cbb147ae1aa5f9d4219739562e641e696@corning-events
 SEQUENCE:0
 CATEGORIES:Nature,Crafts
@@ -1498,30 +1812,93 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78501775/20261121000000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agatha Christie's "The Mousetrap"
+DTSTART:20261121T003000Z
+DTEND:20261121T030000Z
+DTSTAMP:20261112T173258Z
+UID:38c7584b142feecdecb278cb41054035968bd153@corning-events
+SEQUENCE:0
+CATEGORIES:Performing Arts
+DESCRIPTION:The Mousetrap\nFri Nov 20th 9:00am - Sun 22nd 9:00am\nTheatre
+ \nPat Collins Black Box Theater\n160 Carter Road\, Geneva\, NY\nA timeless
+  tale of “whodunnit\,” Agatha Christie’s The Mousetrap strands seven
+  strangers at Monkswell Manor during a blizzard. But a police sergeant une
+ xpectedly arrives\, worried that a murderer-at-large is among the guests o
+ f the Manor. Before he can investigate\, one of the guests is killed\, sta
+ rting an investigation into the lives and histories of everyone there. One
+  of them is the killer\, and another one of them may be next. Will the pol
+ ice be able to solve the case before another “mouse” falls? The world
+ ’s longest continuously running play for over 70 years\, The Mousetrap c
+ ontinues to delight and intrigue mystery lovers of all ages.\nPERFORMANCES
+ \nNOVEMBER 20\, 2026 @ 7:30 PM\nNOVEMBER 21\, 2026 @ 7:30 PM\nNOVEMBER 22
+ \, 2026 @ 2:00 PM\nPAT COLLINS BLACK BOX THEATER\n160 CARTER ROAD\, GENEVA
+ \, NY\nTICKETS:\nSTUDENTS & SENIORS-$16.00\nADULTS-$18.00\nDIRECTED BY\nDA
+ MIAN GRZESKOWIAK\nFOR MORE INFORMATION AND/OR TICKETS:\nWWW.GENEVATHEATREG
+ UILD.ORG\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/
+ 78514578/20261120193000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514578/20261120193000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Christmas on Broadway Drag Show
 DTSTART:20261121T003000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:c1f913b2b7a33571d669fc906beaa58cdefd8d3a@corning-events
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:Holidays,Performing Arts,LGBTQ+,Music
 DESCRIPTION:Christmas on BroadwayDrag Show\nin Mandeville Hall\nFridayNove
  mber 20\, 20267:30pm\nAge Recommendation: Must be ages 18+\nRunning Time: 
- Approximately 2 hours including intermission.\nShare:\nPricing\nProcessing
-  and facility maintenance fees apply.\nGeneral Admission Tickets:$35\nVIP 
- Add-On:$15\nIncludes seating at VIP tables and a meet & greet before the s
- how in the upper lobby. Limited tickets available.\nBUY TICKETS\nQuestions
- ?\nContact our Box Office:\nMonday-Friday\n11:30 am – 5:30 pm\n607-734-8
- 191 or\n800-724-0159\nboxoffice@clemenscenter.org\nVisitor Information>\nC
- lemens Center presents\nJoin us for ...\n\nSource: Clemens Center - https:
- //clemenscenter.org/event/christmas-on-broadway-drag-show/
+ 2 hrs and 15 mins\, including a 15-min intermission.\nShare:\nPricing\nPro
+ cessing and facility maintenance fees apply.\nGeneral Admission Tickets:$3
+ 5\nVIP Add-On:$15\nIncludes seating at VIP tables and a meet & greet befor
+ e the show in the upper lobby. Limited tickets available.\nBUY TICKETS\nQu
+ estions?\nContact our Box Office:\nMonday-Friday\n11:30 am – 5:30 pm\n60
+ 7-734-8191 or\n800-724-0159\nboxoffice@clemenscenter.org\nVisitor Informat
+ ion>\nClemens Center presents\nJoin us for ...\n\nSource: Clemens Center -
+  https://clemenscenter.org/event/christmas-on-broadway-drag-show/
 STATUS:CONFIRMED
 URL:https://clemenscenter.org/event/christmas-on-broadway-drag-show/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donna the Buffalo LIVE @ Smith Opera House
+DTSTART:20261121T010000Z
+DTEND:20261121T030000Z
+DTSTAMP:20261112T173258Z
+UID:18b5c120bab6b0e37ca7dfc2fb3791df82c7957f@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Donna the Buffalo\nFri Nov 20th 8:00pm - 10:00pm\nThe Smith Op
+ era House\, 82 Seneca Street\, Geneva\, NY 14456\, USA\nDonna The Buffalo 
+ is not just a band\, rather one might say that Donna The Buffalo has becom
+ e a lifestyle for its members and audiences. Since 1989\, the roots rocker
+ s have played thousands of shows and countless festivals including Bonnaro
+ o\, Newport Folk Festival\, Telluride\, Austin City Limits Festival\, Merl
+ e Fest\, and Philadelphia Folk Festival. They’ve opened for The Dead and
+  have toured with Peter Rowan\, Del McCoury\, Los Lobos\, Little Feat\, Ji
+ m Lauderdale\, Rusted Root\, and Railroad Earth to name a few. They also t
+ oured with Ben & Jerry’s co-founder Ben Cohen to help raise awareness ab
+ out increased corporate spending in politics.\nIn 1991\, the band started 
+ the Finger Lakes Grassroots Festival in Trumansburg\, NY. The four day fes
+ tival has become an annual destination for over 15\,000 music lovers every
+  year and was started as an AIDS benefit. It continues as a benefit for ar
+ ts and education. To date\, the event has raised hundreds of thousands of 
+ dollars and is now one of three Grassroots Festivals\; the Bi-annual Shako
+ ri Hills fest in North Carolina and Virginia Key festival in Florida. In 2
+ 016 GrassRoots Culture Camp was introduced in Trumansburg\, New York as fo
+ ur days of music\, art\, dance and movement workshops\, including nightly 
+ dinners and dances.\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0
+ uzpj/event/78514573/20261120200000
+GEO:42.867123;-76.984018
+LOCATION:The Smith Opera House\, 82 Seneca Street\, Geneva\, New York\, 14
+ 456\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514573/20261120200000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wailin' Jennys LIVE @ State Theatre of Ithaca
 DTSTART:20261121T010000Z
 DTEND:20261121T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:73ad4a5b02abf442c13eb1262dd9fd0a9394e0fa@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -1555,7 +1932,7 @@ BEGIN:VEVENT
 SUMMARY:Full Moon Ride with Elmira Community Cycle
 DTSTART:20261121T020000Z
 DTEND:20261121T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:1b2b36c5a91686db22339e3f98502639ff83addc@corning-events
 SEQUENCE:0
 CATEGORIES:Bikes,Community,Connection
@@ -1571,7 +1948,7 @@ BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20261121T120000Z
 DTEND:20261121T203000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:ff78feb07071742836a9d7512f556a6b5089890b@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -1605,7 +1982,7 @@ SUMMARY:Beginner Sewing Series - Foundational Classes to Master Your Machi
  ne (Fall 2026)
 DTSTART:20261121T140000Z
 DTEND:20261121T170000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:2edf748c2b8fd951000cc9d6e20c72e87a3d830d@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -1619,7 +1996,7 @@ BEGIN:VEVENT
 SUMMARY:Kringle Market - Absolut Three Rivers
 DTSTART:20261121T150000Z
 DTEND:20261121T160000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:6bb2734689e39a1b53af5776377b3a65f6bd9dc5@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Crafts
@@ -1637,7 +2014,7 @@ BEGIN:VEVENT
 SUMMARY:Choose Colors with Confidence Workshop
 DTSTART:20261121T150000Z
 DTEND:20261121T173000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:f6c516936e95e75042cd48e2ee06f7160fd025e7@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -1647,9 +2024,57 @@ URL:https://www.corningny.com/events/details/choose-colors-with-confidence
  -workshop-20102
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Technology Made Simple: Scams 101
+DTSTART:20261121T170000Z
+DTEND:20261121T210000Z
+DTSTAMP:20261112T173258Z
+UID:06cb00f9a55c1c55cf8098a386ffb1f75756cb87@corning-events
+SEQUENCE:0
+CATEGORIES:Community,Causes
+DESCRIPTION:Event by Dormann Library\n101 W Morris St\, Bath\, NY\nPublic
+ \nJoin us in the Community Room for a special technology class hosted by K
+ ayla Mills\, an IT expert who currently works in Digital & IT User Researc
+ h at Corning Inc. Kayla will teach participants how to spot the tools scam
+ mers use to trick people. She will also teach participants how to spot a s
+ cam by looking out for certain red flags\, and what to do if you think you
+  have been scammed.\nPlease register to hold your place. There are three s
+ cheduled times to choose from\, 10am\, 12pm\, or 2pm.\nPlease only registe
+ r for one time slot.\n\nSource: FLXcalendar - https://calendar.time.ly/o9b
+ 0uzpj/event/78514566/20261121120000
+GEO:42.333346;-77.324231
+LOCATION:Dormann Library\, 101 West Morris Street\, Bath\, New York\, 1481
+ 0\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514566/20261121120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jester & Kester
+DTSTART:20261121T183000Z
+DTEND:20261122T045959Z
+DTSTAMP:20261112T173258Z
+UID:575714cbf843f40dc3c2356d2d1ceaa4e4a33abb@corning-events
+SEQUENCE:0
+CATEGORIES:Performing Arts,Comedy
+DESCRIPTION:Jester & Kester\nA new musical workshop from Adriano Robins an
+ d Jay Kanabay\nNovember 21–22\, 2026\nTwo comedians split apart their du
+ o act in hopes of reaching higher success. While their friendship begins t
+ o strain when their business relationship dies\, they envy what the other 
+ seems to gain. Is the grass always greener on the other side\, and what ha
+ ppens when the unspoken truly goes unspoken? Find out in Robins & Kanabay
+ ’s new musical workshop\, Jester and Kester\, premiering at the Hangar T
+ heatre this fall!\nPerformances:\nSaturday\, November 21 @ 1:30 & 7:00 pm
+ \nSunday\, November 22 @ 1:30 pm\n\nSource: FLXcalendar - https://calendar
+ .time.ly/o9b0uzpj/event/78514606/20261121133000
+GEO:42.457531;-76.515267
+LOCATION:Hangar Theatre\, 801 Taughannock Boulevard\, Ithaca\, New York\, 
+ 14850\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514606/20261121133000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Snowy Day and Other Stories: A Sensory-Friendly Performance
 DTSTART:20261121T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:2702e63edff72354ed2716ae2d7753416c36bd75@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun
@@ -1672,7 +2097,7 @@ BEGIN:VEVENT
 SUMMARY:The Snowy Day at the Clemens Center
 DTSTART:20261121T190000Z
 DTEND:20261122T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:5477f8393b00c1fd2cb1ec55b99615bb8b06cf6d@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Family Fun
@@ -1715,7 +2140,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Fixers Collective
 DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:6b8a780cd980e38f9ab4369353280eee440505df@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Connection,Support,New to the Area
@@ -1736,7 +2161,7 @@ BEGIN:VEVENT
 SUMMARY:The Snowy Day- shadow puppet show
 DTSTART:20261121T190000Z
 DTEND:20261121T200000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:af01d14ad93a5fe8e43484d2499bc9180e02077b@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Family Fun
@@ -1783,7 +2208,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Night Pride @ Watkins Glen Public Library
 DTSTART:20261121T220000Z
 DTEND:20261122T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:9075e3bec0200227ce2a002b637d2da9baf767f4@corning-events
 SEQUENCE:0
 CATEGORIES:Teen,LGBTQ+
@@ -1799,10 +2224,167 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78458744/20260919170000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stratcat Willie and the Strays LIVE @ Two Goats Brewing
+DTSTART:20261121T220000Z
+DTEND:20261122T000000Z
+DTSTAMP:20261112T173258Z
+UID:b8f01a442be4c8c12002000014f49019d91e3fbf@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Performing Arts,Beer
+DESCRIPTION:Stratcat Willie and the Strays\nSaturday\, November 21\, 2026
+ \n5:00 PM 7:00 PM\nTwo Goats Brewing (map)\nStratcat Willie & the Strays: 
+ StratCat Willie has been playing the BLUES with some of the best musicians
+  for decades. Whatever "Strays" he gathers\, they will be cranking out not
+ hin' but the best in new and old BLUES!\n\nSource: FLXcalendar - https://c
+ alendar.time.ly/o9b0uzpj/event/78514696/20261121170000
+LOCATION:Two Goats Brewing\, 5027 State Route 414\, Hector\, NY
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514696/20261121170000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kate Rockefeller Gallery Opening with live music @ South Hill Cide
+ r
+DTSTART:20261121T223000Z
+DTEND:20261122T045959Z
+DTSTAMP:20261112T173258Z
+UID:4e49731d70451d82eef4ae6cf2fe35fd76e39221@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Wine,Art
+DESCRIPTION:Event by South Hill Cider and Kate Rockefeller Studio\n550 San
+ dbank Road\, Ithaca\, NY\, United States\, New York 14850\nPublic\nKate Ro
+ ckefeller is a multimedia artist from Upstate New York. Her work is greatl
+ y influenced by the Adirondack and Finger Lakes Regions in which she grew 
+ up and attended school. Kate received her BFA in Studio Arts and a minor i
+ n Art history from Ithaca College with disciplines in sculpture\, printmak
+ ing\, ceramics\, and oil painting. From surrealist landscapes\, detailed p
+ ortraits\, and evocative sculpture\, her work considers the complex relati
+ onship between humans and the natural world.\nAbel Bradshaw (Newman Bros\,
+  Low Indigos) and friends will be playing music while Kate does a live pai
+ nting of South Hill Cider.\n\nSource: FLXcalendar - https://calendar.time.
+ ly/o9b0uzpj/event/78514725/20261121173000
+LOCATION:South Hill Cider\, 550 Sandbank Road\, Ithaca\, NY 14850\, Ithaca
+ \, 14850\, US
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514725/20261121173000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wear Vibrant Colors 2: Dare To Dance Album Advance
+DTSTART:20261121T233000Z
+DTEND:20261122T043000Z
+DTSTAMP:20261112T173258Z
+UID:4172ab7843c6b3e44be6f17aa3dd7eaea7ab48d4@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Food
+DESCRIPTION:Event by Papa Muse\, Maddy Walsh Artist Page and 3 others\nThe
+  Nocturnal Café\nDuration: 5 hr\nPublic\nOn November 21st\, Papa Muse wil
+ l host the second annual Wear Vibrant Colors show at the Nocturnal Cafe in
+  downtown Ithaca.\nGet Advanced Discounted Tickets and ensure a spot.\nOnl
+ ine at www.PapaMuse.com or at The Nocturnal Cafe until day of show.\nNew P
+ apa Muse Album:\nListen to the first song on the upcoming album "Faith We 
+ Are Growing" at: https://papamuse.com/music\nABOUT the Party:\nThis perfor
+ mance will be the Dare to Dance Album Advance\, a full-length album that P
+ apa Muse began working on 7 years ago. And while the album will not be ava
+ ilable to the public until January 15th\, attendees of Wear Vibrant Colors
+  2 will get early access to the album.\nPotluck Dinner:\nLike last year\, 
+ there will once again be a scrumptious potluck dinner that starts at 6:30 
+ p.m.\, followed by a plethora of talented musical acts starting at 7:00 p.
+ m. Feel free to bring a dish to share (plates and utensils will be provide
+ d)\, but do not bring drinks\, as the Nocturnal Cafe will provide an elabo
+ rate selection.\nCome wearing vibrant colors and be part of our live music
+  video shoot! There will also be viewing areas and comfortable seating for
+  those camera-shy\, bashful folks.\nPerformers:\nPapa Muse:\nWith a deep-r
+ ooted history in the Ithaca music scene—as former producer of Musefest\,
+  the Band and Breakfast\, and other innovative endeavors—Papa Muse has s
+ pent the last decade fervently devoted to his musical craft. The songwrite
+ r continually presents a compelling live performance\, and on this special
+  night\, he will perform with his full band and even a few guests. They wi
+ ll play tracks from the upcoming Dare to Dance album\, along with a few ne
+ wer tunes.\nPublic Water Supply:\nHailing from Rochester\, Public Water Su
+ pply is a powerhouse 4-piece outfit blending danceable and cosmic outlaw c
+ ountry with high-octane psychedelic indie rock. Driven by soaring and uniq
+ uely distinctive lead vocals\, dazzling guitar work\, and an irresistible 
+ groove\, their electrifying live show delivers an unforgettable\, genre-be
+ nding punch.\nMadd Daddy:\nFeaturing powerhouse vocalist Maddy Walsh (of M
+ addy Walsh & The Blind Spots) alongside her father\, Ted Walsh\, this belo
+ ved Ithaca father-daughter duo will join the party with a set filled with 
+ unexpected covers\, "blood harmonies\," and finger-picked acoustic guitar.
+  Expect seamless chemistry\, charm\, and maybe a rare original woven into 
+ the mix.\nMax Moses / Lady Loveday\nLady Loveday & Max Moses will share th
+ e stage\, swapping songs starting at 7:00 p.m. Each has something unique t
+ o offer:\nLady Loveday:\nLoveday Greene brings her signature "swoon countr
+ y" to the stage\, blending theatrical vocal power with raw\, cinematic sto
+ rytelling. With a background spanning opera\, rock\, and country\, her int
+ oxicating voice creates an atmosphere that is equal parts tender and twang
+ y.\nMax Moses:\nKnown as a driving force behind Ithaca favorite Cast Iron 
+ Cowboys\, Max Moses joins us for a solo set blending soulful country blues
+ \, fingerstyle guitar\, and heartfelt songwriting and storytelling.\nTicke
+ ts: $10 in advance or $15 at the door. $5 Discount with Student ID. Get ad
+ vance tickets at the Nocturnal Cafe or online at PapaMuse.com. Reserve you
+ r spot today.\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/e
+ vent/78514642/20261121183000
+GEO:42.43916;-76.500519
+LOCATION:The Nocturnal Cafe\, 103 South Geneva Street\, Ithaca\, New York
+ \, 14850\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514642/20261121183000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jester & Kester
+DTSTART:20261122T000000Z
+DTEND:20261122T045959Z
+DTSTAMP:20261112T173258Z
+UID:65f5d8824dede0fd95264afed87104baecbade26@corning-events
+SEQUENCE:0
+CATEGORIES:Performing Arts,Comedy
+DESCRIPTION:Jester & Kester\nA new musical workshop from Adriano Robins an
+ d Jay Kanabay\nNovember 21–22\, 2026\nTwo comedians split apart their du
+ o act in hopes of reaching higher success. While their friendship begins t
+ o strain when their business relationship dies\, they envy what the other 
+ seems to gain. Is the grass always greener on the other side\, and what ha
+ ppens when the unspoken truly goes unspoken? Find out in Robins & Kanabay
+ ’s new musical workshop\, Jester and Kester\, premiering at the Hangar T
+ heatre this fall!\nPerformances:\nSaturday\, November 21 @ 1:30 & 7:00 pm
+ \nSunday\, November 22 @ 1:30 pm\n\nSource: FLXcalendar - https://calendar
+ .time.ly/o9b0uzpj/event/78514605/20261121190000
+GEO:42.457531;-76.515267
+LOCATION:Hangar Theatre\, 801 Taughannock Boulevard\, Ithaca\, New York\, 
+ 14850\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514605/20261121190000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agatha Christie's "The Mousetrap"
+DTSTART:20261122T003000Z
+DTEND:20261122T030000Z
+DTSTAMP:20261112T173258Z
+UID:125d38b467d9d29302227aea127cc71aef976e46@corning-events
+SEQUENCE:0
+CATEGORIES:Performing Arts
+DESCRIPTION:The Mousetrap\nFri Nov 20th 9:00am - Sun 22nd 9:00am\nTheatre
+ \nPat Collins Black Box Theater\n160 Carter Road\, Geneva\, NY\nA timeless
+  tale of “whodunnit\,” Agatha Christie’s The Mousetrap strands seven
+  strangers at Monkswell Manor during a blizzard. But a police sergeant une
+ xpectedly arrives\, worried that a murderer-at-large is among the guests o
+ f the Manor. Before he can investigate\, one of the guests is killed\, sta
+ rting an investigation into the lives and histories of everyone there. One
+  of them is the killer\, and another one of them may be next. Will the pol
+ ice be able to solve the case before another “mouse” falls? The world
+ ’s longest continuously running play for over 70 years\, The Mousetrap c
+ ontinues to delight and intrigue mystery lovers of all ages.\nPERFORMANCES
+ \nNOVEMBER 20\, 2026 @ 7:30 PM\nNOVEMBER 21\, 2026 @ 7:30 PM\nNOVEMBER 22
+ \, 2026 @ 2:00 PM\nPAT COLLINS BLACK BOX THEATER\n160 CARTER ROAD\, GENEVA
+ \, NY\nTICKETS:\nSTUDENTS & SENIORS-$16.00\nADULTS-$18.00\nDIRECTED BY\nDA
+ MIAN GRZESKOWIAK\nFOR MORE INFORMATION AND/OR TICKETS:\nWWW.GENEVATHEATREG
+ UILD.ORG\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/
+ 78514578/20261120193000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514578/20261120193000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vinyl DJ Night @ Argos
 DTSTART:20261122T010000Z
 DTEND:20261122T045900Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:b38a9a153d74aed2e2101762fa3af78c15e158cc@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1819,7 +2401,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyl DJ Nights @ Argos Warehouse
 DTSTART:20261122T010000Z
 DTEND:20261122T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:bf61dc92cab31d56d01191ab0d2db1c4c8cd3e34@corning-events
 SEQUENCE:1
 CATEGORIES:Music
@@ -1838,7 +2420,7 @@ BEGIN:VEVENT
 SUMMARY:Friendsgiving w/ DJ MadCat at Brick\, Corning
 DTSTART:20261122T020000Z
 DTEND:20261122T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:fc2f816455f3290dac1121e528ce959e107c437f@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Dancing
@@ -1868,7 +2450,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261122T153000Z
 DTEND:20261122T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:998a320926d45dc08ed9be450a2f2288432c1ca3@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -1887,9 +2469,108 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78366790/20260531113000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jester & Kester
+DTSTART:20261122T183000Z
+DTEND:20261123T045959Z
+DTSTAMP:20261112T173258Z
+UID:d479cbd144b4a0b38eb3653f9587ec77728b658d@corning-events
+SEQUENCE:0
+CATEGORIES:Performing Arts,Comedy
+DESCRIPTION:Jester & Kester\nA new musical workshop from Adriano Robins an
+ d Jay Kanabay\nNovember 21–22\, 2026\nTwo comedians split apart their du
+ o act in hopes of reaching higher success. While their friendship begins t
+ o strain when their business relationship dies\, they envy what the other 
+ seems to gain. Is the grass always greener on the other side\, and what ha
+ ppens when the unspoken truly goes unspoken? Find out in Robins & Kanabay
+ ’s new musical workshop\, Jester and Kester\, premiering at the Hangar T
+ heatre this fall!\nPerformances:\nSaturday\, November 21 @ 1:30 & 7:00 pm
+ \nSunday\, November 22 @ 1:30 pm\n\nSource: FLXcalendar - https://calendar
+ .time.ly/o9b0uzpj/event/78514606/20261121133000
+GEO:42.457531;-76.515267
+LOCATION:Hangar Theatre\, 801 Taughannock Boulevard\, Ithaca\, New York\, 
+ 14850\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514606/20261121133000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agatha Christie's "The Mousetrap"
+DTSTART:20261122T190000Z
+DTEND:20261122T213000Z
+DTSTAMP:20261112T173258Z
+UID:8976dbdde424f3c714d512e59e924839cb653109@corning-events
+SEQUENCE:0
+CATEGORIES:Performing Arts
+DESCRIPTION:The Mousetrap\nFri Nov 20th 9:00am - Sun 22nd 9:00am\nTheatre
+ \nPat Collins Black Box Theater\n160 Carter Road\, Geneva\, NY\nA timeless
+  tale of “whodunnit\,” Agatha Christie’s The Mousetrap strands seven
+  strangers at Monkswell Manor during a blizzard. But a police sergeant une
+ xpectedly arrives\, worried that a murderer-at-large is among the guests o
+ f the Manor. Before he can investigate\, one of the guests is killed\, sta
+ rting an investigation into the lives and histories of everyone there. One
+  of them is the killer\, and another one of them may be next. Will the pol
+ ice be able to solve the case before another “mouse” falls? The world
+ ’s longest continuously running play for over 70 years\, The Mousetrap c
+ ontinues to delight and intrigue mystery lovers of all ages.\nPERFORMANCES
+ \nNOVEMBER 20\, 2026 @ 7:30 PM\nNOVEMBER 21\, 2026 @ 7:30 PM\nNOVEMBER 22
+ \, 2026 @ 2:00 PM\nPAT COLLINS BLACK BOX THEATER\n160 CARTER ROAD\, GENEVA
+ \, NY\nTICKETS:\nSTUDENTS & SENIORS-$16.00\nADULTS-$18.00\nDIRECTED BY\nDA
+ MIAN GRZESKOWIAK\nFOR MORE INFORMATION AND/OR TICKETS:\nWWW.GENEVATHEATREG
+ UILD.ORG\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/
+ 78514579/20261122140000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514579/20261122140000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Murray & Peter present: Golden Girls: The Laughs Continue
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+DTSTAMP:20261112T173258Z
+UID:ce927b8ba0dce0afbc9fb410f8fa5f408c75bf3d@corning-events
+SEQUENCE:0
+CATEGORIES:Performing Arts,Comedy
+DESCRIPTION:Murray & Peter present: Golden Girls: The Laughs Continue\nSun
+  Nov 22nd 3:00pm - 5:00pm\nThe Smith Opera House\, 82 Seneca Street\, Gene
+ va\, NY\nThe Golden Girls are back in an all-new show!\n2026 finds Sophia 
+ out on bail\, after being busted by the DEA for running a drug ring at Sha
+ dy Pines. Blanche and Rose have founded CreakN\, a thriving sex app for se
+ niors. And Dorothy is trying to hold it all together\, with help from her 
+ much younger\, sex-crazed love interest. Relive the heartfelt hilarity of 
+ four ladies who never stopped being your friends! There will be a 20-minut
+ e intermission.\nPresented by Murray & Peter.\n\nSource: FLXcalendar - htt
+ ps://calendar.time.ly/o9b0uzpj/event/78514588/20261122150000
+GEO:42.867123;-76.984018
+LOCATION:The Smith Opera House\, 82 Seneca Street\, Geneva\, New York\, 14
+ 456\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514588/20261122150000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donkey Hodie with WSKG
+DTSTART:20261123T153000Z
+DTEND:20261123T163000Z
+DTSTAMP:20261112T173258Z
+UID:74c7d3f07d106ac2b16548f3cc8d3dd45604e277@corning-events
+SEQUENCE:0
+CATEGORIES:Family Fun
+DESCRIPTION:Event by Southeast Steuben County Library\n300 Nasser Civic Ce
+ nter Plaza\, Corning\, NY\nDuration: 1 hr\nPublic\nGather your friends and
+  family for an exciting program of learning through play!\nJoin us and WSK
+ G for a special screening of the popular PBS Kids Show\, Donkey Hodie.\nFo
+ llow the adventures of Donkey Hodie and her pals — Purple Panda\, Duck D
+ uck and Bob Dog — as they follow their big dreams and work together to c
+ ome up with creative solutions to everyday problems.\nNo need to sign up\,
+  just show up.\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/
+ event/78514749/20261123103000
+GEO:42.142288;-77.047119
+LOCATION:Southeast Steuben County Library\, 300 Nasser Civic Center Plaza
+ \, Corning\, New York\, Corning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514749/20261123103000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20261124T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:36997203c6248636f1312eda18c418c3e8efc559@corning-events
 SEQUENCE:1
 CATEGORIES:Comedy
@@ -1910,7 +2591,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy Club at the Clemens Center
 DTSTART:20261124T010000Z
 DTEND:20261124T043000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:b015876fb05dea7c31688a5e8392f97b2497c4c9@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy
@@ -1936,7 +2617,7 @@ BEGIN:VEVENT
 SUMMARY:I’m Dead. Now What? End-of-Life Planning Q&A Session
 DTSTART:20261124T220000Z
 DTEND:20261124T230000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:1a552d84611f4444b18501d1a65d57de34451c36@corning-events
 SEQUENCE:0
 DESCRIPTION:I’m Dead. Now What?\nEnd-of-Life Planning Q&A Session\nTuesd
@@ -1958,7 +2639,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261124T220000Z
 DTEND:20261124T230000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:e86775cf020cdf3569e8e36aa7a39791c26c1950@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -1974,7 +2655,7 @@ BEGIN:VEVENT
 SUMMARY:Elmira Tree Lighting
 DTSTART:20261124T223000Z
 DTEND:20261125T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:7afb07ca780809659ae761ec8761632ce3e8c518@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Community,Family Fun,New to the Area
@@ -1988,10 +2669,38 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78507656/20261124173000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Annual Tree Lighting Ceremony\, Downtown Elmira
+DTSTART:20261124T223000Z
+DTEND:20261125T000000Z
+DTSTAMP:20261112T173258Z
+UID:9c11a4977c61d330301e6207c84a85360efdce2b@corning-events
+SEQUENCE:0
+CATEGORIES:Holidays,Family Fun,Music
+DESCRIPTION:Event by Elmira Downtown Development\, Inc\nWisner Park\nDurat
+ ion: 1 hr 30 min\nPublic\nAnnual Tree Lighting Ceremony at Wisner Park!\nK
+ ick off the holiday season with us at Wisner Park on Tuesday\, November 24
+ th at 5:30 PM! Join family\, friends\, and neighbors for one of Elmira’s
+  favorite holiday traditions as we light up the park and welcome the magic
+  of the season.\nTree Lighting at 5:50 PM - Watch the giant holiday tree c
+ ome to life with thousands of sparkling lights.\nLive Holiday Entertainmen
+ t - Enjoy festive music to set the mood.\nHoliday Treats - Warm up with de
+ licious hot cocoa\nPhoto Ops - Grab a magical photo with Santa\, the Famil
+ y Reading Partnership elves and the beautifully lit tree!\nThis event is f
+ ree and open to all!\nLocation: Wisner Park\, Elmira\nDate: Tuesday\, Nove
+ mber 24th\nTime: 5:30 PM to 7:30 PM\nCost: Free\nCome celebrate with us an
+ d help spread holiday cheer!\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78514624/20261124173000
+GEO:42.09515;-76.809204
+LOCATION:Wisner Park\, Church and Main St.\, Elmira\, New York\, Elmira\, 
+ New York\, 14901\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514624/20261124173000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Understanding the Civil War: A Reading & Discussion Series
 DTSTART:20261124T230000Z
 DTEND:20261125T003000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:2a8cd72abb4104c0dd9ac1e5861d5d43abc8a609@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -2022,7 +2731,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261124T230000Z
 DTEND:20261125T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:a6570669c7cfe7fa9220bf91383c15ce01eba579@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -2041,7 +2750,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy Flops: Liquid Laughs @ Liquid State Brewing Co.
 DTSTART:20261125T000000Z
 DTEND:20261125T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:5e4ab10285640a2c84073c04aaa91cf2e0426314@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy,Performing Arts
@@ -2058,10 +2767,42 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78467683/20261027190000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BraVESTimo! Dementia and Community Chorus
+DTSTART:20261125T183000Z
+DTEND:20261125T200000Z
+DTSTAMP:20261112T173258Z
+UID:d41cdda1d037ef9bff270676dd42539a3e04b760@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Causes,Community
+DESCRIPTION:Event by VEST - Vocal Essence of the Southern Tier and The Par
+ k Church Elmira\nThe Park Church Elmira\nPublic\nSinging is good for the b
+ rain—and even better when we experience it together!\nBraVESTimo! is a j
+ oyful community chorus for people living with dementia\, Parkinson’s dis
+ ease\, or other neurodegenerative conditions\, their care partners\, and c
+ ommunity members who simply love to sing.\nYou do not need to have a perso
+ nal connection to dementia to participate. Community singers are warmly in
+ vited to sing alongside our members—adding friendship\, encouragement\, 
+ musical support\, and shared joy.\nResearch suggests that group singing ca
+ n support mood\, meaningful engagement\, emotional well-being\, and social
+  connection for people living with dementia and their care partners.\nThis
+  is not a choir performing for people living with dementia. It is a commun
+ ity singing with one another.\nNo prior singing experience is needed. All 
+ voices are welcome.\nLearn more and register at www.vestny.org.\nWe offer 
+ barrier-free access with a Pay-What-You-Are-Able Model\n#BraVESTimo #Commu
+ nitySinging #DementiaSupport #CarePartners #BrainHealth #MusicAndMemory #V
+ ESTNY\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/785
+ 14637/20261118133000
+GEO:42.089201;-76.808797
+LOCATION:Park Church\, 208 West Gray Street\, Elmira\, New York\, 14901\, 
+ United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514637/20261118133000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261125T220000Z
 DTEND:20261126T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:f6669e119521edd259b00b6cdace40f904509cc5@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -2075,7 +2816,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20261125T223000Z
 DTEND:20261126T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:328f369b2aee3531bd644c046b565a282eaaa6fe@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -2093,7 +2834,7 @@ BEGIN:VEVENT
 SUMMARY:Pie and Glove 5K
 DTSTART:20261126T130000Z
 DTEND:20261127T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:0cd06edfd3edde4c8216c81fd840f9af61f0425d@corning-events
 SEQUENCE:0
 CATEGORIES:Running,New to the Area
@@ -2110,7 +2851,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261126T150000Z
 DTEND:20261126T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:6c97d2a53ebb9ab5cfeb0b8ab3428fa0be92a0ff@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -2129,24 +2870,57 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78509534/20261105100000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shop Small Business Weekend in Downtown Ithaca
+DTSTART:20261127T050000Z
+DTEND:20261130T044500Z
+DTSTAMP:20261112T173258Z
+UID:19ad881fca86f1600930d80494c9a743202a8e53@corning-events
+SEQUENCE:0
+CATEGORIES:Community
+DESCRIPTION:Event by Downtown Ithaca\n171 E. State Street\, Ithaca\, NY\nD
+ uration: 3 days\nPublic\nKeep Downtown one of a kind!\nEvery purchase supp
+ orts the independent shops\, local makers\, and familiar faces that give D
+ owntown Ithaca its character. Discover a thoughtful gift\, meet the people
+  behind it\, and help keep our streets full of places worth exploring.\nNo
+ v. 27 - 29\nReceive a limited-edition holiday tote bag for a qualifying pu
+ rchase at participating Downtown Ithaca locations while supplies last!\nLe
+ arn more here: https://www.downtownithaca.com/shop-small-business.../\n\nS
+ ource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78514628/2026
+ 1127000000
+GEO:42.443386;-76.505501
+LOCATION:Downtown Ithaca\, Ithaca\, New York\, Ithaca\, New York\, 14850\,
+  United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514628/20261127000000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:70th Annual Downtown Elmira Holiday Parade
 DTSTART:20261127T150000Z
 DTEND:20261128T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:000177e468f41c4f67df32456771498373e7a6d3@corning-events
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Holidays,Community,Family Fun,New to the Area
-DESCRIPTION:This year marks the 70th Anniversary of Elmira’s Holiday Par
- ade\, a tradition that has brought families\, bands\, floats\, and festive
-  energy downtown for generations.\nTo celebrate this milestone\, we’re c
- ollecting photos\, stories\, and memories from past parades to share with 
- the community.\nHave a favorite moment? A photo from years ago? A story ab
- out marching\, volunteering\, or watching from the sidewalk?\nSubmit your 
- memories here\nIf you can’t upload files or have trouble using the form
- \, email sarah@elmiradowntown.com\nSelect submissions may be featured onli
- ne\, on social media\, and more. Let’s celebrate 70 years together!\nCli
- ck here for full details\n\nSource: FLXcalendar - https://calendar.time.ly
- /o9b0uzpj/event/78507661/20261127100000
+DESCRIPTION:Event by Elmira Downtown Development\, Inc\nDowntown Elmira\nP
+ ublic\n70th Annual Downtown Elmira Holiday Parade\nFriday\, November 27 
+ • 10:00 AM • Downtown Elmira\nFREE Community Event\, Sponsored by Comm
+ unity Bank\, N.A.\nKick off the holiday season in the heart of downtown El
+ mira at the 70th Annual Downtown Elmira Holiday Parade! This beloved tradi
+ tion brings together families\, local businesses\, performers\, and commun
+ ity groups for a magical morning full of festive fun.\nWhat to Expect:\n
+ • Festive Floats from local organizations\, businesses and emergency res
+ ponse vehicles!\n• Marching Band & Local Performers bringing lively holi
+ day music and entertainment\n• Special Appearance by Santa Claus and hun
+ dreds of costumed characters spreading cheer to kids and families\n• Com
+ munity Spirit Everywhere as neighbors line the streets to celebrate the se
+ ason together\nParade Route:\nThe parade steps off from Water Street near 
+ Elmira Tea & Coffee House and concludes at Wisner Park. Bundle up\, grab y
+ our spot\, and enjoy the sights and sounds of the season!\nFor 70 years th
+ e Elmira Holiday Parade has been a tradition that families have not only l
+ oved to see\, but to participate in!\nCome to our costume fittings if you 
+ are interested in being in the parade this year!\nVisit www.elmiradowntown
+ .com for details\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzp
+ j/event/78507661/20261127100000
 STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78507661/20261127100000
 END:VEVENT
@@ -2154,7 +2928,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261127T190000Z
 DTEND:20261127T200000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:350bb0ec74fab07ed3fea475673e11798991765d@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -2165,10 +2939,46 @@ URL:https://www.corningny.com/events/details/friday-see-sketch-11-27-2026-
  19827
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Technicolor Trailer Park LIVE @ Two Goats Brewing
+DTSTART:20261127T220000Z
+DTEND:20261128T000000Z
+DTSTAMP:20261112T173258Z
+UID:92c45b8010af6c192b2e15ebb3d8bc7810eadde1@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Performing Arts,Beer
+DESCRIPTION:Technicolor Trailer Park\nFriday\, November 27\, 2026\n5:00 PM
+  7:00 PM\nTwo Goats Brewing\, LLC (map)\nhttps://www.facebook.com/Techicol
+ orTrailerPark/\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/
+ event/78514705/20261127170000
+LOCATION:Two Goats Brewing\, 5027 State Route 414\, Hector\, NY
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514705/20261127170000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosie Newton\, Oona & James Stringband Party w/ Steve & Paul LIVE 
+ @ South Hill Cider
+DTSTART:20261127T230000Z
+DTEND:20261128T045959Z
+DTSTAMP:20261112T173258Z
+UID:8dff0b31cd5321107d627c21282d424f82f800e0@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Event by South Hill Cider\, Oona Grady and 3 others\n550 Sandb
+ ank Road\, Ithaca\, NY\nPublic\nFriday after Thanksgiving - Oona Grady and
+  James Gascoyne are back and will join Rosie Newton\, Steve Selin and Paul
+  Martin with their South Hill Cider Stringband. Come\, bring family\, lets
+  hang!\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78
+ 514728/20261127180000
+LOCATION:South Hill Cider\, 550 Sandbank Road\, Ithaca\, NY 14850\, Ithaca
+ \, 14850\, US
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514728/20261127180000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Magic: The Gathering - Friday Night Draft @ The Game Shoppe
 DTSTART:20261127T233000Z
 DTEND:20261128T023000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:7028c9e2bdee569492be08211998e7757d8f0533@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -2192,7 +3002,7 @@ BEGIN:VEVENT
 SUMMARY:The Windmill Farm & Craft Market\, Penn Yan
 DTSTART:20261128T120000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:d1d6484912c2bb464e5bcb1cd9aef280fbf79792@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area,Music
@@ -2225,7 +3035,7 @@ BEGIN:VEVENT
 SUMMARY:Parade of Lights
 DTSTART:20261128T123000Z
 DTEND:20261128T133000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:45e09e9d2137bfa036e78afe5903b3bb5f37a81d@corning-events
 SEQUENCE:1
 CATEGORIES:Holidays,Community,Music,Performing Arts
@@ -2242,7 +3052,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Geneva Jingle Markets
 DTSTART:20261128T140000Z
 DTEND:20261128T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:2736d90da43da16ce4cb6c20cd6d27fac41690d7@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Crafts
@@ -2257,10 +3067,23 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78507369/20261128090000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sewing Workshop: Quilted Holiday Stocking
+DTSTART:20261128T140000Z
+DTEND:20261128T163000Z
+DTSTAMP:20261112T173258Z
+UID:4fbfc97e575843a789d5bd430f9144fdebf10713@corning-events
+SEQUENCE:0
+DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
+ ny.com/events/details/sewing-workshop-quilted-holiday-stocking-20106
+STATUS:CONFIRMED
+URL:https://www.corningny.com/events/details/sewing-workshop-quilted-holid
+ ay-stocking-20106
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Small Business Saturday Craft Fair at LECOM Event Center
 DTSTART:20261128T150000Z
 DTEND:20261128T210000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:8c35d58c80275afbcaf94ba7b97c9a8ce0b647bc@corning-events
 SEQUENCE:0
 CATEGORIES:Crafts,Holidays
@@ -2276,7 +3099,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Market at the Federal Building
 DTSTART:20261128T160000Z
 DTEND:20261128T200000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:372620e7ac78a277ddb3e9a4cbfbe029dc8798f3@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Festivals
@@ -2297,10 +3120,40 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78466339/20261128110000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Downtown Elmira's Small Business Saturday Local Shop Giveaway!
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+DTSTAMP:20261112T173258Z
+UID:7cab903cb5b402c1c8fb3969cb6b19b09e82025b@corning-events
+SEQUENCE:0
+CATEGORIES:Community
+DESCRIPTION:Event by Elmira Downtown Development\, Inc\n231 W. Water St. s
+ uite 102\, Elmira\, NY\nPublic\nSmall Business Saturday is almost here\, a
+ nd we’re kicking it off with something brand new downtown!\nOn Saturday
+ \, November 28\, come discover your Elmira this holiday season. The first 
+ 250 people to stop by the Elmira Downtown Development office at 231 W Wate
+ r Street\, Suite 102\, from 11am to 1pm will receive a free Elmira Downtow
+ n Holiday Shopping Bag in red and black houndstooth\, packed with mystery 
+ prizes\, deals from local businesses\, and a chance to win gift cards to y
+ our favorite local spots.\nWant a shot at a $100 gift card to spend locall
+ y? Enter the sweepstakes for free at https://www.zeffy.com/.../small-busin
+ ess-saturday-elmira.... Entries open October 19 and close at 11:59 PM on N
+ ovember 23\, with the winner drawn November 24. Entering does not reserve 
+ a shopping bag\, so you’ll need to come downtown on November 28 to pick 
+ one up.\nThis event is made possible by our presenting sponsor\, Hilliard
+ \, along with Chemung Supply Corporation\, Pudgie’s Pizza and Subs\, Sie
+ mens Energy\, and Patrick’s. Thank you for supporting downtown Elmira!\n
+ Shop local\, support your neighbors\, and let’s make this holiday season
+  a good one downtown.\nelmiradowntown.com\n\nSource: FLXcalendar - https:/
+ /calendar.time.ly/o9b0uzpj/event/78514613/20261128110000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514613/20261128110000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:360 Small Business Saturday Market!
 DTSTART:20261128T180000Z
 DTEND:20261128T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:935b7f1fbd547fb12086b15d71d6137e55e54c77@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Community
@@ -2326,7 +3179,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Fixers Collective
 DTSTART:20261128T190000Z
 DTEND:20261128T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:0c2e7c072b766d51031eb9650c0172ae44d2f55c@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Connection,Support,New to the Area
@@ -2344,10 +3197,70 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78496272/20261024150000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Doc Possum Duo LIVE @ Two Goats Brewing
+DTSTART:20261128T220000Z
+DTEND:20261129T000000Z
+DTSTAMP:20261112T173258Z
+UID:fc6cc85c8c3352abac5171b444de5821586b5d5b@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Performing Arts,Beer
+DESCRIPTION:Doc Possum Duo\nSaturday\, November 28\, 2026\n5:00 PM 7:00 PM
+ \nTwo Goats Brewing (map)\nDoc Possom: Since 1994\, Singer/Songwriter Doc 
+ Cavallaro has ​been entertaining music lovers of all ages with his ​me
+ lodic rockin’ originals that continue to keep the ​feet tapping and th
+ e hands a clapping!\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0
+ uzpj/event/78514707/20261128170000
+LOCATION:Two Goats Brewing\, 5027 State Route 414\, Hector\, NY
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514707/20261128170000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAQ at the South Hill Cider Community Concert Series
+DTSTART:20261128T223000Z
+DTEND:20261129T045959Z
+DTSTAMP:20261112T173258Z
+UID:04bcc7d206da8955545b455417e0996df8e5d87b@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Event by South Hill Cider\, Eric Aceto and Sean Bloom\n550 San
+ dbank Road\nIthaca\, NY\nPublic\nMAQ is a musical ensemble based in Ithaca
+ \, NY comprised of some of the area's best seasoned jazz and Brazilian-mus
+ ic musicians. Its members have individually toured throughout the United S
+ tates and Europe\, in venues from concert halls to clubs\, performing ever
+ ything from classic and modern jazz to Brazilian bossa and folk music.\n\n
+ Source: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78514730/202
+ 61128173000
+LOCATION:South Hill Cider\, 550 Sandbank Road\, Ithaca\, NY 14850\, Ithaca
+ \, 14850\, US
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514730/20261128173000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jeremy & The Toe Beans + Truth Decay (wsg Circle Beathers) LIVE
+DTSTART:20261128T230000Z
+DTEND:20261129T044500Z
+DTSTAMP:20261112T173258Z
+UID:a98e02eb3ce2a5ee487299bb2b4959372b8cd44c@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Event by Jeremy & The Toe Beans\, K-HOUSE Karaoke & Arts Hub a
+ nd Jeremy Nelson\nK-HOUSE Karaoke & Arts Hub\nPublic\nJeremy & The Toe Bea
+ ns are joined by Lars Galloway from Truth Decay at K-House in Ithaca\, NY!
+ \nExpect a plethora of 70’s rock classics\, mixed in with some originals
+  by both The Toe Beans and Truth Decay\nOpening the night is Circle Breath
+ ers!\nDoors at 6pm $10 suggested donation\n\nSource: FLXcalendar - https:/
+ /calendar.time.ly/o9b0uzpj/event/78514685/20261128180000
+GEO:42.439343;-76.499778
+LOCATION:K-House Karaoke & Arts Hub\, 121 West State Street\, Ithaca\, New
+  York\, 14850\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514685/20261128180000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Geneva Jingle Markets
 DTSTART:20261129T140000Z
 DTEND:20261129T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:6ea407f8316b6a46dbb3083109f33203d4b60342@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Crafts
@@ -2365,7 +3278,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal City Pageant Craft Far
 DTSTART:20261129T140000Z
 DTEND:20261129T200000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:d9fd53c5e4f1a8f34fd22b14e500eabe600c3a4e@corning-events
 SEQUENCE:0
 CATEGORIES:Crafts,Causes,Holidays
@@ -2400,7 +3313,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261129T153000Z
 DTEND:20261129T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:b83084dd2cd48af25c836395a9f4956678a182cb@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -2422,7 +3335,7 @@ BEGIN:VEVENT
 SUMMARY:Spiritual Recharge: Tea & Meditation
 DTSTART:20261129T200000Z
 DTEND:20261129T210000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:aedd5d9d6666a216a55a4a022350851dfb102d50@corning-events
 SEQUENCE:0
 CATEGORIES:Health,Connection
@@ -2449,7 +3362,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Three Kings: The Irish Dance Christmas Sensation
 DTSTART:20261201T003000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:87cec0980311311d534c509109e99321e3c97e73@corning-events
 SEQUENCE:4
 CATEGORIES:Holidays,Dancing,Performing Arts,Music
@@ -2475,7 +3388,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261201T220000Z
 DTEND:20261201T230000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:ad20e99a32673ef59a5de29e8a123b78c68e6fb1@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -2491,7 +3404,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261201T230000Z
 DTEND:20261202T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:6d2b37b61d6456e2837e083e9958bf4a41f8cdf1@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -2507,10 +3420,94 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78393438/20260630180000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OGFF Collaborators Meeting
+DTSTART:20261202T103000Z
+DTEND:20261203T003000Z
+DTSTAMP:20261112T173258Z
+UID:84ad4413be8a588e89403c36b2e34b2cba18e891@corning-events
+SEQUENCE:0
+CATEGORIES:Community,Performing Arts,Volunteering
+DESCRIPTION:Event by OldGreenyfringefest and K-HOUSE Karaoke & Arts Hub\nK
+ -HOUSE Karaoke & Arts Hub\nPublic\nYou\,YES YOU\, are cordially invited to
+  the first OG Collaborators Meeting.\nDecember 2nd from 5:30 PM to 7:30 PM
+ \nFind us in K-HOUSE\, Room K (121 W State Street\, Ithaca NY)\nWe’re ar
+ e bringing together the most interesting people in the Ithaca area for a Y
+ ES ANDing brainstorm session that will erase the line between reality and 
+ magic. Come share your brilliant ideas for the 2027 Old Greeny Fringe Fest
+ .\nRSVP: https://docs.google.com/.../1FAIpQLSdlKIPZwWGtYe.../viewform\n\nS
+ ource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78514646/2026
+ 1202053000
+GEO:42.439343;-76.499778
+LOCATION:K-House Karaoke & Arts Hub\, 121 West State Street\, Ithaca\, New
+  York\, 14850\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514646/20261202053000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clifford: The Big Red Dog – The Musical
+DTSTART:20261202T150000Z
+DTEND:20261202T160000Z
+DTSTAMP:20261112T173258Z
+UID:728cf9f9fd9fc5d0201001c793c1b2aa36dcf3f1@corning-events
+SEQUENCE:0
+CATEGORIES:Performing Arts,Family Fun,Music
+DESCRIPTION:Clifford: The Big Red Dog – The Musical\nWed Dec 2nd 10:00am
+  - 11:00am\nThe Smith Opera House\, 82 Seneca Street Geneva\, NY 14456\nEv
+ eryone’s favorite Big Red Dog\, CLIFFORD\, bounds onto the stage in a br
+ and-new musical comedy adventure that celebrates friendship\, imagination 
+ and the magic of unconditional love! Emily Elizabeth absolutely adores her
+  new puppy – the tiny red runt of the litter. But when her GIANT love ma
+ kes Clifford grow into a GIANT\, the family must trade their cramped city 
+ apartment for a home on Birdwell Island – where folks aren’t so sure a
+ bout a house-sized\, playful pup. Worried his colossal clumsiness is keepi
+ ng Emily Elizabeth from making friends\, Clifford wishes he never grew so 
+ big – and it works! He enjoys a fur-tastic small-dog-sized day… until 
+ his adventurous BFF and her new island friends get stuck in a place from w
+ hich only a BIG red dog can save them.\n\nSource: FLXcalendar - https://ca
+ lendar.time.ly/o9b0uzpj/event/78514619/20261202100000
+GEO:42.867123;-76.984018
+LOCATION:The Smith Opera House\, 82 Seneca Street\, Geneva\, New York\, 14
+ 456\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514619/20261202100000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BraVESTimo! Dementia and Community Chorus
+DTSTART:20261202T183000Z
+DTEND:20261202T200000Z
+DTSTAMP:20261112T173258Z
+UID:e6d4832f72a1cc1aa6701effb2801742ae373b06@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Causes,Community
+DESCRIPTION:Event by VEST - Vocal Essence of the Southern Tier and The Par
+ k Church Elmira\nThe Park Church Elmira\nPublic\nSinging is good for the b
+ rain—and even better when we experience it together!\nBraVESTimo! is a j
+ oyful community chorus for people living with dementia\, Parkinson’s dis
+ ease\, or other neurodegenerative conditions\, their care partners\, and c
+ ommunity members who simply love to sing.\nYou do not need to have a perso
+ nal connection to dementia to participate. Community singers are warmly in
+ vited to sing alongside our members—adding friendship\, encouragement\, 
+ musical support\, and shared joy.\nResearch suggests that group singing ca
+ n support mood\, meaningful engagement\, emotional well-being\, and social
+  connection for people living with dementia and their care partners.\nThis
+  is not a choir performing for people living with dementia. It is a commun
+ ity singing with one another.\nNo prior singing experience is needed. All 
+ voices are welcome.\nLearn more and register at www.vestny.org.\nWe offer 
+ barrier-free access with a Pay-What-You-Are-Able Model\n#BraVESTimo #Commu
+ nitySinging #DementiaSupport #CarePartners #BrainHealth #MusicAndMemory #V
+ ESTNY\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/785
+ 14637/20261118133000
+GEO:42.089201;-76.808797
+LOCATION:Park Church\, 208 West Gray Street\, Elmira\, New York\, 14901\, 
+ United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514637/20261118133000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261202T220000Z
 DTEND:20261203T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:2e879e82639e4a253d18b9c76755484356d5d14b@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -2523,7 +3520,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gingerbread Invitational Opening Reception
 DTSTART:20261202T223000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:b38160f61bd1d9f8ae5aa26f481d430d3f03b00c@corning-events
 SEQUENCE:2
 DESCRIPTION:Free and open to the public | Registration encouraged\n\nSourc
@@ -2535,7 +3532,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20261202T223000Z
 DTEND:20261203T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:d47010fc6275d017c7630d4c9209d4efead77385@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -2550,10 +3547,49 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78495952/20261021173000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:O Christmas Tea: A British Comedy
+DTSTART:20261203T003000Z
+DTEND:20261203T020000Z
+DTSTAMP:20261112T173258Z
+UID:f6227bbc273f0457e0f0a9b48e811d328e53ee01@corning-events
+SEQUENCE:0
+CATEGORIES:Comedy,Holidays,Performing Arts
+DESCRIPTION:Event by James & Jamesy and State Theatre of Ithaca\nState The
+ atre of Ithaca\nPublic\nFans of Monty Python\, Mr. Bean\, and Dr. Seuss…
+  Grab your teacups!\nOff-Broadway Comedians and London's 3-time IMPRESARIO
+  Award-Winners James & Jamesy return with their outrageously funny and bri
+ lliantly inventive Christmas comedy classic O Christmas Tea — an astonis
+ hing show that delights thousands of hearts every holiday season.\nWatch t
+ he trailer and get a taste of O Christmas Tea here: https://ochristmastea.
+ com/\nWhen catastrophe strikes at James and Jamesy’s Christmas tea party
+ \, flooding the world with tea\, the friends leap into action\, finding in
+ novative and hilarious solutions to keep them afloat. Redefining immersive
+  theatre\, these masters of physical comedy — with over 25 comedy awards
+  to their name — sweep the audience out to sea in a jolly aquatic escapa
+ de brimming with whimsy\, action\, and ingenuity in a celebration of frien
+ dship at Christmas.\n“Complete and utter fun… for all ages.”\n★★
+ ★★★ CBC\n“Outrageously funny\, magnificently written\, beautifully
+  choreographed.”\n★★★★★ London Free Press\n“An ode to the id
+ ea that anything is possible.”\n★★★★★ Torontoist\n“I cannot 
+ think of a show that will leave you more profoundly happy than this.”\n
+ ★★★★★ Stage Door\nHailed as “a child’s imagination on steroi
+ ds” by London Free Press and “a masterpiece of physical comedy” by T
+ heatre In London\, critics rave for the charismatic James & Jamesy. A must
+ -see performance on the international comedy circuit\, this unstoppable du
+ o is regarded as “one of the most popular fringe duos ever” (CBC).\n\n
+ Source: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78514768/202
+ 61202193000
+GEO:42.439256;-76.499593
+LOCATION:State Theatre of Ithaca\, 107 West State Street\, Ithaca\, New Yo
+ rk\, 14850\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514768/20261202193000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261203T150000Z
 DTEND:20261203T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:56899e3c9d9189262af09ac69a5f9fa832a540ad@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -2574,7 +3610,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lil Rockwell | Story Hour: Gingerbread
 DTSTART:20261203T150000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:eed09e70192d4d9057bfbe371d088eaae92adaa3@corning-events
 SEQUENCE:2
 DESCRIPTION:Free for children and their caregivers | No registration requi
@@ -2587,7 +3623,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Nonprofit Showcase Business After Hours
 DTSTART:20261203T220000Z
 DTEND:20261204T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:2e45c633968888e31f29436b294c9d51e05aacd5@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -2597,10 +3633,32 @@ URL:https://www.corningny.com/events/details/2026-nonprofit-showcase-busin
  ess-after-hours-20104
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Light Up Geneva
+DTSTART:20261203T230000Z
+DTEND:20261204T010000Z
+DTSTAMP:20261112T173258Z
+UID:e74030e073ad8daae71ca47c10eea5a6686fdf2b@corning-events
+SEQUENCE:0
+CATEGORIES:Holidays,Music,Causes
+DESCRIPTION:Light Up Geneva\nThu Dec 3rd 6:00pm - 8:00pm\nDove Block Event
+  Space\, 465 Exchange St\, Geneva\, NY 14456\, USA\nJoin us for an evening
+  of food\, fun and festivities at the Dove Block event space on Thursday\,
+  December 3rd. This event will feature a silent auction\, a live auction\,
+  music\, hors d'oeuvres and a cash bar. This fundraiser is the only source
+  of income for the care and replacement of holiday lights\, many of which 
+ remain up through the end of February. Help us to light up the dark days o
+ f winter!\nThe live auction portion of the event will be announced by Carr
+ ie Hessney\, 2026 Women’s International Auctioneer Champion.\nThis event
+  is free to attend\, with a suggested $20 donation.\n\nSource: FLXcalendar
+  - https://calendar.time.ly/o9b0uzpj/event/78514623/20261203180000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514623/20261203180000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261204T190000Z
 DTEND:20261204T200000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:398860f90694a4d8ab2e1726e6980950bda2f2c7@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -2614,7 +3672,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261204T200000Z
 DTEND:20261204T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:6c588bcd8631560fc6a55b28091edd3a42c0b1ec@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -2632,7 +3690,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20261204T220000Z
 DTEND:20261205T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:18425e75f3426188731bc26a53b13b3675ef681f@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -2644,10 +3702,27 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78456696/20260904170000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cisco PL Duo LIVE @ Two Goats Brewing
+DTSTART:20261204T220000Z
+DTEND:20261205T000000Z
+DTSTAMP:20261112T173258Z
+UID:528e420167fdbbcd3f29b9b15674a506a5d1472f@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Performing Arts,Beer
+DESCRIPTION:Cisco PL Duo\nFriday\, December 4\, 2026\n5:00 PM 7:00 PM\nTwo
+  Goats Brewing (map)\nhttps://thesoulbenders.com/\nLead from the band The 
+ Soul Benders\, Cisco PL brings soul-stirring originals and re-imagined blu
+ es and rock in a duo format.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78514708/20261204170000
+LOCATION:Two Goats Brewing\, 5027 State Route 414\, Hector\, NY
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514708/20261204170000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bath Spirit of Christmas
 DTSTART:20261204T223000Z
 DTEND:20261205T003000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:24633b4541543ffe995992a95201317c0d9976f6@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Festivals,Music,Food,Crafts
@@ -2661,7 +3736,7 @@ BEGIN:VEVENT
 SUMMARY:Magic: The Gathering - Friday Night Draft @ The Game Shoppe
 DTSTART:20261204T233000Z
 DTEND:20261205T023000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:59e5b534b24c8a40b8c299f27741d1d0575d8ddd@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -2685,7 +3760,7 @@ BEGIN:VEVENT
 SUMMARY:360 Karaoke + Open Mic Night!
 DTSTART:20261205T010000Z
 DTEND:20261205T045900Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:c6b03aa0e14366369d50da5ba3e3d107c3aac507@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -2707,7 +3782,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holiday Open House
 DTSTART:20261205T050000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:ab92400da163ca48e80eb0aaa41645fbb50fae19@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass Holiday Open House FREE Admission\n\nS
@@ -2721,7 +3796,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Geneva Jingle Markets
 DTSTART:20261205T140000Z
 DTEND:20261205T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:68e0ae7c7e8953483d9b42ec1c2df9b6497ba832@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Crafts
@@ -2738,7 +3813,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holiday Open House + Sparkle
 DTSTART:20261205T140000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:ed12e4c80183386cc93429cd906b50fbac45626f@corning-events
 SEQUENCE:4
 DESCRIPTION:Free and open to the public | No registration required\n\nSour
@@ -2750,7 +3825,7 @@ BEGIN:VEVENT
 SUMMARY:Doc Possum: Reading & Rocking Tour!
 DTSTART:20261205T153000Z
 DTEND:20261205T163000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:99400d5bb6109ed0c8945580e3080dc6ae78f8bf@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Music,Literature
@@ -2773,7 +3848,7 @@ BEGIN:VEVENT
 SUMMARY:LilySilly Puppets at The Dryden Community Center
 DTSTART:20261205T153000Z
 DTEND:20261206T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:caad1367ae8d02ae00c606df511bcf89eb215d0b@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun
@@ -2793,10 +3868,56 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78473757/20261003103000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Downtown Ithaca Winter Holiday Bash
+DTSTART:20261205T160000Z
+DTEND:20261206T010000Z
+DTSTAMP:20261112T173258Z
+UID:a3d45856a64a2fb7d5bd2d680c8925da14e32d5e@corning-events
+SEQUENCE:0
+CATEGORIES:Holidays,Music,Family Fun
+DESCRIPTION:Event by Downtown Ithaca\n171 E. State Street\, Ithaca\, NY\nD
+ uration: 9 hr\nPublic\nMark your calendar for the Downtown Ithaca Winter H
+ oliday Bash on Saturday\, December 5! Three great events are happening Dow
+ ntown in one day of holiday fun:\nSanta's Arrival is 11 AM - 2 PM (he arri
+ ves at 11:30 AM)\nThe Elf Hop is 4:30 - 5:30 PM in front of the Bernie spo
+ rting a kids' silent disco party\nFinish the evening with the Silent Disco
+  from 6 - 8 PM with music for all ages to enjoy\nThank you to Empire Fiber
+  Internet for sponsoring the Silent Disco!\nLearn more about the bash here
+ : https://www.downtownithaca.com/winterholidaybash/\n\nSource: FLXcalendar
+  - https://calendar.time.ly/o9b0uzpj/event/78514627/20261205110000
+GEO:42.443386;-76.505501
+LOCATION:Downtown Ithaca\, Ithaca\, New York\, Ithaca\, New York\, 14850\,
+  United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514627/20261205110000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Open House
+DTSTART:20261205T190000Z
+DTEND:20261205T210000Z
+DTSTAMP:20261112T173258Z
+UID:053e7813602a2aa56d8f92f4207db68baaaedb07@corning-events
+SEQUENCE:0
+CATEGORIES:Holidays,Games,Crafts
+DESCRIPTION:Event by Dormann Library\n101 W Morris St\, Bath\, NY\nPublic
+ \nJoin in the festivities!\nCome to the Dormann Library for our Holiday Op
+ en House! ProAction will offer the Book on Every Bed program for parents t
+ o wrap books for their children to open during the holiday season. Santa w
+ ill visit here at the library. There will be games\, crafts\, treats\, and
+  all kinds of holiday fun for the whole family!\nSaturday\, December 5th f
+ rom 2pm to 4pm.\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj
+ /event/78514616/20261205140000
+GEO:42.333346;-77.324231
+LOCATION:Dormann Library\, 101 West Morris Street\, Bath\, New York\, 1481
+ 0\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514616/20261205140000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CAYP Game Day
 DTSTART:20261205T190000Z
 DTEND:20261205T210000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:09664172cca030c11d08930da3c8649ad9e0b1cf@corning-events
 SEQUENCE:0
 DESCRIPTION:CAYP Gmae Day | Dec 5 at The Office in Corning\n\nSource: Corn
@@ -2808,7 +3929,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rafael Grigorian Ballet Theatre presents THE NUTCRACKER
 DTSTART:20261205T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:25e8793c2306a767e9b1a3581fa927cb8cb39b8d@corning-events
 SEQUENCE:3
 CATEGORIES:Family Fun,Holidays,Performing Arts,Music,Dancing,New to the Ar
@@ -2831,7 +3952,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Fixers Collective
 DTSTART:20261205T190000Z
 DTEND:20261205T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:6cbf504fb84eecdba87ea1397f095f6c29b5ecc3@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Connection,Support,New to the Area
@@ -2851,7 +3972,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sparkle Cookie Decorating
 DTSTART:20261205T200000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:c452ea413f62d7461f1249a380bbf19d9da2395f@corning-events
 SEQUENCE:0
 DESCRIPTION:Free and open to the public | No registration required\n\nSour
@@ -2864,7 +3985,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkle presented by First HEritage Federal Credit Union
 DTSTART:20261205T210000Z
 DTEND:20261206T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:80fe29cb276c4e612d481bf1b98847d762487abd@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning’s most magical holiday tradition is back\, lighting 
@@ -2877,10 +3998,79 @@ URL:https://www.corningny.com/events/details/sparkle-presented-by-first-he
  ritage-federal-credit-union-20098
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sing Trece LIVE @ Two Goats Brewing
+DTSTART:20261205T220000Z
+DTEND:20261206T000000Z
+DTSTAMP:20261112T173258Z
+UID:0f50789f339e9b50e0228a6b5c57a60c1e68a81a@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Performing Arts,Beer
+DESCRIPTION:Sing Trece\nSaturday\, December 5\, 2026\n5:00 PM 7:00 PM\nTwo
+  Goats Brewing\, LLC (map)\nSing Trece Band: leading the charge in Soul\, 
+ R&B and Funk!\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/e
+ vent/78514710/20261205170000
+LOCATION:Two Goats Brewing\, 5027 State Route 414\, Hector\, NY
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514710/20261205170000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SANTACON 2026
+DTSTART:20261205T220000Z
+DTEND:20261206T030000Z
+DTSTAMP:20261112T173258Z
+UID:a7df139504690dd89599c05eb3adffff1f1a915d@corning-events
+SEQUENCE:0
+CATEGORIES:Holidays,Food,Beer
+DESCRIPTION:Event by ILL EAGLE Taphouse and Patrick's Elmira NY\n200 East 
+ Church Street\nElmira\, NY\nPublic\nIt's BACK! Our annual Santa Con pub cr
+ awl.\n-Sign ups start at 5 pm at Rye Bar\, grab your passport.\n-Stop at e
+ ach location to get a stamp\n-Each location will have a drink and food spe
+ cials\n-Turn your passport in at the last stop to be entered to win prizes
+ \n1st Stop: Rye Bar 5-6 PM\n2nd Stop: Patrick's 6-7 PM\n3rd Stop: R3 7-8 P
+ M\n4th Stop: ILL Eagle 8-10 PM~After party with Cj Stro spinning the tunes
+ \n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78514632
+ /20261205170000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514632/20261205170000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hank Roberts Trio LIVE @ South Hill Cider
+DTSTART:20261205T230000Z
+DTEND:20261206T045959Z
+DTSTAMP:20261112T173258Z
+UID:2a7fbe7c82b378b5ccb446af7db3519bcdb71ee5@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Event by South Hill Cider\, Hank Roberts and Sean Bloom\n550 S
+ andbank Road\, Ithaca\, NY\nPublic\nHank Roberts Trio with Ashley Ickes - 
+ drums & Chad Lieberman - piano at South Hill Cider!\nHank Roberts is one o
+ f our local musical luminaries. Most of his performances are touring inter
+ nationally\, and he will be playing at South Hill Cider on December 5th wi
+ th Chad Lieberman!\nHank Roberts is an American jazz cellist and vocalist.
+  He plays the electric cello\, and his style is a mixture of rock\, jazz\,
+  avant-garde\, folk\, and classical influences. He emerged with the downto
+ wn New York City jazz scene of the 1980s and is associated with its post-m
+ odern tendencies.\nChad Lieberman studied music composition and electronic
+  music at Ithaca College. He plays piano\, accordion\, keyboards\, bass\, 
+ and guitar for many of the region’s best-known bands. Chad grew up in Mi
+ ami\, Florida\, where\, as a teenager\, he was inspired by Cuban salsa and
+  merengue\, as well as the innovative music coming out of the University o
+ f Miami’s jazz program. These early influences fostered an appreciation 
+ for the music of different cultures as well as an awareness of the difficu
+ lties that can arise between them. In high school he formed his first band
+ \, The Hollow Men\, which raised $3000 in ticket sales for the Miami City 
+ Mission\, a shelter for homeless men.\n\nSource: FLXcalendar - https://cal
+ endar.time.ly/o9b0uzpj/event/78514737/20261205180000
+LOCATION:South Hill Cider\, 550 Sandbank Road\, Ithaca\, NY 14850\, Ithaca
+ \, 14850\, US
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514737/20261205180000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Christmas with The Celts at the State Theatre of Ithaca
 DTSTART:20261205T233000Z
 DTEND:20261206T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:a13cf6ace1bbbf16f946cc63e71363b6fffc73da@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Music,Performing Arts
@@ -2899,7 +4089,7 @@ BEGIN:VEVENT
 SUMMARY:Aragon Dance Club\, Big Flats
 DTSTART:20261206T000000Z
 DTEND:20261206T023000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:b87f3d765e8286c47f69b2a70245e5d4ec58087f@corning-events
 SEQUENCE:0
 CATEGORIES:Dancing,Community,Music,Seniors
@@ -2914,7 +4104,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Geneva Jingle Markets
 DTSTART:20261206T140000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:248955ca139ab109c9359089c4b9afefd7ca7d21@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Crafts
@@ -2931,7 +4121,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holiday Open House
 DTSTART:20261206T140000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:d9e65007d54f52cc473133b24fdb2c423d9bfd45@corning-events
 SEQUENCE:0
 DESCRIPTION:Free and open to the public | No registration required\n\nSour
@@ -2943,7 +4133,7 @@ BEGIN:VEVENT
 SUMMARY:Southern Tier Card Showcase
 DTSTART:20261206T150000Z
 DTEND:20261206T210000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:3e785dada0330f5d1b9e82d7f0e2fa89ef875499@corning-events
 SEQUENCE:0
 CATEGORIES:Games,Food,Family Fun
@@ -2966,7 +4156,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261206T153000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:83ce0149607b5bbdd4ba8322151abf856ba1fee1@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -2988,7 +4178,7 @@ BEGIN:VEVENT
 SUMMARY:The Magic School Bus: Lost in the Solar System
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:4167f72302b324faae5463498a329ae0d0cf8917@corning-events
 SEQUENCE:0
 DESCRIPTION:The Magic School Bus: Lost in the Solar System\nMondayDecember
@@ -3006,10 +4196,135 @@ URL:https://clemenscenter.org/event/the-magic-school-bus-lost-in-the-solar
  -system-3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Béla Fleck: My Bluegrass Heart
+DTSTART:20261207T003000Z
+DTEND:20261207T045959Z
+DTSTAMP:20261112T173258Z
+UID:c9320e99a41ee9faf45942d18b7c3cc1365afcd9@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Performing Arts
+DESCRIPTION:Event by State Theatre of Ithaca and DSP Shows\nState Theatre 
+ of Ithaca\nPublic\nDSP Shows & The State Theatre of Ithaca Present:\nBéla
+  Fleck: My Bluegrass Heart\nFeaturing: Michael Cleveland\, Dominick Leslie
+ \, Jeff Partin\, Mark Schatz & Jake Stargel\nSunday\, December 6th\, 2026
+ \nDoors: 6:30pm | Show: 7:30pm\nTickets: https://tixr.com/e/195289\nOver t
+ he last four decades\, Béla Fleck has made a point of boldly going where 
+ no banjo player has gone before\, a musical journey that has earned him 19
+  Grammys in nine different fields\, including Country\, Pop\, Jazz\, Instr
+ umental\, Classical and World Music.But his roots are in bluegrass\, and t
+ hat’s where he returns with his celebrated bluegrass project\,My Bluegra
+ ss Heart.The Grammy award-winning album\,My Bluegrass Heartis the third ch
+ apter of atrilogy which began with the 1988 album\,Drive\, and continued i
+ n 1991 with The Bluegrass Sessions.Fleck’s band spotlights a multi-gener
+ ational gamut of the best of bluegrass players\, all sporting a myriad of 
+ Grammy Awards and nominations\, as well as gigantic piles of IBMA awards f
+ or their instruments: fiddler Michael Cleveland\, mandolinist Dominick Les
+ lie\, Jeff Partin on dobro\, bassist/multi-instrumentalist Mark Schatz\, a
+ nd Jake Stargel on guitar.\nJust in case you aren’t familiar with Béla 
+ Fleck\, there are many who say he’s the premier banjo player in the worl
+ d. Others claim that Fleck has virtually reinvented the image and the soun
+ d of the banjo through a remarkable performing andrecording career that ha
+ s taken him all over the musical map and on a range of solo projects and c
+ ollaborations. If you are familiar with Fleck\, you know that he just love
+ s to play the banjo\, and put it into unique settings. A nineteen-time Gra
+ mmy Award-winner\, Fleck has the virtuosic\, jazz-to-classical ingenuity o
+ f an iconic instrumentalist and composer with bluegrass roots.For over 30 
+ years\, he has led Béla Fleck and The Flecktones\, the groundbreaking qua
+ rtet inspired by jazz\, funk\, bluegrass and beyond. From writing three ba
+ njo concertos for full symphony orchestra to exploring the banjo’s Afric
+ an roots with the award-winning 2009 documentary Throw Down Your Heart\, m
+ any tout that Béla Fleck is the world’s premier banjo player. As Jon Pa
+ reles wrote for The New York Times\,“That’s a lot of territory for fiv
+ e strings.” Fleck has collaborated with Indian musical royalty Zakir Hus
+ sain and Rakesh Chaurasia with Edgar Meyer\, and his latin jazz-infused BE
+ ATrio with harpist Edmar Castañeda and drummer Antonio Sánchez\,and perf
+ ormed as a folk duo with wife Abigail Washburn\, and a jazz duo with legen
+ dary pianist Chick Corea. Most recently\, Fleck produced and performed wit
+ h Renée Fleming on their collaborative album\, The Fiddle and the Drum\, 
+ a celebration of Appalachian folk music. The project is touring in select 
+ markets throughout 2026\, supported by none other than Fleck’s My Bluegr
+ ass Heart band.\nMichael Cleveland\nMichael Cleveland\, widely regarded as
+  the defining bluegrass fiddler of his generation\, began performing profe
+ ssionally after high school with Dale Ann Bradleyand Rhonda Vincent before
+  forming his own band\, Flamekeeper\, in 2006—now aseven-time recipient 
+ of the IBMA’s Instrumental Group of the Year award. A twelve-time IBMA F
+ iddle Player of the Year and 2018 National Fiddlers Hall of Fameinductee\,
+  Cleveland has toured and recorded with legendary artists including BélaF
+ leck\, Tommy Emmanuel\, Billy Strings\, and Vince Gill. He is a four-time 
+ GRAMMY nominee\, including a nomination this year for Best Bluegrass Album
+  with JasonCarter for their collaborationCarter & Cleveland\, which also w
+ on IBMA’s Album ofthe Year and Song of the Year (“Outrun the Rain”) 
+ at this year’s awards. Clevelandpreviously won a GRAMMY for Best Bluegra
+ ss Album in 2019 for Tall Fiddler\, the same year his inspiring journey wa
+ s chronicled in the documentary Flamekeeper:The Michael Cleveland Story. A
+  recipient of the NEA National Heritage Fellowship\, hecontinues to expand
+  his artistic reach—his masterful fiddle playing can even beheard in the
+  newest season of King of the Hill.\nDominick Leslie\nColorado native and 
+ 2x GRAMMY-winner Dominick Leslie has been around live musicall his life\, 
+ having attended his first bluegrass festival when he was just five months 
+ old. Growing up\, he was surrounded by music\, listening to and jamming wi
+ th his dad’s bluegrass band. At the age of four\, Leslie acquired a ukul
+ ele tuned like the bottom four strings of a guitar\, igniting a deep passi
+ on for music that still burns brightly. Leslie’s abilities progressed ra
+ pidly on guitar\, fiddle and mandolin\, but eventually the mandolin became
+  his obsession and demanded his total focus\, leading to a two year study 
+ at Boston’s Berklee College of Music. Leslie has been involved with many
+  outstanding projects over the years including The Deadly Gentlemen\, The 
+ Grant Gordy Quartet\, Missy Raines and the New Hip\, The Bee Eaters\, Noam
+  Pikelny & Friends\, Hawktail\, Sam Reider and the Human Hands\, Phoebe Hu
+ nt and the Gatherers\, Molly Tuttle & Golden Highway\, The Sam Grisman Pro
+ ject and The Kyle Tuttle Band.\nJeff Partin\nMulti-instrumentalist and cel
+ ebrated dobro player\, Jeff Partin has been performing professionally in t
+ he bluegrass world since he was a teen. Partin launched his career with hi
+ s band Ella Jay\, appearing on the Grand Ole Opry as a teenager before joi
+ ning Volume Five as guitarist at age 19. He went on to tour with Mountain 
+ Heart on bass and dobro\, and in 2019 was announced as the new dobro playe
+ r for Rhonda Vincentand The Rage\, who he continued to tour and record wit
+ h for several years. Partinhas appeared on numerous bluegrass and country 
+ releases.\nMark Schatz\nWith his summer 2021 release of GRIT & POLISH Mark
+  Schatz once again proves he’s true a ‘renaissance man’ of the acous
+ tic music world. A two-time winner of the IBMA Bass Player of the Year Awa
+ rd\, Schatz is best known for his contributions on some of the most iconic
+  recordings in bluegrass by artists such as Tony Rice\, BelaFleck\, John H
+ artford\, Claire Lynch\, Tim O’Brien\, Sara Jarosz\, and Nickel Creek. B
+ ut Schatz is also a master of the clawhammer banjo and is featured playing
+  his own compositions on two solo projects on Rounder Records\, BRAND NEW 
+ OLD TYME WAY and STEPPIN’ IN THE BOILER HOUSE. Schatz is always ready to
+  cut loose with someSouthern Appalachian clogging and hambone\, and his st
+ agecraft was honed through a long association with the acclaimed Footworks
+  Percussive Dance Ensemble\, for whom he still serves as Musical Director.
+  Schatz’s solo show: Mark Schatz — The Solo Concert\, brings all of hi
+ s skills to bear\, performingon banjo\, bass and guitar\, presenting songs
+ \, stories\, and tunes\, tapping on a board\, dancing\, and recitingpoetry
+ \, offering a vaudevillian feast for the eyes and ears.\nJake Stargel\nJak
+ e Stargel\, a 35-year-old native Georgian bluegrass flat-picking guitarist
+ \, was named Georgia Flat-picking Champion as a young teen. Seemingly born
+  with a guitar in hand\, he began performing in bands at 15\, touring unti
+ l his early 30s with acts like The Lovell Sisters (later Larkin Poe)\, Gra
+ mmy-nominated The Greencards\, Bearfoot\, Mountain Heart\, and Sierra Hull
+  & Highway 111. A career highlight was sharing the stage with legend Tony 
+ Rice during his 2010-2012 stint with Mountain Heart\, where Stargel replac
+ ed Clay Jones and impressed with his intensity and musicianship. Stargel e
+ arned the 2014 IBMA Momentum Award for Instrumentalist of the Year (guitar
+ ). Transitioning to Nashville\, he focused on session work\, recording and
+  playing on various records for artists like Rhonda Vincent\, John Mailand
+ er\, The Wooks\, and East Nash Grass\, plus freelancing with bands such as
+  Ricky Skaggs and Kentucky Thunder\, Dailey and Vincent\, and local acts. 
+ Recently\, he featured on Bryan Sutton’s 2026 album From Roots to Branch
+ es\, delivering a jaw-dropping rendition of “Crazy Creek."\n\nSource: FL
+ Xcalendar - https://calendar.time.ly/o9b0uzpj/event/78514625/2026120619300
+ 0
+GEO:42.439256;-76.499593
+LOCATION:State Theatre of Ithaca\, 107 West State Street\, Ithaca\, New Yo
+ rk\, 14850\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514625/20261206193000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beetlejuice
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:a48cf5a4d6f9e24a3b4920e2943e026d9221209e@corning-events
 SEQUENCE:5
 DESCRIPTION:BEETLEJUICE\nTuesday – WednesdayDecember 8 – 9\, 20267:30p
@@ -3029,7 +4344,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261208T220000Z
 DTEND:20261208T230000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:3dcd0b02b99816aac319950037fe2379b12c3217@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -3045,7 +4360,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261208T230000Z
 DTEND:20261209T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:893a841d935d3b1fce5c6265f482c2191ece08cf@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -3064,7 +4379,7 @@ BEGIN:VEVENT
 SUMMARY:Understanding the Civil War: A Reading & Discussion Series
 DTSTART:20261208T230000Z
 DTEND:20261209T003000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:93f8756992331ef283b0cbaecd8f571c051b5d85@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -3095,7 +4410,7 @@ BEGIN:VEVENT
 SUMMARY:It's A Wonderful Life Festival in Seneca Falls
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:9bbf6a681f1e7790e898d6ac6315bb1df22124be@corning-events
 SEQUENCE:0
 CATEGORIES:Festivals,Community,Film,Holidays,Family Fun,History & Heritage
@@ -3111,7 +4426,7 @@ BEGIN:VEVENT
 SUMMARY:Beetlejuice live at the Clemens Center
 DTSTART:20261209T003000Z
 DTEND:20261209T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:941f2c17e4d2899515c0942af723ce9343feae29@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -3140,7 +4455,7 @@ BEGIN:VEVENT
 SUMMARY:Out to Lunch: Gallery Talk
 DTSTART:20261209T170000Z
 DTEND:20261209T180000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:9a4718eeafd75a5d48689c282319837297307983@corning-events
 SEQUENCE:0
 DESCRIPTION:Join CCHS Education Director Susan Zehnder on a walk through t
@@ -3155,10 +4470,42 @@ STATUS:CONFIRMED
 URL:https://chemungvalleymuseum.org/event/out-to-lunch-gallery-talk/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BraVESTimo! Dementia and Community Chorus
+DTSTART:20261209T183000Z
+DTEND:20261209T200000Z
+DTSTAMP:20261112T173258Z
+UID:369d628305261e0f10b38d59338a26c0906519cf@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Causes,Community
+DESCRIPTION:Event by VEST - Vocal Essence of the Southern Tier and The Par
+ k Church Elmira\nThe Park Church Elmira\nPublic\nSinging is good for the b
+ rain—and even better when we experience it together!\nBraVESTimo! is a j
+ oyful community chorus for people living with dementia\, Parkinson’s dis
+ ease\, or other neurodegenerative conditions\, their care partners\, and c
+ ommunity members who simply love to sing.\nYou do not need to have a perso
+ nal connection to dementia to participate. Community singers are warmly in
+ vited to sing alongside our members—adding friendship\, encouragement\, 
+ musical support\, and shared joy.\nResearch suggests that group singing ca
+ n support mood\, meaningful engagement\, emotional well-being\, and social
+  connection for people living with dementia and their care partners.\nThis
+  is not a choir performing for people living with dementia. It is a commun
+ ity singing with one another.\nNo prior singing experience is needed. All 
+ voices are welcome.\nLearn more and register at www.vestny.org.\nWe offer 
+ barrier-free access with a Pay-What-You-Are-Able Model\n#BraVESTimo #Commu
+ nitySinging #DementiaSupport #CarePartners #BrainHealth #MusicAndMemory #V
+ ESTNY\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/785
+ 14637/20261118133000
+GEO:42.089201;-76.808797
+LOCATION:Park Church\, 208 West Gray Street\, Elmira\, New York\, 14901\, 
+ United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514637/20261118133000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Business After Hours at IncubatorWorks
 DTSTART:20261209T220000Z
 DTEND:20261210T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:00c1fd555f8f666c587f1ae20a81a6f6f3ab0cbb@corning-events
 SEQUENCE:0
 DESCRIPTION:Business After Hours on December 9th at IncubatorWorks. Networ
@@ -3174,7 +4521,7 @@ BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261209T220000Z
 DTEND:20261210T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:13d5c53722bc44236635d295041b4b0e68047e88@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -3188,7 +4535,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20261209T223000Z
 DTEND:20261210T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:48281788c09e235ef43cb78af3936910aa2175af@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -3206,7 +4553,7 @@ BEGIN:VEVENT
 SUMMARY:Dungeons and Dragons One Shot!
 DTSTART:20261209T230000Z
 DTEND:20261210T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:bde7d0ad3aa879d1f05be487cb3f7db92975456f@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -3223,7 +4570,7 @@ BEGIN:VEVENT
 SUMMARY:Beetlejuice live at the Clemens Center
 DTSTART:20261210T003000Z
 DTEND:20261210T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:c54ac3946d4c88d4f24a51d4d49b4367ffeb721b@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -3252,7 +4599,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261210T150000Z
 DTEND:20261210T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:2175281ae1c846f3c5d1641591ed156e2318239a@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -3274,7 +4621,7 @@ BEGIN:VEVENT
 SUMMARY:Kool & The Gang live at LECOM Event Center
 DTSTART:20261210T230000Z
 DTEND:20261211T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:465747059f47cbc81eb933b4f1365b10e7deaa9d@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -3297,7 +4644,7 @@ BEGIN:VEVENT
 SUMMARY:A Dream Within a Dream: The Poetry & Stories of Edgar Allan Poe
 DTSTART:20261210T230000Z
 DTEND:20261211T003000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:e8ac450c39755e873f043debfa63e1f0d6f88275@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Literature
@@ -3316,7 +4663,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261211T190000Z
 DTEND:20261211T200000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:62d2a968f7203e8ae6549f18f02f0d05a2fb676c@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -3330,7 +4677,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261211T200000Z
 DTEND:20261211T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:f536f18edcc79497cf3ceaad7a3d462e4d8636b6@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -3348,7 +4695,7 @@ BEGIN:VEVENT
 SUMMARY:Winterfare 2026 in Elmira
 DTSTART:20261211T210000Z
 DTEND:20261212T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:aeb9b89d2536dbd469fc684e78d21242dae9327b@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Community,Family Fun,New to the Area
@@ -3381,10 +4728,57 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78507667/20261211160000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Oliver Burdo LIVE @ Two Goats Brewing
+DTSTART:20261211T220000Z
+DTEND:20261212T000000Z
+DTSTAMP:20261112T173258Z
+UID:0bdf939e2e415c5acff116ded68ec13fa9ed6b86@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Performing Arts,Beer
+DESCRIPTION:Oliver Burdo\nFriday\, December 11\, 2026\n5:00 PM 7:00 PM\nTw
+ o Goats Brewing (map)\nhttps://www.youtube.com\nOliver's live performances
+  are stripped down musically and presented in an ageless fashion. A man an
+ d his guitar... songwriting influences span decades from old 20's big band
+  to the beatnik culture\, from Bob Dylan to Jeff Tweedy\, Oliver spins his
+  influences into his own eclectic sound.\n\nSource: FLXcalendar - https://
+ calendar.time.ly/o9b0uzpj/event/78514712/20261211170000
+LOCATION:Two Goats Brewing\, 5027 State Route 414\, Hector\, NY
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514712/20261211170000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cielle LIVE @ South Hill Cider
+DTSTART:20261211T230000Z
+DTEND:20261212T045959Z
+DTSTAMP:20261112T173258Z
+UID:85d5664facec75e35ea0eda65697a8aad8b61d70@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Event by South Hill Cider\n550 Sandbank Road\, Ithaca\, NY\nPu
+ blic\nAt the heart of the Cielle Trio is Cielle\, a powerhouse biracial\, 
+ bicultural vocalist\, songwriter\, and rhythm guitarist whose compelling l
+ yrics weave relatable stories of love\, loss\, and the beautiful challenge
+ s of being human. Backed by the dynamic rhythms of Curtis Kretz on drums a
+ nd the driving bass lines of Joe Crum on bass\, Cielle brings her songs to
+  life with a sound that is both musically rich and emotionally resonant. T
+ heir charismatic performances connect with audiences on a deeply human lev
+ el\, leaving listeners feeling energized\, inspired\, and reminded that th
+ ey’re not alone. From intimate venues to lively stages throughout New Yo
+ rk’s Finger Lakes region and beyond\, the full band\, Cielle On Solid Gr
+ ound and the Cielle Trio are building momentum with their distinctive soun
+ d\, authentic storytelling\, and undeniable chemistry. This is a trio you
+ ’ll want to hear live!\n\nSource: FLXcalendar - https://calendar.time.ly
+ /o9b0uzpj/event/78514740/20261211180000
+LOCATION:South Hill Cider\, 550 Sandbank Road\, Ithaca\, NY 14850\, Ithaca
+ \, 14850\, US
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514740/20261211180000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Magic: The Gathering - Friday Night Draft @ The Game Shoppe
 DTSTART:20261211T233000Z
 DTEND:20261212T023000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:03411a9d0e34969202aba803a73e7f73024d6864@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -3408,7 +4802,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Craft Fair at LECOM Event Center\, Elmira
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:8fbe73f63dd4cbae1496f8fa0f62a019285d7ad2@corning-events
 SEQUENCE:0
 CATEGORIES:Crafts,Holidays
@@ -3431,7 +4825,7 @@ BEGIN:VEVENT
 SUMMARY:360 Karaoke + Open Mic Night
 DTSTART:20261212T010000Z
 DTEND:20261212T045900Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:4d22b86c4af893dd71a4b1e3cc747c41bac8a0e2@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -3454,7 +4848,7 @@ BEGIN:VEVENT
 SUMMARY:Winterfare 2026 in Elmira
 DTSTART:20261212T160000Z
 DTEND:20261212T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:fb8576b3c1ad6300535ab05ba81e6f955848296a@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Community,Family Fun,New to the Area
@@ -3490,7 +4884,7 @@ BEGIN:VEVENT
 SUMMARY:Winter WINEderland & Market
 DTSTART:20261212T180000Z
 DTEND:20261212T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:3567c4ed928c9e0c53cc119fc59491b6c7a45f4f@corning-events
 SEQUENCE:0
 CATEGORIES:Wine,Holidays,Crafts,Food
@@ -3513,7 +4907,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Second Saturdays | Public Tour
 DTSTART:20261212T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:2b41d6560f8e11d9f632c2813dd147c81c2ad9c6@corning-events
 SEQUENCE:0
 DESCRIPTION:Open to the public | Included with regular Museum admission | 
@@ -3526,7 +4920,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Fixers Collective
 DTSTART:20261212T190000Z
 DTEND:20261212T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:7665ecd3947caa954a425608974d9614414fc95c@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Connection,Support,New to the Area
@@ -3547,7 +4941,7 @@ BEGIN:VEVENT
 SUMMARY:Orchestra of the Southern Finger Lakes presents TIMELESS TRADITION
  S
 DTSTART:20261212T200000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:23851f615b9090ab2eab6d4cc94e0cf613c03438@corning-events
 SEQUENCE:1
 CATEGORIES:Music,Holidays,Family Fun,New to the Area
@@ -3573,7 +4967,7 @@ BEGIN:VEVENT
 SUMMARY:Xtreme International Ice Racing at LECOM Event Center
 DTSTART:20261212T220000Z
 DTEND:20261213T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:6302c8c519f83cdc50fbd86722690e9fcda6e266@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -3590,11 +4984,50 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78507621/20261212170000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Terrapin Station Acoustic LIVE @ Two Goats Brewing
+DTSTART:20261212T220000Z
+DTEND:20261213T000000Z
+DTSTAMP:20261112T173258Z
+UID:eb311b2ee0e80b123b7e414b740e00b26b7ad69a@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Performing Arts,Beer
+DESCRIPTION:Terrapin Station Acoustic\nSaturday\, December 12\, 2026\n5:00
+  PM 7:00 PM\nTwo Goats Brewing (map)\nTerrapin Station: Grateful Dead cove
+ rs at its finest.\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uz
+ pj/event/78514713/20261212170000
+LOCATION:Two Goats Brewing\, 5027 State Route 414\, Hector\, NY
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514713/20261212170000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sim Redmond Trio w/ Saul Shama LIVE @ South Hill Cider
+DTSTART:20261212T223000Z
+DTEND:20261213T045959Z
+DTSTAMP:20261112T173258Z
+UID:bc7dba7bc3a3a3d2a4caf9f0fd9ff6571db432ff@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Event by South Hill Cider\, Sim Redmond Band and 2 others\n550
+  Sandbank Road\, Ithaca\, NY\nPublic\nMeet the trio: Sim Redmond\, Nate Ri
+ chardson & Jen Middaugh with special guest Saul Shama\nThis trio is part o
+ f the Sim Redmond band.\nThe music of the Sim Redmond Band has reached the
+  hearts of people all around the world. They have toured extensively in th
+ e U.S and Japan\, bringing together sounds and people from all walks of li
+ fe. Their uplifting\, optimistic music is infectious. It will brighten you
+ r day\, open your heart\, and strengthen your resolve to make a positive i
+ mpact on this crazy world we all share.\n\nSource: FLXcalendar - https://c
+ alendar.time.ly/o9b0uzpj/event/78514742/20261212173000
+LOCATION:South Hill Cider\, 550 Sandbank Road\, Ithaca\, NY 14850\, Ithaca
+ \, 14850\, US
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514742/20261212173000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:An Evening w/ Squirrel Nut Zippers - Christmas Caravan\, at Smith 
  Opera House
 DTSTART:20261213T010000Z
 DTEND:20261213T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:5b85a713b9a80bde5bfaec02fd1d72f5946e25ec@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Performing Arts
@@ -3632,7 +5065,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261213T153000Z
 DTEND:20261213T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:a228a0d791ee4e8c1244ae585cacf4ea2aa2074b@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -3654,7 +5087,7 @@ BEGIN:VEVENT
 SUMMARY:Empire Brick Club Meeting
 DTSTART:20261213T190000Z
 DTEND:20261213T210000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:a4f647249777e18fa4b3f61be98436cc278734f4@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Connection,New to the Area
@@ -3672,7 +5105,7 @@ BEGIN:VEVENT
 SUMMARY:Corning-Painted Post Civic Music presents Canadian Brass
 DTSTART:20261213T200000Z
 DTEND:20261214T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:9c60730cad550aafcd822ada7e01e4a7961aac5f@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -3693,7 +5126,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261215T220000Z
 DTEND:20261215T230000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:43c070d198b0e02085e1155814858d0b57284a0c@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -3709,7 +5142,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261215T230000Z
 DTEND:20261216T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:39bf667f6973824b90c3eeb3c358e06189e0ec92@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -3728,7 +5161,7 @@ BEGIN:VEVENT
 SUMMARY:I Want a Hippopotamus for Christmas
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:a65c4b54033d8405c107da550ba83dd22a10af7f@corning-events
 SEQUENCE:0
 DESCRIPTION:I Want a Hippopotamus for Christmas\nWednesdayDecember 16\, 20
@@ -3748,7 +5181,7 @@ BEGIN:VEVENT
 SUMMARY:Presentation Night w/ Story House Ithaca at Liquid State Brewing
 DTSTART:20261216T000000Z
 DTEND:20261216T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:b5b2fd0f7dbdeaa6d8997418e7eb56e48174e503@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Connection
@@ -3762,10 +5195,42 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78496263/20261117190000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BraVESTimo! Dementia and Community Chorus
+DTSTART:20261216T183000Z
+DTEND:20261216T200000Z
+DTSTAMP:20261112T173258Z
+UID:14acb1e507642a138765897e45666cb4e8846a9e@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Causes,Community
+DESCRIPTION:Event by VEST - Vocal Essence of the Southern Tier and The Par
+ k Church Elmira\nThe Park Church Elmira\nPublic\nSinging is good for the b
+ rain—and even better when we experience it together!\nBraVESTimo! is a j
+ oyful community chorus for people living with dementia\, Parkinson’s dis
+ ease\, or other neurodegenerative conditions\, their care partners\, and c
+ ommunity members who simply love to sing.\nYou do not need to have a perso
+ nal connection to dementia to participate. Community singers are warmly in
+ vited to sing alongside our members—adding friendship\, encouragement\, 
+ musical support\, and shared joy.\nResearch suggests that group singing ca
+ n support mood\, meaningful engagement\, emotional well-being\, and social
+  connection for people living with dementia and their care partners.\nThis
+  is not a choir performing for people living with dementia. It is a commun
+ ity singing with one another.\nNo prior singing experience is needed. All 
+ voices are welcome.\nLearn more and register at www.vestny.org.\nWe offer 
+ barrier-free access with a Pay-What-You-Are-Able Model\n#BraVESTimo #Commu
+ nitySinging #DementiaSupport #CarePartners #BrainHealth #MusicAndMemory #V
+ ESTNY\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/785
+ 14637/20261118133000
+GEO:42.089201;-76.808797
+LOCATION:Park Church\, 208 West Gray Street\, Elmira\, New York\, 14901\, 
+ United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514637/20261118133000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261216T220000Z
 DTEND:20261217T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:85e9941bf5e8990add1e583e0a6ea57cf1ffd728@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -3779,7 +5244,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20261216T223000Z
 DTEND:20261217T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:0c4effa2a161ccd846f934d16b2bbfc5f3f416f4@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -3797,7 +5262,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261217T150000Z
 DTEND:20261217T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:3603584d7b7b95d3f82d4f8438eeda08b39945cc@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -3820,7 +5285,7 @@ SUMMARY:New Heights Dance Theater presents THE NUTCRACKER IN MOTION: Land
  of the Sweets Dessert Party
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:f3220ad1b3a91e33bc5341ab40cbf9ad567862dd@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun,Performing Arts,Holidays
@@ -3843,11 +5308,36 @@ URL:https://clemenscenter.org/event/new-heights-dance-theater-presents-the
  -nutcracker-in-motion-land-of-the-sweets-dessert-party-3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gillian Welch & David Rawlings Play Grateful Dead Acoustic Reckoni
+ ng
+DTSTART:20261218T003000Z
+DTEND:20261218T045959Z
+DTSTAMP:20261112T173258Z
+UID:6f7539b1918da5ea21d467659eecf7f789e8d4f2@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Performing Arts
+DESCRIPTION:Event by State Theatre of Ithaca\, Gillian Welch and DSP Shows
+ \nState Theatre of Ithaca\nPublic\nDSP Shows & The State Theatre of Ithaca
+  Present:\nGillian Welch & David Rawlings Play Grateful Dead Acoustic Reck
+ oning\nThursday\, December 17th\, 2026\nDoors: 6:30pm | Show: 7:30pm\nTick
+ ets on sale FRIDAY 9/18 at 10am: https://tixr.com/e/206643\nCelebrating th
+ e 45th anniversary of the Dead's landmark acoustic live album Reckoning\, 
+ Welch and Rawlings will perform full sets drawn from the album alongside o
+ ther classic Grateful Dead songs. With their inimitable guitar interplay a
+ nd incomparable harmonies\, they bring these songs to life in a way only t
+ hey can. Reckoning marked The Grateful Dead's return to their folk and blu
+ egrass roots — roots that have long inspired Welch and Rawlings\, who no
+ w pay tribute in their own unmistakable voice.\n\nSource: FLXcalendar - ht
+ tps://calendar.time.ly/o9b0uzpj/event/78514630/20261217193000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514630/20261217193000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Friday Matinee Movie - "The Big Sleep" at Southeast Steuben County
   Library
 DTSTART:20261218T190000Z
 DTEND:20261219T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:640d66816fafcd9654b6910a29f49c510882b0d4@corning-events
 SEQUENCE:0
 CATEGORIES:Film
@@ -3868,7 +5358,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261218T190000Z
 DTEND:20261218T200000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:e8b2dc31a6833932d8134fbd5d8d2f6ab10e9994@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -3882,7 +5372,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261218T200000Z
 DTEND:20261218T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:dc74bce113bf450a61f70d4fab73005ee9d1c8b9@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -3897,10 +5387,26 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78440370/20260911150000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brett Beardslee LIVE @ Two Goats Brewing
+DTSTART:20261218T220000Z
+DTEND:20261219T000000Z
+DTSTAMP:20261112T173258Z
+UID:686a50bfe35127e167e828de641903acc91873e9@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Performing Arts,Beer
+DESCRIPTION:Brett Beardslee\nFriday\, December 18\, 2026\n5:00 PM 7:00 PM
+ \nTwo Goats Brewing (map)\nhttps://open.spotify.com/artist\nOriginal music
+ \, some covers and general local awesomeness.\n\nSource: FLXcalendar - htt
+ ps://calendar.time.ly/o9b0uzpj/event/78514715/20261218170000
+LOCATION:Two Goats Brewing\, 5027 State Route 414\, Hector\, NY
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514715/20261218170000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Magic: The Gathering - Friday Night Draft @ The Game Shoppe
 DTSTART:20261218T233000Z
 DTEND:20261219T023000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:8f34def2ad6d03909b2378ea568329ece58764a5@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -3924,7 +5430,7 @@ BEGIN:VEVENT
 SUMMARY:New Heights Dance Theater presents THE NUTCRACKER IN MOTION
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:dae59f0e8d6e321fc073fe1d453e2b83543df643@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun,Holidays,Performing Arts,Dancing,Music
@@ -3950,7 +5456,7 @@ BEGIN:VEVENT
 SUMMARY:Full Moon Ride with Elmira Community Cycle
 DTSTART:20261219T020000Z
 DTEND:20261219T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:3abad03611b2cc2d67818aa291e838395dae91b7@corning-events
 SEQUENCE:0
 CATEGORIES:Bikes,Community,Connection
@@ -3963,10 +5469,36 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78361707/20260529210000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Christmas at the Brewery
+DTSTART:20261219T180000Z
+DTEND:20261219T230000Z
+DTSTAMP:20261112T173258Z
+UID:c2847de16cd3af783d86891df343dfbd740c74c5@corning-events
+SEQUENCE:0
+CATEGORIES:Holidays,Music,Beer,Food
+DESCRIPTION:Event by Lucky Hare Brewing Hector and NEO Project\n2141 RT-41
+ 4\, Watkins Glen\, NY\nPublic\nCHRISTMAS AT THE BREWERY!\nWe’re celebrat
+ ing the holidays Festivus style at Lucky Hare Brewing Company! Join us Dec
+ ember 19th from 1–6pm for an afternoon full of great beer\, delicious fo
+ od\, live music\, holiday drinks\, and plenty of festive fun!\nCome dresse
+ d in your BEST Festivus attire!\n$20 per ticket\nFood & desserts included 
+ with your ticket\nHoliday cocktails\nNEW beer release!\nLive music by Neo 
+ Project from 1–5pm\nCash & credit cards accepted\nTickets are limited\, 
+ so grab yours now!\nLucky Hare Brewing Company\n2141 State Route 414\nGrab
+  your friends\, throw on your best Festivus gear\, and come celebrate Chri
+ stmas at the Brewery with the Hare!\n\nSource: FLXcalendar - https://calen
+ dar.time.ly/o9b0uzpj/event/78514720/20261219130000
+GEO:42.528445;-76.874596
+LOCATION:Lucky Hare Brewing Hector\, 6085 Beckhorn Road\, Hector\, New Yor
+ k\, 14841\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514720/20261219130000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ithaca Fixers Collective
 DTSTART:20261219T190000Z
 DTEND:20261219T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:b058c5262e66b6b0e028af02c3b15779ab69f42b@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Connection,Support,New to the Area
@@ -3984,10 +5516,25 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78496272/20261024150000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Notorious Stringbusters LIVE @ Two Goats Brewing
+DTSTART:20261220T000000Z
+DTEND:20261220T030000Z
+DTSTAMP:20261112T173258Z
+UID:d75322f0b55a92dfc1047eb1cdffa0fc7540ec23@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Performing Arts,Beer
+DESCRIPTION:Notorious Stringbusters\nSaturday\, December 19\, 2026\n7:00 P
+ M 10:00 PM\nString Bustin’ Hip Breakin’ Bluegrass!\n\nSource: FLXcalen
+ dar - https://calendar.time.ly/o9b0uzpj/event/78514717/20261219190000
+LOCATION:Two Goats Brewing\, 5027 State Route 414\, Hector\, NY
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514717/20261219190000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vinyl DJ Nights @ Argos Warehouse
 DTSTART:20261220T010000Z
 DTEND:20261220T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:fd1ca33635d0bc9529978457464798fb74309c6b@corning-events
 SEQUENCE:1
 CATEGORIES:Music
@@ -4006,7 +5553,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261220T153000Z
 DTEND:20261220T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:821bd6e9f2ca6d5cf428583d17a1085a9a18fc62@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -4028,7 +5575,7 @@ BEGIN:VEVENT
 SUMMARY:Bluegrass Night @ Liquid State Brewing Co.
 DTSTART:20261221T223000Z
 DTEND:20261222T013000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:d1179c70292938e792101cf1da910f864992dc0d@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4046,7 +5593,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261222T220000Z
 DTEND:20261222T230000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:63eee7f06a171d1527870f11dd47d10c7e0b13e8@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -4062,7 +5609,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261222T230000Z
 DTEND:20261223T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:aacb360f3c00d2660365545daa2f427172acbdbc@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -4081,7 +5628,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy Flops: Liquid Laughs @ Liquid State Brewing Co.
 DTSTART:20261223T000000Z
 DTEND:20261223T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:bc2bc6ae4dc0ccb6320ebd94389a48b5763e555e@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy,Performing Arts
@@ -4098,10 +5645,42 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78467683/20261027190000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BraVESTimo! Dementia and Community Chorus
+DTSTART:20261223T183000Z
+DTEND:20261223T200000Z
+DTSTAMP:20261112T173258Z
+UID:1dc9c2b9205a4d8c5f6d6250efbfe086e47c4756@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Causes,Community
+DESCRIPTION:Event by VEST - Vocal Essence of the Southern Tier and The Par
+ k Church Elmira\nThe Park Church Elmira\nPublic\nSinging is good for the b
+ rain—and even better when we experience it together!\nBraVESTimo! is a j
+ oyful community chorus for people living with dementia\, Parkinson’s dis
+ ease\, or other neurodegenerative conditions\, their care partners\, and c
+ ommunity members who simply love to sing.\nYou do not need to have a perso
+ nal connection to dementia to participate. Community singers are warmly in
+ vited to sing alongside our members—adding friendship\, encouragement\, 
+ musical support\, and shared joy.\nResearch suggests that group singing ca
+ n support mood\, meaningful engagement\, emotional well-being\, and social
+  connection for people living with dementia and their care partners.\nThis
+  is not a choir performing for people living with dementia. It is a commun
+ ity singing with one another.\nNo prior singing experience is needed. All 
+ voices are welcome.\nLearn more and register at www.vestny.org.\nWe offer 
+ barrier-free access with a Pay-What-You-Are-Able Model\n#BraVESTimo #Commu
+ nitySinging #DementiaSupport #CarePartners #BrainHealth #MusicAndMemory #V
+ ESTNY\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/785
+ 14637/20261118133000
+GEO:42.089201;-76.808797
+LOCATION:Park Church\, 208 West Gray Street\, Elmira\, New York\, 14901\, 
+ United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514637/20261118133000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261223T220000Z
 DTEND:20261224T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:7475131222e9ac4367e1f988c04c50aae197c8f9@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -4115,7 +5694,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20261223T223000Z
 DTEND:20261224T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:500c32c423bc048df4219701ea5089e98350fed9@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4133,7 +5712,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261224T150000Z
 DTEND:20261224T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:a9bb0e48154cf0822b6c8b54af33c878d62fd356@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4155,7 +5734,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261225T190000Z
 DTEND:20261225T200000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:83325af9f3a43fa6cdbae3321a69cce216c4bd87@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -4169,7 +5748,7 @@ BEGIN:VEVENT
 SUMMARY:Magic: The Gathering - Friday Night Draft @ The Game Shoppe
 DTSTART:20261225T233000Z
 DTEND:20261226T023000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:cfc064cf320d7024d94a2e3b9bfaa0bace6b7932@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -4193,7 +5772,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Fixers Collective
 DTSTART:20261226T190000Z
 DTEND:20261226T220000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:c01368f59140efd7dd0d25fb7a93fbf6fb345979@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Connection,Support,New to the Area
@@ -4214,7 +5793,7 @@ BEGIN:VEVENT
 SUMMARY:Spiritual Recharge: Tea & Meditation
 DTSTART:20261227T200000Z
 DTEND:20261227T210000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:58b0ebe368d6daf8c93ed1875fcad9c123f9bb6e@corning-events
 SEQUENCE:0
 CATEGORIES:Health,Connection
@@ -4242,7 +5821,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261229T220000Z
 DTEND:20261229T230000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:55fa0b792ea163f62d5a4223fca2f4ade2a0db0b@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -4258,7 +5837,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261229T230000Z
 DTEND:20261230T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:f1479802cfe483c6b0c7260040ede0549a9da6b5@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -4274,10 +5853,42 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78393438/20260630180000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BraVESTimo! Dementia and Community Chorus
+DTSTART:20261230T183000Z
+DTEND:20261230T200000Z
+DTSTAMP:20261112T173258Z
+UID:ed2dc4107274e6a55a25df0cbd35c9c76c0f1b9c@corning-events
+SEQUENCE:0
+CATEGORIES:Music,Causes,Community
+DESCRIPTION:Event by VEST - Vocal Essence of the Southern Tier and The Par
+ k Church Elmira\nThe Park Church Elmira\nPublic\nSinging is good for the b
+ rain—and even better when we experience it together!\nBraVESTimo! is a j
+ oyful community chorus for people living with dementia\, Parkinson’s dis
+ ease\, or other neurodegenerative conditions\, their care partners\, and c
+ ommunity members who simply love to sing.\nYou do not need to have a perso
+ nal connection to dementia to participate. Community singers are warmly in
+ vited to sing alongside our members—adding friendship\, encouragement\, 
+ musical support\, and shared joy.\nResearch suggests that group singing ca
+ n support mood\, meaningful engagement\, emotional well-being\, and social
+  connection for people living with dementia and their care partners.\nThis
+  is not a choir performing for people living with dementia. It is a commun
+ ity singing with one another.\nNo prior singing experience is needed. All 
+ voices are welcome.\nLearn more and register at www.vestny.org.\nWe offer 
+ barrier-free access with a Pay-What-You-Are-Able Model\n#BraVESTimo #Commu
+ nitySinging #DementiaSupport #CarePartners #BrainHealth #MusicAndMemory #V
+ ESTNY\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/785
+ 14637/20261118133000
+GEO:42.089201;-76.808797
+LOCATION:Park Church\, 208 West Gray Street\, Elmira\, New York\, 14901\, 
+ United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78514637/20261118133000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261230T220000Z
 DTEND:20261231T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:39ab84ac9958306676f4a76efa6641e162fafdd2@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -4291,7 +5902,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20261230T223000Z
 DTEND:20261231T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:55d0b8568eecb57543f01018d30160c35408c76e@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4309,7 +5920,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261231T150000Z
 DTEND:20261231T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:774819bde51b8a508b9d09eecda23417f199763b@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4331,7 +5942,7 @@ BEGIN:VEVENT
 SUMMARY:Next Stop Comedy @ 360Aurora
 DTSTART:20270101T000000Z
 DTEND:20270101T030000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:791a7936deea45a22785e72198fa0fd1d71a50ea@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy,Performing Arts
@@ -4353,7 +5964,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270106T223000Z
 DTEND:20270107T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:ec4627c627ef83c72c8d2c764f991a7c26d88e5f@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4370,7 +5981,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Glass Snow Family
 DTSTART:20270107T050000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:9c5c093cfb52a5b64b882d88b66ebc2082655429@corning-events
 SEQUENCE:0
 DESCRIPTION:Glass Snow Family\n\nSource: Corning Area Chamber of Commerce 
@@ -4384,7 +5995,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270107T150000Z
 DTEND:20270107T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:3b9deaca8a96c46c08411ac7e3f656d8f0bc244d@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4406,7 +6017,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270113T223000Z
 DTEND:20270114T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:82c34bf6f09c95aa50930ebba5f3a34f3652e293@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4424,7 +6035,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270114T150000Z
 DTEND:20270114T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:276c227a934808d780dc24c8515c8074c96cd87f@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4446,7 +6057,7 @@ BEGIN:VEVENT
 SUMMARY:I’m Dead. Now What? End-of-Life Planning Q&A Session
 DTSTART:20270120T220000Z
 DTEND:20270120T230000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:92b5ecf559c9c1cc81ff72ec5dacf2eaf4c5b2e1@corning-events
 SEQUENCE:0
 DESCRIPTION:I’m Dead. Now What?\nEnd-of-Life Planning Q&A Session\nWedne
@@ -4468,7 +6079,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270120T223000Z
 DTEND:20270121T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:2288387ecb0384aad1defd6a103745e9160c76ff@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4486,7 +6097,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270121T150000Z
 DTEND:20270121T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:cad976b86c9fdda603e7f882cad59295b05e0a49@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4508,7 +6119,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270127T223000Z
 DTEND:20270128T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:e0487f0a77c626d1b3bf72239c26d423ad3f68e6@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4526,7 +6137,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270128T150000Z
 DTEND:20270128T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:ee90c6a0c64157d2ecb3b6b8c768a7fd30a73d1f@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4549,7 +6160,7 @@ SUMMARY:Movies in Mandeville: Disney's ALICE IN WONDERLAND (1951) with Mad
   Tea Party
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:3d4bbd7f234a654816483b3ac50cf32f5c91e7ed@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun
@@ -4571,7 +6182,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20270202T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:c77b1809b938c49952ef8168649f2d5522cc8d44@corning-events
 SEQUENCE:1
 CATEGORIES:Comedy
@@ -4592,7 +6203,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270203T223000Z
 DTEND:20270204T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:fd7453ef83f620c16d5e070caed263f0b0177713@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4610,7 +6221,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270204T150000Z
 DTEND:20270204T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:d9dd48a6916c436ce3d387691011da8f2bbb1cbc@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4632,7 +6243,7 @@ BEGIN:VEVENT
 SUMMARY:Heroes of the Underground Railroad
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:8da6df3828a7d0b497f430a4518db64b99895f62@corning-events
 SEQUENCE:0
 DESCRIPTION:Heroes of the Underground Railroad\nFridayFebruary 5\, 202710:
@@ -4652,7 +6263,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270205T220000Z
 DTEND:20270206T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:5cb51a4bce14898a300775f043999cdab0124497@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -4667,7 +6278,7 @@ BEGIN:VEVENT
 SUMMARY:AMP'D | Party in the Amphitheater
 DTSTART:20270206T000000Z
 DTEND:20270206T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:739aca1eeffba7616e9df71f1fd4b0654dc1bf23@corning-events
 SEQUENCE:0
 CATEGORIES:Glass,Art,Music
@@ -4684,7 +6295,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Simon and Garfunkel Tribute: On Bleecker Street
 DTSTART:20270207T003000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:987466f98a762b61310afa67427de9a7b5a52161@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4705,9 +6316,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Simon and Garfunkel Tribute: On Bleecker Street
 DTSTART:20270210T003000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:fccbda21ccda04757494b0bc2d3394c2f165e872@corning-events
-SEQUENCE:24
+SEQUENCE:25
 CATEGORIES:Music
 DESCRIPTION:Simon and Garfunkel Tribute: On Bleecker Street\nSaturdayFebru
  ary 6\, 20277:30pm\nRunning Time: 1 hr and 30 mins\, plus a 20 min intermi
@@ -4719,7 +6330,7 @@ DESCRIPTION:Simon and Garfunkel Tribute: On Bleecker Street\nSaturdayFebru
   Street celebrates the music of the legendary folk duo Simon and Garfunkel
  \, performing timeless classics that ...\n\nSource: Clemens Center - https
  ://clemenscenter.org/event/simon-and-garfunkel-tribute-on-bleecker-street/
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://clemenscenter.org/event/simon-and-garfunkel-tribute-on-bleecke
  r-street/
 END:VEVENT
@@ -4727,7 +6338,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270210T223000Z
 DTEND:20270211T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:65663f5181b09ced57ab8c6847f1f759530b3e06@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4745,7 +6356,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270211T150000Z
 DTEND:20270211T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:fa64f877e4c924490a0dc7ed4c5e3c931db9e0f1@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4767,7 +6378,7 @@ BEGIN:VEVENT
 SUMMARY:Corning-Painted Post Civic Music presents The King's Singers
 DTSTART:20270212T003000Z
 DTEND:20270212T045959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:b75490ffb9c4e867543a6e605d608c6a8371b055@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4788,7 +6399,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270217T223000Z
 DTEND:20270218T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:0a8179dd79a84eedbd4e00668abd14ba32eb57db@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4806,7 +6417,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270218T150000Z
 DTEND:20270218T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:6547158c5083bca5ab08e103452d7fcbab9cbec7@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4828,7 +6439,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270224T223000Z
 DTEND:20270225T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:c36ac6444557e3ac65a47a7fcf69bfd52ffc9703@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4846,7 +6457,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270225T150000Z
 DTEND:20270225T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:0d07a545263dff496f272972302f679dc6f97ac2@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4867,7 +6478,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20270302T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:7cfee6f81407afb13d1ba550496ce63e56fe66ee@corning-events
 SEQUENCE:1
 CATEGORIES:Comedy
@@ -4888,7 +6499,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270303T223000Z
 DTEND:20270304T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:935178ea154bbddd8512d04f9e6a48db3306b889@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4906,7 +6517,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270304T150000Z
 DTEND:20270304T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:cafaec8deadb74141399ae7f3ffb91a20a107c95@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4928,7 +6539,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270305T220000Z
 DTEND:20270306T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:bf05b1c6606757d7a1274a04bdbed9a33db39923@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -4943,7 +6554,7 @@ BEGIN:VEVENT
 SUMMARY:I’m Dead. Now What? End-of-Life Planning Q&A Session
 DTSTART:20270310T180000Z
 DTEND:20270310T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:b63074bf49f9f515592fd46e4ae6288f16dd6cb6@corning-events
 SEQUENCE:0
 DESCRIPTION:I’m Dead. Now What?\nEnd-of-Life Planning Q&A Session\nWedne
@@ -4965,7 +6576,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270310T223000Z
 DTEND:20270311T020000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:3c791614c06eab1285992f3577751287d294b40b@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4983,7 +6594,7 @@ BEGIN:VEVENT
 SUMMARY:Hadestown
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:6a41c3ec248481c245b62a325e78dd8aea9617cb@corning-events
 SEQUENCE:2
 DESCRIPTION:HADESTOWN\nThursday – FridayMarch 11 – 12\, 20277:30pm\nAg
@@ -5003,7 +6614,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270311T150000Z
 DTEND:20270311T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:01016a6868d3597fd0229ab027a72f799b2dfd01@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -5025,7 +6636,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270317T213000Z
 DTEND:20270318T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:52f962c58cee42cb12991dba3e62906679b0198e@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5043,7 +6654,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270318T150000Z
 DTEND:20270318T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:441dec98bf97c94132be3e93a73d0ed4c9bd0786@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -5065,7 +6676,7 @@ BEGIN:VEVENT
 SUMMARY:Ocean Blue
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:875e9722ffaceb7ede418014df7633a9ee161c80@corning-events
 SEQUENCE:0
 DESCRIPTION:Ocean Blue\nFridayMarch 19\, 202710:00am and 12:30pm\nRuntime:
@@ -5085,7 +6696,7 @@ BEGIN:VEVENT
 SUMMARY:Corning-Painted Post Civic Music presents Bria Skonberg
 DTSTART:20270320T233000Z
 DTEND:20270321T035959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:4ad6c4b4662e0742fa7dbbe69bb3886e53c3d564@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5104,7 +6715,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270324T213000Z
 DTEND:20270325T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:4286b79edcdc85bb74dc535c24a0ba4862f86b18@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5122,7 +6733,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270325T150000Z
 DTEND:20270325T190000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:c18d541f69c6ae8905c6c681bea5ed4ab6f8fd39@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -5145,7 +6756,7 @@ SUMMARY:Celebrate New Carder Glass + Art Nouveau Cases at the Corning Muse
  um of Glass
 DTSTART:20270325T213000Z
 DTEND:20270325T230000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:e5fd20a67ea96ccbc25d09d662d32fe7b5be3db0@corning-events
 SEQUENCE:0
 CATEGORIES:Glass,Art,History & Heritage,Connection
@@ -5162,20 +6773,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Collingsworth Family SONGS OF HOPE
 DTSTART:20270330T230000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:20bc990acad2b99367964e6d270c5f3a4de626dc@corning-events
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Music
 DESCRIPTION:The Collingsworth Family presents\nSongs of Hope\nTuesdayMarch
   30\, 20277:00pm\nAge Recommendation: All Ages\nRunning Time: 2 hrs and 30
-  mins.\nShare:\nPricing\nFor pricing and to purchase tickets\, visit the T
- he Collingsworth Family website.\nBUY TICKETS\nYou will be directed to The
- CollingsworthFamily.com/tour to purchase tickets.\nView Seating Chart (PDF
- )\nVisitor Information>\nThe Collingsworth Family invites you to join them
-  on their Songs of Hope Spring 2027 tour which will feature powerful harmo
- nies\, heartfelt worship moments\, and fresh arrangements of the family’
- s most beloved songs—all designed to ...\n\nSource: Clemens Center - htt
- ps://clemenscenter.org/event/the-collingsworth-family-songs-of-hope/
+  mins with a 15-min intermission.\nShare:\nPricing\nFor pricing and to pur
+ chase tickets\, visit the The Collingsworth Family website.\nBUY TICKETS\n
+ You will be directed to TheCollingsworthFamily.com/tour to purchase ticket
+ s.\nView Seating Chart (PDF)\nVisitor Information>\nThe Collingsworth Fami
+ ly invites you to join them on their Songs of Hope Spring 2027 tour which 
+ will feature powerful harmonies\, heartfelt worship moments\, and fresh ar
+ rangements of the family’s most ...\n\nSource: Clemens Center - https://
+ clemenscenter.org/event/the-collingsworth-family-songs-of-hope/
 STATUS:CONFIRMED
 URL:https://clemenscenter.org/event/the-collingsworth-family-songs-of-hope
  /
@@ -5184,7 +6795,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270331T213000Z
 DTEND:20270401T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:35fe81bc08eba92a4ae24ba440e54268f0de164a@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5202,7 +6813,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270402T210000Z
 DTEND:20270403T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:1c57f1f57b21ce14c9b5b64ff79d863ab1093b16@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -5216,7 +6827,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20270406T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:28d1b2236391b84c910fbddec43ed348279e9d4f@corning-events
 SEQUENCE:1
 CATEGORIES:Comedy
@@ -5237,7 +6848,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270407T213000Z
 DTEND:20270408T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:846bdf06a293208e5e798848ef160980b96644ec@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5256,7 +6867,7 @@ SUMMARY:Jazz at Lincoln Center presents World On A String - Swinging Songs
   of Broadway | Corning Painted Post Civic Music
 DTSTART:20270411T190000Z
 DTEND:20270412T035959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:2f4c9f9ca010dc61047e9fe4de8cb4eac8144b4c@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5278,7 +6889,7 @@ BEGIN:VEVENT
 SUMMARY:Jersey Boys
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270415
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:86ed845d6e5fb37d0d0776c91804159b9c8a523d@corning-events
 SEQUENCE:3
 DESCRIPTION:JERSEY BOYS\nTuesday – ThursdayApril 13 – 15\, 20277:30pm
@@ -5298,7 +6909,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270414T213000Z
 DTEND:20270415T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:c86d19166c46447482e62d1d7e9219e1c9a23f2b@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5315,7 +6926,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aliens Alive!
 DTSTART:20270417T180000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:f72efde0ca0ed7cc1bba72861f9f6b55bbbe7b55@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun
@@ -5336,7 +6947,7 @@ BEGIN:VEVENT
 SUMMARY:Doktor Kaboom: Under Pressure!
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:b9db6e77eea2e24aa5a6ee1c4859665caeacc20b@corning-events
 SEQUENCE:0
 DESCRIPTION:Doktor Kaboom: Under Pressure!\nMondayApril 19\, 202710:00am a
@@ -5356,7 +6967,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270421T213000Z
 DTEND:20270422T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:768584a6af1568362f6bfe186c062ffc6e64abf4@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5375,7 +6986,7 @@ SUMMARY:Movies in Mandeville: Disney's MULAN (1998) with Royal Warrior Tea
   Party
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:82a7128097a43369299b95f1ffc38da49a24c54a@corning-events
 SEQUENCE:4
 CATEGORIES:Family Fun
@@ -5398,7 +7009,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270428T213000Z
 DTEND:20270429T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:5604f65855e121ebab53d80e72d67a67fab789f1@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5416,7 +7027,7 @@ BEGIN:VEVENT
 SUMMARY:Clifford The Big Red Dog: The Musical
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:f7b1ebed09690b2419f8b5af3f6397216a5e5730@corning-events
 SEQUENCE:6
 DESCRIPTION:Clifford The Big Red Dog: The Musical\nFridayApril 30\, 202710
@@ -5437,7 +7048,7 @@ SUMMARY:Famed Astrophysicist Neil deGrasse Tyson - 2027 Walter R. Smith Vi
  siting Scholar Lecture at Corning Museum of Glass
 DTSTART:20270430T230000Z
 DTEND:20270501T035959Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:72b9467ed33d702b22265ef4ef4918946f8e07b6@corning-events
 SEQUENCE:0
 CATEGORIES:Science,Connection,BIPOC
@@ -5488,7 +7099,7 @@ BEGIN:VEVENT
 SUMMARY:I’m Dead. Now What? End-of-Life Planning Q&A Session
 DTSTART:20270505T170000Z
 DTEND:20270505T180000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:575846fa5af1374a7a17411e03b4e5dcdd0e51e0@corning-events
 SEQUENCE:18
 DESCRIPTION:I’m Dead. Now What?\nEnd-of-Life Planning Q&A Session\nWedne
@@ -5510,7 +7121,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270505T213000Z
 DTEND:20270506T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:3a8bd72310c385d9f7de62d5be96a1cb2ef75bab@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5528,7 +7139,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270507T210000Z
 DTEND:20270508T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:88db5196a3c64318b7074d4abfaee17b02cd1ee0@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -5544,7 +7155,7 @@ SUMMARY:Exhibition Opening Celebration | Ablaze: 500 Years of Chinese Glas
  s
 DTSTART:20270507T230000Z
 DTEND:20270508T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:67e0ac38ba2cb35db80620d1f14f3c28f008c1de@corning-events
 SEQUENCE:0
 CATEGORIES:Glass,Art,History & Heritage,Connection,BIPOC
@@ -5562,7 +7173,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270512T213000Z
 DTEND:20270513T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:f14a8a51d90e1973348074a4401182c3f1aae720@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5579,9 +7190,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:World Ballet Company: The Sleeping Beauty with a Live Orchestra
 DTSTART:20270512T230000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:865e0d82fa22f27a8e5e7d3ddb60160e0d07e4a7@corning-events
-SEQUENCE:4
+SEQUENCE:5
 DESCRIPTION:World Ballet Company:\nTHE SLEEPING BEAUTY\nwith a LIVE Orches
  tra\nWednesdayMay 12\, 20277:00pm\nRunning Time: 2 hrs including a 20-min 
  intermission\nAge Recommendation: 2 & over\nShare:\nOn sale Friday\, Octob
@@ -5593,16 +7204,16 @@ DESCRIPTION:World Ballet Company:\nTHE SLEEPING BEAUTY\nwith a LIVE Orches
  tor Information>\nAn Ultimate Fairy Tale for the ...\n\nSource: Clemens Ce
  nter - https://clemenscenter.org/event/world-ballet-company-the-sleeping-b
  eauty-with-a-live-orchestra/
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://clemenscenter.org/event/world-ballet-company-the-sleeping-beau
  ty-with-a-live-orchestra/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maggie's Wake
 DTSTART:20270514T233000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:7a8499ef5d7c3d25818392c71217631f8afcaa97@corning-events
-SEQUENCE:10
+SEQUENCE:11
 CATEGORIES:Music
 DESCRIPTION:Maggie’s Wake\nin Mandeville Hall\nFridayMay 14\, 20277:30pm
  \nAge Recommendation: All Ages\nRunning Time: 1 hr and 30 mins plus a 20 m
@@ -5614,14 +7225,14 @@ DESCRIPTION:Maggie’s Wake\nin Mandeville Hall\nFridayMay 14\, 20277:30pm
  e is a high-energy folk roots band from Southwestern Ontario\, blending Ce
  ltic-inspired fiddle\, tin whistle and flute with ...\n\nSource: Clemens C
  enter - https://clemenscenter.org/event/maggies-wake/
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://clemenscenter.org/event/maggies-wake/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270519T213000Z
 DTEND:20270520T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:082cc08230701f9b9c9324aad36e399602b8a7d2@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5639,7 +7250,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270526T213000Z
 DTEND:20270527T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:5f8a9eb8578ce804514c77f67869fc0edb9267e8@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5657,7 +7268,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270602T213000Z
 DTEND:20270603T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:f820e736597000c9614688436fb16f4d692a648d@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5675,7 +7286,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270604T210000Z
 DTEND:20270605T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:efadc7fe9b38634b7ade3803af2ad27d412a5860@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -5690,7 +7301,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270609T213000Z
 DTEND:20270610T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:765620e74588670ca6685c19f27021f644508c0f@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5708,7 +7319,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270616T213000Z
 DTEND:20270617T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:a2108d91f1f1781a48419d626d36cf50269022c1@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5726,9 +7337,9 @@ BEGIN:VEVENT
 SUMMARY:The Wiz
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270624
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:79e4a8b648a8eb87ee00574e367e2b51aedcce66@corning-events
-SEQUENCE:26
+SEQUENCE:27
 DESCRIPTION:THE WIZ\nTuesday – WednesdayJune 22 – 23\, 20277:30pm\nAge
   Recommendation: Ages 8+\nAdvisory: This production uses haze\, smoke and 
  flashing lights.\nRunning Time: 2 hrs and 20 mins\, including intermission
@@ -5739,14 +7350,14 @@ DESCRIPTION:THE WIZ\nTuesday – WednesdayJune 22 – 23\, 20277:30pm\nAge
  4-0159\nboxoffice@clemenscenter.org\nVisitor Information>\nLearn more abou
  t ouronline ticket process >\nEverybody look ...\n\nSource: Clemens Center
   - https://clemenscenter.org/event/the-wiz/
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://clemenscenter.org/event/the-wiz/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270623T213000Z
 DTEND:20270624T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:949dac81d64321cd9b8f51fced855f475b2bc311@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5764,7 +7375,7 @@ BEGIN:VEVENT
 SUMMARY:Live Music Wednesdays @ Ventosa Vineyards
 DTSTART:20270630T213000Z
 DTEND:20270701T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:5468e9aceecbe207d1ea4b0b529ec772c1ecfaaf@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -5782,7 +7393,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270702T210000Z
 DTEND:20270703T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:06dde538f8a1616daef42e4cc894cfaec24575a7@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -5797,7 +7408,7 @@ BEGIN:VEVENT
 SUMMARY:AMP'D | Party in the Amphitheater
 DTSTART:20270709T230000Z
 DTEND:20270710T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:9b111c34b7cf6c0da29672db9568893c19f817cc@corning-events
 SEQUENCE:0
 CATEGORIES:Glass,Art,Connection
@@ -5815,7 +7426,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270806T210000Z
 DTEND:20270807T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:0f183b6a5a196a1f67993d572307f939362bbd08@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -5830,7 +7441,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20270903T210000Z
 DTEND:20270904T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:cd678459b0feede90ffe6d9670b041d88a171c66@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -5845,7 +7456,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20271001T210000Z
 DTEND:20271002T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:3a8fe9aa25926caa5d2d77f002bc59b809bafa83@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -5860,7 +7471,7 @@ BEGIN:VEVENT
 SUMMARY:AMP'D | Party in the Amphitheater
 DTSTART:20271015T230000Z
 DTEND:20271016T010000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:96e9fb180d9fb692936f0c94ae55028a40ec7433@corning-events
 SEQUENCE:0
 CATEGORIES:Glass,Art,Connection
@@ -5877,7 +7488,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:November: Free Admission for Veterans and Active Military
 DTSTART:20271101T130000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:866cdc1b01909d99e2169604f9121de7a1ad37eb@corning-events
 SEQUENCE:3
 DESCRIPTION:All veterans and active military receive free admission throug
@@ -5890,7 +7501,7 @@ BEGIN:VEVENT
 SUMMARY:Ithaca Gallery Night
 DTSTART:20271105T210000Z
 DTEND:20271106T000000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:9d3918b1160d80a31cd97831c6ec28068bd850a8@corning-events
 SEQUENCE:0
 DESCRIPTION:Ithaca Gallery Night is a monthly event happening on the first
@@ -5904,7 +7515,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Founder’s Week: Free Admission
 DTSTART:20271108T140000Z
-DTSTAMP:20261111T170424Z
+DTSTAMP:20261112T173258Z
 UID:ef52d6ba5f2941110e92cd512d0279cbba7a4609@corning-events
 SEQUENCE:5
 DESCRIPTION:Enjoy free admission all week\, all ages!\n\nSource: The Rockw
