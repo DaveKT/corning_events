@@ -9,179 +9,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Empire Brick Minifig Swap
-DTSTART:20261114T170000Z
-DTEND:20261114T190000Z
-DTSTAMP:20261115T161757Z
-UID:28be0978f569c15e0e590296f47095bd3582e16d@corning-events
-SEQUENCE:0
-CATEGORIES:Family Fun
-DESCRIPTION:Bring your unwanted minifigures to Empire Bricks and swap them
-  with other LEGO fans.\nPublic event. No cover charge or purchase necessar
- y.\nEvent by Empire Bricks\n\nSource: FLXcalendar - https://calendar.time.
- ly/o9b0uzpj/event/78433013/20260808120000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78433013/20260808120000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Urban Sketchers Corning at the National Soaring Museum
-DTSTART:20261114T180000Z
-DTEND:20261114T200000Z
-DTSTAMP:20261115T161757Z
-UID:86a9d6ae5bcdfa8d92ad9cb83695b752bd550b5c@corning-events
-SEQUENCE:0
-CATEGORIES:Art,Community,Connection,New to the Area
-DESCRIPTION:The National Soaring Museum (NSM)\, perched atop Harris Hill j
- ust outside Elmira\, New York\, stands as one of the only two museums in t
- he United States dedicated exclusively to the preservation and celebration
-  of motorless flight.\nHarris Hill and Elmira are widely regarded as the 
- “Soaring Capital of America\,” thanks to more than 80 years of rich so
- aring history — a heritage that continues to draw aviators\, historians
- \, and enthusiasts from around the world.\nCapture the history of soaring 
- with us at the National Soaring Museum on Harris Hill! Meet inside the ent
- rance at 1:00 pm on Saturday\, Nov 14. We'll sketch\, then meet for a sket
- chbook throwdown at 2:45.\nBring your sketching supplies\, your sketchy fr
- iends\, and a folding stool or chair if you like to sit to sketch. Remembe
- r\, it's a museum\, so open water containers are not allowed\, but water b
- rushes are fine.\nHappy Sketching!\nWhere: National Soaring Museum\, 51 So
- aring Hill Drive\, Elmira\, NY\n\nSource: FLXcalendar - https://calendar.t
- ime.ly/o9b0uzpj/event/78515461/20261114130000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78515461/20261114130000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Second Saturdays | Public Tour
-DTSTART:20261114T190000Z
-DTSTAMP:20261115T161757Z
-UID:4009d2578fd1d0de8ef4ea23d258ff09a7f388b5@corning-events
-SEQUENCE:2
-DESCRIPTION:Open to the public | Included with regular Museum admission | 
- No registration required\n\nSource: The Rockwell Museum - https://rockwell
- museum.org/events/second26/event/2026-11-14
-STATUS:CONFIRMED
-URL:https://rockwellmuseum.org/events/second26/event/2026-11-14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You're a Good Man\, Charlie Brown @ Avoca Central School
-DTSTART:20261114T190000Z
-DTEND:20261114T210000Z
-DTSTAMP:20261115T161757Z
-UID:926f58df716127e9fc9a53adf67ea24b3c0a3bb1@corning-events
-SEQUENCE:0
-CATEGORIES:Performing Arts,Music,Family Fun
-DESCRIPTION:Event by Avoca Central School\n17 oliver st\, Avoca\, NY\nPubl
- ic\nAdmission is free!\nPerformances are Friday\, Nov. 13 at 6 pm and Satu
- rday\, Nov. 14 at 2 pm & 6 pm\n\nSource: FLXcalendar - https://calendar.ti
- me.ly/o9b0uzpj/event/78504925/20261114140000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78504925/20261114140000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael Francis McCarthy @ Grist Iron Brewing
-DTSTART:20261114T220000Z
-DTEND:20261115T010000Z
-DTSTAMP:20261115T161757Z
-UID:2a7db140aaeecd19148b7cd5cc007f82d6ebf0e3@corning-events
-SEQUENCE:0
-CATEGORIES:Music,Beer
-DESCRIPTION:Event by Grist Iron Brewing Company\nGrist Iron Brewing Compan
- y\nDuration: 3 hr\nPublic\nMichael Francis McCarthy is coming to Grist Iro
- n Brewing Company on Saturday\, November 14th\, from 5 - 8 PM!\n\nSource: 
- FLXcalendar - https://calendar.time.ly/o9b0uzpj/event/78515426/20261114170
- 000
-GEO:42.47025;-76.867304
-LOCATION:Grist Iron Brewing Company\, 4880 New York 414\, Burdett\, New Yo
- rk\, 14818\, United States
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78515426/20261114170000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You're a Good Man\, Charlie Brown @ Avoca Central School
-DTSTART:20261114T230000Z
-DTEND:20261115T010000Z
-DTSTAMP:20261115T161757Z
-UID:c06e8c9c3251cd4c8632ab67283e14ce304a1214@corning-events
-SEQUENCE:0
-CATEGORIES:Performing Arts,Music,Family Fun
-DESCRIPTION:Event by Avoca Central School\n17 oliver st\, Avoca\, NY\nPubl
- ic\nAdmission is free!\nPerformances are Friday\, Nov. 13 at 6 pm and Satu
- rday\, Nov. 14 at 2 pm & 6 pm\n\nSource: FLXcalendar - https://calendar.ti
- me.ly/o9b0uzpj/event/78504924/20261113180000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78504924/20261113180000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chamberlain Acres Farmers Market in Elmira
-DTSTART:20261115T153000Z
-DTEND:20261115T190000Z
-DTSTAMP:20261115T161757Z
-UID:9dbe447df902dc586f27834bcd376c1d720ca567@corning-events
-SEQUENCE:0
-CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
-DESCRIPTION:Spend the day shopping local and supporting an amazing group o
- f farmers\, bakers\, makers\, growers\, and small businesses from our comm
- unity.\nFresh baked goods\nHandmade items\nLocal foods & treats\nFlowers &
-  plants\nFresh brewed tea & lemonade\nFamily-friendly atmosphere\nGrab lun
- ch\, sip something refreshing\, and enjoy a relaxing Sunday surrounded by 
- flowers\, fresh air\, and local creativity.\nSunday | 11 AM – 3 PM\nCham
- berlain Acres Farmers Market\nBring your friends\, bring your family\, and
-  come make a day of it with us!\n#FarmersMarket #ShopLocal #FingerLakes #S
- upportSmallBusiness #WomenOwned #LocalMakers #ChamberlainAcres #MontourFal
- lsTeaCompany #ElmiraNY #SundayMarket\n\nSource: FLXcalendar - https://cale
- ndar.time.ly/o9b0uzpj/event/78366790/20260531113000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78366790/20260531113000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anniversary Celebration @ Card Carrying Books
-DTSTART:20261115T170000Z
-DTEND:20261115T200000Z
-DTSTAMP:20261115T161757Z
-UID:e0b797b9aeb3749fc51857b8cac9a9db7b3fcd23@corning-events
-SEQUENCE:0
-CATEGORIES:Community,Music,LGBTQ+,Art
-DESCRIPTION:Event by Card Carrying Books & Gifts\n15 East Market Street\nC
- orning\, NY\nDuration: 3 hr\nPublic\nThree years ago on November 15\, I bo
- ught the best little bookstore in Corning\, NY!\nCome celebrate my three y
- ear ownership anniversary at Card Carrying Books & Gifts on Sunday\, Novem
- ber 15\, from 12–3! We’ll have cake\, snacks\, and the music will be b
- umping! I’d love to spend the afternoon with the people who make this pl
- ace what it is.\nWe’re putting together a community memory board\, so co
- me add a favorite memory from the store and tell me what you’d love to d
- o here next. Bring a friend you’ve been meaning to introduce to the stor
- e!\nIf Small Business Saturday on November 28 doesn’t work for your sche
- dule\, this is another chance to get some holiday shopping done while cele
- brating with us. Every purchase helps keep this bookstore going and makes 
- room for more of what we do together.\nCommunity is a verb\, and I’m so 
- grateful for the ways y’all keep showing up. Come have some cake and cel
- ebrate your favorite indie bookstore!!\n\nSource: FLXcalendar - https://ca
- lendar.time.ly/o9b0uzpj/event/78508329/20261115120000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78508329/20261115120000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Empire Brick Club Meeting
-DTSTART:20261115T190000Z
-DTEND:20261115T210000Z
-DTSTAMP:20261115T161757Z
-UID:fc1a4911796e219a63a2b473fd0a20eefdbd1b70@corning-events
-SEQUENCE:0
-CATEGORIES:Community,Connection,New to the Area
-DESCRIPTION:If you’re an AFOL (Adult Fan of LEGO)\, a casual builder\, o
- r just someone who misses having an excuse to sit down and build—you’r
- e invited!\nBring a project to work on\, enjoy some snacks\, chat\, and ha
- ng out with us. This is a laid-back time to relax\, build\, and connect wi
- th fellow LEGO fans and friends.\nEvent by Empire Bricks\n117 West Water S
- treet\, Painted Post\n\nSource: FLXcalendar - https://calendar.time.ly/o9b
- 0uzpj/event/78496269/20261025140000
-STATUS:CONFIRMED
-URL:https://calendar.time.ly/o9b0uzpj/event/78496269/20261025140000
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261117T220000Z
 DTEND:20261117T230000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:0dafd186ea5d2bf41288799764e2d5865892545f@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -197,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261117T230000Z
 DTEND:20261118T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:92defa5bf23f117df2cc2a078a6324076d2a1677@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -213,10 +44,45 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78393438/20260630180000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:America the Beautiful: Digital Dome Show
+DTSTART:20261117T230000Z
+DTEND:20261117T234500Z
+DTSTAMP:20261116T193233Z
+UID:b90eed5a467758f77bc84700416fa5e609eaa152@corning-events
+SEQUENCE:0
+CATEGORIES:Film,History & Heritage
+DESCRIPTION:Event by Corning Community College\n1 Academic Dr\, Corning\, 
+ NY\nPublic\nThe Digital Dome Theater will be doing a 2-week run of the awe
+ -inspiring 360-degree showing of America the Beautiful\, narrated by Emmy
+ ® Award-winning actor Kelsey Grammer.\nThis event is FREE to veterans! Ti
+ ckets for general admission to this special show will be $10 per person.\n
+ Show Information:\nAmerica the Beautiful is a sweeping giant screen experi
+ ence celebrating the vast and varied natural worlds that define the United
+  States and the conservation movement that has ensured their survival. The
+  protection of America’s beauty\, wonder and resources was set in motion
+  by Theodore Roosevelt and other pioneers who popularized principles still
+  in practice today\, passed down through generations\, that will keep Amer
+ ica’s wild heart beating for many more.\nAudiences will embark on an awe
+ -inspiring journey from sea to shining sea\, across the country’s most i
+ conic and diverse environments - soaring mountain ranges\, expansive plain
+ s\, surprising deserts\, flowing rivers and wetlands - captured with the s
+ cale\, clarity\, and immersion of spectacular giant screen cinematography.
+  More than a visual spectacle\, America the Beautiful reveals that these p
+ laces were not preserved by chance\, but through bold vision\, determinati
+ on\, and an enduring commitment to conservation that continues to shape th
+ e nation’s natural legacy.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78517831/20261117180000
+GEO:42.145847;-77.056564
+LOCATION:Corning Community College\, Academic Dr\, Corning\, New York\, Co
+ rning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517831/20261117180000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:360 Presents: Magic Hunks!
 DTSTART:20261118T000000Z
 DTEND:20261118T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:2f57787c5c5f1ad3dc8de175baf659c0c5fcca5b@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Dancing
@@ -250,10 +116,45 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78504931/20261117190000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:America the Beautiful: Digital Dome Show
+DTSTART:20261118T000000Z
+DTEND:20261118T004500Z
+DTSTAMP:20261116T193233Z
+UID:88c172fc4687f3350582f1fed1224f744853718d@corning-events
+SEQUENCE:0
+CATEGORIES:Film,History & Heritage
+DESCRIPTION:Event by Corning Community College\n1 Academic Dr\, Corning\, 
+ NY\nPublic\nThe Digital Dome Theater will be doing a 2-week run of the awe
+ -inspiring 360-degree showing of America the Beautiful\, narrated by Emmy
+ ® Award-winning actor Kelsey Grammer.\nThis event is FREE to veterans! Ti
+ ckets for general admission to this special show will be $10 per person.\n
+ Show Information:\nAmerica the Beautiful is a sweeping giant screen experi
+ ence celebrating the vast and varied natural worlds that define the United
+  States and the conservation movement that has ensured their survival. The
+  protection of America’s beauty\, wonder and resources was set in motion
+  by Theodore Roosevelt and other pioneers who popularized principles still
+  in practice today\, passed down through generations\, that will keep Amer
+ ica’s wild heart beating for many more.\nAudiences will embark on an awe
+ -inspiring journey from sea to shining sea\, across the country’s most i
+ conic and diverse environments - soaring mountain ranges\, expansive plain
+ s\, surprising deserts\, flowing rivers and wetlands - captured with the s
+ cale\, clarity\, and immersion of spectacular giant screen cinematography.
+  More than a visual spectacle\, America the Beautiful reveals that these p
+ laces were not preserved by chance\, but through bold vision\, determinati
+ on\, and an enduring commitment to conservation that continues to shape th
+ e nation’s natural legacy.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78517832/20261117190000
+GEO:42.145847;-77.056564
+LOCATION:Corning Community College\, Academic Dr\, Corning\, New York\, Co
+ rning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517832/20261117190000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Interactive Wellness Event for Older Adults & Caregivers
 DTSTART:20261118T183000Z
 DTEND:20261118T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:72fc2807127edbe5ae28bd493b180bbba9ff760d@corning-events
 SEQUENCE:0
 CATEGORIES:Crafts,Community
@@ -287,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:BraVESTimo! Dementia and Community Chorus
 DTSTART:20261118T183000Z
 DTEND:20261118T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:df70f963ad217089b3237d1ba21b6b895ca19aaf@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Causes,Community
@@ -319,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261118T220000Z
 DTEND:20261119T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:e3c0325d7b372ac93bf787fa1953ef243c6c9a52@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -330,11 +231,81 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78507608/20261104170000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:America the Beautiful: Digital Dome Show
+DTSTART:20261118T230000Z
+DTEND:20261118T234500Z
+DTSTAMP:20261116T193233Z
+UID:85b4c290bd2e63b72821241694409d304fbd746d@corning-events
+SEQUENCE:0
+CATEGORIES:Film,History & Heritage
+DESCRIPTION:Event by Corning Community College\n1 Academic Dr\, Corning\, 
+ NY\nPublic\nThe Digital Dome Theater will be doing a 2-week run of the awe
+ -inspiring 360-degree showing of America the Beautiful\, narrated by Emmy
+ ® Award-winning actor Kelsey Grammer.\nThis event is FREE to veterans! Ti
+ ckets for general admission to this special show will be $10 per person.\n
+ Show Information:\nAmerica the Beautiful is a sweeping giant screen experi
+ ence celebrating the vast and varied natural worlds that define the United
+  States and the conservation movement that has ensured their survival. The
+  protection of America’s beauty\, wonder and resources was set in motion
+  by Theodore Roosevelt and other pioneers who popularized principles still
+  in practice today\, passed down through generations\, that will keep Amer
+ ica’s wild heart beating for many more.\nAudiences will embark on an awe
+ -inspiring journey from sea to shining sea\, across the country’s most i
+ conic and diverse environments - soaring mountain ranges\, expansive plain
+ s\, surprising deserts\, flowing rivers and wetlands - captured with the s
+ cale\, clarity\, and immersion of spectacular giant screen cinematography.
+  More than a visual spectacle\, America the Beautiful reveals that these p
+ laces were not preserved by chance\, but through bold vision\, determinati
+ on\, and an enduring commitment to conservation that continues to shape th
+ e nation’s natural legacy.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78517831/20261117180000
+GEO:42.145847;-77.056564
+LOCATION:Corning Community College\, Academic Dr\, Corning\, New York\, Co
+ rning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517831/20261117180000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:America the Beautiful: Digital Dome Show
+DTSTART:20261119T000000Z
+DTEND:20261119T004500Z
+DTSTAMP:20261116T193233Z
+UID:47e34a6f307461f4de494d0fc370c7a075d1062a@corning-events
+SEQUENCE:0
+CATEGORIES:Film,History & Heritage
+DESCRIPTION:Event by Corning Community College\n1 Academic Dr\, Corning\, 
+ NY\nPublic\nThe Digital Dome Theater will be doing a 2-week run of the awe
+ -inspiring 360-degree showing of America the Beautiful\, narrated by Emmy
+ ® Award-winning actor Kelsey Grammer.\nThis event is FREE to veterans! Ti
+ ckets for general admission to this special show will be $10 per person.\n
+ Show Information:\nAmerica the Beautiful is a sweeping giant screen experi
+ ence celebrating the vast and varied natural worlds that define the United
+  States and the conservation movement that has ensured their survival. The
+  protection of America’s beauty\, wonder and resources was set in motion
+  by Theodore Roosevelt and other pioneers who popularized principles still
+  in practice today\, passed down through generations\, that will keep Amer
+ ica’s wild heart beating for many more.\nAudiences will embark on an awe
+ -inspiring journey from sea to shining sea\, across the country’s most i
+ conic and diverse environments - soaring mountain ranges\, expansive plain
+ s\, surprising deserts\, flowing rivers and wetlands - captured with the s
+ cale\, clarity\, and immersion of spectacular giant screen cinematography.
+  More than a visual spectacle\, America the Beautiful reveals that these p
+ laces were not preserved by chance\, but through bold vision\, determinati
+ on\, and an enduring commitment to conservation that continues to shape th
+ e nation’s natural legacy.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78517832/20261117190000
+GEO:42.145847;-77.056564
+LOCATION:Corning Community College\, Academic Dr\, Corning\, New York\, Co
+ rning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517832/20261117190000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Corning Area Aging in Place presents “Meet the Manager of Wegman
  s”
 DTSTART:20261119T150000Z
 DTEND:20261120T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:ae877ef676120f1c3d280a721388ec11584fee7a@corning-events
 SEQUENCE:0
 CATEGORIES:Seniors,Community,Connection
@@ -355,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261119T150000Z
 DTEND:20261119T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:e7d489e9d06b1e89191950f2fc679fab3b232e2a@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -377,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Seouful Stories: A K-Club for All Ages
 DTSTART:20261119T223000Z
 DTEND:20261119T233000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:95fc0a3ef0dd6d9fe62dba76a3ce9936bb5ffedb@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Literature,Performing Arts,Community
@@ -394,10 +365,80 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78504929/20261119173000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:America the Beautiful: Digital Dome Show
+DTSTART:20261119T230000Z
+DTEND:20261119T234500Z
+DTSTAMP:20261116T193233Z
+UID:63fe82aa8705fd9ad8642a4b79318cfbf57de3dd@corning-events
+SEQUENCE:0
+CATEGORIES:Film,History & Heritage
+DESCRIPTION:Event by Corning Community College\n1 Academic Dr\, Corning\, 
+ NY\nPublic\nThe Digital Dome Theater will be doing a 2-week run of the awe
+ -inspiring 360-degree showing of America the Beautiful\, narrated by Emmy
+ ® Award-winning actor Kelsey Grammer.\nThis event is FREE to veterans! Ti
+ ckets for general admission to this special show will be $10 per person.\n
+ Show Information:\nAmerica the Beautiful is a sweeping giant screen experi
+ ence celebrating the vast and varied natural worlds that define the United
+  States and the conservation movement that has ensured their survival. The
+  protection of America’s beauty\, wonder and resources was set in motion
+  by Theodore Roosevelt and other pioneers who popularized principles still
+  in practice today\, passed down through generations\, that will keep Amer
+ ica’s wild heart beating for many more.\nAudiences will embark on an awe
+ -inspiring journey from sea to shining sea\, across the country’s most i
+ conic and diverse environments - soaring mountain ranges\, expansive plain
+ s\, surprising deserts\, flowing rivers and wetlands - captured with the s
+ cale\, clarity\, and immersion of spectacular giant screen cinematography.
+  More than a visual spectacle\, America the Beautiful reveals that these p
+ laces were not preserved by chance\, but through bold vision\, determinati
+ on\, and an enduring commitment to conservation that continues to shape th
+ e nation’s natural legacy.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78517831/20261117180000
+GEO:42.145847;-77.056564
+LOCATION:Corning Community College\, Academic Dr\, Corning\, New York\, Co
+ rning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517831/20261117180000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:America the Beautiful: Digital Dome Show
+DTSTART:20261120T000000Z
+DTEND:20261120T004500Z
+DTSTAMP:20261116T193233Z
+UID:03b5ff8f0af667719fa077d85d45497b6c36497c@corning-events
+SEQUENCE:0
+CATEGORIES:Film,History & Heritage
+DESCRIPTION:Event by Corning Community College\n1 Academic Dr\, Corning\, 
+ NY\nPublic\nThe Digital Dome Theater will be doing a 2-week run of the awe
+ -inspiring 360-degree showing of America the Beautiful\, narrated by Emmy
+ ® Award-winning actor Kelsey Grammer.\nThis event is FREE to veterans! Ti
+ ckets for general admission to this special show will be $10 per person.\n
+ Show Information:\nAmerica the Beautiful is a sweeping giant screen experi
+ ence celebrating the vast and varied natural worlds that define the United
+  States and the conservation movement that has ensured their survival. The
+  protection of America’s beauty\, wonder and resources was set in motion
+  by Theodore Roosevelt and other pioneers who popularized principles still
+  in practice today\, passed down through generations\, that will keep Amer
+ ica’s wild heart beating for many more.\nAudiences will embark on an awe
+ -inspiring journey from sea to shining sea\, across the country’s most i
+ conic and diverse environments - soaring mountain ranges\, expansive plain
+ s\, surprising deserts\, flowing rivers and wetlands - captured with the s
+ cale\, clarity\, and immersion of spectacular giant screen cinematography.
+  More than a visual spectacle\, America the Beautiful reveals that these p
+ laces were not preserved by chance\, but through bold vision\, determinati
+ on\, and an enduring commitment to conservation that continues to shape th
+ e nation’s natural legacy.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78517832/20261117190000
+GEO:42.145847;-77.056564
+LOCATION:Corning Community College\, Academic Dr\, Corning\, New York\, Co
+ rning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517832/20261117190000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Poetry & Tea Book Club
 DTSTART:20261120T150000Z
 DTEND:20261121T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:3dc9cbabf1482146ed7435923fd066b5fad73275@corning-events
 SEQUENCE:0
 CATEGORIES:Literature,Connection
@@ -418,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261120T190000Z
 DTEND:20261120T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:d2908b8c95783b2ce3e7ae5228584515b475da16@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -432,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:Movie Afternoon: Fantastic Mr. Fox
 DTSTART:20261120T194500Z
 DTEND:20261120T214500Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:09e9f267f86ed8ad59a25c0b1dcbe5fbee9ac398@corning-events
 SEQUENCE:0
 CATEGORIES:Film,Family Fun
@@ -449,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261120T200000Z
 DTEND:20261120T220000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:31a77b8fad18916a0bbbf96aae26beaa228b74e2@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -464,10 +505,45 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78440370/20260911150000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:America the Beautiful: Digital Dome Show
+DTSTART:20261120T220000Z
+DTEND:20261120T224500Z
+DTSTAMP:20261116T193233Z
+UID:0c467105b7ca84f432c62eb1872349f4b7ad6221@corning-events
+SEQUENCE:0
+CATEGORIES:Film,History & Heritage
+DESCRIPTION:Event by Corning Community College\n1 Academic Dr\, Corning\, 
+ NY\nPublic\nThe Digital Dome Theater will be doing a 2-week run of the awe
+ -inspiring 360-degree showing of America the Beautiful\, narrated by Emmy
+ ® Award-winning actor Kelsey Grammer.\nThis event is FREE to veterans! Ti
+ ckets for general admission to this special show will be $10 per person.\n
+ Show Information:\nAmerica the Beautiful is a sweeping giant screen experi
+ ence celebrating the vast and varied natural worlds that define the United
+  States and the conservation movement that has ensured their survival. The
+  protection of America’s beauty\, wonder and resources was set in motion
+  by Theodore Roosevelt and other pioneers who popularized principles still
+  in practice today\, passed down through generations\, that will keep Amer
+ ica’s wild heart beating for many more.\nAudiences will embark on an awe
+ -inspiring journey from sea to shining sea\, across the country’s most i
+ conic and diverse environments - soaring mountain ranges\, expansive plain
+ s\, surprising deserts\, flowing rivers and wetlands - captured with the s
+ cale\, clarity\, and immersion of spectacular giant screen cinematography.
+  More than a visual spectacle\, America the Beautiful reveals that these p
+ laces were not preserved by chance\, but through bold vision\, determinati
+ on\, and an enduring commitment to conservation that continues to shape th
+ e nation’s natural legacy.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78517833/20261120170000
+GEO:42.145847;-77.056564
+LOCATION:Corning Community College\, Academic Dr\, Corning\, New York\, Co
+ rning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517833/20261120170000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Opening Reception: Director's Choice Exhibit @ West End Gallery
 DTSTART:20261120T220000Z
 DTEND:20261121T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:2f4077708c8749067ba8c07dbba5ad9fe9e1fb9f@corning-events
 SEQUENCE:0
 CATEGORIES:Art
@@ -507,7 +583,7 @@ BEGIN:VEVENT
 SUMMARY:Far Trio @ Grist Iron Brewing
 DTSTART:20261120T230000Z
 DTEND:20261121T020000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:1ec1cfd1c82d0856e2399453b0aea5e2bfc84940@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Beer
@@ -525,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:Hugo: The Journey Experience live at LECOM Event Center
 DTSTART:20261120T230000Z
 DTEND:20261121T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:5d4adada2039920b61037d4c0c98fb2f57115cf7@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -541,10 +617,71 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78507617/20261120180000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:America the Beautiful: Digital Dome Show
+DTSTART:20261120T230000Z
+DTEND:20261120T234500Z
+DTSTAMP:20261116T193233Z
+UID:a2b32452d65962c51cb28ae1f807128e78152d56@corning-events
+SEQUENCE:0
+CATEGORIES:Film,History & Heritage
+DESCRIPTION:Event by Corning Community College\n1 Academic Dr\, Corning\, 
+ NY\nPublic\nThe Digital Dome Theater will be doing a 2-week run of the awe
+ -inspiring 360-degree showing of America the Beautiful\, narrated by Emmy
+ ® Award-winning actor Kelsey Grammer.\nThis event is FREE to veterans! Ti
+ ckets for general admission to this special show will be $10 per person.\n
+ Show Information:\nAmerica the Beautiful is a sweeping giant screen experi
+ ence celebrating the vast and varied natural worlds that define the United
+  States and the conservation movement that has ensured their survival. The
+  protection of America’s beauty\, wonder and resources was set in motion
+  by Theodore Roosevelt and other pioneers who popularized principles still
+  in practice today\, passed down through generations\, that will keep Amer
+ ica’s wild heart beating for many more.\nAudiences will embark on an awe
+ -inspiring journey from sea to shining sea\, across the country’s most i
+ conic and diverse environments - soaring mountain ranges\, expansive plain
+ s\, surprising deserts\, flowing rivers and wetlands - captured with the s
+ cale\, clarity\, and immersion of spectacular giant screen cinematography.
+  More than a visual spectacle\, America the Beautiful reveals that these p
+ laces were not preserved by chance\, but through bold vision\, determinati
+ on\, and an enduring commitment to conservation that continues to shape th
+ e nation’s natural legacy.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78517831/20261117180000
+GEO:42.145847;-77.056564
+LOCATION:Corning Community College\, Academic Dr\, Corning\, New York\, Co
+ rning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517831/20261117180000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Variety Show AUDITIONS!
+DTSTART:20261120T230000Z
+DTEND:20261121T010000Z
+DTSTAMP:20261116T193233Z
+UID:c702255f8eca88b4b7f02137012c6df2933abac9@corning-events
+SEQUENCE:0
+CATEGORIES:Performing Arts,Holidays
+DESCRIPTION:Event by Centre Stage Community Theatre\nCorning First Presbyt
+ erian Church\nDuration: 2 hr\nPublic\nReady to sleigh the stage?\nCentre S
+ tage Community Theatre is putting on a FREE Holiday Variety Show\, and we 
+ want YOU in the lineup! Singers\, dancers\, instrumentalists\, stand-up co
+ mics and skit lovers\, this is your moment to shine.\nAUDITIONS\nFriday\, 
+ Nov. 20 | 6-8 PM\nSaturday\, Nov. 21 | 2-4 PM\nFirst Presbyterian Church\,
+  1 East First Street\, Corning\nAll ages welcome! Come prepared to give us
+  a taste of your performance.\nGood to know:\nBring a recording of your mu
+ sic or your own accompanist\nWe have a holiday theme\, but your piece does
+ n’t need to be a holiday song\nNo act? No problem! Sign up for one of th
+ e skits we’re preparing\nCan’t make either date? Email a video to Kimb
+ erly at knitstergal1965@gmail.com.\nCo-directed by Eddie Vazquez and Kimbe
+ rly Canale.\nThe show runs Saturday\, Dec. 19 from 2-4 PM at First Presbyt
+ erian Church.\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/e
+ vent/78517789/20261120180000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517789/20261120180000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Magic: The Gathering - Friday Night Draft @ The Game Shoppe
 DTSTART:20261120T233000Z
 DTEND:20261121T023000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:9ba579624e378964d489d35ca3c64b72d416cbc7@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -568,7 +705,7 @@ BEGIN:VEVENT
 SUMMARY:AMP'D | Party in the Amphitheater
 DTSTART:20261121T000000Z
 DTEND:20261121T020000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:6442cd20286651fbf9ab17f8436fdc04bdc14dff@corning-events
 SEQUENCE:0
 CATEGORIES:Glass,Art,Connection
@@ -585,10 +722,45 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78507346/20261120190000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:America the Beautiful: Digital Dome Show
+DTSTART:20261121T000000Z
+DTEND:20261121T004500Z
+DTSTAMP:20261116T193233Z
+UID:c1f91b39ba6f347451dc28f7c76a10fa415a0b3e@corning-events
+SEQUENCE:0
+CATEGORIES:Film,History & Heritage
+DESCRIPTION:Event by Corning Community College\n1 Academic Dr\, Corning\, 
+ NY\nPublic\nThe Digital Dome Theater will be doing a 2-week run of the awe
+ -inspiring 360-degree showing of America the Beautiful\, narrated by Emmy
+ ® Award-winning actor Kelsey Grammer.\nThis event is FREE to veterans! Ti
+ ckets for general admission to this special show will be $10 per person.\n
+ Show Information:\nAmerica the Beautiful is a sweeping giant screen experi
+ ence celebrating the vast and varied natural worlds that define the United
+  States and the conservation movement that has ensured their survival. The
+  protection of America’s beauty\, wonder and resources was set in motion
+  by Theodore Roosevelt and other pioneers who popularized principles still
+  in practice today\, passed down through generations\, that will keep Amer
+ ica’s wild heart beating for many more.\nAudiences will embark on an awe
+ -inspiring journey from sea to shining sea\, across the country’s most i
+ conic and diverse environments - soaring mountain ranges\, expansive plain
+ s\, surprising deserts\, flowing rivers and wetlands - captured with the s
+ cale\, clarity\, and immersion of spectacular giant screen cinematography.
+  More than a visual spectacle\, America the Beautiful reveals that these p
+ laces were not preserved by chance\, but through bold vision\, determinati
+ on\, and an enduring commitment to conservation that continues to shape th
+ e nation’s natural legacy.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78517832/20261117190000
+GEO:42.145847;-77.056564
+LOCATION:Corning Community College\, Academic Dr\, Corning\, New York\, Co
+ rning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517832/20261117190000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall Crystal Fest - Gem\, Mineral\, Fossil & Jewelry Show
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:dd26245cbb147ae1aa5f9d4219739562e641e696@corning-events
 SEQUENCE:0
 CATEGORIES:Nature,Crafts
@@ -616,7 +788,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Christmas on Broadway Drag Show
 DTSTART:20261121T003000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:c1f913b2b7a33571d669fc906beaa58cdefd8d3a@corning-events
 SEQUENCE:3
 CATEGORIES:Holidays,Performing Arts,LGBTQ+,Music
@@ -637,7 +809,7 @@ BEGIN:VEVENT
 SUMMARY:Full Moon Ride with Elmira Community Cycle
 DTSTART:20261121T020000Z
 DTEND:20261121T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:1b2b36c5a91686db22339e3f98502639ff83addc@corning-events
 SEQUENCE:0
 CATEGORIES:Bikes,Community,Connection
@@ -653,7 +825,7 @@ BEGIN:VEVENT
 SUMMARY:Friends of Howard Community Center's Christmas Craft Show
 DTSTART:20261121T140000Z
 DTEND:20261121T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:163a697b5461fcb04cff9be72a0d74377e32345a@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Community,Crafts
@@ -670,7 +842,7 @@ SUMMARY:Beginner Sewing Series - Foundational Classes to Master Your Machi
  ne (Fall 2026)
 DTSTART:20261121T140000Z
 DTEND:20261121T170000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:2edf748c2b8fd951000cc9d6e20c72e87a3d830d@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -684,7 +856,7 @@ BEGIN:VEVENT
 SUMMARY:Kringle Market - Absolut Three Rivers
 DTSTART:20261121T150000Z
 DTEND:20261121T160000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:6bb2734689e39a1b53af5776377b3a65f6bd9dc5@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Crafts
@@ -702,7 +874,7 @@ BEGIN:VEVENT
 SUMMARY:Choose Colors with Confidence Workshop
 DTSTART:20261121T150000Z
 DTEND:20261121T173000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:f6c516936e95e75042cd48e2ee06f7160fd025e7@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -715,7 +887,7 @@ BEGIN:VEVENT
 SUMMARY:Hop into the Holiday Season @ Tanglewood Nature Center
 DTSTART:20261121T160000Z
 DTEND:20261121T170000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:0c7b30ebdfb890622599da730b92e8eec1193eb5@corning-events
 SEQUENCE:0
 CATEGORIES:Nature,Holidays,Community
@@ -740,7 +912,7 @@ BEGIN:VEVENT
 SUMMARY:Technology Made Simple: Scams 101
 DTSTART:20261121T170000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:06cb00f9a55c1c55cf8098a386ffb1f75756cb87@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Causes
@@ -763,7 +935,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Snowy Day and Other Stories: A Sensory-Friendly Performance
 DTSTART:20261121T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:2702e63edff72354ed2716ae2d7753416c36bd75@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun
@@ -783,10 +955,36 @@ URL:https://clemenscenter.org/event/the-snowy-day-and-other-stories-a-sens
  ory-friendly-performance/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Holiday Variety Show AUDITIONS! - 2
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+DTSTAMP:20261116T193233Z
+UID:4bf4f8aab954b4355f823afa07e86b41f971a0e6@corning-events
+SEQUENCE:0
+CATEGORIES:Performing Arts,Holidays
+DESCRIPTION:Event by Centre Stage Community Theatre\nCorning First Presbyt
+ erian Church\nDuration: 2 hr\nPublic\nReady to sleigh the stage?\nCentre S
+ tage Community Theatre is putting on a FREE Holiday Variety Show\, and we 
+ want YOU in the lineup! Singers\, dancers\, instrumentalists\, stand-up co
+ mics and skit lovers\, this is your moment to shine.\nAUDITIONS\nFriday\, 
+ Nov. 20 | 6-8 PM\nSaturday\, Nov. 21 | 2-4 PM\nFirst Presbyterian Church\,
+  1 East First Street\, Corning\nAll ages welcome! Come prepared to give us
+  a taste of your performance.\nGood to know:\nBring a recording of your mu
+ sic or your own accompanist\nWe have a holiday theme\, but your piece does
+ n’t need to be a holiday song\nNo act? No problem! Sign up for one of th
+ e skits we’re preparing\nCan’t make either date? Email a video to Kimb
+ erly at knitstergal1965@gmail.com.\nCo-directed by Eddie Vazquez and Kimbe
+ rly Canale.\nThe show runs Saturday\, Dec. 19 from 2-4 PM at First Presbyt
+ erian Church.\n\nSource: FLXcalendar - https://calendar.time.ly/o9b0uzpj/e
+ vent/78517790/20261121140000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517790/20261121140000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Snowy Day at the Clemens Center
 DTSTART:20261121T190000Z
 DTEND:20261122T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:5477f8393b00c1fd2cb1ec55b99615bb8b06cf6d@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Family Fun
@@ -826,10 +1024,45 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78507406/20261121140000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:America the Beautiful: Digital Dome Show
+DTSTART:20261121T190000Z
+DTEND:20261121T194500Z
+DTSTAMP:20261116T193233Z
+UID:62fa657988352082c60aa7b4625aa761f66bf94f@corning-events
+SEQUENCE:0
+CATEGORIES:Film,History & Heritage
+DESCRIPTION:Event by Corning Community College\n1 Academic Dr\, Corning\, 
+ NY\nPublic\nThe Digital Dome Theater will be doing a 2-week run of the awe
+ -inspiring 360-degree showing of America the Beautiful\, narrated by Emmy
+ ® Award-winning actor Kelsey Grammer.\nThis event is FREE to veterans! Ti
+ ckets for general admission to this special show will be $10 per person.\n
+ Show Information:\nAmerica the Beautiful is a sweeping giant screen experi
+ ence celebrating the vast and varied natural worlds that define the United
+  States and the conservation movement that has ensured their survival. The
+  protection of America’s beauty\, wonder and resources was set in motion
+  by Theodore Roosevelt and other pioneers who popularized principles still
+  in practice today\, passed down through generations\, that will keep Amer
+ ica’s wild heart beating for many more.\nAudiences will embark on an awe
+ -inspiring journey from sea to shining sea\, across the country’s most i
+ conic and diverse environments - soaring mountain ranges\, expansive plain
+ s\, surprising deserts\, flowing rivers and wetlands - captured with the s
+ cale\, clarity\, and immersion of spectacular giant screen cinematography.
+  More than a visual spectacle\, America the Beautiful reveals that these p
+ laces were not preserved by chance\, but through bold vision\, determinati
+ on\, and an enduring commitment to conservation that continues to shape th
+ e nation’s natural legacy.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78517834/20261121140000
+GEO:42.145847;-77.056564
+LOCATION:Corning Community College\, Academic Dr\, Corning\, New York\, Co
+ rning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517834/20261121140000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Snowy Day- shadow puppet show
 DTSTART:20261121T190000Z
 DTEND:20261121T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:af01d14ad93a5fe8e43484d2499bc9180e02077b@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Family Fun
@@ -873,10 +1106,45 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78508376/20261121140000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:America the Beautiful: Digital Dome Show
+DTSTART:20261121T200000Z
+DTEND:20261121T204500Z
+DTSTAMP:20261116T193233Z
+UID:73493c1157fbf0ba29c0bb31ec50abf62cabf5f0@corning-events
+SEQUENCE:0
+CATEGORIES:Film,History & Heritage
+DESCRIPTION:Event by Corning Community College\n1 Academic Dr\, Corning\, 
+ NY\nPublic\nThe Digital Dome Theater will be doing a 2-week run of the awe
+ -inspiring 360-degree showing of America the Beautiful\, narrated by Emmy
+ ® Award-winning actor Kelsey Grammer.\nThis event is FREE to veterans! Ti
+ ckets for general admission to this special show will be $10 per person.\n
+ Show Information:\nAmerica the Beautiful is a sweeping giant screen experi
+ ence celebrating the vast and varied natural worlds that define the United
+  States and the conservation movement that has ensured their survival. The
+  protection of America’s beauty\, wonder and resources was set in motion
+  by Theodore Roosevelt and other pioneers who popularized principles still
+  in practice today\, passed down through generations\, that will keep Amer
+ ica’s wild heart beating for many more.\nAudiences will embark on an awe
+ -inspiring journey from sea to shining sea\, across the country’s most i
+ conic and diverse environments - soaring mountain ranges\, expansive plain
+ s\, surprising deserts\, flowing rivers and wetlands - captured with the s
+ cale\, clarity\, and immersion of spectacular giant screen cinematography.
+  More than a visual spectacle\, America the Beautiful reveals that these p
+ laces were not preserved by chance\, but through bold vision\, determinati
+ on\, and an enduring commitment to conservation that continues to shape th
+ e nation’s natural legacy.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78517836/20261121150000
+GEO:42.145847;-77.056564
+LOCATION:Corning Community College\, Academic Dr\, Corning\, New York\, Co
+ rning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517836/20261121150000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Saturday Night Pride @ Watkins Glen Public Library
 DTSTART:20261121T220000Z
 DTEND:20261122T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:9075e3bec0200227ce2a002b637d2da9baf767f4@corning-events
 SEQUENCE:0
 CATEGORIES:Teen,LGBTQ+
@@ -895,7 +1163,7 @@ BEGIN:VEVENT
 SUMMARY:John Bolger @ Grist Iron Brewing
 DTSTART:20261121T220000Z
 DTEND:20261122T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:c7f142bbd29bb2db16125a707e19ce8891812ea0@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Beer
@@ -913,7 +1181,7 @@ BEGIN:VEVENT
 SUMMARY:Saturday Night Pride: Anime Movie Night
 DTSTART:20261121T220000Z
 DTEND:20261122T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:e535308e0cf4ed31f7db1e9ffd36261c65eb5c96@corning-events
 SEQUENCE:0
 CATEGORIES:LGBTQ+,Teen,Film
@@ -932,7 +1200,7 @@ BEGIN:VEVENT
 SUMMARY:Paws for Celebration
 DTSTART:20261121T230000Z
 DTEND:20261122T020000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:6d3a80351d6ae66186c08de326cc49f8efe67a5d@corning-events
 SEQUENCE:0
 CATEGORIES:Pets,Causes,Music
@@ -957,7 +1225,7 @@ BEGIN:VEVENT
 SUMMARY:Houses of the Holy - The True Zeppelin Experience LIVE @ MCBR
 DTSTART:20261122T000000Z
 DTEND:20261122T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:4854c3d76c2ec85f41295aaba071bb6361aa0334@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -974,7 +1242,7 @@ BEGIN:VEVENT
 SUMMARY:Friendsgiving w/ DJ MadCat at Brick\, Corning
 DTSTART:20261122T020000Z
 DTEND:20261122T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:fc2f816455f3290dac1121e528ce959e107c437f@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Dancing
@@ -1004,7 +1272,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261122T153000Z
 DTEND:20261122T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:998a320926d45dc08ed9be450a2f2288432c1ca3@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -1023,10 +1291,31 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78366790/20260531113000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Toys For Tots Movie Drive: "Jingle All the Way"
+DTSTART:20261122T170000Z
+DTEND:20261122T190000Z
+DTSTAMP:20261116T193233Z
+UID:5b5e95ac65acd2cd45bd62f711b0368f94cf64b7@corning-events
+SEQUENCE:0
+DESCRIPTION:Corning Palace Theatre\nTOYS FOR TOTS HOLIDAY MOVIE DAY!\nJoin
+  us on Sunday\, November 22nd\, at NOON for a little holiday magic and a g
+ reat cause!\nWe're showing the holiday classic JINGLE ALL THE WAY!\nYour a
+ dmission is one new\, unwrapped toy to help bring Christmas joy to a child
+  in need.\nDoors open at 11:30 AM Movie starts at 12:00 PM\nLet's come tog
+ ether\, enjoy a holiday classic\, share some laughs\, and help make the se
+ ason a little brighter for local children and families in need.\nBring a t
+ oy\, bring your holiday spirit\, and let's make a difference together!\nBe
+ cause the best gift of all is giving.\n#ToysForTots #HolidayMovieDay #Jing
+ leAllTheWay #SeasonOfGiving #SupportLocalKids\n\nSource: FLXcalendar - htt
+ ps://calendar.time.ly/o9b0uzpj/event/78517794/20261122120000
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517794/20261122120000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sunday Trivia @ Grist Iron Brewing
 DTSTART:20261122T180000Z
 DTEND:20261122T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:0ccc5b9e460a0f25b957275e56402f1230c9d829@corning-events
 SEQUENCE:0
 CATEGORIES:Beer,Competitions,Games
@@ -1049,7 +1338,7 @@ BEGIN:VEVENT
 SUMMARY:Donkey Hodie with WSKG
 DTSTART:20261123T153000Z
 DTEND:20261123T163000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:74c7d3f07d106ac2b16548f3cc8d3dd45604e277@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun
@@ -1071,7 +1360,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20261124T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:36997203c6248636f1312eda18c418c3e8efc559@corning-events
 SEQUENCE:1
 CATEGORIES:Comedy
@@ -1092,7 +1381,7 @@ BEGIN:VEVENT
 SUMMARY:Comedy Club at the Clemens Center
 DTSTART:20261124T010000Z
 DTEND:20261124T043000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:b015876fb05dea7c31688a5e8392f97b2497c4c9@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy
@@ -1118,7 +1407,7 @@ BEGIN:VEVENT
 SUMMARY:I’m Dead. Now What? End-of-Life Planning Q&A Session
 DTSTART:20261124T220000Z
 DTEND:20261124T230000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:1a552d84611f4444b18501d1a65d57de34451c36@corning-events
 SEQUENCE:0
 DESCRIPTION:I’m Dead. Now What?\nEnd-of-Life Planning Q&A Session\nTuesd
@@ -1137,10 +1426,45 @@ URL:https://clemenscenter.org/event/im-dead-now-what-end-of-life-planning-
  qa-session-16/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:America the Beautiful: Digital Dome Show
+DTSTART:20261124T220000Z
+DTEND:20261124T224500Z
+DTSTAMP:20261116T193233Z
+UID:70592dcaf93cbda885116f3a47f14c7c5829f504@corning-events
+SEQUENCE:0
+CATEGORIES:Film,History & Heritage
+DESCRIPTION:Event by Corning Community College\n1 Academic Dr\, Corning\, 
+ NY\nPublic\nThe Digital Dome Theater will be doing a 2-week run of the awe
+ -inspiring 360-degree showing of America the Beautiful\, narrated by Emmy
+ ® Award-winning actor Kelsey Grammer.\nThis event is FREE to veterans! Ti
+ ckets for general admission to this special show will be $10 per person.\n
+ Show Information:\nAmerica the Beautiful is a sweeping giant screen experi
+ ence celebrating the vast and varied natural worlds that define the United
+  States and the conservation movement that has ensured their survival. The
+  protection of America’s beauty\, wonder and resources was set in motion
+  by Theodore Roosevelt and other pioneers who popularized principles still
+  in practice today\, passed down through generations\, that will keep Amer
+ ica’s wild heart beating for many more.\nAudiences will embark on an awe
+ -inspiring journey from sea to shining sea\, across the country’s most i
+ conic and diverse environments - soaring mountain ranges\, expansive plain
+ s\, surprising deserts\, flowing rivers and wetlands - captured with the s
+ cale\, clarity\, and immersion of spectacular giant screen cinematography.
+  More than a visual spectacle\, America the Beautiful reveals that these p
+ laces were not preserved by chance\, but through bold vision\, determinati
+ on\, and an enduring commitment to conservation that continues to shape th
+ e nation’s natural legacy.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78517833/20261120170000
+GEO:42.145847;-77.056564
+LOCATION:Corning Community College\, Academic Dr\, Corning\, New York\, Co
+ rning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517833/20261120170000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261124T220000Z
 DTEND:20261124T230000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:e86775cf020cdf3569e8e36aa7a39791c26c1950@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -1156,7 +1480,7 @@ BEGIN:VEVENT
 SUMMARY:Elmira Tree Lighting
 DTSTART:20261124T223000Z
 DTEND:20261125T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:7afb07ca780809659ae761ec8761632ce3e8c518@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Community,Family Fun,New to the Area
@@ -1173,7 +1497,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Tree Lighting Ceremony\, Downtown Elmira
 DTSTART:20261124T223000Z
 DTEND:20261125T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:9c11a4977c61d330301e6207c84a85360efdce2b@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Family Fun,Music
@@ -1201,7 +1525,7 @@ BEGIN:VEVENT
 SUMMARY:Understanding the Civil War: A Reading & Discussion Series
 DTSTART:20261124T230000Z
 DTEND:20261125T003000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:2a8cd72abb4104c0dd9ac1e5861d5d43abc8a609@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -1229,10 +1553,45 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78440615/20260825180000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:America the Beautiful: Digital Dome Show
+DTSTART:20261124T230000Z
+DTEND:20261124T234500Z
+DTSTAMP:20261116T193233Z
+UID:94d1fac1d41aa630927368f51a536c91f354e6f5@corning-events
+SEQUENCE:0
+CATEGORIES:Film,History & Heritage
+DESCRIPTION:Event by Corning Community College\n1 Academic Dr\, Corning\, 
+ NY\nPublic\nThe Digital Dome Theater will be doing a 2-week run of the awe
+ -inspiring 360-degree showing of America the Beautiful\, narrated by Emmy
+ ® Award-winning actor Kelsey Grammer.\nThis event is FREE to veterans! Ti
+ ckets for general admission to this special show will be $10 per person.\n
+ Show Information:\nAmerica the Beautiful is a sweeping giant screen experi
+ ence celebrating the vast and varied natural worlds that define the United
+  States and the conservation movement that has ensured their survival. The
+  protection of America’s beauty\, wonder and resources was set in motion
+  by Theodore Roosevelt and other pioneers who popularized principles still
+  in practice today\, passed down through generations\, that will keep Amer
+ ica’s wild heart beating for many more.\nAudiences will embark on an awe
+ -inspiring journey from sea to shining sea\, across the country’s most i
+ conic and diverse environments - soaring mountain ranges\, expansive plain
+ s\, surprising deserts\, flowing rivers and wetlands - captured with the s
+ cale\, clarity\, and immersion of spectacular giant screen cinematography.
+  More than a visual spectacle\, America the Beautiful reveals that these p
+ laces were not preserved by chance\, but through bold vision\, determinati
+ on\, and an enduring commitment to conservation that continues to shape th
+ e nation’s natural legacy.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78517831/20261117180000
+GEO:42.145847;-77.056564
+LOCATION:Corning Community College\, Academic Dr\, Corning\, New York\, Co
+ rning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517831/20261117180000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261124T230000Z
 DTEND:20261125T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:a6570669c7cfe7fa9220bf91383c15ce01eba579@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -1251,7 +1610,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal Chords Holiday Chorus
 DTSTART:20261124T234500Z
 DTEND:20261125T020000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:b9cce4bbfe50772e2c0f3b1cea0c17c30a4e349a@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Music,Performing Arts,Volunteering
@@ -1264,10 +1623,45 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78515414/20261124184500
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:America the Beautiful: Digital Dome Show
+DTSTART:20261125T000000Z
+DTEND:20261125T004500Z
+DTSTAMP:20261116T193233Z
+UID:0159137a8e2b31e57038643c00ca54708359ae74@corning-events
+SEQUENCE:0
+CATEGORIES:Film,History & Heritage
+DESCRIPTION:Event by Corning Community College\n1 Academic Dr\, Corning\, 
+ NY\nPublic\nThe Digital Dome Theater will be doing a 2-week run of the awe
+ -inspiring 360-degree showing of America the Beautiful\, narrated by Emmy
+ ® Award-winning actor Kelsey Grammer.\nThis event is FREE to veterans! Ti
+ ckets for general admission to this special show will be $10 per person.\n
+ Show Information:\nAmerica the Beautiful is a sweeping giant screen experi
+ ence celebrating the vast and varied natural worlds that define the United
+  States and the conservation movement that has ensured their survival. The
+  protection of America’s beauty\, wonder and resources was set in motion
+  by Theodore Roosevelt and other pioneers who popularized principles still
+  in practice today\, passed down through generations\, that will keep Amer
+ ica’s wild heart beating for many more.\nAudiences will embark on an awe
+ -inspiring journey from sea to shining sea\, across the country’s most i
+ conic and diverse environments - soaring mountain ranges\, expansive plain
+ s\, surprising deserts\, flowing rivers and wetlands - captured with the s
+ cale\, clarity\, and immersion of spectacular giant screen cinematography.
+  More than a visual spectacle\, America the Beautiful reveals that these p
+ laces were not preserved by chance\, but through bold vision\, determinati
+ on\, and an enduring commitment to conservation that continues to shape th
+ e nation’s natural legacy.\n\nSource: FLXcalendar - https://calendar.tim
+ e.ly/o9b0uzpj/event/78517832/20261117190000
+GEO:42.145847;-77.056564
+LOCATION:Corning Community College\, Academic Dr\, Corning\, New York\, Co
+ rning\, New York\, 14830\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517832/20261117190000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BraVESTimo! Dementia and Community Chorus
 DTSTART:20261125T183000Z
 DTEND:20261125T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:d41cdda1d037ef9bff270676dd42539a3e04b760@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Causes,Community
@@ -1299,7 +1693,7 @@ BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261125T220000Z
 DTEND:20261126T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:f6669e119521edd259b00b6cdace40f904509cc5@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -1313,7 +1707,7 @@ BEGIN:VEVENT
 SUMMARY:Thanksgiving Eve @ the Radisson
 DTSTART:20261125T230000Z
 DTEND:20261126T020000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:d48b8922d212d759ad7da9e07bef8b447c9f4722@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1328,10 +1722,29 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78515527/20261125180000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Thanksgiving Eve w/ The Variables @ Patrick's
+DTSTART:20261126T010000Z
+DTEND:20261126T045959Z
+DTSTAMP:20261116T193233Z
+UID:fef27c00dbe1810b5cf515eba67088f67e4a8d1c@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Event by Patrick's Elmira NY and The Variables\n303 College Av
+ e\, Elmira\, NY\nPublic\nThe tradition continues! The perfect meeting plac
+ e with the best live music the night before Thanksgiving!\n$8 cover (cash 
+ preferred\, Venmo accepted)\n\nSource: FLXcalendar - https://calendar.time
+ .ly/o9b0uzpj/event/78517796/20261125200000
+GEO:42.089655;-76.810577
+LOCATION:Patrick's in Elmira NY\, 303 College Avenue\, Elmira\, New York\,
+  14901\, United States
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517796/20261125200000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pie and Glove 5K
 DTSTART:20261126T130000Z
 DTEND:20261127T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:0cd06edfd3edde4c8216c81fd840f9af61f0425d@corning-events
 SEQUENCE:0
 CATEGORIES:Running,New to the Area
@@ -1348,7 +1761,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261126T150000Z
 DTEND:20261126T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:6c97d2a53ebb9ab5cfeb0b8ab3428fa0be92a0ff@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -1370,7 +1783,7 @@ BEGIN:VEVENT
 SUMMARY:Parents Shopping Day Out with National Soaring Museum!
 DTSTART:20261127T130000Z
 DTEND:20261127T170000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:2026ff562ecaf32a992b6e12882e051ef821b4d5@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Education
@@ -1390,7 +1803,7 @@ BEGIN:VEVENT
 SUMMARY:70th Annual Downtown Elmira Holiday Parade
 DTSTART:20261127T150000Z
 DTEND:20261128T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:000177e468f41c4f67df32456771498373e7a6d3@corning-events
 SEQUENCE:1
 CATEGORIES:Holidays,Community,Family Fun,New to the Area
@@ -1421,7 +1834,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261127T190000Z
 DTEND:20261127T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:350bb0ec74fab07ed3fea475673e11798991765d@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -1435,7 +1848,7 @@ BEGIN:VEVENT
 SUMMARY:Magic: The Gathering - Friday Night Draft @ The Game Shoppe
 DTSTART:20261127T233000Z
 DTEND:20261128T023000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:7028c9e2bdee569492be08211998e7757d8f0533@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -1456,10 +1869,33 @@ STATUS:CONFIRMED
 URL:https://calendar.time.ly/o9b0uzpj/event/78495947/20261023183000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Seneca Lodge 20th Anniversary Autumn Jam
+DTSTART:20261128T000000Z
+DTEND:20261128T030000Z
+DTSTAMP:20261116T193233Z
+UID:98ee17a82ac104bd5bee7f84741ea2520697042c@corning-events
+SEQUENCE:0
+CATEGORIES:Music
+DESCRIPTION:Seneca Lodge\n20 YEARS OF AUTUMN JAM AT SENECA LODGE!\nJoin us
+  Friday\, November 27th\, as we celebrate the 20th Annual Autumn Jam at Se
+ neca Lodge in Watkins Glen!\nGet ready for a great night of live music\, f
+ riends\, fun\, and giving back to a wonderful cause!\nLive Music by The Va
+ riables | 7–10 PM\nJust $5 Cover\nSmall Raffles & 50/50 Drawing\nAll to 
+ benefit Live Like Liz!\nCome out\, enjoy some fantastic live music\, take 
+ a chance on a raffle\, and help support a great cause!\n20 YEARS STRONG! L
+ et's make this year's Autumn Jam one to remember!\n#SenecaLodge #AutumnJam
+  #20thAnnual #LiveLikeLiz #TheVariables #WatkinsGlen #FingerLakes #LiveMus
+ ic #SupportLocal #CommunityStrong\nPowered by Hakes Marketing\n\nSource: F
+ LXcalendar - https://calendar.time.ly/o9b0uzpj/event/78517797/202611271900
+ 00
+STATUS:CONFIRMED
+URL:https://calendar.time.ly/o9b0uzpj/event/78517797/20261127190000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parade of Lights
 DTSTART:20261128T123000Z
 DTEND:20261128T133000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:45e09e9d2137bfa036e78afe5903b3bb5f37a81d@corning-events
 SEQUENCE:1
 CATEGORIES:Holidays,Community,Music,Performing Arts
@@ -1476,7 +1912,7 @@ BEGIN:VEVENT
 SUMMARY:Field Trip - Eldridge Park and Trail
 DTSTART:20261128T130000Z
 DTEND:20261129T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:f51c8e95da6bf21a26cf0ac8b754d055cdf3ba97@corning-events
 SEQUENCE:0
 CATEGORIES:Nature
@@ -1493,7 +1929,7 @@ BEGIN:VEVENT
 SUMMARY:Sewing Workshop: Quilted Holiday Stocking
 DTSTART:20261128T140000Z
 DTEND:20261128T163000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:4fbfc97e575843a789d5bd430f9144fdebf10713@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -1506,7 +1942,7 @@ BEGIN:VEVENT
 SUMMARY:Small Business Saturday Craft Fair at LECOM Event Center
 DTSTART:20261128T150000Z
 DTEND:20261128T210000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:8c35d58c80275afbcaf94ba7b97c9a8ce0b647bc@corning-events
 SEQUENCE:0
 CATEGORIES:Crafts,Holidays
@@ -1522,7 +1958,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Market at the Federal Building
 DTSTART:20261128T160000Z
 DTEND:20261128T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:372620e7ac78a277ddb3e9a4cbfbe029dc8798f3@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Festivals
@@ -1546,7 +1982,7 @@ BEGIN:VEVENT
 SUMMARY:Downtown Elmira's Small Business Saturday Local Shop Giveaway!
 DTSTART:20261128T160000Z
 DTEND:20261128T180000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:7cab903cb5b402c1c8fb3969cb6b19b09e82025b@corning-events
 SEQUENCE:0
 CATEGORIES:Community
@@ -1577,7 +2013,7 @@ SUMMARY:Opening Day: World's Largest Traveling Harmonica Museum at Marich
  Music\, Corning
 DTSTART:20261128T170000Z
 DTEND:20261128T230000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:2618991b7d402fda071d07eeb13b42c902277688@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Family Fun,Holidays,New to the Area
@@ -1607,7 +2043,7 @@ BEGIN:VEVENT
 SUMMARY:360 Small Business Saturday Market!
 DTSTART:20261128T180000Z
 DTEND:20261128T220000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:935b7f1fbd547fb12086b15d71d6137e55e54c77@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Community
@@ -1633,7 +2069,7 @@ BEGIN:VEVENT
 SUMMARY:A Golden Girls Cheesecake Social
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:eeb2344e01521ff6f8abf27665440268f2f0cfa9@corning-events
 SEQUENCE:0
 CATEGORIES:Food,Comedy,Competitions,Games
@@ -1656,7 +2092,7 @@ BEGIN:VEVENT
 SUMMARY:JAY @ Grist Iron Brewing
 DTSTART:20261128T220000Z
 DTEND:20261129T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:3fd3c754664e6125cefb22cf27ee99bd7aca5d27@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Beer
@@ -1674,7 +2110,7 @@ BEGIN:VEVENT
 SUMMARY:Rust\, Unparallel Band\, and Brian Hughes Band LIVE @ MCBR
 DTSTART:20261128T223000Z
 DTEND:20261129T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:09fb71d44558d7da3ddbee888fa047fbf44cf3f1@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -1696,7 +2132,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal City Pageant Craft Far
 DTSTART:20261129T140000Z
 DTEND:20261129T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:d9fd53c5e4f1a8f34fd22b14e500eabe600c3a4e@corning-events
 SEQUENCE:0
 CATEGORIES:Crafts,Causes,Holidays
@@ -1731,7 +2167,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261129T153000Z
 DTEND:20261129T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:b83084dd2cd48af25c836395a9f4956678a182cb@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -1753,7 +2189,7 @@ BEGIN:VEVENT
 SUMMARY:Spiritual Recharge: Tea & Meditation
 DTSTART:20261129T200000Z
 DTEND:20261129T210000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:aedd5d9d6666a216a55a4a022350851dfb102d50@corning-events
 SEQUENCE:0
 CATEGORIES:Health,Connection
@@ -1780,7 +2216,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Three Kings: The Irish Dance Christmas Sensation
 DTSTART:20261201T003000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:87cec0980311311d534c509109e99321e3c97e73@corning-events
 SEQUENCE:4
 CATEGORIES:Holidays,Dancing,Performing Arts,Music
@@ -1806,7 +2242,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261201T220000Z
 DTEND:20261201T230000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:ad20e99a32673ef59a5de29e8a123b78c68e6fb1@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -1822,7 +2258,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261201T230000Z
 DTEND:20261202T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:6d2b37b61d6456e2837e083e9958bf4a41f8cdf1@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -1841,7 +2277,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal Chords Holiday Chorus
 DTSTART:20261201T234500Z
 DTEND:20261202T020000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:53d92d96453a75cc2b9d93f3e681bde3313feae2@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Music,Performing Arts,Volunteering
@@ -1857,7 +2293,7 @@ BEGIN:VEVENT
 SUMMARY:BraVESTimo! Dementia and Community Chorus
 DTSTART:20261202T183000Z
 DTEND:20261202T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:e6d4832f72a1cc1aa6701effb2801742ae373b06@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Causes,Community
@@ -1889,7 +2325,7 @@ BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261202T220000Z
 DTEND:20261203T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:2e879e82639e4a253d18b9c76755484356d5d14b@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -1902,7 +2338,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gingerbread Invitational Opening Reception
 DTSTART:20261202T223000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:b38160f61bd1d9f8ae5aa26f481d430d3f03b00c@corning-events
 SEQUENCE:3
 CATEGORIES:Holidays,Art
@@ -1918,7 +2354,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261203T150000Z
 DTEND:20261203T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:56899e3c9d9189262af09ac69a5f9fa832a540ad@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -1939,7 +2375,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lil Rockwell | Story Hour: Gingerbread
 DTSTART:20261203T150000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:eed09e70192d4d9057bfbe371d088eaae92adaa3@corning-events
 SEQUENCE:3
 CATEGORIES:Holidays,Family Fun,Literature
@@ -1956,7 +2392,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Nonprofit Showcase Business After Hours
 DTSTART:20261203T220000Z
 DTEND:20261204T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:2e45c633968888e31f29436b294c9d51e05aacd5@corning-events
 SEQUENCE:0
 DESCRIPTION:Source: Corning Area Chamber of Commerce - https://www.corning
@@ -1969,7 +2405,7 @@ BEGIN:VEVENT
 SUMMARY:Dave and Jenn's Karaoke Experience
 DTSTART:20261203T230000Z
 DTEND:20261204T020000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:5ae6343a516dff82a3287902794211dee5c56d0b@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Wine
@@ -1992,7 +2428,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261204T190000Z
 DTEND:20261204T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:398860f90694a4d8ab2e1726e6980950bda2f2c7@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -2006,7 +2442,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261204T200000Z
 DTEND:20261204T220000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:6c588bcd8631560fc6a55b28091edd3a42c0b1ec@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -2024,7 +2460,7 @@ BEGIN:VEVENT
 SUMMARY:A Very Merry Storytime @ Watkins Village Christmas
 DTSTART:20261204T220000Z
 DTEND:20261205T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:6ad3d0e91fa3bcaf0bcef3aeb5dc85d2d8b333a8@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Literature
@@ -2048,7 +2484,7 @@ BEGIN:VEVENT
 SUMMARY:Christmas Party with Vendors!
 DTSTART:20261204T220000Z
 DTEND:20261205T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:c78cdc0f8262d5bc89ffcee4aec26d622d05f4fe@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Holidays,Crafts
@@ -2065,7 +2501,7 @@ BEGIN:VEVENT
 SUMMARY:Bath Spirit of Christmas
 DTSTART:20261204T223000Z
 DTEND:20261205T003000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:24633b4541543ffe995992a95201317c0d9976f6@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Festivals,Music,Food,Crafts
@@ -2079,7 +2515,7 @@ BEGIN:VEVENT
 SUMMARY:Far Trio @ Grist Iron Brewing
 DTSTART:20261204T230000Z
 DTEND:20261205T020000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:104610ac1e80a6b5faad5954d7696cdb84ee43af@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Beer
@@ -2097,7 +2533,7 @@ BEGIN:VEVENT
 SUMMARY:Magic: The Gathering - Friday Night Draft @ The Game Shoppe
 DTSTART:20261204T233000Z
 DTEND:20261205T023000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:59e5b534b24c8a40b8c299f27741d1d0575d8ddd@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -2121,7 +2557,7 @@ BEGIN:VEVENT
 SUMMARY:360 Karaoke + Open Mic Night!
 DTSTART:20261205T010000Z
 DTEND:20261205T045900Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:c6b03aa0e14366369d50da5ba3e3d107c3aac507@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -2143,7 +2579,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holiday Open House
 DTSTART:20261205T050000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:ab92400da163ca48e80eb0aaa41645fbb50fae19@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass Holiday Open House FREE Admission\n\nS
@@ -2157,7 +2593,7 @@ BEGIN:VEVENT
 SUMMARY:Field Trip - Downtown Elmira
 DTSTART:20261205T130000Z
 DTEND:20261206T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:1ca1d019d68d12577ea7efdca37fcc75d127dca5@corning-events
 SEQUENCE:0
 CATEGORIES:Nature
@@ -2172,7 +2608,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holiday Open House + Sparkle
 DTSTART:20261205T140000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:ed12e4c80183386cc93429cd906b50fbac45626f@corning-events
 SEQUENCE:5
 CATEGORIES:Holidays,Art
@@ -2188,7 +2624,7 @@ BEGIN:VEVENT
 SUMMARY:Doc Possum: Reading & Rocking Tour!
 DTSTART:20261205T153000Z
 DTEND:20261205T163000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:99400d5bb6109ed0c8945580e3080dc6ae78f8bf@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Music,Literature
@@ -2211,7 +2647,7 @@ BEGIN:VEVENT
 SUMMARY:A Very Merry Gristmas Holiday Shopping Bazaar
 DTSTART:20261205T180000Z
 DTEND:20261205T210000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:560c6e380c9a5817ba785ff7b3af890861088754@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Community,Festivals
@@ -2231,7 +2667,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Open House
 DTSTART:20261205T190000Z
 DTEND:20261205T210000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:053e7813602a2aa56d8f92f4207db68baaaedb07@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Games,Crafts
@@ -2253,7 +2689,7 @@ BEGIN:VEVENT
 SUMMARY:CAYP Game Day
 DTSTART:20261205T190000Z
 DTEND:20261205T210000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:09664172cca030c11d08930da3c8649ad9e0b1cf@corning-events
 SEQUENCE:0
 DESCRIPTION:CAYP Gmae Day | Dec 5 at The Office in Corning\n\nSource: Corn
@@ -2265,7 +2701,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rafael Grigorian Ballet Theatre presents THE NUTCRACKER
 DTSTART:20261205T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:25e8793c2306a767e9b1a3581fa927cb8cb39b8d@corning-events
 SEQUENCE:3
 CATEGORIES:Family Fun,Holidays,Performing Arts,Music,Dancing,New to the Ar
@@ -2287,7 +2723,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sparkle Cookie Decorating
 DTSTART:20261205T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:c452ea413f62d7461f1249a380bbf19d9da2395f@corning-events
 SEQUENCE:1
 CATEGORIES:Holidays,Art,Food,Crafts
@@ -2304,7 +2740,7 @@ BEGIN:VEVENT
 SUMMARY:Sparkle presented by First HEritage Federal Credit Union
 DTSTART:20261205T210000Z
 DTEND:20261206T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:80fe29cb276c4e612d481bf1b98847d762487abd@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning’s most magical holiday tradition is back\, lighting 
@@ -2320,7 +2756,7 @@ BEGIN:VEVENT
 SUMMARY:SANTACON 2026
 DTSTART:20261205T220000Z
 DTEND:20261206T030000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:a7df139504690dd89599c05eb3adffff1f1a915d@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Food,Beer
@@ -2340,7 +2776,7 @@ BEGIN:VEVENT
 SUMMARY:Aragon Dance Club\, Big Flats
 DTSTART:20261206T000000Z
 DTEND:20261206T023000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:b87f3d765e8286c47f69b2a70245e5d4ec58087f@corning-events
 SEQUENCE:0
 CATEGORIES:Dancing,Community,Music,Seniors
@@ -2355,7 +2791,7 @@ BEGIN:VEVENT
 SUMMARY:The Seven Wonders- Fleetwood Mac Tribute w/ Bad Bear @ MCBR
 DTSTART:20261206T010000Z
 DTEND:20261206T030000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:4d1c26609ec241beab283dde76edfe44706499c3@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Performing Arts
@@ -2376,7 +2812,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holiday Open House
 DTSTART:20261206T140000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:d9e65007d54f52cc473133b24fdb2c423d9bfd45@corning-events
 SEQUENCE:1
 CATEGORIES:Holidays,Family Fun,Art
@@ -2392,7 +2828,7 @@ BEGIN:VEVENT
 SUMMARY:Southern Tier Card Showcase
 DTSTART:20261206T150000Z
 DTEND:20261206T210000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:3e785dada0330f5d1b9e82d7f0e2fa89ef875499@corning-events
 SEQUENCE:0
 CATEGORIES:Games,Food,Family Fun
@@ -2415,7 +2851,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261206T153000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:83ce0149607b5bbdd4ba8322151abf856ba1fee1@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -2437,7 +2873,7 @@ BEGIN:VEVENT
 SUMMARY:NY-HORSEHEADS Merry Christmas Pageant in Arnot Mall
 DTSTART:20261206T180000Z
 DTEND:20261207T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:1aa6ac6be6b0681560614869ada8d14ba9a64716@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Community
@@ -2465,7 +2901,7 @@ BEGIN:VEVENT
 SUMMARY:Sunday Trivia @ Grist Iron Brewing
 DTSTART:20261206T180000Z
 DTEND:20261206T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:b19193221c40874cf3f0c92a5db743a94fae9a9d@corning-events
 SEQUENCE:0
 CATEGORIES:Beer,Competitions,Games
@@ -2488,7 +2924,7 @@ BEGIN:VEVENT
 SUMMARY:Songs of the Shakers & Shape Note/Sacred Harp Singing
 DTSTART:20261206T190000Z
 DTEND:20261207T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:e5c216d606c05ebb10f0ad050129326a25cfde7d@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -2519,7 +2955,7 @@ BEGIN:VEVENT
 SUMMARY:The Magic School Bus: Lost in the Solar System
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:4167f72302b324faae5463498a329ae0d0cf8917@corning-events
 SEQUENCE:0
 DESCRIPTION:The Magic School Bus: Lost in the Solar System\nMondayDecember
@@ -2540,7 +2976,7 @@ BEGIN:VEVENT
 SUMMARY:Beetlejuice
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:a48cf5a4d6f9e24a3b4920e2943e026d9221209e@corning-events
 SEQUENCE:5
 DESCRIPTION:BEETLEJUICE\nTuesday – WednesdayDecember 8 – 9\, 20267:30p
@@ -2560,7 +2996,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261208T220000Z
 DTEND:20261208T230000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:3dcd0b02b99816aac319950037fe2379b12c3217@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -2576,7 +3012,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261208T230000Z
 DTEND:20261209T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:893a841d935d3b1fce5c6265f482c2191ece08cf@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -2595,7 +3031,7 @@ BEGIN:VEVENT
 SUMMARY:Understanding the Civil War: A Reading & Discussion Series
 DTSTART:20261208T230000Z
 DTEND:20261209T003000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:93f8756992331ef283b0cbaecd8f571c051b5d85@corning-events
 SEQUENCE:0
 CATEGORIES:History & Heritage,Education
@@ -2626,7 +3062,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal Chords Holiday Chorus
 DTSTART:20261208T234500Z
 DTEND:20261209T020000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:af554d49baf3bb20e8432cb36aaa6b3497db2da6@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Music,Performing Arts,Volunteering
@@ -2642,7 +3078,7 @@ BEGIN:VEVENT
 SUMMARY:Beetlejuice live at the Clemens Center
 DTSTART:20261209T003000Z
 DTEND:20261209T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:941f2c17e4d2899515c0942af723ce9343feae29@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -2671,7 +3107,7 @@ BEGIN:VEVENT
 SUMMARY:Out to Lunch: Gallery Talk
 DTSTART:20261209T170000Z
 DTEND:20261209T180000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:9a4718eeafd75a5d48689c282319837297307983@corning-events
 SEQUENCE:0
 DESCRIPTION:Join CCHS Education Director Susan Zehnder on a walk through t
@@ -2689,7 +3125,7 @@ BEGIN:VEVENT
 SUMMARY:BraVESTimo! Dementia and Community Chorus
 DTSTART:20261209T183000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:369d628305261e0f10b38d59338a26c0906519cf@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Causes,Community
@@ -2721,7 +3157,7 @@ BEGIN:VEVENT
 SUMMARY:Business After Hours at IncubatorWorks
 DTSTART:20261209T220000Z
 DTEND:20261210T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:00c1fd555f8f666c587f1ae20a81a6f6f3ab0cbb@corning-events
 SEQUENCE:0
 DESCRIPTION:Business After Hours on December 9th at IncubatorWorks. Networ
@@ -2737,7 +3173,7 @@ BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261209T220000Z
 DTEND:20261210T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:13d5c53722bc44236635d295041b4b0e68047e88@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -2751,7 +3187,7 @@ BEGIN:VEVENT
 SUMMARY:Beetlejuice live at the Clemens Center
 DTSTART:20261210T003000Z
 DTEND:20261210T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:c54ac3946d4c88d4f24a51d4d49b4367ffeb721b@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -2780,7 +3216,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261210T150000Z
 DTEND:20261210T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:2175281ae1c846f3c5d1641591ed156e2318239a@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -2802,7 +3238,7 @@ BEGIN:VEVENT
 SUMMARY:Kool & The Gang live at LECOM Event Center
 DTSTART:20261210T230000Z
 DTEND:20261211T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:465747059f47cbc81eb933b4f1365b10e7deaa9d@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -2825,7 +3261,7 @@ BEGIN:VEVENT
 SUMMARY:A Dream Within a Dream: The Poetry & Stories of Edgar Allan Poe
 DTSTART:20261210T230000Z
 DTEND:20261211T003000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:e8ac450c39755e873f043debfa63e1f0d6f88275@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Literature
@@ -2844,7 +3280,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261211T190000Z
 DTEND:20261211T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:62d2a968f7203e8ae6549f18f02f0d05a2fb676c@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -2858,7 +3294,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261211T200000Z
 DTEND:20261211T220000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:f536f18edcc79497cf3ceaad7a3d462e4d8636b6@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -2876,7 +3312,7 @@ BEGIN:VEVENT
 SUMMARY:Winterfare 2026 in Elmira
 DTSTART:20261211T210000Z
 DTEND:20261212T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:aeb9b89d2536dbd469fc684e78d21242dae9327b@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Community,Family Fun,New to the Area
@@ -2912,7 +3348,7 @@ BEGIN:VEVENT
 SUMMARY:Magic: The Gathering - Friday Night Draft @ The Game Shoppe
 DTSTART:20261211T233000Z
 DTEND:20261212T023000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:03411a9d0e34969202aba803a73e7f73024d6864@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -2936,7 +3372,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Craft Fair at LECOM Event Center\, Elmira
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:8fbe73f63dd4cbae1496f8fa0f62a019285d7ad2@corning-events
 SEQUENCE:0
 CATEGORIES:Crafts,Holidays
@@ -2959,7 +3395,7 @@ BEGIN:VEVENT
 SUMMARY:360 Karaoke + Open Mic Night
 DTSTART:20261212T010000Z
 DTEND:20261212T045900Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:4d22b86c4af893dd71a4b1e3cc747c41bac8a0e2@corning-events
 SEQUENCE:0
 CATEGORIES:Performing Arts,Music
@@ -2982,7 +3418,7 @@ BEGIN:VEVENT
 SUMMARY:Breakfast with Santa @ the Radisson
 DTSTART:20261212T140000Z
 DTEND:20261212T170000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:74aae14feb3c3b5b624acfe768843d4b5fda9bd9@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Food,Family Fun
@@ -3010,7 +3446,7 @@ BEGIN:VEVENT
 SUMMARY:Winterfare 2026 in Elmira
 DTSTART:20261212T160000Z
 DTEND:20261212T220000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:fb8576b3c1ad6300535ab05ba81e6f955848296a@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Community,Family Fun,New to the Area
@@ -3046,7 +3482,7 @@ BEGIN:VEVENT
 SUMMARY:Winter WINEderland & Market
 DTSTART:20261212T180000Z
 DTEND:20261212T220000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:3567c4ed928c9e0c53cc119fc59491b6c7a45f4f@corning-events
 SEQUENCE:0
 CATEGORIES:Wine,Holidays,Crafts,Food
@@ -3069,7 +3505,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Second Saturdays | Public Tour
 DTSTART:20261212T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:2b41d6560f8e11d9f632c2813dd147c81c2ad9c6@corning-events
 SEQUENCE:0
 DESCRIPTION:Open to the public | Included with regular Museum admission | 
@@ -3082,7 +3518,7 @@ BEGIN:VEVENT
 SUMMARY:Orchestra of the Southern Finger Lakes presents TIMELESS TRADITION
  S
 DTSTART:20261212T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:23851f615b9090ab2eab6d4cc94e0cf613c03438@corning-events
 SEQUENCE:1
 CATEGORIES:Music,Holidays,Family Fun,New to the Area
@@ -3108,7 +3544,7 @@ BEGIN:VEVENT
 SUMMARY:Xtreme International Ice Racing at LECOM Event Center
 DTSTART:20261212T220000Z
 DTEND:20261213T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:6302c8c519f83cdc50fbd86722690e9fcda6e266@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -3128,7 +3564,7 @@ BEGIN:VEVENT
 SUMMARY:The Y at Watson Woods' Breakfast with Santa
 DTSTART:20261213T150000Z
 DTEND:20261213T170000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:32ce01ec291a46d8abd7e0ecca169e365991f4fe@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Family Fun
@@ -3152,7 +3588,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261213T153000Z
 DTEND:20261213T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:a228a0d791ee4e8c1244ae585cacf4ea2aa2074b@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -3174,7 +3610,7 @@ BEGIN:VEVENT
 SUMMARY:Empire Brick Club Meeting
 DTSTART:20261213T190000Z
 DTEND:20261213T210000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:a4f647249777e18fa4b3f61be98436cc278734f4@corning-events
 SEQUENCE:0
 CATEGORIES:Community,Connection,New to the Area
@@ -3192,7 +3628,7 @@ BEGIN:VEVENT
 SUMMARY:Canadian Brass @ CMoG
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:8967a70056543383e08314732584f8bf2c4db56f@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -3214,7 +3650,7 @@ BEGIN:VEVENT
 SUMMARY:Corning-Painted Post Civic Music presents Canadian Brass
 DTSTART:20261213T200000Z
 DTEND:20261214T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:9c60730cad550aafcd822ada7e01e4a7961aac5f@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -3235,7 +3671,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261215T220000Z
 DTEND:20261215T230000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:43c070d198b0e02085e1155814858d0b57284a0c@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -3251,7 +3687,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261215T230000Z
 DTEND:20261216T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:39bf667f6973824b90c3eeb3c358e06189e0ec92@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -3270,7 +3706,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal Chords Holiday Chorus
 DTSTART:20261215T234500Z
 DTEND:20261216T020000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:238f79304234c532cb1b10d593139c99993b346d@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Music,Performing Arts,Volunteering
@@ -3286,7 +3722,7 @@ BEGIN:VEVENT
 SUMMARY:I Want a Hippopotamus for Christmas
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:a65c4b54033d8405c107da550ba83dd22a10af7f@corning-events
 SEQUENCE:0
 DESCRIPTION:I Want a Hippopotamus for Christmas\nWednesdayDecember 16\, 20
@@ -3306,7 +3742,7 @@ BEGIN:VEVENT
 SUMMARY:BraVESTimo! Dementia and Community Chorus
 DTSTART:20261216T183000Z
 DTEND:20261216T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:14acb1e507642a138765897e45666cb4e8846a9e@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Causes,Community
@@ -3338,7 +3774,7 @@ BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261216T220000Z
 DTEND:20261217T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:85e9941bf5e8990add1e583e0a6ea57cf1ffd728@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -3352,7 +3788,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261217T150000Z
 DTEND:20261217T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:3603584d7b7b95d3f82d4f8438eeda08b39945cc@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -3375,7 +3811,7 @@ SUMMARY:New Heights Dance Theater presents THE NUTCRACKER IN MOTION: Land
  of the Sweets Dessert Party
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:f3220ad1b3a91e33bc5341ab40cbf9ad567862dd@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun,Performing Arts,Holidays
@@ -3402,7 +3838,7 @@ SUMMARY:Friday Matinee Movie - "The Big Sleep" at Southeast Steuben County
   Library
 DTSTART:20261218T190000Z
 DTEND:20261219T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:640d66816fafcd9654b6910a29f49c510882b0d4@corning-events
 SEQUENCE:0
 CATEGORIES:Film
@@ -3423,7 +3859,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261218T190000Z
 DTEND:20261218T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:e8b2dc31a6833932d8134fbd5d8d2f6ab10e9994@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -3437,7 +3873,7 @@ BEGIN:VEVENT
 SUMMARY:Movie Afternoon: The Muppet Christmas Carol
 DTSTART:20261218T194500Z
 DTEND:20261218T213000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:64717c44a7f75fe980427dc44f0eb78906169295@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film,Holidays
@@ -3454,7 +3890,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Movie for Kids
 DTSTART:20261218T200000Z
 DTEND:20261218T220000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:dc74bce113bf450a61f70d4fab73005ee9d1c8b9@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun,Film
@@ -3472,7 +3908,7 @@ BEGIN:VEVENT
 SUMMARY:Magic: The Gathering - Friday Night Draft @ The Game Shoppe
 DTSTART:20261218T233000Z
 DTEND:20261219T023000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:8f34def2ad6d03909b2378ea568329ece58764a5@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -3496,7 +3932,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening of Hanukkah\, Solstice & Christmas Music
 DTSTART:20261219T000000Z
 DTEND:20261219T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:a37cd4f618ddf679afed1161c8579afadd672d6c@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Music,Causes
@@ -3526,7 +3962,7 @@ BEGIN:VEVENT
 SUMMARY:New Heights Dance Theater presents THE NUTCRACKER IN MOTION
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:dae59f0e8d6e321fc073fe1d453e2b83543df643@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun,Holidays,Performing Arts,Dancing,Music
@@ -3552,7 +3988,7 @@ BEGIN:VEVENT
 SUMMARY:Full Moon Ride with Elmira Community Cycle
 DTSTART:20261219T020000Z
 DTEND:20261219T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:3abad03611b2cc2d67818aa291e838395dae91b7@corning-events
 SEQUENCE:0
 CATEGORIES:Bikes,Community,Connection
@@ -3568,7 +4004,7 @@ BEGIN:VEVENT
 SUMMARY:Holifay Craft Fair @ the Mall!
 DTSTART:20261219T150000Z
 DTEND:20261219T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:699f5cde50b0d9c979389bd7dfb289cf2ae54467@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Crafts,Causes
@@ -3593,7 +4029,7 @@ BEGIN:VEVENT
 SUMMARY:Christmas at the Brewery
 DTSTART:20261219T180000Z
 DTEND:20261219T230000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:c2847de16cd3af783d86891df343dfbd740c74c5@corning-events
 SEQUENCE:0
 CATEGORIES:Holidays,Music,Beer,Food
@@ -3619,7 +4055,7 @@ BEGIN:VEVENT
 SUMMARY:Gladius LI - Fight Night @ Mud Creek Bison Ranch
 DTSTART:20261219T223000Z
 DTEND:20261220T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:8d81de0096e962ebc498348e6e286b3fe49233cb@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -3638,7 +4074,7 @@ BEGIN:VEVENT
 SUMMARY:Elmira Aviators & the FRPCV Book Drive & Book Give Away!
 DTSTART:20261220T000000Z
 DTEND:20261220T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:46e41733b85f79161684e1627bdbd01d319b28ab@corning-events
 SEQUENCE:0
 CATEGORIES:Sports,Holidays,Causes,Literature
@@ -3668,7 +4104,7 @@ BEGIN:VEVENT
 SUMMARY:Chamberlain Acres Farmers Market in Elmira
 DTSTART:20261220T153000Z
 DTEND:20261220T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:821bd6e9f2ca6d5cf428583d17a1085a9a18fc62@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Family Fun,New to the Area
@@ -3690,7 +4126,7 @@ BEGIN:VEVENT
 SUMMARY:Sunday Trivia @ Grist Iron Brewing
 DTSTART:20261220T180000Z
 DTEND:20261220T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:29a9d91a0a3e7ca9dffbd5a53eac43a071ab87d0@corning-events
 SEQUENCE:0
 CATEGORIES:Beer,Competitions,Games
@@ -3713,7 +4149,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261222T220000Z
 DTEND:20261222T230000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:63eee7f06a171d1527870f11dd47d10c7e0b13e8@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -3729,7 +4165,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261222T230000Z
 DTEND:20261223T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:aacb360f3c00d2660365545daa2f427172acbdbc@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -3748,7 +4184,7 @@ BEGIN:VEVENT
 SUMMARY:BraVESTimo! Dementia and Community Chorus
 DTSTART:20261223T183000Z
 DTEND:20261223T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:1dc9c2b9205a4d8c5f6d6250efbfe086e47c4756@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Causes,Community
@@ -3780,7 +4216,7 @@ BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261223T220000Z
 DTEND:20261224T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:7475131222e9ac4367e1f988c04c50aae197c8f9@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -3794,7 +4230,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261224T150000Z
 DTEND:20261224T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:a9bb0e48154cf0822b6c8b54af33c878d62fd356@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -3816,7 +4252,7 @@ BEGIN:VEVENT
 SUMMARY:Friday See & Sketch
 DTSTART:20261225T190000Z
 DTEND:20261225T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:83325af9f3a43fa6cdbae3321a69cce216c4bd87@corning-events
 SEQUENCE:0
 DESCRIPTION:Corning Museum of Glass | See & Sketch | Gallery tour\n\nSourc
@@ -3830,7 +4266,7 @@ BEGIN:VEVENT
 SUMMARY:Magic: The Gathering - Friday Night Draft @ The Game Shoppe
 DTSTART:20261225T233000Z
 DTEND:20261226T023000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:cfc064cf320d7024d94a2e3b9bfaa0bace6b7932@corning-events
 SEQUENCE:0
 CATEGORIES:Games
@@ -3854,7 +4290,7 @@ BEGIN:VEVENT
 SUMMARY:Spiritual Recharge: Tea & Meditation
 DTSTART:20261227T200000Z
 DTEND:20261227T210000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:58b0ebe368d6daf8c93ed1875fcad9c123f9bb6e@corning-events
 SEQUENCE:0
 CATEGORIES:Health,Connection
@@ -3882,7 +4318,7 @@ BEGIN:VEVENT
 SUMMARY:Group Run with Southern Tier Running Club
 DTSTART:20261229T220000Z
 DTEND:20261229T230000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:55fa0b792ea163f62d5a4223fca2f4ade2a0db0b@corning-events
 SEQUENCE:0
 CATEGORIES:Running,Community,New to the Area
@@ -3898,7 +4334,7 @@ BEGIN:VEVENT
 SUMMARY:Rock-Pop Music Trivia/Bingo!
 DTSTART:20261229T230000Z
 DTEND:20261230T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:f1479802cfe483c6b0c7260040ede0549a9da6b5@corning-events
 SEQUENCE:0
 CATEGORIES:Competitions,Music
@@ -3917,7 +4353,7 @@ BEGIN:VEVENT
 SUMMARY:BraVESTimo! Dementia and Community Chorus
 DTSTART:20261230T183000Z
 DTEND:20261230T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:ed2dc4107274e6a55a25df0cbd35c9c76c0f1b9c@corning-events
 SEQUENCE:0
 CATEGORIES:Music,Causes,Community
@@ -3949,7 +4385,7 @@ BEGIN:VEVENT
 SUMMARY:Skeet\, 5-Stand\, Wobble at Painted Post Field & Stream Club
 DTSTART:20261230T220000Z
 DTEND:20261231T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:39ab84ac9958306676f4a76efa6641e162fafdd2@corning-events
 SEQUENCE:0
 CATEGORIES:Sports
@@ -3963,7 +4399,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20261231T150000Z
 DTEND:20261231T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:774819bde51b8a508b9d09eecda23417f199763b@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -3985,7 +4421,7 @@ BEGIN:VEVENT
 SUMMARY:Next Stop Comedy @ 360Aurora
 DTSTART:20270101T000000Z
 DTEND:20270101T030000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:791a7936deea45a22785e72198fa0fd1d71a50ea@corning-events
 SEQUENCE:0
 CATEGORIES:Comedy,Performing Arts
@@ -4007,7 +4443,7 @@ BEGIN:VEVENT
 SUMMARY:Sunday Trivia @ Grist Iron Brewing
 DTSTART:20270103T180000Z
 DTEND:20270103T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:a98df335da0481dd121b6a07828616cbeaa889af@corning-events
 SEQUENCE:0
 CATEGORIES:Beer,Competitions,Games
@@ -4029,7 +4465,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Glass Snow Family
 DTSTART:20270107T050000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:9c5c093cfb52a5b64b882d88b66ebc2082655429@corning-events
 SEQUENCE:0
 DESCRIPTION:Glass Snow Family\n\nSource: Corning Area Chamber of Commerce 
@@ -4043,7 +4479,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270107T150000Z
 DTEND:20270107T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:3b9deaca8a96c46c08411ac7e3f656d8f0bc244d@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4065,7 +4501,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270114T150000Z
 DTEND:20270114T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:276c227a934808d780dc24c8515c8074c96cd87f@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4087,7 +4523,7 @@ BEGIN:VEVENT
 SUMMARY:Sunday Trivia @ Grist Iron Brewing
 DTSTART:20270117T180000Z
 DTEND:20270117T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:912cde01fdd22e2d54d652e9ea41005cc21b6fbd@corning-events
 SEQUENCE:0
 CATEGORIES:Beer,Competitions,Games
@@ -4110,7 +4546,7 @@ BEGIN:VEVENT
 SUMMARY:I’m Dead. Now What? End-of-Life Planning Q&A Session
 DTSTART:20270120T220000Z
 DTEND:20270120T230000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:92b5ecf559c9c1cc81ff72ec5dacf2eaf4c5b2e1@corning-events
 SEQUENCE:0
 DESCRIPTION:I’m Dead. Now What?\nEnd-of-Life Planning Q&A Session\nWedne
@@ -4132,7 +4568,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270121T150000Z
 DTEND:20270121T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:cad976b86c9fdda603e7f882cad59295b05e0a49@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4154,7 +4590,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270128T150000Z
 DTEND:20270128T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:ee90c6a0c64157d2ecb3b6b8c768a7fd30a73d1f@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4177,7 +4613,7 @@ SUMMARY:Movies in Mandeville: Disney's ALICE IN WONDERLAND (1951) with Mad
   Tea Party
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:3d4bbd7f234a654816483b3ac50cf32f5c91e7ed@corning-events
 SEQUENCE:0
 CATEGORIES:Family Fun
@@ -4200,7 +4636,7 @@ BEGIN:VEVENT
 SUMMARY:Sunday Trivia @ Grist Iron Brewing
 DTSTART:20270131T180000Z
 DTEND:20270131T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:88b79316859bfd19af6c7e3f569db46b26c571cc@corning-events
 SEQUENCE:0
 CATEGORIES:Beer,Competitions,Games
@@ -4222,7 +4658,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20270202T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:c77b1809b938c49952ef8168649f2d5522cc8d44@corning-events
 SEQUENCE:1
 CATEGORIES:Comedy
@@ -4243,7 +4679,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270204T150000Z
 DTEND:20270204T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:d9dd48a6916c436ce3d387691011da8f2bbb1cbc@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4265,7 +4701,7 @@ BEGIN:VEVENT
 SUMMARY:Heroes of the Underground Railroad
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:8da6df3828a7d0b497f430a4518db64b99895f62@corning-events
 SEQUENCE:0
 DESCRIPTION:Heroes of the Underground Railroad\nFridayFebruary 5\, 202710:
@@ -4285,7 +4721,7 @@ BEGIN:VEVENT
 SUMMARY:AMP'D | Party in the Amphitheater
 DTSTART:20270206T000000Z
 DTEND:20270206T020000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:739aca1eeffba7616e9df71f1fd4b0654dc1bf23@corning-events
 SEQUENCE:0
 CATEGORIES:Glass,Art,Music
@@ -4302,7 +4738,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Simon and Garfunkel Tribute: On Bleecker Street
 DTSTART:20270207T003000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:987466f98a762b61310afa67427de9a7b5a52161@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4323,7 +4759,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Simon and Garfunkel Tribute: On Bleecker Street
 DTSTART:20270210T003000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:fccbda21ccda04757494b0bc2d3394c2f165e872@corning-events
 SEQUENCE:25
 CATEGORIES:Music
@@ -4345,7 +4781,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270211T150000Z
 DTEND:20270211T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:fa64f877e4c924490a0dc7ed4c5e3c931db9e0f1@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4367,7 +4803,7 @@ BEGIN:VEVENT
 SUMMARY:Corning-Painted Post Civic Music presents The King's Singers
 DTSTART:20270212T003000Z
 DTEND:20270212T045959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:b75490ffb9c4e867543a6e605d608c6a8371b055@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4388,7 +4824,7 @@ BEGIN:VEVENT
 SUMMARY:Sunday Trivia @ Grist Iron Brewing
 DTSTART:20270214T180000Z
 DTEND:20270214T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:cf955b48618dd2cd4ae994e4228f5337b8dc74dc@corning-events
 SEQUENCE:0
 CATEGORIES:Beer,Competitions,Games
@@ -4411,7 +4847,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270218T150000Z
 DTEND:20270218T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:6547158c5083bca5ab08e103452d7fcbab9cbec7@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4433,7 +4869,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270225T150000Z
 DTEND:20270225T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:0d07a545263dff496f272972302f679dc6f97ac2@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4455,7 +4891,7 @@ BEGIN:VEVENT
 SUMMARY:Sunday Trivia @ Grist Iron Brewing
 DTSTART:20270228T180000Z
 DTEND:20270228T200000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:f7e133041bb651c60a3b04edb428a90be4388869@corning-events
 SEQUENCE:0
 CATEGORIES:Beer,Competitions,Games
@@ -4477,7 +4913,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20270302T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:7cfee6f81407afb13d1ba550496ce63e56fe66ee@corning-events
 SEQUENCE:1
 CATEGORIES:Comedy
@@ -4498,7 +4934,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270304T150000Z
 DTEND:20270304T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:cafaec8deadb74141399ae7f3ffb91a20a107c95@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4520,7 +4956,7 @@ BEGIN:VEVENT
 SUMMARY:I’m Dead. Now What? End-of-Life Planning Q&A Session
 DTSTART:20270310T180000Z
 DTEND:20270310T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:b63074bf49f9f515592fd46e4ae6288f16dd6cb6@corning-events
 SEQUENCE:0
 DESCRIPTION:I’m Dead. Now What?\nEnd-of-Life Planning Q&A Session\nWedne
@@ -4542,7 +4978,7 @@ BEGIN:VEVENT
 SUMMARY:Hadestown
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270313
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:6a41c3ec248481c245b62a325e78dd8aea9617cb@corning-events
 SEQUENCE:2
 DESCRIPTION:HADESTOWN\nThursday – FridayMarch 11 – 12\, 20277:30pm\nAg
@@ -4562,7 +4998,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270311T150000Z
 DTEND:20270311T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:01016a6868d3597fd0229ab027a72f799b2dfd01@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4584,7 +5020,7 @@ BEGIN:VEVENT
 SUMMARY:Sunday Trivia @ Grist Iron Brewing
 DTSTART:20270314T170000Z
 DTEND:20270314T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:3b4bf11a4766d711059815eb0d1dfb87ad6e663b@corning-events
 SEQUENCE:0
 CATEGORIES:Beer,Competitions,Games
@@ -4607,7 +5043,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270318T150000Z
 DTEND:20270318T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:441dec98bf97c94132be3e93a73d0ed4c9bd0786@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4629,7 +5065,7 @@ BEGIN:VEVENT
 SUMMARY:Ocean Blue
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:875e9722ffaceb7ede418014df7633a9ee161c80@corning-events
 SEQUENCE:0
 DESCRIPTION:Ocean Blue\nFridayMarch 19\, 202710:00am and 12:30pm\nRuntime:
@@ -4649,7 +5085,7 @@ BEGIN:VEVENT
 SUMMARY:Corning-Painted Post Civic Music presents Bria Skonberg
 DTSTART:20270320T233000Z
 DTEND:20270321T035959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:4ad6c4b4662e0742fa7dbbe69bb3886e53c3d564@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4668,7 +5104,7 @@ BEGIN:VEVENT
 SUMMARY:Corning Winter Farmers Market
 DTSTART:20270325T150000Z
 DTEND:20270325T190000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:c18d541f69c6ae8905c6c681bea5ed4ab6f8fd39@corning-events
 SEQUENCE:0
 CATEGORIES:Farmers Market,Food,Crafts,Community,Support
@@ -4691,7 +5127,7 @@ SUMMARY:Celebrate New Carder Glass + Art Nouveau Cases at the Corning Muse
  um of Glass
 DTSTART:20270325T213000Z
 DTEND:20270325T230000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:e5fd20a67ea96ccbc25d09d662d32fe7b5be3db0@corning-events
 SEQUENCE:0
 CATEGORIES:Glass,Art,History & Heritage,Connection
@@ -4708,7 +5144,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Collingsworth Family SONGS OF HOPE
 DTSTART:20270330T230000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:20bc990acad2b99367964e6d270c5f3a4de626dc@corning-events
 SEQUENCE:1
 CATEGORIES:Music
@@ -4729,7 +5165,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club
 DTSTART:20270406T000000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:28d1b2236391b84c910fbddec43ed348279e9d4f@corning-events
 SEQUENCE:1
 CATEGORIES:Comedy
@@ -4751,7 +5187,7 @@ SUMMARY:Jazz at Lincoln Center presents World On A String - Swinging Songs
   of Broadway | Corning Painted Post Civic Music
 DTSTART:20270411T190000Z
 DTEND:20270412T035959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:2f4c9f9ca010dc61047e9fe4de8cb4eac8144b4c@corning-events
 SEQUENCE:0
 CATEGORIES:Music
@@ -4773,7 +5209,7 @@ BEGIN:VEVENT
 SUMMARY:Jersey Boys
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270415
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:86ed845d6e5fb37d0d0776c91804159b9c8a523d@corning-events
 SEQUENCE:3
 DESCRIPTION:JERSEY BOYS\nTuesday – ThursdayApril 13 – 15\, 20277:30pm
@@ -4792,7 +5228,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aliens Alive!
 DTSTART:20270417T180000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:f72efde0ca0ed7cc1bba72861f9f6b55bbbe7b55@corning-events
 SEQUENCE:1
 CATEGORIES:Family Fun
@@ -4813,7 +5249,7 @@ BEGIN:VEVENT
 SUMMARY:Doktor Kaboom: Under Pressure!
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:b9db6e77eea2e24aa5a6ee1c4859665caeacc20b@corning-events
 SEQUENCE:0
 DESCRIPTION:Doktor Kaboom: Under Pressure!\nMondayApril 19\, 202710:00am a
@@ -4834,7 +5270,7 @@ SUMMARY:Movies in Mandeville: Disney's MULAN (1998) with Royal Warrior Tea
   Party
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:82a7128097a43369299b95f1ffc38da49a24c54a@corning-events
 SEQUENCE:4
 CATEGORIES:Family Fun
@@ -4857,7 +5293,7 @@ BEGIN:VEVENT
 SUMMARY:Clifford The Big Red Dog: The Musical
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:f7b1ebed09690b2419f8b5af3f6397216a5e5730@corning-events
 SEQUENCE:6
 DESCRIPTION:Clifford The Big Red Dog: The Musical\nFridayApril 30\, 202710
@@ -4878,7 +5314,7 @@ SUMMARY:Famed Astrophysicist Neil deGrasse Tyson - 2027 Walter R. Smith Vi
  siting Scholar Lecture at Corning Museum of Glass
 DTSTART:20270430T230000Z
 DTEND:20270501T035959Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:72b9467ed33d702b22265ef4ef4918946f8e07b6@corning-events
 SEQUENCE:0
 CATEGORIES:Science,Connection,BIPOC
@@ -4929,7 +5365,7 @@ BEGIN:VEVENT
 SUMMARY:I’m Dead. Now What? End-of-Life Planning Q&A Session
 DTSTART:20270505T170000Z
 DTEND:20270505T180000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:575846fa5af1374a7a17411e03b4e5dcdd0e51e0@corning-events
 SEQUENCE:18
 DESCRIPTION:I’m Dead. Now What?\nEnd-of-Life Planning Q&A Session\nWedne
@@ -4952,7 +5388,7 @@ SUMMARY:Exhibition Opening Celebration | Ablaze: 500 Years of Chinese Glas
  s
 DTSTART:20270507T230000Z
 DTEND:20270508T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:67e0ac38ba2cb35db80620d1f14f3c28f008c1de@corning-events
 SEQUENCE:0
 CATEGORIES:Glass,Art,History & Heritage,Connection,BIPOC
@@ -4969,9 +5405,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:World Ballet Company: The Sleeping Beauty with a Live Orchestra
 DTSTART:20270512T230000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:865e0d82fa22f27a8e5e7d3ddb60160e0d07e4a7@corning-events
-SEQUENCE:5
+SEQUENCE:6
 DESCRIPTION:World Ballet Company:\nTHE SLEEPING BEAUTY\nwith a LIVE Orches
  tra\nWednesdayMay 12\, 20277:00pm\nRunning Time: 2 hrs including a 20-min 
  intermission\nAge Recommendation: 2 & over\nShare:\nOn sale Friday\, Octob
@@ -4983,14 +5419,14 @@ DESCRIPTION:World Ballet Company:\nTHE SLEEPING BEAUTY\nwith a LIVE Orches
  tor Information>\nAn Ultimate Fairy Tale for the ...\n\nSource: Clemens Ce
  nter - https://clemenscenter.org/event/world-ballet-company-the-sleeping-b
  eauty-with-a-live-orchestra/
-STATUS:CANCELLED
+STATUS:CONFIRMED
 URL:https://clemenscenter.org/event/world-ballet-company-the-sleeping-beau
  ty-with-a-live-orchestra/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maggie's Wake
 DTSTART:20270514T233000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:7a8499ef5d7c3d25818392c71217631f8afcaa97@corning-events
 SEQUENCE:11
 CATEGORIES:Music
@@ -5011,7 +5447,7 @@ BEGIN:VEVENT
 SUMMARY:The Wiz
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270624
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:79e4a8b648a8eb87ee00574e367e2b51aedcce66@corning-events
 SEQUENCE:27
 DESCRIPTION:THE WIZ\nTuesday – WednesdayJune 22 – 23\, 20277:30pm\nAge
@@ -5031,7 +5467,7 @@ BEGIN:VEVENT
 SUMMARY:AMP'D | Party in the Amphitheater
 DTSTART:20270709T230000Z
 DTEND:20270710T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:9b111c34b7cf6c0da29672db9568893c19f817cc@corning-events
 SEQUENCE:0
 CATEGORIES:Glass,Art,Connection
@@ -5049,7 +5485,7 @@ BEGIN:VEVENT
 SUMMARY:AMP'D | Party in the Amphitheater
 DTSTART:20271015T230000Z
 DTEND:20271016T010000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:96e9fb180d9fb692936f0c94ae55028a40ec7433@corning-events
 SEQUENCE:0
 CATEGORIES:Glass,Art,Connection
@@ -5066,7 +5502,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:November: Free Admission for Veterans and Active Military
 DTSTART:20271101T130000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:866cdc1b01909d99e2169604f9121de7a1ad37eb@corning-events
 SEQUENCE:3
 DESCRIPTION:All veterans and active military receive free admission throug
@@ -5078,7 +5514,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Founder’s Week: Free Admission
 DTSTART:20271108T140000Z
-DTSTAMP:20261115T161757Z
+DTSTAMP:20261116T193233Z
 UID:ef52d6ba5f2941110e92cd512d0279cbba7a4609@corning-events
 SEQUENCE:6
 DESCRIPTION:Enjoy free admission all week\, all ages!\n\nSource: The Rockw
